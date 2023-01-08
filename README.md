@@ -7,7 +7,7 @@ You will learn:
 
 Please ensure that you already have a Github account. 
 
-## Github Profile
+## Github Profile 👋
 1. [How to create a GitHub Profile README: Michelle Mannering](https://dev.to/github/how-to-create-a-github-profile-readme-jha)
 2. [mishmanners](https://github.com/mishmanners)
 3. [How To Create A GitHub Profile README: Monica Powell](https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj)
@@ -33,7 +33,7 @@ Please ensure that you already have a Github account.
 3. [How to Use GitHub](https://youtu.be/v_1iqtOnUMg)
 4. [GitHub Tutorial - Beginner's Training Guide](https://youtu.be/iv8rSLsi1xo)
 
-## Google Colab
+## Google Colab✍️
 1. [Welcome To Colaboratory](https://colab.research.google.com/#scrollTo=Nma_JWh-W-IF)
 2. [Google Colab — The Beginner’s Guide](https://medium.com/lean-in-women-in-tech-india/google-colab-the-beginners-guide-5ad3b417dfa)
 3. [Introduction to Colab and Python](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l01c01_introduction_to_colab_and_python.ipynb#scrollTo=YHI3vyhv5p85)
