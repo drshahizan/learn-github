@@ -1,6 +1,8 @@
 # Research Colloquium Series 1: Best practices' for using the cloud in research
 You will learn:
+
 ✅️ How to set up a cloud environment for research purposes. 
+
 ✅️ How to integrate Github (cloud) with Github desktop, as well as Google Colab and Google Drive. 
 
 Please ensure that you already have a Github account. 
