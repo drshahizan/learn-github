@@ -11,4 +11,4 @@
 1. [Git, GitHub, & GitHub Desktop for beginners](https://youtu.be/8Dd7KRpKeaE)
 2. [What is GitHub?](https://youtu.be/pBy1zgt0XPc)
 3. [How to Use GitHub](https://youtu.be/v_1iqtOnUMg)
-4. 
+4. [GitHub Tutorial - Beginner's Training Guide](https://youtu.be/iv8rSLsi1xo)
