@@ -1,7 +1,7 @@
 # Research Colloquium Series 1: Best practices' for using the cloud in research
 You will learn:
-1. How to set up a cloud environment for research purposes. 
-2. How to integrate Github (cloud) with Github desktop, as well as Google Colab and Google Drive. 
+✅️ How to set up a cloud environment for research purposes. 
+✅️ How to integrate Github (cloud) with Github desktop, as well as Google Colab and Google Drive. 
 
 Please ensure that you already have a Github account. 
 
@@ -22,3 +22,7 @@ Please ensure that you already have a Github account.
 1. [Welcome To Colaboratory](https://colab.research.google.com/#scrollTo=Nma_JWh-W-IF)
 2. [Google Colab — The Beginner’s Guide](https://medium.com/lean-in-women-in-tech-india/google-colab-the-beginners-guide-5ad3b417dfa)
 3. [Introduction to Colab and Python](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l01c01_introduction_to_colab_and_python.ipynb#scrollTo=YHI3vyhv5p85)
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
