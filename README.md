@@ -27,7 +27,7 @@ Please ensure that you already have a Github account.
 4. [Coursera: Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github?action=enroll)
 5. [Microsoft Learning: Github](https://learn.microsoft.com/en-us/training/github/)
 
-## Github (Youtube) ![image](https://user-images.githubusercontent.com/81284918/211188420-5417b0d0-d371-4e4e-af26-ba7cf6716d72.png)
+## Github (Youtube)🎥
 1. [Git, GitHub, & GitHub Desktop for beginners](https://youtu.be/8Dd7KRpKeaE)
 2. [What is GitHub?](https://youtu.be/pBy1zgt0XPc)
 3. [How to Use GitHub](https://youtu.be/v_1iqtOnUMg)
