@@ -18,8 +18,9 @@ Please ensure that you already have a Github account.
 ## Awesome README Tools✨
 1. [StackEdit](https://stackedit.io/app#)
 2. [Dillinger](https://dillinger.io/)
-3. [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
-3. [Awesome README Tools](https://github.com/dhyeythumar/awesome-readme-tools)
+3. [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+4. [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+5. [Awesome README Tools](https://github.com/dhyeythumar/awesome-readme-tools)
 
 ## Github 📖
 1. [Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
