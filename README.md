@@ -3,7 +3,7 @@
 <a href="https://github.com/drshahizan/learn-cloud/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/learn-cloud" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/drshahizan/learn-cloud/issues"><img src="https://img.shields.io/github/issues/drshahizan/learn-cloud" alt="Issues Badge"/></a>
 <a href="https://github.com/drshahizan/learn-cloud/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/learn-cloud?color=2b9348"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
+![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/learn-cloud)
 
 Don't forget to hit the :star: if you like this repo.
 
@@ -53,3 +53,5 @@ Please ensure that you already have a Github account.
 Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+
+![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
