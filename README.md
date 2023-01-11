@@ -19,8 +19,8 @@ Please ensure that you already have a Github account.
 ### Contents:
   - [Github Profile](#github-profile-)
   - [Tools](#tools)
-  - [Articles](#articles)
-  - [Tutorials](#tutorials)
+  - [Articles](#articles-)
+  - [Tutorials](#tutorials-)
   - [Google Colab](#google-colab-)
 
 ## Github Profile 👋
