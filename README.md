@@ -16,6 +16,13 @@ You will learn:
 
 Please ensure that you already have a Github account. 
 
+### Contents:
+  - [Github Profile](#github-profile-)
+  - [Tools](#tools)
+  - [Articles](#articles)
+  - [Tutorials](#tutorials)
+  - [Google Colab](#google-colab-)
+
 ## Github Profile 👋
 1. [How to create a GitHub Profile README: Michelle Mannering](https://dev.to/github/how-to-create-a-github-profile-readme-jha)
 2. [mishmanners](https://github.com/mishmanners)
@@ -24,7 +31,7 @@ Please ensure that you already have a Github account.
 5. [katiehuangx](https://github.com/katiehuangx)
 6. [sharkawy98](https://github.com/sharkawy98)
 
-## Awesome README Tools✨
+## Tools✨
 - [StackEdit](https://stackedit.io/app#)
 - [Dillinger](https://dillinger.io/)
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
