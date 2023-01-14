@@ -11,6 +11,8 @@ Don't forget to hit the :star: if you like this repo.
 ### Charlene
 #### Charlene
 
+[Github saya](https://github.com/Chikoness)
+
 # Research Colloquium Series 1: Best practices' for using the cloud in research
 You will learn:
 
