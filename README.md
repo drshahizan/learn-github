@@ -34,6 +34,8 @@ Please ensure that you already have a Github account.
 ## Tools✨
 - [StackEdit](https://stackedit.io/app#)
 - [Dillinger](https://dillinger.io/)
+- [Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
+- [GitHub Skills](https://skills.github.com/)
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 - [Awesome README Tools](https://github.com/dhyeythumar/awesome-readme-tools)
