@@ -11,6 +11,9 @@ Don't forget to hit the :star: if you like this repo.
 ## Ramli
 ### Ramli
 #### Ramli
+
+[Github Ramli:](https://github.com/ramli05)
+
 # Research Colloquium Series 1: Best practices' for using the cloud in research
 You will learn:
 
