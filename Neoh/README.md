@@ -6,6 +6,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/learn-cloud)
 
 Don't forget to hit the :star: if you like this repo.
+Neoh
+[Github Shah](https://github.com/st-neoh)
 
 # Research Colloquium Series 1: Best practices' for using the cloud in research
 You will learn:

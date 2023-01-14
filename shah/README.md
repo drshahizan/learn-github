@@ -12,7 +12,9 @@ Don't forget to hit the :star: if you like this repo.
 ### Shah
 #### Shah
 
-Neoh
+
+
+[Github Shah](https://github.com/drshahizan)
 
 
 # Research Colloquium Series 1: Best practices' for using the cloud in research

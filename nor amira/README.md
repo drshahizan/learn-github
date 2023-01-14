@@ -2,7 +2,7 @@
 ## amira
 ### amira
 
-
+[github_amira](https://github.com/drshahizan/learn-github/edit/main/nor%20amira)
 
 
 <a href="https://github.com/drshahizan/learn-cloud/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/learn-cloud" alt="Stars Badge"/></a>
