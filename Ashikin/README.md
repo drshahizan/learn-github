@@ -5,11 +5,11 @@
 <a href="https://github.com/drshahizan/learn-cloud/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/learn-cloud?color=2b9348"></a>
 ![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/learn-cloud)
 
-Don't forget to hit the :star: if you like this repo.
-# Ashikin
-## Ashikin
-### Ashikin
-#### Ashikin
+Don't forget to hit the :star: if you like 
+# Ashikim
+## Ashikim
+### Ashikim
+#### Ashikim
 
 [Github saya](https://github.com/Kynashle)
 
