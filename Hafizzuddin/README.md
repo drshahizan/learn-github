@@ -13,7 +13,7 @@ Don't forget to hit the :star: if you like this repo.
 #### Hafizzudin
 ###### Research Colloquium Series 1: Best practices' for using the cloud in research
 
-[Github saya] (httpss://github.com/drshahizan/learn-github/)
+[Github saya](httpss://github.com/drshahizan/learn-github/)
 You will learn:
 
 ✅️ How to set up a cloud environment for research purposes. 
