@@ -6,12 +6,12 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/learn-cloud)
 
 Don't forget to hit the :star: if you like 
-# Ashikim
-## Ashikim
-### Ashikim
-#### Ashikim
+# Ashikin
+## Ashikin
+### Ashikin
+#### Ashikin
 
-[Github saya](https://github.com/Kynashle)
+[Github saya](https://github.com/Kynashleee)
 
 # Research Colloquium Series 1: Best practices' for using the cloud in research
 You will learn:
