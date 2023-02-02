@@ -7,10 +7,10 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Hafiz
-## Hafizz
-### Hafizzu
-#### Hafizzudin
+# Mohammad Hafizzuddin
+## Mohammad Hafizzuddin
+### Mohammad Hafizzuddin
+#### Mohammad Hafizzuddin
 ###### Research Colloquium Series 1: Best practices' for using the cloud in research
 
 [Github saya](httpss://github.com/drshahizan/learn-github/)
