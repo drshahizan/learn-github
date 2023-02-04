@@ -25,13 +25,11 @@ Please ensure that you already have a Github account.
 - [Google Colab](#google-colab-)
 
 # Git
-## More Information About Git
-
 ### Book
 - [Pro Git](https://git-scm.com/book/en/v2)
 - [Git tutorial](https://git-scm.com/docs/gittutorial)
 
-### More Information
+### More Information About Git
 - [Git: Documentation](https://git-scm.com/doc)
 - [Mercurial](https://www.mercurial-scm.org)
 - [Apache Subversion](https://subversion.apache.org)
