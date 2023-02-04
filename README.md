@@ -34,7 +34,7 @@ Please ensure that you already have a Github account.
 - [Mercurial](https://www.mercurial-scm.org)
 - [Apache Subversion](https://subversion.apache.org)
 - [Wikipedia: Version control](https://en.wikipedia.org/wiki/Version_control)
-- [Git cheatsheet]()
+- [Git cheatsheet](https://github.com/drshahizan/learn-github/blob/main/git-cheatsheet.md)
 
 ### Installing Git
 The first step on the way to using Git is to install it! The directions found in the Git documentation below are pretty thorough and helpful, check them out for the best method of getting Git onto your platform of choice.
