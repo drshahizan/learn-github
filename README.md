@@ -24,6 +24,7 @@ Please ensure that you already have a Github account.
 - [Tutorials](#tutorials-)
 - [Google Colab](#google-colab-)
 
+# Git
 ## More Information About Git
 
 ### Book
@@ -36,6 +37,12 @@ Please ensure that you already have a Github account.
 - [Apache Subversion](https://subversion.apache.org)
 - [Wikipedia: Version control](https://en.wikipedia.org/wiki/Version_control)
 
+### Installing Git
+The first step on the way to using Git is to install it! The directions found in the Git documentation below are pretty thorough and helpful, check them out for the best method of getting Git onto your platform of choice.
+- [Git download page](https://git-scm.com/downloads)
+- [Git installation instructions for each platform](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
+# Github
 ## Github Profile 👋
 1. [How to create a GitHub Profile README: Michelle Mannering](https://dev.to/github/how-to-create-a-github-profile-readme-jha)
 2. [mishmanners](https://github.com/mishmanners)
