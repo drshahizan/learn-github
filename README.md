@@ -31,10 +31,10 @@ Please ensure that you already have a Github account.
 - [Git tutorial](https://git-scm.com/docs/gittutorial)
 
 ### More Information
-- [https://git-scm.com/doc](https://git-scm.com/doc)
-- [https://www.mercurial-scm.org/](https://www.mercurial-scm.org)
-- [https://subversion.apache.org/](https://subversion.apache.org)
-- [https://en.wikipedia.org/wiki/Version_control](https://en.wikipedia.org/wiki/Version_control)
+- [Git: Documentation](https://git-scm.com/doc)
+- [Mercurial](https://www.mercurial-scm.org)
+- [Apache Subversion](https://subversion.apache.org)
+- [Wikipedia: Version control](https://en.wikipedia.org/wiki/Version_control)
 
 ## Github Profile 👋
 1. [How to create a GitHub Profile README: Michelle Mannering](https://dev.to/github/how-to-create-a-github-profile-readme-jha)
