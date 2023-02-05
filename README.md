@@ -44,7 +44,7 @@ The first step on the way to using Git is to install it! The directions found in
 
 # Github
 <p align="center">
-<img src="https://github.com/drshahizan/Python_EDA/blob/main/lab/hpdp1.jpeg"  height="200" />
+<img src="https://github.com/drshahizan/learn-github/blob/main/images/github.png"  height="400" />
 </p>
 
 ## GitHub Cheat-Sheet
