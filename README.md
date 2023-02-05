@@ -43,6 +43,9 @@ The first step on the way to using Git is to install it! The directions found in
 - [Git installation instructions for each platform](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 # Github
+<p align="center">
+<img src="https://github.com/drshahizan/Python_EDA/blob/main/lab/hpdp1.jpeg"  height="200" />
+</p>
 
 ## GitHub Cheat-Sheet
 There are various remote repository hosting sites:
