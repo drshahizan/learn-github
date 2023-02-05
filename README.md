@@ -55,28 +55,15 @@ Follow the workflow at [https://github.com/join](https://github.com/join) to set
 
 Some useful commands for getting started:
 
-Command
-
-Explanation & Link
-
-git clone URL
-
-Git clone is used to clone a remote repository into a local workspace
-
-git push
-
-Git push is used to push commits from your local repo to a remote repo
-
-git pull
-
-Git pull is used to fetch the newest updates from a remote repository
-
+| Command | Explanation & Link |
+| ----- | ----- | 
+| git clone URL| Git clone is used to clone a remote repository into a local workspace |
+| git push | Git push is used to push commits from your local repo to a remote repo |
+| git pull | Git pull is used to fetch the newest updates from a remote repository |
 
 This can be useful for keeping your local workspace up to date.
-
-https://help.github.com/en/articles/caching-your-github-password-in-git
-
-https://help.github.com/en/articles/generating-an-ssh-key  
+- [https://help.github.com/en/articles/caching-your-github-password-in-git](https://help.github.com/en/articles/caching-your-github-password-in-git)
+- [https://help.github.com/en/articles/generating-an-ssh-key](https://help.github.com/en/articles/generating-an-ssh-key)
 
 ## Github Profile 👋
 1. [How to create a GitHub Profile README: Michelle Mannering](https://dev.to/github/how-to-create-a-github-profile-readme-jha)
