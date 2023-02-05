@@ -43,6 +43,41 @@ The first step on the way to using Git is to install it! The directions found in
 - [Git installation instructions for each platform](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 # Github
+
+## GitHub Cheat-Sheet
+There are various remote repository hosting sites:
+
+- [GitHub](https://github.com/)
+- [BitBucket](https://bitbucket.org/product)
+- [Gitlab](https://about.gitlab.com/)
+
+Follow the workflow at [https://github.com/join](https://github.com/join) to set up a free account, username, and password. After that, [these steps](https://docs.github.com/en/get-started/quickstart/create-a-repo) will help you create a brand new repository on GitHub.
+
+Some useful commands for getting started:
+
+Command
+
+Explanation & Link
+
+git clone URL
+
+Git clone is used to clone a remote repository into a local workspace
+
+git push
+
+Git push is used to push commits from your local repo to a remote repo
+
+git pull
+
+Git pull is used to fetch the newest updates from a remote repository
+
+
+This can be useful for keeping your local workspace up to date.
+
+https://help.github.com/en/articles/caching-your-github-password-in-git
+
+https://help.github.com/en/articles/generating-an-ssh-key  
+
 ## Github Profile 👋
 1. [How to create a GitHub Profile README: Michelle Mannering](https://dev.to/github/how-to-create-a-github-profile-readme-jha)
 2. [mishmanners](https://github.com/mishmanners)
