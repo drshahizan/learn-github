@@ -8,6 +8,11 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Research Colloquium Series 1: Best practices' for using the cloud in research
+
+<p align="center">
+<img src="https://github.com/drshahizan/learn-github/blob/main/images/Github-EN.jpg"  height="400" />
+</p>
+
 You will learn:
 
 ✅️ How to set up a cloud environment for research purposes. 
