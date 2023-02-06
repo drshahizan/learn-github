@@ -47,20 +47,6 @@ The first step on the way to using Git is to install it! The directions found in
 - [Git download page](https://git-scm.com/downloads)
 - [Git installation instructions for each platform](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-# Github
-<p align="center">
-<img src="https://github.com/drshahizan/learn-github/blob/main/images/github.png"  height="400" />
-</p>
-
-## GitHub Cheat-Sheet
-There are various remote repository hosting sites:
-
-- [GitHub](https://github.com/)
-- [BitBucket](https://bitbucket.org/product)
-- [Gitlab](https://about.gitlab.com/)
-
-Follow the workflow at [https://github.com/join](https://github.com/join) to set up a free account, username, and password. After that, [these steps](https://docs.github.com/en/get-started/quickstart/create-a-repo) will help you create a brand new repository on GitHub.
-
 Some useful commands for getting started:
 
 | Command | Explanation & Link |
@@ -86,6 +72,22 @@ Some useful commands for getting started:
 | [git merge <branch>](https://git-scm.com/docs/git-merge) | Merge joins branches together. |
 | git merge --abort | If there are merge conflicts (meaning files are incompatible), --abort can be used to abort the merge action. |
 | [git log --graph --oneline](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History) | This shows a summarized view of the commit history for a repo. |
+
+# Github
+<p align="center">
+<img src="https://github.com/drshahizan/learn-github/blob/main/images/github.png"  height="400" />
+</p>
+
+## GitHub Cheat-Sheet
+There are various remote repository hosting sites:
+
+- [GitHub](https://github.com/)
+- [BitBucket](https://bitbucket.org/product)
+- [Gitlab](https://about.gitlab.com/)
+
+Follow the workflow at [https://github.com/join](https://github.com/join) to set up a free account, username, and password. After that, [these steps](https://docs.github.com/en/get-started/quickstart/create-a-repo) will help you create a brand new repository on GitHub.
+
+
   
 This can be useful for keeping your local workspace up to date.
 - [https://help.github.com/en/articles/caching-your-github-password-in-git](https://help.github.com/en/articles/caching-your-github-password-in-git)
@@ -93,8 +95,8 @@ This can be useful for keeping your local workspace up to date.
   
 Merge conflicts are not uncommon when working in a team of developers, or on Open Source Software. Fortunately, GitHub has some good documentation on how to handle them when they happen:
 
+- [https://help.github.com/en/articles/about-pull-request-merges](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/about-pull-request-merges)
 - [https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts)
-
 - [https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line)
   
 You can also use [git rebase branchname](https://git-scm.com/book/en/v2/Git-Branching-Rebasing) to change the base of the current branch to be branchname
