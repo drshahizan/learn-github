@@ -73,22 +73,20 @@ Some useful commands for getting started:
 | git remote show <name> | [Describes a single remote repo](https://git-scm.com/docs/git-remote#Documentation/git-remote.txt-emshowem) |
 | git remote update | [Fetches the most up-to-date objects](https://git-scm.com/docs/git-remote#Documentation/git-remote.txt-emupdateem) |
 | git fetch | [Downloads specific objects](https://git-scm.com/docs/git-fetch) |
-| git branch -r | [Lists remote branches; can be combined with other branch arguments to manage remote branches](https://git-scm.com/docs/git-branch#Documentation/git-branch.txt--r) |
 |[git checkout](https://git-scm.com/docs/git-checkout)| effectively used to switch branches |
 |[git reset](https://git-scm.com/docs/git-reset#_examples)| basically resets the repo, throwing away some changes. It’s somewhat difficult to understand, so reading the examples in the documentation may be a bit more useful|
 |[git commit --amend](https://git-scm.com/docs/git-commit#Documentation/git-commit.txt---amend)| is used to make changes to commits after-the-fact, which can be useful for making notes about a given commit.|
 |[git revert](https://git-scm.com/docs/git-revert)| makes a new commit which effectively rolls back a previous commit. It’s a bit like an undo command.|
-| git branch | Used to manage branches |
-| git branch <name> | Creates the branch |
-| git branch -d <name> | Deletes the branch |
-| git branch -D <name> | Forcibly deletes the branch |
+| [git branch]() | Used to manage branches |
+| [git branch -d <name>]() | Deletes the branch |
+| [git branch -D <name>]() | Forcibly deletes the branch |
+| [git branch -r](https://git-scm.com/docs/git-branch#Documentation/git-branch.txt--r) | Lists remote branches; can be combined with other branch arguments to manage remote branches |
+
 | git checkout <branch> | Switches to a branch. |
 | git checkout -b <branch> |Creates a new branch and switches to it. |
-| git merge <branch> | Merge joins branches together. |
+| [git merge <branch>](https://git-scm.com/docs/git-merge) | Merge joins branches together. |
 | git merge --abort | If there are merge conflicts (meaning files are incompatible), --abort can be used to abort the merge action. |
-| git log --graph --oneline | This shows a summarized view of the commit history for a repo. |
-
-  
+| [git log --graph --oneline](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History) | This shows a summarized view of the commit history for a repo. |
   
 This can be useful for keeping your local workspace up to date.
 - [https://help.github.com/en/articles/caching-your-github-password-in-git](https://help.github.com/en/articles/caching-your-github-password-in-git)
