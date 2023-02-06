@@ -67,23 +67,22 @@ Some useful commands for getting started:
 | ----- | ----- | 
 | git clone URL| [Git clone is used to clone a remote repository into a local workspace](https://git-scm.com/docs/git-clone) |
 | git push | [Git push is used to push commits from your local repo to a remote repo](https://git-scm.com/docs/git-push) |
-| git pull | [Git pull is used to fetch the newest updates from a remote repository](https://git-scm.com/docs/git-pull) |
-| git remote | [List remote repos](https://git-scm.com/docs/git-remote) |
-| git remote -v| [List remote repos verbosely](https://git-scm.com/docs/git-remote#Documentation/git-remote.txt-emshowem) |
-| git remote show <name> | [Describes a single remote repo](https://git-scm.com/docs/git-remote#Documentation/git-remote.txt-emshowem) |
-| git remote update | [Fetches the most up-to-date objects](https://git-scm.com/docs/git-remote#Documentation/git-remote.txt-emupdateem) |
-| git fetch | [Downloads specific objects](https://git-scm.com/docs/git-fetch) |
-|[git checkout](https://git-scm.com/docs/git-checkout)| effectively used to switch branches |
-|[git reset](https://git-scm.com/docs/git-reset#_examples)| basically resets the repo, throwing away some changes. It’s somewhat difficult to understand, so reading the examples in the documentation may be a bit more useful|
-|[git commit --amend](https://git-scm.com/docs/git-commit#Documentation/git-commit.txt---amend)| is used to make changes to commits after-the-fact, which can be useful for making notes about a given commit.|
-|[git revert](https://git-scm.com/docs/git-revert)| makes a new commit which effectively rolls back a previous commit. It’s a bit like an undo command.|
-| [git branch]() | Used to manage branches |
-| [git branch -d <name>]() | Deletes the branch |
-| [git branch -D <name>]() | Forcibly deletes the branch |
+| [git pull](https://git-scm.com/docs/git-pull) | Git pull is used to fetch the newest updates from a remote repository |
+| [git remote](https://git-scm.com/docs/git-remote) | List remote repos |
+| [git remote -v](https://git-scm.com/docs/git-remote#Documentation/git-remote.txt-emshowem) | List remote repos verbosely |
+| [git remote show <name>](https://git-scm.com/docs/git-remote#Documentation/git-remote.txt-emshowem) | Describes a single remote repo |
+| [git remote update](https://git-scm.com/docs/git-remote#Documentation/git-remote.txt-emupdateem) | Fetches the most up-to-date objects |
+| [git fetch](https://git-scm.com/docs/git-fetch) | Downloads specific objects |
+| [git checkout](https://git-scm.com/docs/git-checkout)| effectively used to switch branches |
+| [git reset](https://git-scm.com/docs/git-reset#_examples)| basically resets the repo, throwing away some changes. It’s somewhat difficult to understand, so reading the examples in the documentation may be a bit more useful|
+| [git commit --amend](https://git-scm.com/docs/git-commit#Documentation/git-commit.txt---amend)| is used to make changes to commits after-the-fact, which can be useful for making notes about a given commit.|
+| [git revert](https://git-scm.com/docs/git-revert)| makes a new commit which effectively rolls back a previous commit. It’s a bit like an undo command.|
+| [git branch](https://git-scm.com/docs/git-branch) | Used to manage branches |
+| [git branch -d <name>](https://git-scm.com/docs/git-branch#Documentation/git-branch.txt--D) | Deletes the branch |
+| [git branch -D <name>](https://git-scm.com/docs/git-branch#Documentation/git-branch.txt--D) | Forcibly deletes the branch |
 | [git branch -r](https://git-scm.com/docs/git-branch#Documentation/git-branch.txt--r) | Lists remote branches; can be combined with other branch arguments to manage remote branches |
-
-| git checkout <branch> | Switches to a branch. |
-| git checkout -b <branch> |Creates a new branch and switches to it. |
+| [git checkout <branch>](https://git-scm.com/docs/git-checkout) | Switches to a branch. |
+| [git checkout -b <branch>](https://git-scm.com/docs/git-checkout#Documentation/git-checkout.txt--bltnewbranchgt) |Creates a new branch and switches to it. |
 | [git merge <branch>](https://git-scm.com/docs/git-merge) | Merge joins branches together. |
 | git merge --abort | If there are merge conflicts (meaning files are incompatible), --abort can be used to abort the merge action. |
 | [git log --graph --oneline](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History) | This shows a summarized view of the commit history for a repo. |
