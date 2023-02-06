@@ -74,7 +74,11 @@ Some useful commands for getting started:
 | git remote update | [Fetches the most up-to-date objects](https://git-scm.com/docs/git-remote#Documentation/git-remote.txt-emupdateem) |
 | git fetch | [Downloads specific objects](https://git-scm.com/docs/git-fetch) |
 | git branch -r | [Lists remote branches; can be combined with other branch arguments to manage remote branches](https://git-scm.com/docs/git-branch#Documentation/git-branch.txt--r) |
-  
+|[git checkout](https://git-scm.com/docs/git-checkout)| effectively used to switch branches |
+|[git reset](https://git-scm.com/docs/git-reset#_examples)| basically resets the repo, throwing away some changes. It’s somewhat difficult to understand, so reading the examples in the documentation may be a bit more useful|
+|[git commit --amend](https://git-scm.com/docs/git-commit#Documentation/git-commit.txt---amend)| is used to make changes to commits after-the-fact, which can be useful for making notes about a given commit.|
+|[git revert](https://git-scm.com/docs/git-revert)| makes a new commit which effectively rolls back a previous commit. It’s a bit like an undo command.|
+
 This can be useful for keeping your local workspace up to date.
 - [https://help.github.com/en/articles/caching-your-github-password-in-git](https://help.github.com/en/articles/caching-your-github-password-in-git)
 - [https://help.github.com/en/articles/generating-an-ssh-key](https://help.github.com/en/articles/generating-an-ssh-key)
