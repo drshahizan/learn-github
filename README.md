@@ -65,8 +65,8 @@ Some useful commands for getting started:
 
 | Command | Explanation & Link |
 | ----- | ----- | 
-| git clone URL| [Git clone is used to clone a remote repository into a local workspace](https://git-scm.com/docs/git-clone) |
-| git push | [Git push is used to push commits from your local repo to a remote repo](https://git-scm.com/docs/git-push) |
+| [git clone URL](https://git-scm.com/docs/git-clone) | Git clone is used to clone a remote repository into a local workspace |
+| [git push](https://git-scm.com/docs/git-push) | Git push is used to push commits from your local repo to a remote repo |
 | [git pull](https://git-scm.com/docs/git-pull) | Git pull is used to fetch the newest updates from a remote repository |
 | [git remote](https://git-scm.com/docs/git-remote) | List remote repos |
 | [git remote -v](https://git-scm.com/docs/git-remote#Documentation/git-remote.txt-emshowem) | List remote repos verbosely |
