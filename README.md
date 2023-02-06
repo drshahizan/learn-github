@@ -78,7 +78,18 @@ Some useful commands for getting started:
 |[git reset](https://git-scm.com/docs/git-reset#_examples)| basically resets the repo, throwing away some changes. It’s somewhat difficult to understand, so reading the examples in the documentation may be a bit more useful|
 |[git commit --amend](https://git-scm.com/docs/git-commit#Documentation/git-commit.txt---amend)| is used to make changes to commits after-the-fact, which can be useful for making notes about a given commit.|
 |[git revert](https://git-scm.com/docs/git-revert)| makes a new commit which effectively rolls back a previous commit. It’s a bit like an undo command.|
+| git branch | Used to manage branches |
+| git branch <name> | Creates the branch |
+| git branch -d <name> | Deletes the branch |
+| git branch -D <name> | Forcibly deletes the branch |
+| git checkout <branch> | Switches to a branch. |
+| git checkout -b <branch> |Creates a new branch and switches to it. |
+| git merge <branch> | Merge joins branches together. |
+| git merge --abort | If there are merge conflicts (meaning files are incompatible), --abort can be used to abort the merge action. |
+| git log --graph --oneline | This shows a summarized view of the commit history for a repo. |
 
+  
+  
 This can be useful for keeping your local workspace up to date.
 - [https://help.github.com/en/articles/caching-your-github-password-in-git](https://help.github.com/en/articles/caching-your-github-password-in-git)
 - [https://help.github.com/en/articles/generating-an-ssh-key](https://help.github.com/en/articles/generating-an-ssh-key)
