@@ -78,6 +78,8 @@ Some useful commands for getting started:
 <img src="https://github.com/drshahizan/learn-github/blob/main/images/github.png"  height="400" />
 </p>
 
+- [Stuck on Git: Git basic for beginners explained with post it notes](https://www.linkedin.com/posts/brookejamieson_git-learntocode-techbasics-activity-7029577352955219968-i4X1/)
+
 ## GitHub Cheat-Sheet
 There are various remote repository hosting sites:
 
@@ -86,7 +88,6 @@ There are various remote repository hosting sites:
 - [Gitlab](https://about.gitlab.com/)
 
 Follow the workflow at [https://github.com/join](https://github.com/join) to set up a free account, username, and password. After that, [these steps](https://docs.github.com/en/get-started/quickstart/create-a-repo) will help you create a brand new repository on GitHub.
-
 
   
 This can be useful for keeping your local workspace up to date.
