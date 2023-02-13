@@ -199,8 +199,9 @@ The git rebase command is a lot more powerful. Check out [this link](https://git
 - ["Next Level GitHub Profile README"](https://youtu.be/ECuqb5Tv9qI) - *codeSTACKr*
 
 ## Github Pages
-- [Getting Started with GitHub Pages](https://youtu.be/QyFcl_Fba-k)
-- [Github Pages: Web Hosting Gratis dengan GitHub Pages](https://youtu.be/rgDDWhQe-ow)
+- [GitHub Pages](https://pages.github.com/)
+- [Youtube - Getting Started with GitHub Pages](https://youtu.be/QyFcl_Fba-k)
+- [Youtube - Github Pages: Web Hosting Gratis dengan GitHub Pages](https://youtu.be/rgDDWhQe-ow)
 
 ## Google Colab✍️
 1. [Welcome To Colaboratory](https://colab.research.google.com/#scrollTo=Nma_JWh-W-IF)
