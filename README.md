@@ -198,6 +198,9 @@ The git rebase command is a lot more powerful. Check out [this link](https://git
 - ["How To Create A GitHub Profile README"](https://www.youtube.com/watch?v=Y1z7_GfEPiE) - *Program With Erik*
 - ["Next Level GitHub Profile README"](https://youtu.be/ECuqb5Tv9qI) - *codeSTACKr*
 
+## Github Pages
+- [Getting Started with GitHub Pages](https://youtu.be/QyFcl_Fba-k)
+
 ## Google Colab✍️
 1. [Welcome To Colaboratory](https://colab.research.google.com/#scrollTo=Nma_JWh-W-IF)
 2. [Google Colab — The Beginner’s Guide](https://medium.com/lean-in-women-in-tech-india/google-colab-the-beginners-guide-5ad3b417dfa)
