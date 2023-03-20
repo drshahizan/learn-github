@@ -24,7 +24,43 @@ To follow a user on GitHub, follow these steps:
 
 By following other users on GitHub, you can stay up-to-date on their activities, learn from their contributions, and collaborate more effectively. You can also use the "Watch" function to keep track of specific repositories, and the "Star" function to bookmark repositories that you find interesting or useful.
 
+# Function: Fork
 
+Forking a repository in GitHub means creating a copy of the original repository so that you can make changes to the code without affecting the original repository. When you fork a repository, you create a new repository that is linked to the original repository, but exists as a separate entity.
+
+Here's how to fork a repository in GitHub:
+
+1. Go to the repository you want to fork.
+
+2. Click the "Fork" button in the top-right corner of the page.
+
+3. Choose where you want to fork the repository (either to your personal account or to an organization you're a member of) and click on the "Fork" button again.
+
+4. Wait for GitHub to create the forked repository.
+
+5. Once the forked repository is created, you can clone it to your local machine, make changes to the code, and push your changes back to the forked repository.
+
+6. If you want to suggest your changes to the original repository, you can create a pull request from the forked repository.
+
+Forking a repository is a useful feature in GitHub that allows users to collaborate on projects and contribute to open-source software without needing direct access to the original repository. It also makes it easy to keep track of changes and contributions over time.
+
+# Function: Star
+
+The "Star" function in GitHub is a way to bookmark or "like" a repository. When you star a repository, it is added to your list of starred repositories, which you can use to keep track of repositories that you find interesting or want to reference later.
+
+To star a repository in GitHub, simply follow these steps:
+
+1. Go to the repository you want to star.
+
+2. Click on the "Star" button in the top-right corner of the page. The button should have a star icon next to it.
+
+3. If you're not already signed in to your GitHub account, you'll be prompted to sign in.
+
+4. Once you've signed in, the star button should change from "Star" to "Unstar", indicating that you've successfully starred the repository.
+
+5. If you want to remove a star from a repository, simply click on the "Unstar" button next to the repository's name on your list of starred repositories.
+
+Starring a repository is a way to show appreciation for a project or to keep track of repositories that you find useful or interesting. It can also be a way to show support for open-source projects or to help other users discover useful repositories.
 
 
 ## Contribution 🛠️
