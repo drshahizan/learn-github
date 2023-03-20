@@ -81,6 +81,8 @@ Some useful commands for getting started:
 - [Stuck on Git: Git basic for beginners explained with post it notes](https://www.linkedin.com/posts/brookejamieson_git-learntocode-techbasics-activity-7029577352955219968-i4X1/)
 
 ## GitHub Cheat-Sheet
+[Funtion: Follow, fork and star]()
+
 There are various remote repository hosting sites:
 
 - [GitHub](https://github.com/)
