@@ -13,11 +13,10 @@ I am  __Ong Yi Yan__, and I study as a student at [Universiti Teknologi Malaysia
 
 ### 🙌🏻 Connect with Me
 <p align="left">
-    <a href="https://github.com/ONGYIYAN" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@ONGYIYAN-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://github.com/ONGYIYAN" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@ONGYIYAN-181717?style=flat-square&logo=GitHub&logoColor=yellow"></a>
     <a href="https://www.linkedin.com/in/drshahizan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-drshahizan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drshahizan/"></a>
-    <a href="mailto:shahizan@utm.my" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-shahizan@utm.my-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shahizan@utm.my.com"></a>
-    <a href="https://www.researchgate.net/profile/Mohd-Othman-28" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
-    <a href="https://orcid.org/0000-0003-4261-1873" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
+    <a href="mailto:ongyan@graduate.utm.my" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-ongyan@graduate.utm.my-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ongyan@graduate.utm.my.com"></a>
+
 </p>
   
 
