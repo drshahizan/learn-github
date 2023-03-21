@@ -1,13 +1,16 @@
 ![GitHub Follow](https://img.shields.io/github/followers/ONGYIYAN.svg?style=social&label=Follow)
+![GitHub Followers](https://img.shields.io/github/followers/ONGYIYAN.svg?style=social&label=Followers)
 ![GitHub Star](https://img.shields.io/github/stars/ONGYIYAN?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
 
-<p align="center"><img src="https://bestanimations.com/media/teddy-bear-gifs/1552414012cute-teddy-bear-animated-gif-7.gif" width="150"> <img src="https://media.tenor.com/Vlde4572j6QAAAAi/animated-text-greet.gif" width="100"><img src="https://im.ezgif.com/tmp/ezgif-1-48cbf7221f.gif" width="150">
+<p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFmNzFhM2JlYTVlY2Q3NzQ2NDI4ZmM5ZTVkNDdlNTQ5Y2U1OGIyOSZjdD10cw/nlLIFsrosSd0U3gHso/giphy.gif" width="130"> 
 </p>
+<h2 align="center">I am Ong Yi Yan:wave:a student of Data Engineering at Universiti Teknologi Malaysia. </h2>
 
-I am __Ong Yi Yan__ and I currently study __Data Engineering__ at [Universiti Teknologi Malaysia](https://www.utm.my).
+### :book: I'm currently learning...
+**SECP3204-[Software Engineering (WBL)](https://github.com/drshahizan/software-engineering)**
 
-### 📚 Courses
-- SECP3204-[Software Engineering (WBL)](https://github.com/drshahizan/software-engineering)
+### :teacher: My Lecturer
+**[Dr Shahizan bin Othman](https://github.com/drshahizan)**
 
 ### 🙌🏻 Connect with Me
 <p align="left">
@@ -23,7 +26,3 @@ I am __Ong Yi Yan__ and I currently study __Data Engineering__ at [Universiti Te
     <br>
   
 </p>
-  
-  ![Follower Badge](https://img.shields.io/github/followers/ONGYIYAN)
-  ![](https://visitor-badge.glitch.me/badge?page_id=ONGYIYAN)
-
