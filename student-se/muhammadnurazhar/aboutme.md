@@ -1,7 +1,4 @@
-### 🤖Greetings!
-😎### 🤖Greetings!  <img src="https://raw.githubusercontent.com/drshahizan/drshahizan/master/img/wave.gif" width="30">
-I am a first year student enrolling in Computer Science (Data Engineering) at [Universiti Teknologi Malaysia](https://www.utm.my)
-
+### 🤖Greetings!  <img src="https://raw.githubusercontent.com/drshahizan/drshahizan/master/img/wave.gif" width="30">
 😎My name is Azhar, or I go with the name KaziriX. I am a first year student enrolling in Computer Science (Data Engineering) at [Universiti Teknologi Malaysia](https://www.utm.my).
 It is really a pleasure to meet you here.
 ✈️I look forward to collaborate with all of you about the upcoming project.
