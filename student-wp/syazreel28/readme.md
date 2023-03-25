@@ -1,6 +1,6 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/drshahizan/drshahizan/master/img/wave.gif" width="30">
 
-I am  __Ikhmal__, and I work as a lecturer at [Universiti Teknologi Malaysia](https://www.utm.my).
+I am  __Ikhmal__, and I work as a IT Technician at [OSKGroup](https://www.utm.my).
 
 ### 📚 Courses
 - [Special Topic in Data Engineering](https://github.com/drshahizan/special-topic-data-engineering)
