@@ -3,7 +3,7 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/drshahizan/drshahizan/master/img/wave.gif" width="30">
 
-I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](https://www.utm.my).
+I am  __Subahshini__, and I work as a lecturer at [Universiti Teknologi Malaysia](https://www.utm.my).
 
 ### 📚 Courses
 - [Special Topic in Data Engineering](https://github.com/drshahizan/special-topic-data-engineering)
@@ -45,8 +45,8 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drshahizan&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
 </p>
   
-  ![Follower Badge](https://img.shields.io/github/followers/Subahshini15)
-  ![](https://visitor-badge.glitch.me/badge?page_id=Subahshini15)
+  ![Follower Badge](https://img.shields.io/github/followers/drshahizan)
+  ![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
 
 </details>
 
