@@ -5,28 +5,6 @@
 
 I am  __Zul Ikmal__,
 
-### 📚 Courses
-- [Special Topic in Data Engineering](https://github.com/lamki/special-topic-data-engineering)
-- [Software Engineering (WBL)](https://github.com/lamki/software-engineering)
-- [Web Programming - PHP](https://github.com/lamki/learn-php)
-- High Performance Data Processing 
-  -   [Python for beginners](https://github.com/lamki/python-tutorial)
-  -   [Web scraping and Python web framework](https://github.com/lamki/python-web)
-  -   [Exploratory data analysis](https://github.com/lamki/Python_EDA)
-  -   [Big data processing](https://github.com/lamki/Python-big-data)
-  -   [Case Study](https://github.com/lamki/python-tutorial/blob/main/case-study.md)
-- [Programming Technique III: ASP.NET](https://github.com/lamki/learn-aspnet)
-- [Extra-Curricular Experiential Learning](https://github.com/lamki/courses/blob/main/UKQT3001/readme.md)
-- [Value and Identity](https://github.com/lamki/courses/blob/main/ULRS1012/readme.md)
-
-### 👨‍💻 Anything to do with research
-- ✨[Lawatan Kerjasama dan Kolaborasi Penyelidikan Institut Kepintaran Buatan dan Data Raya (AIBIG), Universiti Malaysia Kelantan](https://github.com/lamki/research-material/tree/main/bilik)
-- [The Daily Life of a PhD Student](https://github.com/lamki/phd)
-- [Research Colloquium Series 1: Best practices' for using the cloud in research](https://github.com/drshahizan/learn-github)
-- [Learn Github](https://github.com/lamki/learn-github)
-- [Research Material](https://github.com/lamki/research-material)
-  -   [Systematic Review: PRISMA 2020](https://github.com/lamki/research-material/tree/main/SLR) 
-
 ### 🙌🏻 Connect with Me
 <p align="left">
     <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@lamki?style=flat-square&logo=GitHub&logoColor=white"></a>
