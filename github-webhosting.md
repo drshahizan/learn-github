@@ -1,9 +1,9 @@
-<a href="https://github.com/drshahizan/learn-cloud/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/learn-cloud" alt="Stars Badge"/></a>
-<a href="https://github.com/drshahizan/learn-cloud/network/members"><img src="https://img.shields.io/github/forks/drshahizan/learn-cloud" alt="Forks Badge"/></a>
-<a href="https://github.com/drshahizan/learn-cloud/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/learn-cloud" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/drshahizan/learn-cloud/issues"><img src="https://img.shields.io/github/issues/drshahizan/learn-cloud" alt="Issues Badge"/></a>
-<a href="https://github.com/drshahizan/learn-cloud/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/learn-cloud?color=2b9348"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/learn-cloud)
+<a href="https://github.com/drshahizan/learn-github/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/learn-github" alt="Stars Badge"/></a>
+<a href="https://github.com/drshahizan/learn-github/network/members"><img src="https://img.shields.io/github/forks/drshahizan/learn-github" alt="Forks Badge"/></a>
+<a href="https://github.com/drshahizan/learn-github/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/learn-github" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/drshahizan/learn-github/issues"><img src="https://img.shields.io/github/issues/drshahizan/learn-github" alt="Issues Badge"/></a>
+<a href="https://github.com/drshahizan/learn-github/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/learn-github?color=2b9348"></a>
+![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/learn-github)
 
 # How to use github as web hosting?
 GitHub can be used as a web hosting service to host static websites. Here are the general steps to use GitHub as web hosting:
