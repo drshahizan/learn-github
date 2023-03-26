@@ -29,3 +29,10 @@ To commit code changes in GitHub, you can use either the GitHub web interface or
 6. Click on the "Push origin" button to push the changes to the remote repository.
 
 In both methods, it is recommended to follow the best practices for committing code changes, such as writing descriptive commit messages and committing frequently.
+
+  ## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+
+![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
