@@ -30,6 +30,21 @@ To commit code changes in GitHub, you can use either the GitHub web interface or
 
 In both methods, it is recommended to follow the best practices for committing code changes, such as writing descriptive commit messages and committing frequently.
 
+# When should we commit our code to Github?
+You should commit your code in GitHub whenever you have made significant changes to your codebase. Committing your code in GitHub is an essential part of the software development process, and it allows you to track the changes you have made over time.
+
+Here are some scenarios when you should commit your code in GitHub:
+
+1. When you have completed a feature: When you have completed working on a new feature or functionality, you should commit your code to the GitHub repository. This helps in tracking the progress of the project and ensures that the code changes are properly documented.
+
+2. When you have fixed a bug: When you have fixed a bug or issue in the code, you should commit the changes to GitHub. This helps in tracking the history of the bug and ensures that the code changes are properly documented.
+
+3. When you have made significant changes: If you have made significant changes to the codebase, such as refactoring or restructuring the code, you should commit the changes to GitHub. This helps in tracking the progress of the project and ensures that the code changes are properly documented.
+
+4. At regular intervals: It is a good practice to commit your code at regular intervals, even if you have not made any significant changes. This helps in tracking the progress of the project and ensures that the code changes are properly documented.
+
+In general, it is recommended to commit your code often and to write descriptive commit messages that explain the changes you have made. This helps in maintaining a clear history of the project and makes it easier to collaborate with other developers.
+
   ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
 
