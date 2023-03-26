@@ -82,8 +82,8 @@ Some useful commands for getting started:
 
 ## GitHub Cheat-Sheet
 - [Function: Follow, fork and star](./fork-star.md)
--[Github: commit](./github-commit.md)
--[Github: webhosting](https://github.com/drshahizan/learn-github/blob/main/github-webhosting.md)
+- [Github: commit](./github-commit.md)
+- [Github: webhosting](https://github.com/drshahizan/learn-github/blob/main/github-webhosting.md)
 
 There are various remote repository hosting sites:
 
