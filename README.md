@@ -82,7 +82,7 @@ Some useful commands for getting started:
 
 ## GitHub Cheat-Sheet
 [Function: Follow, fork and star](./fork-star.md)
-
+[Github: commit](./github-commit.md)
 There are various remote repository hosting sites:
 
 - [GitHub](https://github.com/)
