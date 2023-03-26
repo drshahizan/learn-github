@@ -45,6 +45,27 @@ Here are some scenarios when you should commit your code in GitHub:
 
 In general, it is recommended to commit your code often and to write descriptive commit messages that explain the changes you have made. This helps in maintaining a clear history of the project and makes it easier to collaborate with other developers.
 
+# Provide best practises when committing to Github
+Committing code changes in GitHub is an essential part of the software development process. Here are some best practices to follow during commit in GitHub:
+
+1. Write descriptive commit messages: A good commit message should be concise, descriptive, and clearly explain the changes you have made. It should be easy to understand and should provide context to other developers who may work on the same project.
+
+2. Commit frequently: It is recommended to commit code changes often, rather than making large commits. This helps in tracking the progress of the project and makes it easier to identify and fix bugs.
+
+3. Test the changes before committing: Before committing changes to the main branch, it is essential to test them thoroughly to ensure that they do not break any existing functionality. You can run automated tests or manual tests to verify the changes.
+
+4. Keep commits focused: Each commit should focus on a single change or feature. This makes it easier to review the changes and understand their impact on the project.
+
+5. Avoid committing sensitive information: Do not commit any sensitive information, such as passwords or API keys, in your code. Instead, use environment variables or a separate configuration file to store such information.
+
+6. Review the changes before committing: Before committing the changes, review them carefully to ensure that everything is correct and all changes have been properly staged.
+
+7. Use branches: It is recommended to use branches for making changes, so that you can work on different features simultaneously without interfering with each other's work. Merge the branches into the main branch once the changes have been reviewed and tested.
+
+8. Follow conventions: Follow conventions and guidelines for commit messages, such as the Conventional Commits specification. This helps in maintaining a consistent style across the project and makes it easier to understand the changes made in each commit.
+
+
+
   ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
 
