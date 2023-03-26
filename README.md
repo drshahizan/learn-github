@@ -81,8 +81,10 @@ Some useful commands for getting started:
 - [Stuck on Git: Git basic for beginners explained with post it notes](https://www.linkedin.com/posts/brookejamieson_git-learntocode-techbasics-activity-7029577352955219968-i4X1/)
 
 ## GitHub Cheat-Sheet
-[Function: Follow, fork and star](./fork-star.md)
-[Github: commit](./github-commit.md)
+- [Function: Follow, fork and star](./fork-star.md)
+-[Github: commit](./github-commit.md)
+-[Github: webhosting](https://github.com/drshahizan/learn-github/blob/main/github-webhosting.md)
+
 There are various remote repository hosting sites:
 
 - [GitHub](https://github.com/)
