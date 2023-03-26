@@ -23,3 +23,10 @@ GitHub can be used as a web hosting service to host static websites. Here are th
 7. You can now add more pages to your website by adding HTML, CSS, and JavaScript files to the repository and committing them to GitHub. GitHub Pages also supports custom domain names, HTTPS, and Jekyll for building and deploying websites.
 
 Note that GitHub Pages only supports static websites, which means that server-side languages like PHP or databases cannot be used.
+
+  ## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+
+![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
