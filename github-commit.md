@@ -64,9 +64,18 @@ Committing code changes in GitHub is an essential part of the software developme
 
 8. Follow conventions: Follow conventions and guidelines for commit messages, such as the Conventional Commits specification. This helps in maintaining a consistent style across the project and makes it easier to understand the changes made in each commit.
 
+# Agile development: When is it best to commit to Github?
+Agile development methodologies emphasize continuous integration and delivery, which means that code changes should be committed to GitHub as frequently as possible. In an Agile development process, code changes are typically committed to the code repository several times a day.
 
+In Agile, it is recommended to commit code changes whenever a new feature or functionality is completed, a bug is fixed, or when a significant change is made to the codebase. Committing code changes frequently allows other team members to keep up with the progress of the project and review code changes as they are made.
 
-  ## Contribution 🛠️
+One approach that works well in Agile is to use feature branches. Each feature or user story can have its own branch, and developers can commit code changes to the branch as they work on the feature. Once the feature is complete and tested, the branch can be merged into the main branch. This helps to ensure that changes are properly documented and reviewed by the team.
+
+It is important to ensure that code changes are properly reviewed and tested before committing to the main branch. This helps to prevent issues from being introduced into the codebase and ensures that the code is of high quality.
+
+Overall, committing code changes frequently and following best practices for committing code changes are key to a successful Agile development process.
+
+## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
