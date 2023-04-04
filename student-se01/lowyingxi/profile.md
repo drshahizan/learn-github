@@ -43,7 +43,7 @@ Soft wrap
 5
 ​
 6
-I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](https://www.utm.my).
+I am  __LowYingXi__, and I am a Year 1 student at [Universiti Teknologi Malaysia](https://www.utm.my).
 7
 ​
 8
