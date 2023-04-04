@@ -3,7 +3,7 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/drshahizan/drshahizan/master/img/wave.gif" width="30">
 
-I am  __Lee Soon Der__, and I work as a lecturer at [Universiti Teknologi Malaysia](https://www.utm.my).
+I am  __Lee Soon Der__, and I am a student of [Universiti Teknologi Malaysia](https://www.utm.my).
 
 ### 📚 Courses
 - [Special Topic in Data Engineering](https://github.com/drshahizan/special-topic-data-engineering)
