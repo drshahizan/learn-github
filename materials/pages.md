@@ -9,7 +9,7 @@ Don't forget to hit the :star: if you like this repo.
 
 # Github Pages
 
-## To link a GitHub repository to a GitHub Pages website, follow these steps:
+## Connect a GitHub repository to a GitHub Pages website:
 
 1. Create a new repository on GitHub with the name "username.github.io" (replace "username" with your GitHub username).
 2. Upload your website files to the repository.
@@ -20,7 +20,7 @@ Don't forget to hit the :star: if you like this repo.
 7. After the build process is complete, you will see a green message saying "Your site is published at https://username.github.io".
 8. Click on the link to view your website.
 
-## To link three repositories to a single GitHub Pages website, you can follow these steps:
+## Connect three different GitHub repositories to a single GitHub Pages website:
 
 1. Create a new repository on GitHub with the name "username.github.io" (replace "username" with your GitHub username).
 2. Clone the repository to your local machine using Git.
