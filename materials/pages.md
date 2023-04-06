@@ -34,3 +34,10 @@ Don't forget to hit the :star: if you like this repo.
 10. Click "Save" and wait for a few minutes for GitHub to build your website.
 11. After the build process is complete, you will see a green message saying "Your site is published at https://username.github.io".
 12. Click on the link to view your website, and you should be able to see all three repositories linked together in one GitHub Pages website.
+
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+
+![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
