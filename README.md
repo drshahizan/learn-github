@@ -35,7 +35,7 @@ Git can be used with a command-line interface, or with a variety of graphical us
 
 Overall, Git is a powerful tool for software developers that facilitates collaboration, version control, and quality control. [**More info...**](/materials/git-intro.md)
 
-# [GitHub](/materials/github-intro.md)
+# 🔗 [GitHub](/materials/github-intro.md)
 GitHub is a web-based platform for software development that uses Git for version control. It allows developers to collaborate on projects, share code, and manage their software development workflows.
 
 <p align="center">
