@@ -29,7 +29,8 @@ Please ensure that you already have a Github account.
 - [Tutorials](#tutorials-)
 - [Google Colab](#google-colab-)
 
-# Git
+# [Git](./materials/git/readme.md)
+
 ### Book
 - [Pro Git](https://git-scm.com/book/en/v2)
 - [Git tutorial](https://git-scm.com/docs/gittutorial)
