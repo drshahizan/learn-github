@@ -21,7 +21,7 @@ In addition to "Pro Git," there are many online Git tutorials available that pro
 
 1. **[Git - The Simple Guide](https://rogerdudler.github.io/git-guide/)** by Roger Dudler: This tutorial provides a brief overview of Git and covers the basic commands needed to get started.
 
-2. **Learn Git Branching** by Peter Cottle: This interactive tutorial uses a visual interface to teach users how to work with Git branches and merges.
+2. **[Learn Git Branching](https://learngitbranching.js.org/)** by Peter Cottle: This interactive tutorial uses a visual interface to teach users how to work with Git branches and merges.
 
 3. **Getting Started with Git** by Atlassian: This tutorial provides a comprehensive introduction to Git, including basic concepts, common workflows, and best practices.
 
