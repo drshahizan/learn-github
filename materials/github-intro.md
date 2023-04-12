@@ -28,30 +28,6 @@ GitHub provides a range of features that make it easy for developers to collabor
 
 Overall, GitHub has become a central hub for software development, particularly for open source projects. Its features and tools make it easy for developers to collaborate and share code, manage version control, and streamline their software development workflows.
 
-
-
-
-
-
-===
-GitHub is a web-based platform for software development that uses Git for version control. It allows developers to collaborate on projects, share code, and manage their software development workflows.
-
-GitHub provides a range of features that make it easy for developers to work together on projects. Some of the key features of GitHub include:
-
-1. **Repositories**: GitHub provides a hosting service for Git repositories, making it easy to manage and share code with others. Repositories can be public or private, and can be accessed by anyone with the appropriate permissions.
-
-2. **Pull requests**: GitHub's pull request feature allows developers to review and discuss code changes before they are merged into the main codebase. This can help ensure that code changes are of high quality and don't introduce bugs or conflicts.
-
-3. **Issues**: GitHub's issue tracking system allows developers to create and track bugs, feature requests, and other issues related to a project. Issues can be assigned to specific developers, labeled, and prioritized to help manage the development process.
-
-4. **Collaboration**: GitHub provides a range of tools to help developers collaborate on projects, including commenting on code, reviewing pull requests, and collaborating on code changes using branches and forks.
-
-5. **Integrations**: GitHub integrates with a range of other software development tools and services, such as CI/CD pipelines, code analysis tools, and project management tools.
-
-GitHub is used by millions of developers and organizations around the world for software development. It is particularly popular among open source software projects, which use GitHub to collaborate on code and manage contributions from a community of developers.
-
-- [Stuck on Git: Git basic for beginners explained with post it notes](https://www.linkedin.com/posts/brookejamieson_git-learntocode-techbasics-activity-7029577352955219968-i4X1/)
-
 ## GitHub Cheat-Sheet
 A GitHub cheat sheet is a reference guide that provides a quick overview of the most commonly used commands and features in GitHub. It can be a handy resource for developers who are new to GitHub or who want a quick reference to the most important commands and features.Some common items that might be included in a GitHub cheat sheet include:
 
