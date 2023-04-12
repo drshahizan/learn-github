@@ -30,10 +30,13 @@ In addition to "Pro Git," there are many online Git tutorials available that pro
 5. [**Git tutorial** by git-scm.com/](https://git-scm.com/docs/gittutorial)
 
 ### More Information About Git
-- [Git: Documentation](https://git-scm.com/doc)
-- [Mercurial](https://www.mercurial-scm.org)
-- [Apache Subversion](https://subversion.apache.org)
-- [Wikipedia: Version control](https://en.wikipedia.org/wiki/Version_control)
+1. [**Git's documentation**](https://git-scm.com/doc) is extensive and well-organized, making it easy for developers to learn how to use the tool. The official Git website provides a wealth of resources, including a Getting Started guide, a Reference manual, and a Pro Git book that covers advanced topics.
+
+2. [**Mercurial**](https://www.mercurial-scm.org) is another popular distributed version control system that is similar to Git. It was created in 2005 by Matt Mackall and is also open-source software. Mercurial provides many of the same features as Git, including branching, merging, and history tracking.
+
+3. [**Apache Subversion**](https://subversion.apache.org) (also known as SVN) is a centralized version control system that is often used in enterprise environments. It was created in 2000 by CollabNet and is also open-source software. SVN has a simpler architecture than Git, but it still provides many of the basic features needed for version control.
+
+4. [**Wikipedia**](https://en.wikipedia.org/wiki/Version_control) provides a comprehensive overview of version control systems, including a history of their development and a comparison of their features. The page covers both centralized and distributed version control systems, including Git, Mercurial, SVN, and many others.
 
 ### [Git Cheatsheet](https://github.com/drshahizan/learn-github/blob/main/git-cheatsheet.md)
 
