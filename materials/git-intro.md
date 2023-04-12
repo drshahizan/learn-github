@@ -10,6 +10,24 @@ Don't forget to hit the :star: if you like this repo.
 # Git
 
 ### Book
+
+[**Pro Git**](https://git-scm.com/book/en/v2) is a book written by Scott Chacon and Ben Straub that serves as a comprehensive guide to Git. It covers everything from basic concepts and terminology to advanced features and workflows. The book is available online for free under a Creative Commons license, and is also available in print.
+
+The first few chapters of "Pro Git" provide an introduction to Git and cover the basics of setting up a repository, making changes, and committing those changes. The book then delves into more advanced topics such as branching and merging, rebasing, and resolving conflicts. It also covers best practices for working with Git in a team environment, including code review, continuous integration, and release management.
+
+"Pro Git" also covers several third-party tools and services that integrate with Git, including GitHub, GitLab, and Bitbucket. The book provides detailed instructions on how to set up and use these tools for collaboration and project management.
+
+In addition to "Pro Git," there are many online Git tutorials available that provide step-by-step instructions for getting started with Git. Some popular Git tutorials include:
+
+"Git - The Simple Guide" by Roger Dudler: This tutorial provides a brief overview of Git and covers the basic commands needed to get started.
+
+"Learn Git Branching" by Peter Cottle: This interactive tutorial uses a visual interface to teach users how to work with Git branches and merges.
+
+"Getting Started with Git" by Atlassian: This tutorial provides a comprehensive introduction to Git, including basic concepts, common workflows, and best practices.
+
+"Git Tutorial" by Codecademy: This tutorial provides a hands-on approach to learning Git through interactive exercises.
+
+Overall, "Pro Git" and online Git tutorials are great resources for anyone looking to learn more about Git and how to use it effectively.
 - [Pro Git](https://git-scm.com/book/en/v2)
 - [Git tutorial](https://git-scm.com/docs/gittutorial)
 
