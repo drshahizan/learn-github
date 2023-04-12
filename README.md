@@ -13,11 +13,6 @@ Don't forget to hit the :star: if you like this repo.
 <img src="https://github.com/drshahizan/learn-github/blob/main/images/Github-EN.jpg"  height="400" />
 </p>
 
-You will learn:
-
-✅️ How to set up a cloud environment for research purposes. 
-
-✅️ How to integrate Github (cloud) with Github desktop, as well as Google Colab and Google Drive. 
 
 Please ensure that you already have a Github account. 
 
@@ -66,13 +61,13 @@ GitHub is used by millions of developers and organizations around the world for 
 ## GitHub Cheat-Sheet
 A GitHub cheat sheet is a reference guide that provides a quick overview of the most commonly used commands and features in GitHub. It can be a handy resource for developers who are new to GitHub or who want a quick reference to the most important commands and features.Some common items that might be included in a GitHub cheat sheet include:
 
-1. Git commands: Many GitHub cheat sheets include a list of basic Git commands, such as git add, git commit, git push, and git pull. These commands are used to manage version control in GitHub repositories.
+1. [**Git commands**](https://education.github.com/git-cheat-sheet-education.pdf): Many GitHub cheat sheets include a list of basic Git commands, such as git add, git commit, git push, and git pull. These commands are used to manage version control in GitHub repositories.
 
-2. GitHub commands: The cheat sheet might also include a list of basic GitHub commands, such as git clone, git fork, and git merge. These commands are used to collaborate on GitHub projects and manage issues and pull requests.
+2. [**GitHub commands**](https://training.github.com/downloads/github-git-cheat-sheet/): The cheat sheet might also include a list of basic GitHub commands, such as git clone, git fork, and git merge. These commands are used to collaborate on GitHub projects and manage issues and pull requests.
 
-3. Markdown syntax: GitHub uses a flavor of Markdown for formatting text in issues, pull requests, and README files. A cheat sheet might include a list of basic Markdown syntax, such as how to create headers, links, and lists.
+3. [**Markdown syntax**](https://www.markdownguide.org/cheat-sheet/): GitHub uses a flavor of Markdown for formatting text in issues, pull requests, and README files. A cheat sheet might include a list of basic Markdown syntax, such as how to create headers, links, and lists.
 
-4. Keyboard shortcuts: GitHub has a number of keyboard shortcuts that can help speed up your workflow. A cheat sheet might include a list of common shortcuts, such as how to navigate between tabs, search for code, and create new files.
+4. [**Keyboard shortcuts**](https://docs.github.com/en/get-started/using-github/keyboard-shortcuts): GitHub has a number of keyboard shortcuts that can help speed up your workflow. A cheat sheet might include a list of common shortcuts, such as how to navigate between tabs, search for code, and create new files.
 
 
 - [Function: Follow, fork and star](./fork-star.md)
