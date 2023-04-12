@@ -43,6 +43,10 @@ Overall, Git is a powerful tool for software developers that facilitates collabo
 # GitHub
 GitHub is a web-based platform for software development that uses Git for version control. It allows developers to collaborate on projects, share code, and manage their software development workflows.
 
+<p align="center">
+<img src="https://github.com/drshahizan/learn-github/blob/main/images/github.png"  height="400" />
+</p>
+
 GitHub provides a range of features that make it easy for developers to work together on projects. Some of the key features of GitHub include:
 
 1. **Repositories**: GitHub provides a hosting service for Git repositories, making it easy to manage and share code with others. Repositories can be public or private, and can be accessed by anyone with the appropriate permissions.
@@ -56,10 +60,6 @@ GitHub provides a range of features that make it easy for developers to work tog
 5. **Integrations**: GitHub integrates with a range of other software development tools and services, such as CI/CD pipelines, code analysis tools, and project management tools.
 
 GitHub is used by millions of developers and organizations around the world for software development. It is particularly popular among open source software projects, which use GitHub to collaborate on code and manage contributions from a community of developers.
-
-<p align="center">
-<img src="https://github.com/drshahizan/learn-github/blob/main/images/github.png"  height="400" />
-</p>
 
 - [Stuck on Git: Git basic for beginners explained with post it notes](https://www.linkedin.com/posts/brookejamieson_git-learntocode-techbasics-activity-7029577352955219968-i4X1/)
 
