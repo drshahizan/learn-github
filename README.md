@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Research Colloquium Series 1: Best practices for using the cloud in research
+# Git and Git
 
 <p align="center">
 <img src="https://github.com/drshahizan/learn-github/blob/main/images/Github-EN.jpg"  height="400" />
@@ -40,7 +40,7 @@ Git can be used with a command-line interface, or with a variety of graphical us
 
 Overall, Git is a powerful tool for software developers that facilitates collaboration, version control, and quality control. [**More info...**](/materials/git-intro.md)
 
-# Github
+# GitHub
 <p align="center">
 <img src="https://github.com/drshahizan/learn-github/blob/main/images/github.png"  height="400" />
 </p>
