@@ -16,14 +16,6 @@ Don't forget to hit the :star: if you like this repo.
 
 Please ensure that you already have a Github account. 
 
-### Contents:
-- [Book](#book)
-- [Github Profile](#github-profile-)
-- [Tools](#tools)
-- [Articles](#articles-)
-- [Tutorials](#tutorials-)
-- [Google Colab](#google-colab-)
-
 # 🔗 [Git](/materials/git-intro.md)
 Git is a distributed version control system designed to track changes in software code over time. It was created in 2005 by Linus Torvalds, the same person who created the Linux operating system. Git is open-source software, meaning that it is free to use and modify, and it is widely used in software development teams.
 
