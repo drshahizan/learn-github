@@ -39,6 +39,21 @@ In addition to "Pro Git," there are many online Git tutorials available that pro
 4. [**Wikipedia**](https://en.wikipedia.org/wiki/Version_control) provides a comprehensive overview of version control systems, including a history of their development and a comparison of their features. The page covers both centralized and distributed version control systems, including Git, Mercurial, SVN, and many others.
 
 ### [Git Cheatsheet](https://github.com/drshahizan/learn-github/blob/main/git-cheatsheet.md)
+A Git cheatsheet is a quick reference guide that provides a summary of commonly used Git commands and their syntax. It is a useful tool for developers who are new to Git or who want to quickly look up a command without having to search through the Git documentation.
+
+A typical Git cheatsheet will include commands for creating and managing repositories, making and committing changes, branching and merging code, and collaborating with others. Some of the most commonly included commands are:
+
+- **git init**: Initializes a new Git repository in the current directory.
+- **git add**: Adds files to the staging area to be committed.
+- **git commit**: Commits changes to the repository with a message describing the changes.
+- **git branch**: Lists or creates new branches for developing code.
+- **git merge**: Merges changes from one branch into another.
+- **git pull**: Fetches and merges changes from a remote repository.
+- **git push**: Sends local changes to a remote repository.
+
+Many Git cheatsheets will also include shorthand commands, such as using `-m` with the `git commit` command to add a message directly in the command line instead of opening a text editor.
+
+Git cheatsheets can be found online for free, or they can be created and customized by developers to include the commands and syntax that are most useful for their specific workflows. They are a valuable resource for developers who want to improve their efficiency and productivity while working with Git. [**More info...**](https://github.com/drshahizan/learn-github/blob/main/git-cheatsheet.md).
 
 ### Installing Git
 The first step on the way to using Git is to install it! The directions found in the Git documentation below are pretty thorough and helpful, check them out for the best method of getting Git onto your platform of choice.
