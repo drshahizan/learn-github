@@ -94,10 +94,25 @@ Some useful commands for getting started:
 | [git log --graph --oneline](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History) | This shows a summarized view of the commit history for a repo. |
 
 ## Tutorials 🎥
-- [Git, GitHub, & GitHub Desktop for beginners](https://youtu.be/8Dd7KRpKeaE)
-- [Git Explained in 100 Seconds](https://youtu.be/hwP7WQkmECE)
-- [Git It? How to use Git and Github](https://youtu.be/HkdAHXoRtos)
-- [13 Advanced (but useful) Git Techniques and Shortcuts](https://youtu.be/ecK3EnyGD8o)
+A Git tutorial is a resource that provides step-by-step guidance on how to use Git for version control in software development. Git tutorials can take many forms, including online courses, video tutorials, blog posts, and interactive learning platforms. A typical Git tutorial will cover the basics of Git, including creating a repository, making and committing changes, branching and merging code, and collaborating with others. It will also cover more advanced topics, such as resolving conflicts and using Git hooks.Many Git tutorials use a hands-on approach, providing exercises and examples that allow you to practice using Git in a real-world setting. They may also include quizzes or assessments to test your understanding of Git concepts and commands.
+
+Some popular Git tutorials include:
+
+1. [**Git Tutorial by Atlassian**](https://www.atlassian.com/git/tutorials): This tutorial covers the basics of Git, including creating a repository, making changes, and collaborating with others. It also includes advanced topics such as branching and merging, resolving conflicts, and using Git hooks.
+
+2. [**Git Immersion**](https://gitimmersion.com/): This interactive tutorial provides a step-by-step guide to learning Git, including creating repositories, making changes, and working with remote repositories. It also includes exercises and quizzes to help you practice Git commands and concepts.
+
+3. [**GitLab Git Handbook**](https://about.gitlab.com/handbook/): This comprehensive guide provides an in-depth overview of Git, including best practices and tips for using Git effectively. It covers topics such as Git workflows, branching strategies, and using Git with CI/CD pipelines.
+
+4. [**Pro Git book**](https://git-scm.com/book/en/v2): This free online book covers Git in depth, including advanced topics such as rebasing, tagging, and using Git with submodules. It also includes examples and case studies that illustrate how Git can be used in real-world software development projects.
+
+5. [Git, GitHub, & GitHub Desktop for beginners](https://youtu.be/8Dd7KRpKeaE)
+
+6. [Git Explained in 100 Seconds](https://youtu.be/hwP7WQkmECE)
+
+7. [Git It? How to use Git and Github](https://youtu.be/HkdAHXoRtos)
+
+8. [13 Advanced (but useful) Git Techniques and Shortcuts](https://youtu.be/ecK3EnyGD8o)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
