@@ -50,7 +50,7 @@ GitHub is used by millions of developers and organizations around the world for 
 
 - [Stuck on Git: Git basic for beginners explained with post it notes](https://www.linkedin.com/posts/brookejamieson_git-learntocode-techbasics-activity-7029577352955219968-i4X1/)
 
-[**More info...**](/materials/github-info.md)
+[**More info...**]((/materials/github-intro.md)
 
 ## GitHub Cheat-Sheet
 A GitHub cheat sheet is a reference guide that provides a quick overview of the most commonly used commands and features in GitHub. It can be a handy resource for developers who are new to GitHub or who want a quick reference to the most important commands and features.Some common items that might be included in a GitHub cheat sheet include:
