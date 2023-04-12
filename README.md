@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Git and Git
+# Git and GitHub
 
 <p align="center">
 <img src="https://github.com/drshahizan/learn-github/blob/main/images/Github-EN.jpg"  height="400" />
