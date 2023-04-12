@@ -7,21 +7,9 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Research Colloquium Series 1: Best practices for using the cloud in research
-
-<p align="center">
-<img src="https://github.com/drshahizan/learn-github/blob/main/images/Github-EN.jpg"  height="400" />
-</p>
-
-You will learn:
-
-✅️ How to set up a cloud environment for research purposes. 
-
-✅️ How to integrate Github (cloud) with Github desktop, as well as Google Colab and Google Drive. 
-
-Please ensure that you already have a Github account. 
 
 # Git
+
 ### Book
 - [Pro Git](https://git-scm.com/book/en/v2)
 - [Git tutorial](https://git-scm.com/docs/gittutorial)
