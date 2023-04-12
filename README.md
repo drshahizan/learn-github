@@ -52,45 +52,6 @@ GitHub is used by millions of developers and organizations around the world for 
 
 [**More info...**](/materials/github-intro.md)
 
-## GitHub Cheat-Sheet
-A GitHub cheat sheet is a reference guide that provides a quick overview of the most commonly used commands and features in GitHub. It can be a handy resource for developers who are new to GitHub or who want a quick reference to the most important commands and features.Some common items that might be included in a GitHub cheat sheet include:
-
-1. [**Git commands**](https://education.github.com/git-cheat-sheet-education.pdf): Many GitHub cheat sheets include a list of basic Git commands, such as git add, git commit, git push, and git pull. These commands are used to manage version control in GitHub repositories.
-
-2. [**GitHub commands**](https://training.github.com/downloads/github-git-cheat-sheet/): The cheat sheet might also include a list of basic GitHub commands, such as git clone, git fork, and git merge. These commands are used to collaborate on GitHub projects and manage issues and pull requests.
-
-3. [**Markdown syntax**](https://www.markdownguide.org/cheat-sheet/): GitHub uses a flavor of Markdown for formatting text in issues, pull requests, and README files. A cheat sheet might include a list of basic Markdown syntax, such as how to create headers, links, and lists.
-
-4. [**Keyboard shortcuts**](https://docs.github.com/en/get-started/using-github/keyboard-shortcuts): GitHub has a number of keyboard shortcuts that can help speed up your workflow. A cheat sheet might include a list of common shortcuts, such as how to navigate between tabs, search for code, and create new files.
-
-
-- [Function: Follow, fork and star](./fork-star.md)
-- [Github: commit](./github-commit.md)
-- [Github: webhosting](https://github.com/drshahizan/learn-github/blob/main/github-webhosting.md)
-
-There are various remote repository hosting sites:
-
-- [GitHub](https://github.com/)
-- [BitBucket](https://bitbucket.org/product)
-- [Gitlab](https://about.gitlab.com/)
-
-Follow the workflow at [https://github.com/join](https://github.com/join) to set up a free account, username, and password. After that, [these steps](https://docs.github.com/en/get-started/quickstart/create-a-repo) will help you create a brand new repository on GitHub.
-
-  
-This can be useful for keeping your local workspace up to date.
-- [https://help.github.com/en/articles/caching-your-github-password-in-git](https://help.github.com/en/articles/caching-your-github-password-in-git)
-- [https://help.github.com/en/articles/generating-an-ssh-key](https://help.github.com/en/articles/generating-an-ssh-key)
-  
-Merge conflicts are not uncommon when working in a team of developers, or on Open Source Software. Fortunately, GitHub has some good documentation on how to handle them when they happen:
-
-- [https://help.github.com/en/articles/about-pull-request-merges](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/about-pull-request-merges)
-- [https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts)
-- [https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line)
-  
-You can also use [git rebase branchname](https://git-scm.com/book/en/v2/Git-Branching-Rebasing) to change the base of the current branch to be branchname
-
-The git rebase command is a lot more powerful. Check out [this link](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History) for more information.
-
 ## Github Profile 👋
 A GitHub profile is a public facing page that displays a user's activity on the platform. It includes information such as the user's username, profile picture, bio, location, and links to their website or social media profiles.
 
