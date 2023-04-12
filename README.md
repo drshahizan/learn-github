@@ -29,7 +29,7 @@ Please ensure that you already have a Github account.
 - [Tutorials](#tutorials-)
 - [Google Colab](#google-colab-)
 
-# 🔗 [Git](./materials/git/readme.md)
+# 🔗 [Git](./materials/git/git-intro.md)
 Git is a distributed version control system designed to track changes in software code over time. It was created in 2005 by Linus Torvalds, the same person who created the Linux operating system. Git is open-source software, meaning that it is free to use and modify, and it is widely used in software development teams.
 
 With Git, developers can work collaboratively on the same codebase, making changes and merging them together seamlessly. Each developer has their own copy of the code repository, which they can modify and then share with others. Git also provides tools for branching and merging code, allowing developers to work on different features or bug fixes without interfering with each other's work.
@@ -38,7 +38,7 @@ One of the main benefits of using Git is its ability to track changes and roll b
 
 Git can be used with a command-line interface, or with a variety of graphical user interfaces (GUIs) that provide a more user-friendly experience. Some popular Git GUIs include GitHub Desktop, Sourcetree, and GitKraken.
 
-Overall, Git is a powerful tool for software developers that facilitates collaboration, version control, and quality control. [**More info...**](./materials/git/readme.md)
+Overall, Git is a powerful tool for software developers that facilitates collaboration, version control, and quality control. [**More info...**](./materials/git/git-intro.md)
 
 ### Book
 - [Pro Git](https://git-scm.com/book/en/v2)
