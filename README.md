@@ -64,6 +64,17 @@ GitHub is used by millions of developers and organizations around the world for 
 - [Stuck on Git: Git basic for beginners explained with post it notes](https://www.linkedin.com/posts/brookejamieson_git-learntocode-techbasics-activity-7029577352955219968-i4X1/)
 
 ## GitHub Cheat-Sheet
+A GitHub cheat sheet is a reference guide that provides a quick overview of the most commonly used commands and features in GitHub. It can be a handy resource for developers who are new to GitHub or who want a quick reference to the most important commands and features.Some common items that might be included in a GitHub cheat sheet include:
+
+1. Git commands: Many GitHub cheat sheets include a list of basic Git commands, such as git add, git commit, git push, and git pull. These commands are used to manage version control in GitHub repositories.
+
+2. GitHub commands: The cheat sheet might also include a list of basic GitHub commands, such as git clone, git fork, and git merge. These commands are used to collaborate on GitHub projects and manage issues and pull requests.
+
+3. Markdown syntax: GitHub uses a flavor of Markdown for formatting text in issues, pull requests, and README files. A cheat sheet might include a list of basic Markdown syntax, such as how to create headers, links, and lists.
+
+4. Keyboard shortcuts: GitHub has a number of keyboard shortcuts that can help speed up your workflow. A cheat sheet might include a list of common shortcuts, such as how to navigate between tabs, search for code, and create new files.
+
+
 - [Function: Follow, fork and star](./fork-star.md)
 - [Github: commit](./github-commit.md)
 - [Github: webhosting](https://github.com/drshahizan/learn-github/blob/main/github-webhosting.md)
