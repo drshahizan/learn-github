@@ -38,7 +38,7 @@ One of the main benefits of using Git is its ability to track changes and roll b
 
 Git can be used with a command-line interface, or with a variety of graphical user interfaces (GUIs) that provide a more user-friendly experience. Some popular Git GUIs include GitHub Desktop, Sourcetree, and GitKraken.
 
-Overall, Git is a powerful tool for software developers that facilitates collaboration, version control, and quality control. [**More info...**](/materials/git/git-intro.md)
+Overall, Git is a powerful tool for software developers that facilitates collaboration, version control, and quality control. [**More info...**](/materials/git-intro.md)
 
 ### Book
 - [Pro Git](https://git-scm.com/book/en/v2)
