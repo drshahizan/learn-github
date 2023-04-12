@@ -52,6 +52,11 @@ Some useful commands for getting started:
 | git merge --abort | If there are merge conflicts (meaning files are incompatible), --abort can be used to abort the merge action. |
 | [git log --graph --oneline](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History) | This shows a summarized view of the commit history for a repo. |
 
+## Tutorials 🎥
+- [Git, GitHub, & GitHub Desktop for beginners](https://youtu.be/8Dd7KRpKeaE)
+- [Git Explained in 100 Seconds](https://youtu.be/hwP7WQkmECE)
+- [Git It? How to use Git and Github](https://youtu.be/HkdAHXoRtos)
+- [13 Advanced (but useful) Git Techniques and Shortcuts](https://youtu.be/ecK3EnyGD8o)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
