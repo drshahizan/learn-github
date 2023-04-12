@@ -19,17 +19,15 @@ The first few chapters of "Pro Git" provide an introduction to Git and cover the
 
 In addition to "Pro Git," there are many online Git tutorials available that provide step-by-step instructions for getting started with Git. Some popular Git tutorials include:
 
-"Git - The Simple Guide" by Roger Dudler: This tutorial provides a brief overview of Git and covers the basic commands needed to get started.
+1. **[Git - The Simple Guide](https://rogerdudler.github.io/git-guide/)** by Roger Dudler: This tutorial provides a brief overview of Git and covers the basic commands needed to get started.
 
-"Learn Git Branching" by Peter Cottle: This interactive tutorial uses a visual interface to teach users how to work with Git branches and merges.
+2. **Learn Git Branching** by Peter Cottle: This interactive tutorial uses a visual interface to teach users how to work with Git branches and merges.
 
-"Getting Started with Git" by Atlassian: This tutorial provides a comprehensive introduction to Git, including basic concepts, common workflows, and best practices.
+3. **Getting Started with Git** by Atlassian: This tutorial provides a comprehensive introduction to Git, including basic concepts, common workflows, and best practices.
 
-"Git Tutorial" by Codecademy: This tutorial provides a hands-on approach to learning Git through interactive exercises.
+4. "Git Tutorial" by Codecademy: This tutorial provides a hands-on approach to learning Git through interactive exercises.
 
-Overall, "Pro Git" and online Git tutorials are great resources for anyone looking to learn more about Git and how to use it effectively.
-- [Pro Git](https://git-scm.com/book/en/v2)
-- [Git tutorial](https://git-scm.com/docs/gittutorial)
+5. [**Git tutorial** by git-scm.com/](https://git-scm.com/docs/gittutorial)
 
 ### More Information About Git
 - [Git: Documentation](https://git-scm.com/doc)
