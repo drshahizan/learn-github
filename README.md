@@ -41,6 +41,22 @@ Git can be used with a command-line interface, or with a variety of graphical us
 Overall, Git is a powerful tool for software developers that facilitates collaboration, version control, and quality control. [**More info...**](/materials/git-intro.md)
 
 # GitHub
+GitHub is a web-based platform for software development that uses Git for version control. It allows developers to collaborate on projects, share code, and manage their software development workflows.
+
+GitHub provides a range of features that make it easy for developers to work together on projects. Some of the key features of GitHub include:
+
+1. **Repositories**: GitHub provides a hosting service for Git repositories, making it easy to manage and share code with others. Repositories can be public or private, and can be accessed by anyone with the appropriate permissions.
+
+2. **Pull requests**: GitHub's pull request feature allows developers to review and discuss code changes before they are merged into the main codebase. This can help ensure that code changes are of high quality and don't introduce bugs or conflicts.
+
+3. **Issues**: GitHub's issue tracking system allows developers to create and track bugs, feature requests, and other issues related to a project. Issues can be assigned to specific developers, labeled, and prioritized to help manage the development process.
+
+4. **Collaboration**: GitHub provides a range of tools to help developers collaborate on projects, including commenting on code, reviewing pull requests, and collaborating on code changes using branches and forks.
+
+5. **Integrations**: GitHub integrates with a range of other software development tools and services, such as CI/CD pipelines, code analysis tools, and project management tools.
+
+GitHub is used by millions of developers and organizations around the world for software development. It is particularly popular among open source software projects, which use GitHub to collaborate on code and manage contributions from a community of developers.
+
 <p align="center">
 <img src="https://github.com/drshahizan/learn-github/blob/main/images/github.png"  height="400" />
 </p>
