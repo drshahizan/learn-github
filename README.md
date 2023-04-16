@@ -76,6 +76,21 @@ Another important aspect of a GitHub profile is the user's activity feed. This s
 
 GitHub profiles are a great way for developers to showcase their skills and projects to potential employers or collaborators. By maintaining an active and well-curated profile, developers can establish themselves as experts in their field and attract new opportunities.
 
+#### My students
+1. [Qaisara](https://github.com/qaisarrra)
+2. [Low Junyi](https://github.com/LowJunyi2001)
+3. [Ahmad Aiman Hafizi bin Muhammad](https://github.com/AimanHafizi619)
+4. [KONG JIA ROU](https://github.com/jrkong2001utm)
+5.  [Hong Pei Geok](https://github.com/peiyu00)
+
+1. [SEPRIYANDI BIN AGUSR](https://github.com/sepz36)
+
+[Neo Zheng Weng](https://github.com/zw-weng)
+[Wan Nur Sofea](https://github.com/wannursofea)
+[Camily Tang](https://github.com/camilytang)
+[Ng Shu Yu](https://github.com/ShuYu03)
+
+#### Others
 1. [How to create a GitHub Profile README: Michelle Mannering](https://dev.to/github/how-to-create-a-github-profile-readme-jha)
 2. [mishmanners](https://github.com/mishmanners)
 3. [How To Create A GitHub Profile README: Monica Powell](https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj)
