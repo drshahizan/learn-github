@@ -17,6 +17,11 @@ Don't forget to hit the :star: if you like this repo.
 Please ensure that you already have a Github account. 
 
 ## [Developer Roadmaps](https://roadmap.sh/)
+Roadmap.sh is a website that provides roadmaps for learning various topics in technology, such as programming languages, web development, data science, and more. The roadmaps are essentially step-by-step guides that outline the skills, tools, and concepts that someone should learn to become proficient in a particular area.
+
+The website was created to help people who are just starting out in technology or who are looking to switch careers within the industry. The roadmaps are designed to be flexible and customizable, so users can choose their own learning paths and set their own goals.
+
+In addition to the roadmaps, the website also includes resources such as books, online courses, and tools to help learners on their journey. The community aspect of the website allows users to connect with others who are also learning and share tips and resources.
 - [Frontend Developer](https://roadmap.sh/frontend)
 - [Backend Developer](https://roadmap.sh/backend)
 - [Flutter Developer](https://roadmap.sh/flutter)
