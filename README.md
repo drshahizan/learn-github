@@ -16,7 +16,12 @@ Don't forget to hit the :star: if you like this repo.
 
 Please ensure that you already have a Github account. 
 
-# 🔗 [Git](/materials/git-intro.md)
+## [Developer Roadmaps](https://roadmap.sh/)
+- [Frontend Developer](https://roadmap.sh/frontend)
+- [Backend Developer](https://roadmap.sh/backend)
+- [Flutter Developer](https://roadmap.sh/flutter)
+
+## 🔗 [Git](/materials/git-intro.md)
 Git is a distributed version control system designed to track changes in software code over time. It was created in 2005 by Linus Torvalds, the same person who created the Linux operating system. Git is open-source software, meaning that it is free to use and modify, and it is widely used in software development teams.
 
 With Git, developers can work collaboratively on the same codebase, making changes and merging them together seamlessly. Each developer has their own copy of the code repository, which they can modify and then share with others. Git also provides tools for branching and merging code, allowing developers to work on different features or bug fixes without interfering with each other's work.
@@ -27,7 +32,7 @@ Git can be used with a command-line interface, or with a variety of graphical us
 
 Overall, Git is a powerful tool for software developers that facilitates collaboration, version control, and quality control. [**More info...**](/materials/git-intro.md)
 
-# 🔗 [GitHub](/materials/github-intro.md)
+## 🔗 [GitHub](/materials/github-intro.md)
 GitHub is a web-based platform for software development that uses Git for version control. It allows developers to collaborate on projects, share code, and manage their software development workflows.
 
 <p align="center">
@@ -52,7 +57,7 @@ GitHub is used by millions of developers and organizations around the world for 
 
 [**More info...**](/materials/github-intro.md)
 
-## Github Profile 👋
+### Github Profile 👋
 A GitHub profile is a public facing page that displays a user's activity on the platform. It includes information such as the user's username, profile picture, bio, location, and links to their website or social media profiles.
 
 The main focus of a GitHub profile is the user's repositories. Repositories are collections of files that contain a project or a portion of a project. On a GitHub profile, users can showcase their repositories, which can be sorted by type (public or private), language, and date. Each repository includes information such as the name, description, number of stars (a measure of popularity), and the number of forks (when someone makes a copy of the repository to make their own changes).
