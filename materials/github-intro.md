@@ -40,9 +40,9 @@ A GitHub cheat sheet is a reference guide that provides a quick overview of the 
 4. [**Keyboard shortcuts**](https://docs.github.com/en/get-started/using-github/keyboard-shortcuts): GitHub has a number of keyboard shortcuts that can help speed up your workflow. A cheat sheet might include a list of common shortcuts, such as how to navigate between tabs, search for code, and create new files.
 
 
-- [Function: Follow, fork and star](./fork-star.md)
-- [Github: commit](./github-commit.md)
-- [Github: webhosting](https://github.com/drshahizan/learn-github/blob/main/github-webhosting.md)
+- [Function: Follow, fork and star](fork-star.md)
+- [Github: commit](github-commit.md)
+- [Github: webhosting](github-webhosting.md)
 
 There are various remote repository hosting sites:
 
