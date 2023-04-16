@@ -81,14 +81,14 @@ GitHub profiles are a great way for developers to showcase their skills and proj
 2. [Low Junyi](https://github.com/LowJunyi2001)
 3. [Ahmad Aiman Hafizi bin Muhammad](https://github.com/AimanHafizi619)
 4. [KONG JIA ROU](https://github.com/jrkong2001utm)
-5.  [Hong Pei Geok](https://github.com/peiyu00)
-
-1. [SEPRIYANDI BIN AGUSR](https://github.com/sepz36)
-
-[Neo Zheng Weng](https://github.com/zw-weng)
-[Wan Nur Sofea](https://github.com/wannursofea)
-[Camily Tang](https://github.com/camilytang)
-[Ng Shu Yu](https://github.com/ShuYu03)
+5. [Hong Pei Geok](https://github.com/peiyu00)
+6. [El Insyiraah](https://github.com/elleamyr)
+7. [SEPRIYANDI BIN AGUSR](https://github.com/sepz36)
+8. [Charlene A](https://github.com/Chikoness)
+9. [Neo Zheng Weng](https://github.com/zw-weng)
+10. [Wan Nur Sofea](https://github.com/wannursofea)
+11. [Camily Tang](https://github.com/camilytang)
+12. [Ng Shu Yu](https://github.com/ShuYu03)
 
 #### Others
 1. [How to create a GitHub Profile README: Michelle Mannering](https://dev.to/github/how-to-create-a-github-profile-readme-jha)
