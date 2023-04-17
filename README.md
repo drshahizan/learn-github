@@ -7,7 +7,6 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# hello
 # Git and GitHub
 Git and GitHub are an essential part of the developer roadmap, particularly for those interested in software development or web development. Git is a version control system that allows developers to track changes in their codebase over time, collaborate with others, and revert changes if necessary. GitHub, on the other hand, is a web-based hosting service that uses Git for version control.
 
