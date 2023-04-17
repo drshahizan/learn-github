@@ -1,4 +1,3 @@
-# hello world
-## hello world
-### hello world
-#### hello world
+# Learn Github
+**This course** is designed to
+- Introduce student to the fundamental knowledge of GitHub
