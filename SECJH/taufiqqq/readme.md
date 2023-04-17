@@ -1,7 +1,8 @@
 # Learn Github
-**This course** is designed to
-- Introduce student to the fundamental knowledge of GitHub
+**This** course is designed to
 
+- introduce students the fundamental of knowledge,
+- technologies and components for web application developments. The basic topics includes the standard HTML for content
 Follow me hehe thanks I will follow back
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tauf.iqq) 
