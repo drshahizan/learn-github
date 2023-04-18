@@ -8,6 +8,13 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Github Pages
+GitHub Pages is a static site hosting service provided by GitHub. It allows users to host static HTML, CSS, and JavaScript files for free, directly from a GitHub repository. GitHub Pages also allows for custom domains, HTTPS encryption, and Jekyll, a static site generator.
+
+To use GitHub Pages, a user creates a new repository on GitHub and names it with the convention `username.github.io`. Then, they can upload their HTML, CSS, and JavaScript files to the repository and configure the repository settings to enable GitHub Pages. The user can choose to have the site hosted on a custom domain, or on the default `username.github.io` domain.
+
+GitHub Pages also includes built-in support for Jekyll, a static site generator that can be used to create and manage content for a website. Jekyll uses templates and Markdown files to generate static HTML files, which can be hosted on GitHub Pages.
+
+Overall, GitHub Pages is a simple and free solution for hosting static websites. It's ideal for personal sites, documentation, and small projects that don't require dynamic content or server-side processing.
 
 ## Connect a GitHub repository to a GitHub Pages website:
 
