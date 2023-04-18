@@ -16,6 +16,36 @@ GitHub Pages also includes built-in support for Jekyll, a static site generator 
 
 Overall, GitHub Pages is a simple and free solution for hosting static websites. It's ideal for personal sites, documentation, and small projects that don't require dynamic content or server-side processing.
 
+## Steps to create a GitHub Pages website
+
+### 1. Create a new repository:
+
+- Log in to your GitHub account and click the "+" icon in the top right corner of the page.
+- Select "New Repository" from the drop-down menu.
+- Name your repository in the following format: `username.github.io`, where "username" is your GitHub username.
+
+### 2. Upload your website files:
+
+- Upload your website files to the repository. You can do this using the GitHub website interface, or by using Git to push the files to the repository.
+- Your website files should include at least an `index.html` file, which will be the homepage of your website.
+
+### 3. Enable GitHub Pages:
+
+- Navigate to the repository's "Settings" page.
+- Scroll down to the "GitHub Pages" section.
+- Select the branch that you want to use for your website (usually the "main" branch).
+- Click "Save".
+
+### 4. Verify your website is live:
+
+- After you have enabled GitHub Pages, a green banner will appear at the top of the page, confirming that your website is live.
+- You can access your website at `https://username.github.io`.
+
+### 5. Customize your website:
+
+- You can customize your website further by using a custom domain name, adding CSS styles, or using Jekyll to generate your website.
+That's it! Your GitHub Pages website is now live and accessible to the world.
+
 ## Connect a GitHub repository to a GitHub Pages website:
 
 1. Create a new repository on GitHub with the name "username.github.io" (replace "username" with your GitHub username).
