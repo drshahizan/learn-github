@@ -19,19 +19,18 @@ Don't forget to hit the :star: if you like this repo.
 # GitHub Student Developer Pack
 The GitHub Student Developer Pack is a program offered by GitHub Education that provides students with free access to a range of developer tools and services to help them develop their skills and build their portfolios. The pack includes access to over 100 tools, including cloud hosting services, developer tools, design tools, and various learning resources.
 
-Some of the tools included in the pack are:
+Sure, here is the table:
 
-- GitHub Pro: A suite of tools and features for collaborating on code and managing projects on GitHub, including private repositories, issue tracking, and code review tools.
+| Tool Name | Description |
+| --- | --- |
+| GitHub Pro | A suite of tools and features for collaborating on code and managing projects on GitHub, including private repositories, issue tracking, and code review tools. |
+| Canva Pro | A graphic design platform that allows students to create and design visual content, including presentations, logos, and social media graphics. |
+| Microsoft Azure | A cloud computing platform that provides students with credits to use for virtual machines, cloud services, and other developer tools. |
+| JetBrains | A suite of development tools, including integrated development environments (IDEs) for various programming languages, code editors, and project management tools. |
+| Namecheap | A domain name registrar that provides students with a free domain name and SSL certificate for one year. |
+| GitKraken | A Git client that simplifies the process of managing and collaborating on code. |
 
-- Canva Pro: A graphic design platform that allows students to create and design visual content, including presentations, logos, and social media graphics.
-
-- Microsoft Azure: A cloud computing platform that provides students with credits to use for virtual machines, cloud services, and other developer tools.
-
-- JetBrains: A suite of development tools, including integrated development environments (IDEs) for various programming languages, code editors, and project management tools.
-
-- Namecheap: A domain name registrar that provides students with a free domain name and SSL certificate for one year.
-
-- GitKraken: A Git client that simplifies the process of managing and collaborating on code.
+The URL for the GitHub Education website is https://education.github.com/.
 
 To be eligible for the GitHub Student Developer Pack, students must be at least 13 years old and enrolled in a degree-granting institution. They must also have a verified GitHub account and provide proof of their student status, such as a school-issued email address or transcript.
 
