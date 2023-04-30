@@ -12,7 +12,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Benefit for students](./benefit.md#benefits-for-students)
 - [Benefits for lecturers/ academics](./benefit.md#benefits-for-lecturersacademics)
 - [GitHub Student Developer Pack](./starter.md)
-- [Sign up in GitHub Education](./signup)
+- [Sign up in GitHub Education](./signup.md)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
