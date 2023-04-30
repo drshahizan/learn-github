@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Github Education
+# [Github Education](https://education.github.com/)
 GitHub Education is a program that provides students, teachers, and academic institutions with access to a range of tools and resources to help them learn and teach technology skills. The program offers a number of benefits, including access to GitHub Pro, Canva Pro, Microsoft Azure, JetBrains, Namecheap, GitKraken, and other developer tools, all of which are designed to help students and teachers collaborate on code, manage projects, and build their skills.
 
 Some of the benefits for students include free access to the GitHub Student Developer Pack, which includes over 100 free tools and services, as well as access to GitHub Classroom, Lesson Plans, Classroom Tools, and Professional Development resources. The GitHub Student Developer Pack is designed to help students develop their skills and build their portfolios, and includes tools for coding, design, and project management.
