@@ -65,7 +65,7 @@ GitHub is used by millions of developers and organizations around the world for 
 
 [**[More info...]**](/materials/github-intro.md)
 
-### Github Profile 👋
+## Github Profile 👋
 A GitHub profile is a public facing page that displays a user's activity on the platform. It includes information such as the user's username, profile picture, bio, location, and links to their website or social media profiles.
 
 The main focus of a GitHub profile is the user's repositories. Repositories are collections of files that contain a project or a portion of a project. On a GitHub profile, users can showcase their repositories, which can be sorted by type (public or private), language, and date. Each repository includes information such as the name, description, number of stars (a measure of popularity), and the number of forks (when someone makes a copy of the repository to make their own changes).
