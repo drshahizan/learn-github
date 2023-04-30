@@ -69,6 +69,44 @@ Some key features of GitHub Classroom include:
 
 Overall, GitHub Classroom is a powerful tool for educators who want to integrate coding and software development into their classrooms. By using GitHub Classroom, educators can streamline the assignment and grading process, while providing students with a powerful platform for collaboration and learning.
 
+## Professional Development
+Professional Development is a feature of GitHub Education that provides resources and support for educators who want to enhance their skills and knowledge. Here's how to use Professional Development in GitHub Education:
+
+1. Explore the resources: GitHub Education offers a wide range of resources for professional development, including webinars, workshops, tutorials, and other online resources. These resources cover a variety of topics, including coding and programming, project management, and classroom management.
+
+2. Attend a workshop: GitHub Education offers a range of workshops and training sessions for educators. These workshops are designed to help educators improve their teaching skills and gain new insights into teaching and learning.
+
+3. Join a community: GitHub Education provides a vibrant community of educators who share ideas, insights, and best practices. By joining this community, educators can connect with their peers, collaborate on projects, and get feedback and support from other educators.
+
+Some key features of Professional Development in GitHub Education include:
+
+- High-quality resources: GitHub Education provides high-quality resources that are designed to help educators enhance their skills and knowledge. These resources are created by experts in the field, and are regularly updated to ensure they remain relevant and effective.
+
+- Wide range of topics: Professional Development in GitHub Education covers a wide range of topics, including coding and programming, project management, and classroom management. This means that educators can find resources that are tailored to their specific needs and interests.
+
+- Community support: GitHub Education provides a strong community of educators who can offer support and guidance to their peers. This community is an invaluable resource for educators who want to learn and grow in their profession.
+
+Overall, Professional Development in GitHub Education is a valuable resource for educators who want to improve their skills, stay up-to-date with the latest trends and best practices, and connect with a vibrant community of educators. By using these resources, educators can enhance their teaching skills, and provide their students with a more engaging and effective learning experience.
+
+## Community support 
+Community support is a feature of GitHub Education that provides a space for educators and students to connect with each other and get help with their projects. Here's how to use Community Support in GitHub Education:
+
+1. Access the community: The GitHub Education community is accessible through the GitHub Education website. You can join the community by signing up for an account on the website.
+
+2. Ask for help: Once you're part of the community, you can ask questions, share your projects, and get help from other members. You can post your questions in the discussion forums or chat with other members in real-time.
+
+3. Offer help: If you're an experienced educator or student, you can offer help to other members of the community. You can share your knowledge, provide feedback on projects, and help other members troubleshoot their code.
+
+Some key features of Community Support in GitHub Education include:
+
+- Active community: The GitHub Education community is a vibrant and active community of educators and students who are passionate about coding and programming. This means that there's always someone available to help you with your projects and answer your questions.
+
+- Diverse perspectives: The community is made up of people from all over the world, with different backgrounds and levels of expertise. This diversity means that you can get help from people with different perspectives and approaches to coding and programming.
+
+- Safe and supportive space: The community is a safe and supportive space where you can share your projects, ask questions, and get feedback without fear of judgement. Members of the community are encouraged to be respectful and supportive of each other at all times.
+
+Overall, Community Support is a valuable feature of GitHub Education that provides a space for educators and students to connect with each other, get help with their projects, and share their knowledge and expertise. By using this feature, you can become part of a vibrant community of passionate coders and programmers who are dedicated to learning and growing together.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
 
