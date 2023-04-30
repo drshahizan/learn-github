@@ -7,19 +7,9 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# <a href="https://github.com/drshahizan/learn-github/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/learn-github" alt="Stars Badge"/></a>
-<a href="https://github.com/drshahizan/learn-github/network/members"><img src="https://img.shields.io/github/forks/drshahizan/learn-github" alt="Forks Badge"/></a>
-<a href="https://github.com/drshahizan/learn-github/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/learn-github" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/drshahizan/learn-github/issues"><img src="https://img.shields.io/github/issues/drshahizan/learn-github" alt="Issues Badge"/></a>
-<a href="https://github.com/drshahizan/learn-github/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/learn-github?color=2b9348"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/learn-cloud)
-
-Don't forget to hit the :star: if you like this repo.
 
 # GitHub Student Developer Pack
 The GitHub Student Developer Pack is a program offered by GitHub Education that provides students with free access to a range of developer tools and services to help them develop their skills and build their portfolios. The pack includes access to over 100 tools, including cloud hosting services, developer tools, design tools, and various learning resources.
-
-Sure, here is the table:
 
 | Tool Name | Description |
 | --- | --- |
