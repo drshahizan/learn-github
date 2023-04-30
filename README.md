@@ -105,6 +105,10 @@ GitHub profiles are a great way for developers to showcase their skills and proj
 - [Youtube - Github Pages: Web Hosting Gratis dengan GitHub Pages](https://youtu.be/rgDDWhQe-ow)
 - [GitHub Pages examples](https://github.com/collections/github-pages-examples)
 
+## Github Education
+GitHub Education is a program designed to support students and educators by providing them with free access to various tools and resources to learn, teach, and collaborate on coding and technology projects. The program offers a range of benefits, including free access to GitHub Enterprise, GitHub Pro, and a host of developer tools, as well as access to various courses, webinars, and learning resources. GitHub Education aims to foster a community of learners and educators by connecting students and teachers worldwide to create innovative projects and push the boundaries of technology.
+- [Github education](https://education.github.com/)
+
 ## Tools✨
 - [StackEdit](https://stackedit.io/app#)
 - [Dillinger](https://dillinger.io/)
