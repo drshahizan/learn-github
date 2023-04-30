@@ -38,7 +38,7 @@ One of the main benefits of using Git is its ability to track changes and roll b
 
 Git can be used with a command-line interface, or with a variety of graphical user interfaces (GUIs) that provide a more user-friendly experience. Some popular Git GUIs include GitHub Desktop, Sourcetree, and GitKraken.
 
-Overall, Git is a powerful tool for software developers that facilitates collaboration, version control, and quality control. [**More info...**](/materials/git-intro.md)
+Overall, Git is a powerful tool for software developers that facilitates collaboration, version control, and quality control. [**[More info...]**](/materials/git-intro.md)
 
 ## 🔗 [GitHub](/materials/github-intro.md)
 GitHub is a web-based platform for software development that uses Git for version control. It allows developers to collaborate on projects, share code, and manage their software development workflows.
@@ -63,7 +63,7 @@ GitHub is used by millions of developers and organizations around the world for 
 
 - [Stuck on Git: Git basic for beginners explained with post it notes](https://www.linkedin.com/posts/brookejamieson_git-learntocode-techbasics-activity-7029577352955219968-i4X1/)
 
-[**More info...**](/materials/github-intro.md)
+[**[More info...]**](/materials/github-intro.md)
 
 ### Github Profile 👋
 A GitHub profile is a public facing page that displays a user's activity on the platform. It includes information such as the user's username, profile picture, bio, location, and links to their website or social media profiles.
@@ -106,7 +106,7 @@ GitHub profiles are a great way for developers to showcase their skills and proj
 - [GitHub Pages examples](https://github.com/collections/github-pages-examples)
 
 ## Github Education
-GitHub Education is a program designed to support students and educators by providing them with free access to various tools and resources to learn, teach, and collaborate on coding and technology projects. The program offers a range of benefits, including free access to GitHub Enterprise, GitHub Pro, and a host of developer tools, as well as access to various courses, webinars, and learning resources. GitHub Education aims to foster a community of learners and educators by connecting students and teachers worldwide to create innovative projects and push the boundaries of technology. [**[More information...]**](./materials/education)
+GitHub Education is a program designed to support students and educators by providing them with free access to various tools and resources to learn, teach, and collaborate on coding and technology projects. The program offers a range of benefits, including free access to GitHub Enterprise, GitHub Pro, and a host of developer tools, as well as access to various courses, webinars, and learning resources. GitHub Education aims to foster a community of learners and educators by connecting students and teachers worldwide to create innovative projects and push the boundaries of technology. [**[More info...]**](./materials/education)
 
 ## Tools✨
 - [StackEdit](https://stackedit.io/app#)
