@@ -10,7 +10,7 @@ Don't forget to hit the :star: if you like this repo.
 # Github Education
 
 - [Benefit for students](./benefit.md#benefits-for-students)
-- [Benefits for lecturers/academics](./benefit.md#benefits-for-lecturersacademics)
+- [Benefits for lecturers/ academics](./benefit.md#benefits-for-lecturersacademics)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
