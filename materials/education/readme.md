@@ -12,6 +12,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Benefit for students](./benefit.md#benefits-for-students)
 - [Benefits for lecturers/ academics](./benefit.md#benefits-for-lecturersacademics)
 - [GitHub Student Developer Pack](./starter.md)
+- [Educator resources](./educator.md)
 - [Sign up in GitHub Education](./signup.md)
 
 ## Contribution 🛠️
