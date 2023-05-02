@@ -57,6 +57,9 @@ Overall, tables, boards, and roadmaps are powerful tools that help developers st
 
 Keep in mind that these are just general guidelines, and the exact steps for using tables, boards, and roadmaps in GitHub Projects may vary depending on your specific project needs. Additionally, it's important to communicate with your team members and stakeholders to ensure that everyone understands how to use these tools effectively and that they are updated regularly to reflect the most current information.
 
+## Useful Links
+- [Planning and tracking with Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects)
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
 
