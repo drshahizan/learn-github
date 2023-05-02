@@ -32,6 +32,31 @@ Roadmaps are a way of visualizing the long-term goals and milestones for a proje
 
 Overall, tables, boards, and roadmaps are powerful tools that help developers stay organized and on track as they work on software projects. They allow developers to visualize the progress of work, manage complex projects, and communicate plans and progress to stakeholders.
 
+### How to use tables, boards, and roadmaps in GitHub Projects
+
+### 1. Tables
+- Navigate to the GitHub repository where your project is located and click on the Projects tab.
+- Click on the "Create a project" button and select "Table" as the project template.
+- Customize the table by adding columns and labels that match the needs of your project.
+- Create cards to represent tasks or issues that need to be tracked and assign them to team members as needed.
+- Update the table as work progresses by moving cards between columns or updating card information.
+
+### 2. Boards
+- Navigate to the GitHub repository where your project is located and click on the Projects tab.
+- Click on the "Create a project" button and select "Board" as the project template.
+- Customize the board by adding columns and labels that match the needs of your project.
+- Create cards to represent tasks or issues that need to be tracked and assign them to team members as needed.
+- Update the board as work progresses by moving cards between columns or updating card information.
+
+### 3. Roadmaps
+- Navigate to the GitHub repository where your project is located and click on the Projects tab.
+- Click on the "Create a project" button and select "Roadmap" as the project template.
+- Add milestones and dates that correspond to major goals or deliverables in the project.
+- Create issues or tasks that need to be completed in order to reach each milestone.
+- Update the roadmap as work progresses by adding new tasks or adjusting milestone dates as needed.
+
+Keep in mind that these are just general guidelines, and the exact steps for using tables, boards, and roadmaps in GitHub Projects may vary depending on your specific project needs. Additionally, it's important to communicate with your team members and stakeholders to ensure that everyone understands how to use these tools effectively and that they are updated regularly to reflect the most current information.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
 
