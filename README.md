@@ -113,7 +113,7 @@ GitHub Education is a program designed to support students and educators by prov
 ## Github Projects
 GitHub is a web-based platform that is widely used for version control and collaborative software development. GitHub projects refer to the various software projects that are hosted on the platform.
 
-When a project is hosted on GitHub, developers can create and manage the project's code, track its changes over time, and collaborate with other developers on the project. Each project has its own repository, which is a central location where all the project's files and code are stored. [**[More info...]**](./materials/project)
+When a project is hosted on GitHub, developers can create and manage the project's code, track its changes over time, and collaborate with other developers on the project. Each project has its own repository, which is a central location where all the project's files and code are stored. [**[More info...]**](./materials/projects)
 
 ## Tools✨
 - [StackEdit](https://stackedit.io/app#)
