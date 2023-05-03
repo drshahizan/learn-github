@@ -121,21 +121,6 @@ Various tools and useful links for developers, particularly those using Git and 
 ## Articles 📖
 This is a list of various articles related to Git and GitHub, particularly for beginners who want to learn more about these tools and how to use them effectively. Some of the articles provide introductions to Git and GitHub, such as the "Intro to Git and GitHub for Beginners" tutorial on Coursera and Microsoft Learning's "Github" course. Other articles focus on more specific aspects of using GitHub, such as creating a GitHub Profile README, adding dynamic stats to a README, or creating interactive READMEs. Additionally, some articles explore more advanced topics like self-updating READMEs using webhooks and Netlify functions. Overall, these articles offer a range of useful insights and tips for developers looking to improve their Git and GitHub skills and create more engaging and informative GitHub profiles. [**[More info...]**](./materials/article.md)
 
-## Tutorials 🎥
-- [Git, GitHub, & GitHub Desktop for beginners](https://youtu.be/8Dd7KRpKeaE)
-- [What is GitHub?](https://youtu.be/pBy1zgt0XPc)
-- [How to Use GitHub](https://youtu.be/v_1iqtOnUMg)
-- [GitHub Tutorial - Beginner's Training Guide](https://youtu.be/iv8rSLsi1xo)
-- ["Create Impressive GitHub Portfolio"](https://www.youtube.com/watch?v=dkE4mVhwMB4) - *MTECHVIRAL*
-- ["How To Create a Github Profile ReadMe"](https://www.youtube.com/watch?v=DOiGs2NiDbU) - *James Q Quick*
-- ["How to create a GitHub profile README"](https://www.youtube.com/watch?v=vND_UY7xk24) - *Code With Confidence*
-- ["How To Create A GitHub Profile README"](https://www.youtube.com/watch?v=Y1z7_GfEPiE) - *Program With Erik*
-- ["Next Level GitHub Profile README"](https://youtu.be/ECuqb5Tv9qI) - *codeSTACKr*
-- [Git Explained in 100 Seconds](https://youtu.be/hwP7WQkmECE)
-- [GitHub Pull Request in 100 Seconds](https://youtu.be/8lGpZkjnkt4)
-- [Git It? How to use Git and Github](https://youtu.be/HkdAHXoRtos)
-- [13 Advanced (but useful) Git Techniques and Shortcuts](https://youtu.be/ecK3EnyGD8o)
-
 ## Google Colab✍️
 1. [Welcome To Colaboratory](https://colab.research.google.com/#scrollTo=Nma_JWh-W-IF)
 2. [Google Colab — The Beginner’s Guide](https://medium.com/lean-in-women-in-tech-india/google-colab-the-beginners-guide-5ad3b417dfa)
