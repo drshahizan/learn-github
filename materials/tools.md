@@ -7,7 +7,7 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Tools✨
+# Tools and useful links✨
 - [StackEdit](https://stackedit.io/app#)
 - [Dillinger](https://dillinger.io/)
 - [Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
