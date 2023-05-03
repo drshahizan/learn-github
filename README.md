@@ -121,6 +121,9 @@ Various tools and useful links for developers, particularly those using Git and 
 ## Articles 📖
 This is a list of various articles related to Git and GitHub, particularly for beginners who want to learn more about these tools and how to use them effectively. Some of the articles provide introductions to Git and GitHub, such as the "Intro to Git and GitHub for Beginners" tutorial on Coursera and Microsoft Learning's "Github" course. Other articles focus on more specific aspects of using GitHub, such as creating a GitHub Profile README, adding dynamic stats to a README, or creating interactive READMEs. Additionally, some articles explore more advanced topics like self-updating READMEs using webhooks and Netlify functions. Overall, these articles offer a range of useful insights and tips for developers looking to improve their Git and GitHub skills and create more engaging and informative GitHub profiles. [**[More info...]**](./materials/article.md)
 
+## Tutorials 🎥
+Various tutorial videos related to Git and GitHub. These tutorials are aimed at beginners who are new to using these tools and want to learn the basics. Some of the videos provide introductions to Git and GitHub, such as "What is GitHub?" and "How to Use GitHub." Others focus on specific aspects of using GitHub, such as creating a GitHub portfolio or profile README. Additionally, some videos explore more advanced topics like advanced Git techniques and shortcuts. Overall, these tutorial videos offer a range of useful insights and tips for developers looking to improve their Git and GitHub skills and create more engaging and informative GitHub profiles. [**[More info...]**](./materials/tutorial.md)
+
 ## Google Colab✍️
 1. [Welcome To Colaboratory](https://colab.research.google.com/#scrollTo=Nma_JWh-W-IF)
 2. [Google Colab — The Beginner’s Guide](https://medium.com/lean-in-women-in-tech-india/google-colab-the-beginners-guide-5ad3b417dfa)
