@@ -7,70 +7,53 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Tools
-GitHub Pages is a static site hosting service provided by GitHub. It allows users to host static HTML, CSS, and JavaScript files for free, directly from a GitHub repository. GitHub Pages also allows for custom domains, HTTPS encryption, and Jekyll, a static site generator.
-
-To use GitHub Pages, a user creates a new repository on GitHub and names it with the convention `username.github.io`. Then, they can upload their HTML, CSS, and JavaScript files to the repository and configure the repository settings to enable GitHub Pages. The user can choose to have the site hosted on a custom domain, or on the default `username.github.io` domain.
-
-GitHub Pages also includes built-in support for Jekyll, a static site generator that can be used to create and manage content for a website. Jekyll uses templates and Markdown files to generate static HTML files, which can be hosted on GitHub Pages.
-
-Overall, GitHub Pages is a simple and free solution for hosting static websites. It's ideal for personal sites, documentation, and small projects that don't require dynamic content or server-side processing.
-
-## Steps to create a GitHub Pages website
-
-### 1. Create a new repository:
-
-- Log in to your GitHub account and click the "+" icon in the top right corner of the page.
-- Select "New Repository" from the drop-down menu.
-- Name your repository in the following format: `username.github.io`, where "username" is your GitHub username.
-
-### 2. Upload your website files:
-
-- Upload your website files to the repository. You can do this using the GitHub website interface, or by using Git to push the files to the repository.
-- Your website files should include at least an `index.html` file, which will be the homepage of your website.
-
-### 3. Enable GitHub Pages:
-
-- Navigate to the repository's "Settings" page.
-- Scroll down to the "GitHub Pages" section.
-- Select the branch that you want to use for your website (usually the "main" branch).
-- Click "Save".
-
-### 4. Verify your website is live:
-
-- After you have enabled GitHub Pages, a green banner will appear at the top of the page, confirming that your website is live.
-- You can access your website at `https://username.github.io`.
-
-### 5. Customize your website:
-
-- You can customize your website further by using a custom domain name, adding CSS styles, or using Jekyll to generate your website.
-That's it! Your GitHub Pages website is now live and accessible to the world.
-
-## Connect a GitHub repository to a GitHub Pages website:
-
-1. Create a new repository on GitHub with the name "username.github.io" (replace "username" with your GitHub username).
-2. Upload your website files to the repository.
-3. Ensure that you have an "index.html" file in the root directory of your repository. This file will be the main page of your website.
-4. Once you have your repository set up, go to your repository's settings page.
-5. Scroll down to the "GitHub Pages" section and select "master branch" or "main branch" as your source.
-6. Click "Save" and wait for a few minutes for GitHub to build your website.
-7. After the build process is complete, you will see a green message saying "Your site is published at https://username.github.io".
-8. Click on the link to view your website.
-
-## Connect three different GitHub repositories to a single GitHub Pages website:
-
-1. Create a new repository on GitHub with the name "username.github.io" (replace "username" with your GitHub username).
-2. Clone the repository to your local machine using Git.
-3. Create a new folder for each of your three repositories inside the cloned repository folder. For example, you can name the folders "repo1", "repo2", and "repo3".
-4. Clone each of the three repositories into their respective folders on your local machine.
-5. Copy the contents of the "index.html" file from each of the three repositories into the root directory of the cloned repository folder.
-6. Copy any other files (CSS, JavaScript, images, etc.) that your website needs from each of the three repositories into the root directory of the cloned repository folder.
-7. Push the changes to the "username.github.io" repository on GitHub.
-8. Go to your repository's settings page on GitHub.
-9. Scroll down to the "GitHub Pages" section and select "master branch" or "main branch" as your source.
-10. Click "Save" and wait for a few minutes for GitHub to build your website.
-11. After the build process is complete, you will see a green message saying "Your site is published at https://username.github.io".
-12. Click on the link to view your website, and you should be able to see all three repositories linked together in one GitHub Pages website.
+# Tools✨
+- [StackEdit](https://stackedit.io/app#)
+- [Dillinger](https://dillinger.io/)
+- [Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
+- [GitHub Skills](https://skills.github.com/)
+- [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+- [Awesome README Tools](https://github.com/dhyeythumar/awesome-readme-tools)
+- [Todoist Stats in Readme](https://github.com/abhisheknaiidu/todoist-readme) - Daily Todoist Stats on your Profile Readme
+- [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
+- [Shields Project](https://shields.io/) - Use Shields to create profile badges, compatible with Simple Icons
+- [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Get dynamically generated GitHub stats on your readmes
+- [Github Contributor Stats](https://github.com/HwangTaehyun/github-contributor-stats) - :fire: Get dynamically generated Github Contributor stats (repositories you really committed) on your readmes
+- [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+- [Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage) -  SVG icons for popular brands for your README.md files
+- [Laravel GitHub Profile Visit Counter](https://github.com/caneco/laravel-github-profile-view-counter) - Add on your Laravel project a quick-badge to count your profile visits.
+- [Dev Metrics in Readme](https://github.com/athul/waka-readme) - [WakaTime](https://wakatime.com/) Weekly Metrics on your Profile Readme
+- [Profile Activity Generator](https://github.com/omidnikrah/profile-activity-generator) - Generate custom profile activity for your profile README
+- [Current UTC time](https://github.com/jojoee/jojoee) - Example code of server that can serve dynamic content on GitHub profile
+- [Github Activity in README](https://github.com/jamesgeorge007/github-activity-readme) - Updates `README.md` with the recent GitHub activity of a user
+- [Github Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator) - This tool provides an easy way to create github profile readme with latest addons like `visitors count`, `github stats` etc.
+- [Dynamic Profile Page On Github](https://github.com/umutphp/github-action-dynamic-profile-page) - Get dynamically generated list of your commits (of the repositories that the action is configured) on GitHub profile readme.
+- [npm package downloads](https://github.com/maddhruv/github-readme-npm-downloads) - Show all of your npm packages and their total downloads
+- [All Dev Stats in Readme](https://github.com/anmol098/waka-readme-stats) - Are you an early 🐤 or a night 🦉? When are you most productive during the day? What languages you code in? And other stuff... Let's check out in your readme!
+- [Feedparser](https://pythonhosted.org/feedparser/) - Convenient processing of RSS files
+- [Profile README Widgets](https://github.com/marketplace/actions/profile-readme) - Add simple widgets to your profile readme.
+- [Spotify now playing card generator](https://github.com/kittinan/spotify-github-profile) - Generate your Spotify now playing card for your GitHub profile
+- [Markdown Badges](https://github.com/Ileriayo/markdown-badges) - Add badges to your profile.
+- [Latest Blog Posts and StackOverflow activity in readme](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity on your GitHub profile/project readme automatically using the RSS feed using this Github Action
+- [GitHub Readme LinkedIn](https://github.com/soroushchehresa/github-readme-linkedin) - Get dynamically generated images from your LinkedIn profile on your GitHub readmes
+- [GitHub Readme Medium](https://github.com/omidnikrah/github-readme-medium) - Show your latest Medium article on your readmes!
+- [GitHub Readme StackOverflow](https://github.com/omidnikrah/github-readme-stackoverflow) - Dynamically generated your StackOverflow profile status on your GitHub readmes!
+- [StackOverflow Stats Badge](https://github.com/claytonjhamilton/stackoverflow-badge) - Display your stats with this Unique StackOverflow Badge!
+- [Github Profile README Generator](https://github.com/arturssmirnovs/github-profile-readme-generator) - This project allows you to create nice and simple github profile readme files.
+- [Profile Readme Stats](https://github.com/marketplace/actions/profile-readme-stats) - [Github Action] Showcase your github stats on your profile README.md
+- [README Jokes](https://github.com/ABSphreak/readme-jokes) - Random dev jokes in your GitHub README.
+- [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
+- [Github Readme Twitter](https://github.com/gazf/github-readme-twitter) - Show your latest tweet on your readmes.
+- [Random Dev Memes](https://github.com/techytushar/random-memer) - Random dev memes to display on your GitHub README.
+- [GitHub Readme Quotes](https://github.com/PiyushSuthar/github-readme-quotes) - Dev quotes on your GitHub Profile Readme.
+- [GitHub Profilinator](https://github.com/rishavanand/github-profilinator) - This tool contains small GUI components that you can hook together to generate markdown for your perfect readme.
+- [PageSpeed score](https://github.com/ankurparihar/readme-pagespeed-insights) - Generate website's PageSpeed score in animated svg form which can be used in GitHub README
+- [Gitwar Profile Score](https://github.com/iampavangandhi/Gitwar) - Add your Github Profile Score in README.
+- [Header Images for Github Profile READMEs](https://github.com/khalby786/REHeader) - Generate header images for your GitHub profile READMEs with custom content
+- [YouTube Channel Stats](https://github.com/DenverCoder1/github-readme-youtube-stats) - 📺 Display number of subscribers on YouTube and/or your channel's view count as a badge
+- [Current Book Status from GoodReads](https://github.com/theFr1nge/goodreads-readme) - Add a card of the current book you are reading that automatically syncs with GoodReads to display your progress.
+- [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) - :zap: Dynamically generated, customizable SVG that gives the appearance of typing and deleting text
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
