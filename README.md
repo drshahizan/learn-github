@@ -17,7 +17,6 @@ In the developer roadmap, learners are typically introduced to Git and GitHub ea
 
 As learners progress in their developer roadmap, they may dive deeper into more advanced Git and GitHub features, such as using pull requests for code reviews, integrating Git with continuous integration/continuous deployment (CI/CD) pipelines, and automating workflows using GitHub Actions.
 
-
 <p align="center">
 <img src="https://github.com/drshahizan/learn-github/blob/main/images/Github-EN.jpg"  height="400" />
 </p>
@@ -116,6 +115,7 @@ GitHub is a web-based platform that is widely used for version control and colla
 When a project is hosted on GitHub, developers can create and manage the project's code, track its changes over time, and collaborate with other developers on the project. Each project has its own repository, which is a central location where all the project's files and code are stored. [**[More info...]**](./materials/projects)
 
 ## Tools and useful links
+Various tools and useful links for developers, particularly those using Git and GitHub. Some of the tools mentioned include StackEdit and Dillinger for editing and formatting Markdown documents, GitHub Skills for learning and improving Git and GitHub skills, and Awesome README Tools for creating more engaging and informative README files for projects. There are also links to various resources for tracking project statistics, including Todoist Stats in Readme, Github Readme Stats, and Github Contributor Stats. Additionally, there are tools for creating visitor badges, profile activity generators, and more. Overall, these tools and resources can help developers to be more productive and make their projects more accessible and engaging for users.
 [**[More info...]**](./materials/tools.md)
 
 ## Articles 📖
