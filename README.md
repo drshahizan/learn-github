@@ -124,11 +124,6 @@ This is a list of various articles related to Git and GitHub, particularly for b
 ## Tutorials 🎥
 Various tutorial videos related to Git and GitHub. These tutorials are aimed at beginners who are new to using these tools and want to learn the basics. Some of the videos provide introductions to Git and GitHub, such as "What is GitHub?" and "How to Use GitHub." Others focus on specific aspects of using GitHub, such as creating a GitHub portfolio or profile README. Additionally, some videos explore more advanced topics like advanced Git techniques and shortcuts. Overall, these tutorial videos offer a range of useful insights and tips for developers looking to improve their Git and GitHub skills and create more engaging and informative GitHub profiles. [**[More info...]**](./materials/tutorial.md)
 
-## Google Colab✍️
-1. [Welcome To Colaboratory](https://colab.research.google.com/#scrollTo=Nma_JWh-W-IF)
-2. [Google Colab — The Beginner’s Guide](https://medium.com/lean-in-women-in-tech-india/google-colab-the-beginners-guide-5ad3b417dfa)
-3. [Introduction to Colab and Python](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l01c01_introduction_to_colab_and_python.ipynb#scrollTo=YHI3vyhv5p85)
-
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
 
