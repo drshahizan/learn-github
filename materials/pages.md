@@ -72,6 +72,16 @@ That's it! Your GitHub Pages website is now live and accessible to the world.
 11. After the build process is complete, you will see a green message saying "Your site is published at https://username.github.io".
 12. Click on the link to view your website, and you should be able to see all three repositories linked together in one GitHub Pages website.
 
+## Comparison GitHub and GitHub Pages 
+
+GitHub is a web-based hosting service for version control using Git. It provides a platform for software developers to collaborate on code projects and track changes to their codebase over time. GitHub offers a wide range of features and tools for managing code repositories, such as pull requests, issues, and wikis, making it a popular choice for software development teams.
+
+On the other hand, GitHub Pages is a free web hosting service that allows you to publish a website or web application directly from your GitHub repository. With GitHub Pages, you can create a static website or host a dynamic web application using Jekyll, a popular static site generator, or any other framework or language that can run on the web.
+
+The main difference between GitHub and GitHub Pages is that GitHub is primarily focused on code collaboration and version control, whereas GitHub Pages is designed for hosting websites and web applications. While GitHub allows you to store and manage your code repositories, GitHub Pages provides a platform for publishing and sharing your web content.
+
+In summary, GitHub is a powerful tool for managing code repositories and collaborating on software development projects, while GitHub Pages is a simple and free way to host your website or web application directly from your GitHub repository. Depending on your needs, you may choose to use one or both of these services to manage your code and share your web content.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
 
