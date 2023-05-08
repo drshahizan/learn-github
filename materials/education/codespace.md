@@ -32,28 +32,28 @@ To install MySQL in a GitHub Codespace, you can follow these general steps:
 1. Open your Codespace in the web-based IDE or in a terminal.
 2. Run the following command to update the package manager and install MySQL:
 
-```
-sudo apt-get update
-sudo apt-get install mysql-server
-```
+   ```
+   sudo apt-get update
+   sudo apt-get install mysql-server
+   ```
 
 3. During the installation process, you will be prompted to create a MySQL root password. Choose a strong password and remember it, as you will need it to access the MySQL server.
 4. Once the installation is complete, start the MySQL service by running the following command:
 
-```
-sudo systemctl start mysql
-```
+   ```
+   sudo systemctl start mysql
+   ```
 
 5. You can now connect to the MySQL server and create a new database and user by running the following commands:
 
-```mysql
-sudo mysql
-CREATE DATABASE your_database_name;
-CREATE USER 'your_user_name'@'localhost' IDENTIFIED BY 'your_password';
-GRANT ALL PRIVILEGES ON your_database_name.* TO 'your_user_name'@'localhost';
-FLUSH PRIVILEGES;
-exit
-```
+   ```mysql
+   sudo mysql
+   CREATE DATABASE your_database_name;
+   CREATE USER 'your_user_name'@'localhost' IDENTIFIED BY 'your_password';
+   GRANT ALL PRIVILEGES ON your_database_name.* TO 'your_user_name'@'localhost';
+   FLUSH PRIVILEGES;
+   exit
+   ```
 
 Replace "your_database_name", "your_user_name", and "your_password" with your desired values.
 
