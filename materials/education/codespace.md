@@ -17,7 +17,7 @@ To develop a web application using PHP with GitHub Codespaces, you can follow th
 2. Open the repository in GitHub and click the "Code" button to open the repository in Codespaces. This will create a new Codespace for your project and give you access to a web-based IDE where you can write, debug, and test your code.
 3. Install PHP in your Codespace, if it is not already installed, by running the following command in the terminal:
 
-   ```
+   ```php
    sudo apt-get update && sudo apt-get install php
    ```
 
@@ -26,7 +26,7 @@ To develop a web application using PHP with GitHub Codespaces, you can follow th
 6. Test your application by running it locally in your Codespace. You can do this by starting a web server, such as Apache or Nginx, and accessing your application through a web browser.
 7. Push your code to GitHub to share it with your team and deploy it to a production environment, if necessary.
 
-Case Study: University Academic Registration System
+## Case Study: University Academic Registration System
 
 As an example of developing a web application using PHP with GitHub Codespaces, consider building a university academic registration system. This system would allow students to register for courses, view their schedules, and manage their academic records. Here are some general steps you might take to build this system using Codespaces:
 
