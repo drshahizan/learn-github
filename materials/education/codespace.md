@@ -26,6 +26,41 @@ To develop a web application using PHP with GitHub Codespaces, you can follow th
 6. Test your application by running it locally in your Codespace. You can do this by starting a web server, such as Apache or Nginx, and accessing your application through a web browser.
 7. Push your code to GitHub to share it with your team and deploy it to a production environment, if necessary.
 
+## Install MySQL in a GitHub Codespace
+To install MySQL in a GitHub Codespace, you can follow these general steps:
+
+1. Open your Codespace in the web-based IDE or in a terminal.
+2. Run the following command to update the package manager and install MySQL:
+
+```
+sudo apt-get update
+sudo apt-get install mysql-server
+```
+
+3. During the installation process, you will be prompted to create a MySQL root password. Choose a strong password and remember it, as you will need it to access the MySQL server.
+4. Once the installation is complete, start the MySQL service by running the following command:
+
+```
+sudo systemctl start mysql
+```
+
+5. You can now connect to the MySQL server and create a new database and user by running the following commands:
+
+```mysql
+sudo mysql
+CREATE DATABASE your_database_name;
+CREATE USER 'your_user_name'@'localhost' IDENTIFIED BY 'your_password';
+GRANT ALL PRIVILEGES ON your_database_name.* TO 'your_user_name'@'localhost';
+FLUSH PRIVILEGES;
+exit
+```
+
+Replace "your_database_name", "your_user_name", and "your_password" with your desired values.
+
+6. You can now use the MySQL server in your Codespace to store and retrieve data for your PHP application.
+
+Overall, installing MySQL in a GitHub Codespace is a straightforward process that can be completed using the command line. Once installed, you can use MySQL to store and retrieve data for your PHP application.
+
 ## Case Study: University Academic Registration System
 
 As an example of developing a web application using PHP with GitHub Codespaces, consider building a university academic registration system. This system would allow students to register for courses, view their schedules, and manage their academic records. Here are some general steps you might take to build this system using Codespaces:
