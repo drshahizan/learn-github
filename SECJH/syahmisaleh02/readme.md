@@ -1,6 +1,0 @@
-# HELLO WORLD
-## HELLO WORLD
-### HELLO WORLD
-#### HELLO WORLD 
-**Muhammad Syahmi**
-- A21EC0208
