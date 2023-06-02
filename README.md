@@ -94,14 +94,17 @@ GitHub profiles are a great way for developers to showcase their skills and proj
 
 #### Others
 1. [How to Create an Impressive GitHub Profile](https://medium.com/@catherineisonline/how-to-create-an-impressive-github-profile-c1a3610b0770)
-2. [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+2. [Ekaterine (Catherine) Mitagvaria](https://github.com/catherineisonline)
 3. [How to create a GitHub Profile README: Michelle Mannering](https://dev.to/github/how-to-create-a-github-profile-readme-jha)
-4. [mishmanners](https://github.com/mishmanners)
-5. [How To Create A GitHub Profile README: Monica Powell](https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj)
-6. [m0nica](https://github.com/m0nica)
-7. [katiehuangx](https://github.com/katiehuangx)
-8. [sharkawy98](https://github.com/sharkawy98)
+4. [How To Create A GitHub Profile README: Monica Powell](https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj)
+5. [katiehuangx](https://github.com/katiehuangx)
 
+#### Tools
+1. [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+2. [GPRM](https://gprm.itsvg.in/)
+3. [Profilinator]()
+4. [Arturs Smirnovs]()
+5. 
 ## Github Pages
 GitHub Pages is a web hosting service provided by GitHub that allows users to create and host static websites directly from their GitHub repositories. With GitHub Pages, users can publish websites for personal or project use, including blogs, portfolios, and documentation. Users can choose to host their site on a custom domain or a GitHub-provided subdomain, and can create and edit their site using a variety of tools and languages, including HTML, CSS, and JavaScript. GitHub Pages is a powerful and easy-to-use tool for creating and hosting websites, and is a popular choice for developers, designers, and individuals looking to build an online presence.
 
