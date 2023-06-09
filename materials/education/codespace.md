@@ -9,6 +9,20 @@ Don't forget to hit the :star: if you like this repo.
 
 # Github Education: Codespaces
 
+## History
+GitHub Codespaces was introduced by GitHub in 2020 as a cloud-based development environment that allows developers to write, review, and ship code directly from their web browser or integrated development environment (IDE). It provides a fully configured development environment in the cloud, eliminating the need for developers to set up and maintain local development environments.
+
+Before the launch of GitHub Codespaces, developers typically had to set up their local development environments with the necessary dependencies, tools, and configurations. This process often involved complex installation procedures and could be time-consuming, especially when working with multiple projects or collaborating with other developers.
+
+GitHub Codespaces aimed to simplify this process and provide developers with a consistent and reproducible development environment that could be accessed from anywhere with an internet connection. By moving the development environment to the cloud, developers could save time on initial setup, easily switch between projects, and collaborate more seamlessly with others.
+
+The history of GitHub Codespaces can be traced back to Visual Studio Codespaces, which was initially introduced by Microsoft as Visual Studio Online in 2019. Visual Studio Codespaces provided a similar cloud-based development environment but was primarily focused on Visual Studio IDE users.
+
+GitHub, being a subsidiary of Microsoft, leveraged the technology behind Visual Studio Codespaces and integrated it into their platform to create GitHub Codespaces. This integration brought the benefits of cloud-based development environments to the GitHub ecosystem, allowing developers to work on their GitHub repositories directly from the browser or their preferred IDE, including Visual Studio Code.
+
+GitHub Codespaces has continued to evolve since its launch, with regular updates and enhancements to improve the developer experience. It has gained popularity among developers who prefer the convenience and flexibility of cloud-based development environments, enabling them to work on their projects from various devices without the need for complex setup processes.
+
+---
 GitHub Codespaces is a cloud-based development environment provided by GitHub that allows developers to create, customize, and use a development environment in the cloud. It provides a fully-functional development environment that can be accessed from anywhere, without the need for developers to install software on their local machines. Codespaces support a wide range of programming languages and tools, including PHP, and can be used for a variety of projects, from simple scripts to complex web applications.
 
 To develop a web application using PHP with GitHub Codespaces, you can follow these general steps:
