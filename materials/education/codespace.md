@@ -35,6 +35,63 @@ You can connect to your codespaces from your browser, from Visual Studio Code, f
 <img src="../../images/codespaces.webp"  height="600" />
 </p>
 
+## GitHub Codespaces in Visual Studio Code
+To run GitHub Codespaces in Visual Studio Code, you can follow these steps:
+
+1. Make sure you have Visual Studio Code installed on your machine. If you don't have it, you can download it from the official website: https://code.visualstudio.com/
+
+2. Open Visual Studio Code.
+
+3. Install the "GitHub Codespaces" extension from the Visual Studio Code marketplace. You can do this by clicking on the extensions icon in the sidebar (or by pressing Ctrl+Shift+X) and searching for "GitHub Codespaces". Click on "Install" to install the extension.
+
+4. Once the extension is installed, click on the Codespaces icon in the sidebar (or press Ctrl+Shift+P and search for "Codespaces: Connect to a codespace").
+
+5. You will be prompted to sign in with your GitHub account. Follow the instructions to authenticate and authorize access to your GitHub repositories.
+
+6. After signing in, you will see a list of your available Codespaces. Select the Codespace you want to connect to.
+
+7. Visual Studio Code will start connecting to the selected Codespace. Once connected, you will see the Codespace environment in Visual Studio Code.
+
+8. You can now work with the files and folders in your Codespace using Visual Studio Code. You can edit code, run commands, and perform all the usual tasks within the Codespace environment.
+
+9. To run your code or preview your project, open the relevant file(s) and use the appropriate commands or extensions for your programming language or project type. For example, if you're working with an HTML project, you can use the "Live Server" extension to launch a live preview of your web page.
+
+Remember to save your changes and commit them to the Codespace to ensure your work is saved and can be accessed from other machines or collaborators.
+
+## Creating a "Hello World" HTML project
+To use GitHub Codespaces for creating a "Hello World" HTML project, follow these steps:
+
+1. Open your GitHub account and navigate to the repository where you want to create your project.
+
+2. Click on the "Code" button and select "Open with Codespaces" from the dropdown menu.
+
+3. GitHub Codespaces will set up a development environment for you in the cloud. Once the environment is ready, you will be redirected to the Codespaces editor.
+
+4. In the Codespaces editor, locate the file explorer on the left-hand side. Right-click on the folder where you want to create your HTML project and select "New File" to create a new file.
+
+5. Name the file "index.html" (or any name you prefer) and open it in the editor.
+
+6. In the "index.html" file, you can start writing your HTML code. For a basic "Hello World" example, you can use the following code:
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello World</title>
+  </head>
+  <body>
+    <h1>Hello, World!</h1>
+  </body>
+</html>
+```
+
+7. Save the file by pressing Ctrl+S (or Command+S on macOS).
+
+8. To preview the HTML page, click on the "Go Live" button in the bottom right corner of the Codespaces editor. This will open a new browser tab showing the rendered HTML page.
+
+Congratulations! You have successfully created a "Hello World" HTML project in GitHub Codespaces. You can further customize your HTML code or add CSS and JavaScript to enhance the appearance and functionality of your web page.
+
+Remember to commit and push your changes to the GitHub repository to save your progress and make it accessible to others. You can use the Git commands or the built-in version control features in the Codespaces editor to manage your code.
 
 ## Web application using PHP with GitHub Codespaces
 
