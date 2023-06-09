@@ -89,7 +89,7 @@ GitHub profiles are a great way for developers to showcase their skills and proj
 | 1. [How to Create an Impressive GitHub Profile](https://medium.com/@catherineisonline/how-to-create-an-impressive-github-profile-c1a3610b0770)<br>2. [Ekaterine (Catherine) Mitagvaria](https://github.com/catherineisonline)<br>3. [How to create a GitHub Profile README: Michelle Mannering](https://dev.to/github/how-to-create-a-github-profile-readme-jha)<br>4. [How To Create A GitHub Profile README: Monica Powell](https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj)<br>5. [katiehuangx](https://github.com/katiehuangx)|
 
 <details>
-  <summary id="tools">Tools: GitHub Profile README Generator</summary>
+  <summary id="tools"> <b>Tools</b></summary>
 
 1. [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 2. [GPRM](https://gprm.itsvg.in/)
