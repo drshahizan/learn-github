@@ -18,7 +18,7 @@ In the developer roadmap, learners are typically introduced to Git and GitHub ea
 As learners progress in their developer roadmap, they may dive deeper into more advanced Git and GitHub features, such as using pull requests for code reviews, integrating Git with continuous integration/continuous deployment (CI/CD) pipelines, and automating workflows using GitHub Actions.
 
 <p align="center">
-<img src="https://github.com/drshahizan/learn-github/blob/main/images/Github-EN.jpg"  height="400" />
+<img src="images/Github-EN.jpg"  height="400" />
 </p>
 
 ## Developer Roadmaps
