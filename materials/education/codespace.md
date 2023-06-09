@@ -22,6 +22,16 @@ GitHub, being a subsidiary of Microsoft, leveraged the technology behind Visual 
 
 GitHub Codespaces has continued to evolve since its launch, with regular updates and enhancements to improve the developer experience. It has gained popularity among developers who prefer the convenience and flexibility of cloud-based development environments, enabling them to work on their projects from various devices without the need for complex setup processes.
 
+## What is a codespace?
+A codespace is a development environment that's hosted in the cloud. You can customize your project for GitHub Codespaces by committing configuration files to your repository (often known as Configuration-as-Code), which creates a repeatable codespace configuration for all users of your project.
+
+Each codespace you create is hosted by GitHub in a Docker container, running on a virtual machine. You can choose from a selection of virtual machine types, from 2 cores, 8 GB RAM, and 32 GB storage, up to 32 cores, 64 GB RAM, and 128 GB storage.
+
+By default, codespaces are created from an Ubuntu Linux image that includes a selection of popular languages and tools, but you can use an image based on a Linux distribution of your choice and configure it for your particular requirements. Regardless of your local operating system, your codespace will run in a Linux environment. Windows and MacOS are not supported operating systems for the remote container.
+
+You can connect to your codespaces from your browser, from Visual Studio Code, from the JetBrains Gateway application, or by using GitHub CLI. When you connect, you are placed within the Docker container. You do not have access to the outer Linux virtual machine host.
+
+
 ---
 GitHub Codespaces is a cloud-based development environment provided by GitHub that allows developers to create, customize, and use a development environment in the cloud. It provides a fully-functional development environment that can be accessed from anywhere, without the need for developers to install software on their local machines. Codespaces support a wide range of programming languages and tools, including PHP, and can be used for a variety of projects, from simple scripts to complex web applications.
 
