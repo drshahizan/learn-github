@@ -85,7 +85,7 @@ To use GitHub Codespaces for creating a "Hello World" HTML project, follow these
 </html>
 ```
 
-7. Save the file by pressing Ctrl+S (or Command+S on macOS).
+7. Save the file by pressing `Ctrl+S` (or `Command+S` on macOS).
 
 8. To preview the HTML page, click on the "Go Live" button in the bottom right corner of the Codespaces editor. This will open a new browser tab showing the rendered HTML page.
 
