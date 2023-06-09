@@ -31,7 +31,9 @@ By default, codespaces are created from an Ubuntu Linux image that includes a se
 
 You can connect to your codespaces from your browser, from Visual Studio Code, from the JetBrains Gateway application, or by using GitHub CLI. When you connect, you are placed within the Docker container. You do not have access to the outer Linux virtual machine host.
 
-
+<p align="center">
+<img src="../../images/codespaces.webp"  height="400" />
+</p>
 ---
 GitHub Codespaces is a cloud-based development environment provided by GitHub that allows developers to create, customize, and use a development environment in the cloud. It provides a fully-functional development environment that can be accessed from anywhere, without the need for developers to install software on their local machines. Codespaces support a wide range of programming languages and tools, including PHP, and can be used for a variety of projects, from simple scripts to complex web applications.
 
