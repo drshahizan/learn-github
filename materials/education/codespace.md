@@ -34,8 +34,9 @@ You can connect to your codespaces from your browser, from Visual Studio Code, f
 <p align="center">
 <img src="../../images/codespaces.webp"  height="600" />
 </p>
----
-GitHub Codespaces is a cloud-based development environment provided by GitHub that allows developers to create, customize, and use a development environment in the cloud. It provides a fully-functional development environment that can be accessed from anywhere, without the need for developers to install software on their local machines. Codespaces support a wide range of programming languages and tools, including PHP, and can be used for a variety of projects, from simple scripts to complex web applications.
+
+
+## Web application using PHP with GitHub Codespaces
 
 To develop a web application using PHP with GitHub Codespaces, you can follow these general steps:
 
@@ -52,7 +53,7 @@ To develop a web application using PHP with GitHub Codespaces, you can follow th
 6. Test your application by running it locally in your Codespace. You can do this by starting a web server, such as Apache or Nginx, and accessing your application through a web browser.
 7. Push your code to GitHub to share it with your team and deploy it to a production environment, if necessary.
 
-## Install MySQL in a GitHub Codespace
+### Install MySQL in a GitHub Codespace
 To install MySQL in a GitHub Codespace, you can follow these general steps:
 
 1. Open your Codespace in the web-based IDE or in a terminal.
