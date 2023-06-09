@@ -22,6 +22,26 @@ GitHub, being a subsidiary of Microsoft, leveraged the technology behind Visual 
 
 GitHub Codespaces has continued to evolve since its launch, with regular updates and enhancements to improve the developer experience. It has gained popularity among developers who prefer the convenience and flexibility of cloud-based development environments, enabling them to work on their projects from various devices without the need for complex setup processes.
 
+## Development environment
+
+GitHub Codespaces provides a customizable development environment that can be tailored to meet the specific needs of developers. The development environment specification for GitHub Codespaces includes the following features:
+
+1. Operating System: Codespaces supports both Linux and Windows operating systems, allowing developers to choose the environment that aligns with their project requirements.
+
+2. Code Editor: Codespaces provides a built-in code editor with a rich set of features and functionalities. By default, it includes Visual Studio Code, a popular and highly extensible code editor. Developers can leverage the powerful editing capabilities, syntax highlighting, debugging tools, and extensions available within the code editor.
+
+3. Terminal Access: Codespaces offers an integrated terminal that allows developers to execute commands and run scripts directly within the development environment. This enables seamless interaction with the codebase and execution of various tasks.
+
+4. Language Support: GitHub Codespaces supports a wide range of programming languages and frameworks. It provides pre-installed language runtimes, compilers, and libraries for popular languages like JavaScript, Python, Java, C++, Ruby, and many more. This ensures that developers have the necessary tools and dependencies readily available.
+
+5. Version Control Integration: As a product of GitHub, Codespaces seamlessly integrates with Git, the widely used version control system. It provides a dedicated interface for managing Git repositories, making it easy to clone, branch, commit, and push code changes directly from the Codespaces environment.
+
+6. Configuration Options: Codespaces allows developers to customize their development environment by specifying configuration files. These files can define settings such as installed dependencies, build scripts, environment variables, and more. Developers can use these configuration options to replicate their local development setup and ensure consistency across different environments.
+
+7. Collaboration and Sharing: Codespaces supports collaborative development, enabling multiple developers to work on the same project simultaneously. Each developer can have their own Codespaces instance, facilitating real-time collaboration, code reviews, and pair programming. Developers can also easily share their Codespaces environment with others, making it convenient to onboard new team members or collaborate with external contributors.
+
+These are some of the key specifications of the development environment provided by GitHub Codespaces. It offers a powerful and flexible setup that empowers developers to efficiently work on their projects in a cloud-based environment.
+
 ## What is a codespace?
 A codespace is a development environment that's hosted in the cloud. You can customize your project for GitHub Codespaces by committing configuration files to your repository (often known as Configuration-as-Code), which creates a repeatable codespace configuration for all users of your project.
 
