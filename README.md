@@ -79,6 +79,11 @@ Another important aspect of a GitHub profile is the user's activity feed. This s
 GitHub profiles are a great way for developers to showcase their skills and projects to potential employers or collaborators. By maintaining an active and well-curated profile, developers can establish themselves as experts in their field and attract new opportunities.
 
 #### My students
+
+| <img alt="activity status" align="right" height="24" src="images/kotak.svg" /> :keyboard: Activity - Accept assignment |
+|:---|
+| <p>Chances are, if you are reading this, you have already accepted the assignment and have completed the task. Well done. :tada:<br />(You might need to refresh the page to see the completion status).</p><p>If you haven't accepted the assignment yet and are reading this from a central site, ask your teacher for the link to the assignment, then follow the [steps](#assignment-steps) to accepting a classroom assignment. |
+
 1. [Qaisara](https://github.com/qaisarrra)
 2. [Low Junyi](https://github.com/LowJunyi2001)
 3. [Ahmad Aiman Hafizi bin Muhammad](https://github.com/AimanHafizi619)
