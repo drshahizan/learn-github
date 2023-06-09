@@ -84,7 +84,7 @@ GitHub profiles are a great way for developers to showcase their skills and proj
 |:---|
 | 1. [Qaisara](https://github.com/qaisarrra) <br> 2. [Low Junyi](https://github.com/LowJunyi2001) <br> 3. [Ahmad Aiman Hafizi bin Muhammad](https://github.com/AimanHafizi619) <br> 4. [KONG JIA ROU](https://github.com/jrkong2001utm) <br> 5. [Hong Pei Geok](https://github.com/peiyu00) <br> 6. [El Insyiraah](https://github.com/elleamyr) <br> 7. [SEPRIYANDI BIN AGUSR](https://github.com/sepz36) <br> 8. [Charlene A](https://github.com/Chikoness) <br> 9. [Neo Zheng Weng](https://github.com/zw-weng) <br> 10. [Wan Nur Sofea](https://github.com/wannursofea)<br> 11. [Camily Tang](https://github.com/camilytang)<br> 12. [Ng Shu Yu](https://github.com/ShuYu03) |
 
-| <img alt="activity status" align="right" height="24" src="images/kotak.svg" /> 😎 Others |
+| <img alt="activity status" align="right" height="24" src="images/kotak.svg" /> 🗣 Others |
 |:---|
 | 1. [How to Create an Impressive GitHub Profile](https://medium.com/@catherineisonline/how-to-create-an-impressive-github-profile-c1a3610b0770)<br>2. [Ekaterine (Catherine) Mitagvaria](https://github.com/catherineisonline)<br>3. [How to create a GitHub Profile README: Michelle Mannering](https://dev.to/github/how-to-create-a-github-profile-readme-jha)<br>4. [How To Create A GitHub Profile README: Monica Powell](https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj)<br>5. [katiehuangx](https://github.com/katiehuangx)|
 
@@ -93,6 +93,19 @@ GitHub profiles are a great way for developers to showcase their skills and proj
 2. [GPRM](https://gprm.itsvg.in/)
 3. [Profilinator](https://profilinator.rishav.dev/)
 4. [Arturs Smirnovs](https://arturssmirnovs.github.io/github-profile-readme-generator/)
+
+<details>
+  <summary id="assignment-steps">Accepting Classroom assignment steps</summary>
+
+  1. Follow the assignment link your teacher gave you.
+  2. Sign in to GitHub. If you don't have a GitHub account you will need to [create one](https://github.com/join).
+  3. If it's your first time accepting an assignment for the class you may need to select your name from the class roster. This makes it easier for your teacher to identify you. (Your teacher may find it difficult to recognize your GitHub username.)
+  4. Wait for the assignment to copy to new repository. This usually only takes a few seconds.
+  5. Refresh the page.
+  6. If the new assignment repository is ready, there will be a link to it on the page. Follow the link.
+
+</details>
+
 
 ## Github Pages
 GitHub Pages is a web hosting service provided by GitHub that allows users to create and host static websites directly from their GitHub repositories. With GitHub Pages, users can publish websites for personal or project use, including blogs, portfolios, and documentation. Users can choose to host their site on a custom domain or a GitHub-provided subdomain, and can create and edit their site using a variety of tools and languages, including HTML, CSS, and JavaScript. GitHub Pages is a powerful and easy-to-use tool for creating and hosting websites, and is a popular choice for developers, designers, and individuals looking to build an online presence.
