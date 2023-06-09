@@ -26,6 +26,14 @@ GitHub provides a range of features that make it easy for developers to collabor
 
 7. **Analytics and insights**: GitHub provides a range of analytics and insights tools, such as code frequency graphs and commit activity charts, to help developers track their progress and identify areas for improvement.
 
+8. **Documentation and Wikis**: GitHub includes features for creating documentation and wikis associated with projects. This helps developers maintain comprehensive documentation and share knowledge with other team members and users.
+
+9. **Extensibility**: GitHub offers an extensive ecosystem of integrations, plugins, and APIs. Developers can enhance their workflow by integrating GitHub with various tools and services, such as project management platforms, code quality analyzers, and communication tools.
+
+10. **Social Coding**: GitHub encourages social interaction and knowledge sharing within the developer community. Developers can follow repositories, star projects they find interesting, and contribute to open-source projects. They can also discover trending repositories, explore different programming languages, and learn from other developers' code.
+
+
+
 Overall, GitHub has become a central hub for software development, particularly for open source projects. Its features and tools make it easy for developers to collaborate and share code, manage version control, and streamline their software development workflows.
 
 ## GitHub Cheat-Sheet
