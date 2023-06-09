@@ -31,7 +31,7 @@ In addition to the roadmaps, the website also includes resources such as books, 
 - [Backend Developer](https://roadmap.sh/backend)
 - [Flutter Developer](https://roadmap.sh/flutter)
 
-## 🔗 [Git](/materials/git-intro.md)
+## 🔗 :large_orange_diamond:[Git](/materials/git-intro.md)
 Git is a distributed version control system designed to track changes in software code over time. It was created in 2005 by Linus Torvalds, the same person who created the Linux operating system. Git is open-source software, meaning that it is free to use and modify, and it is widely used in software development teams.
 
 With Git, developers can work collaboratively on the same codebase, making changes and merging them together seamlessly. Each developer has their own copy of the code repository, which they can modify and then share with others. Git also provides tools for branching and merging code, allowing developers to work on different features or bug fixes without interfering with each other's work.
@@ -42,7 +42,7 @@ Git can be used with a command-line interface, or with a variety of graphical us
 
 Overall, Git is a powerful tool for software developers that facilitates collaboration, version control, and quality control. [**[More info...]**](/materials/git-intro.md)
 
-## 🔗 [GitHub](/materials/github-intro.md)
+## 🔗 :octocat: [GitHub](/materials/github-intro.md)
 GitHub is a web-based platform for software development that uses Git for version control. It allows developers to collaborate on projects, share code, and manage their software development workflows.
 
 <p align="center">
