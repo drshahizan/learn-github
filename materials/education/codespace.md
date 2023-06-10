@@ -57,7 +57,8 @@ You can connect to your codespaces from your browser, from Visual Studio Code, f
 
 | <img alt="activity status" align="right" height="24" src="../../images/kotak.svg" /> Materials |
 |:---|
-| 1. [GitHub Codespaces: Learn To Code in Your Browser](https://betterprogramming.pub/github-codespaces-learn-to-code-in-your-browser-1a426e5e665f)<br>2. [Ekaterine (Catherine) Mitagvaria](https://github.com/catherineisonline)<br>3. [How to create a GitHub Profile README: Michelle Mannering](https://dev.to/github/how-to-create-a-github-profile-readme-jha)<br>4. [How To Create A GitHub Profile README: Monica Powell](https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj)<br>5. [katiehuangx](https://github.com/katiehuangx)|
+| 1. [GitHub Codespaces: Learn To Code in Your Browser](https://betterprogramming.pub/github-codespaces-learn-to-code-in-your-browser-1a426e5e665f)<br>2. [Open Source Data Exploration Tools You Need to Know, GitHub Codespaces and Copilot, and Meta’s New LLM
+](https://medium.com/odscjournal/open-source-data-exploration-tools-you-need-to-know-github-codespaces-and-copilot-and-metas-new-32bb740232f7)<br>3. [How to create a GitHub Profile README: Michelle Mannering](https://dev.to/github/how-to-create-a-github-profile-readme-jha)<br>4. [How To Create A GitHub Profile README: Monica Powell](https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj)<br>5. [katiehuangx](https://github.com/katiehuangx)|
 
 
 ## GitHub Codespaces in Visual Studio Code
