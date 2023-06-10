@@ -61,8 +61,7 @@ You can connect to your codespaces from your browser, from Visual Studio Code, f
 
 | <img alt="activity status" align="right" height="24" src="../../images/youtube64.png" /> Youtube.com |
 |:---|
-| 1. [What is Codespaces?](https://youtu.be/sYJ3CHtT6WM)<br>2. [How to use GitHub Codespaces for Free (VSCode in the cloud!)
-](https://youtu.be/YFdh32ShBeI)<br>3. [Github Codespace crash course](https://youtu.be/D_5T6KMTRb8)<br>4. [How to connect Github Codespaces and Mongodb Atlas](https://youtu.be/X88dsegH0-Y)|
+| 1. [What is Codespaces?](https://youtu.be/sYJ3CHtT6WM)<br>2. [How to use GitHub Codespaces for Free (VSCode in the cloud!)](https://youtu.be/YFdh32ShBeI)<br>3. [Github Codespace crash course](https://youtu.be/D_5T6KMTRb8)<br>4. [How to connect Github Codespaces and Mongodb Atlas](https://youtu.be/X88dsegH0-Y)|
 
 
 ## GitHub Codespaces in Visual Studio Code
