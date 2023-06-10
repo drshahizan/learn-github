@@ -61,7 +61,8 @@ You can connect to your codespaces from your browser, from Visual Studio Code, f
 
 | <img alt="activity status" align="right" height="24" src="../../images/youtube64.png" /> Youtube.com |
 |:---|
-| 1. [GitHub Codespaces: Learn To Code in Your Browser](https://betterprogramming.pub/github-codespaces-learn-to-code-in-your-browser-1a426e5e665f)<br>2. [Open Source Data Exploration Tools You Need to Know, GitHub Codespaces and Copilot, and Meta’s New LLM](https://medium.com/odscjournal/open-source-data-exploration-tools-you-need-to-know-github-codespaces-and-copilot-and-metas-new-32bb740232f7)<br>3. [GitHub Codespaces and GitHub Copilot: 2 Stories, Thousands of Possibilities](https://odsc.medium.com/github-codespaces-and-github-copilot-2-stories-thousands-of-possibilities-9e0e28ae706c)<br>4. [[Microsoft Dev Skill Ep.3] Level Up with GitHub Codespaces and Copilot](https://medium.com/@boatchrnthn/microsoft-dev-skill-ep-3-level-up-with-github-codespaces-and-copilot-5b85a5fd1b2a)|
+| 1. [What is Codespaces?](https://youtu.be/sYJ3CHtT6WM)<br>2. [How to use GitHub Codespaces for Free (VSCode in the cloud!)
+](https://youtu.be/YFdh32ShBeI)<br>3. [Github Codespace crash course](https://youtu.be/D_5T6KMTRb8)<br>4. [How to connect Github Codespaces and Mongodb Atlas](https://youtu.be/X88dsegH0-Y)|
 
 
 ## GitHub Codespaces in Visual Studio Code
