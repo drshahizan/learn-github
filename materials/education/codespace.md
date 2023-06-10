@@ -55,7 +55,7 @@ You can connect to your codespaces from your browser, from Visual Studio Code, f
 <img src="../../images/codespaces.webp"  height="600" />
 </p>
 
-| <img alt="activity status" align="right" height="24" src="images/kotak.svg" /> Materials |
+| <img alt="activity status" align="right" height="24" src="../../images/kotak.svg" /> Materials |
 |:---|
 | 1. [GitHub Codespaces: Learn To Code in Your Browser](https://betterprogramming.pub/github-codespaces-learn-to-code-in-your-browser-1a426e5e665f)<br>2. [Ekaterine (Catherine) Mitagvaria](https://github.com/catherineisonline)<br>3. [How to create a GitHub Profile README: Michelle Mannering](https://dev.to/github/how-to-create-a-github-profile-readme-jha)<br>4. [How To Create A GitHub Profile README: Monica Powell](https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj)<br>5. [katiehuangx](https://github.com/katiehuangx)|
 
