@@ -1,6 +1,7 @@
 # Software Engineering
 
-images/LD.png
+![image](https://github.com/drshahizan/learn-github/assets/115357859/e5433a20-6a56-4c4a-b70d-2f9d62e1abe4)
+
 
 Software engineering is a discipline that involves the application of engineering principles to the design, development, maintenance, testing, and evaluation of the software and systems that enable computers to perform their various applications.
 
