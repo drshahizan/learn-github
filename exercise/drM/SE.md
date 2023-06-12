@@ -10,6 +10,10 @@ Software Engineering is a discipline that focuses on the systematic development,
 ![a](https://github.com/drshahizan/Python_EDA/blob/main/lab/hpdp1.jpeg)
 
 ![gambar](/images/github.png)
+
+<p align="center">
+<img src="https://github.com/drshahizan/Python_EDA/blob/main/lab/hpdp1.jpeg"  height="200" />
+</p>
 ## Key Principles
 
 ### 1. Modularity and Abstraction
