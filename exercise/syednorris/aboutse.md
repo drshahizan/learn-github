@@ -6,6 +6,10 @@ Software Engineering is a discipline that encompasses the systematic approach to
 > Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
 
 ![New Topics](/images/img02.jpg)
+<p align="center">
+<img src="https://github.com/drshahizan/Python_EDA/blob/main/lab/hpdp1.jpeg"  height="200" />
+</p>
+
 
 ## Goals of Software Engineering
 
