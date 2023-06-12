@@ -1,5 +1,5 @@
 # Software Engineering
-
+## ❤️ Enjoy the class!
 Software Engineering is a discipline that encompasses the systematic approach to the development, operation, and maintenance of software systems. It involves applying engineering principles and practices to design, build, test, and deploy software solutions.
 
 ![Introduction to web programming](/images/webdev-programming.png)
