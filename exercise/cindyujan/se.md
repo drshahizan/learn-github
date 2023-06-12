@@ -1,4 +1,4 @@
-# Software Engineering
+# ❤️ Software Engineering ❤️
 
 Software engineering is a discipline that involves the design, development, and maintenance of software systems. It encompasses various methodologies, principles, and practices aimed at building high-quality, reliable, and efficient software.
 
@@ -11,6 +11,8 @@ Software engineering is a discipline that involves the design, development, and 
 <p align="center">
 <img src="https://github.com/drshahizan/Python_EDA/blob/main/lab/hpdp1.jpeg"  height="200" />
 </p>
+
+❤️
 
 ## Key Concepts
 
