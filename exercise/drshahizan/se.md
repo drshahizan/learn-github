@@ -5,6 +5,8 @@ Software Engineering is a discipline that focuses on the systematic development,
 ![Introduction to web programming](/images/webdev-programming.png)
 > Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
 
+![Introduction to web programming](https://github.com/drshahizan/Python_EDA/blob/main/lab/hpdp1.jpeg)
+
 ## Key Concepts
 
 ### 1. Software Development Life Cycle (SDLC)
