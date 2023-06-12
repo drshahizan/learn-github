@@ -5,7 +5,7 @@ Software Engineering is a discipline that encompasses the systematic approach to
 ![Introduction to web programming](/images/webdev-programming.png)
 > Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
 
-![New Topics](/images/img01.jpeg)
+![New Topics](/images/img02.jpg)
 
 ## Goals of Software Engineering
 
