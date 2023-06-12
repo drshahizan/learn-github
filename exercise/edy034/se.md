@@ -2,6 +2,10 @@
 
 Software engineering is a discipline that deals with the development, design, maintenance, and testing of software systems. It involves applying engineering principles and practices to create reliable, efficient, and scalable software solutions.
 
+
+![image](https://github.com/drshahizan/learn-github/assets/106678071/a08316bd-207b-4146-9067-7c72ce0b3a53)
+
+
 ## Key Concepts
 
 Software engineering encompasses several key concepts, including:
