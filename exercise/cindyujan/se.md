@@ -5,6 +5,8 @@ Software engineering is a discipline that involves the design, development, and 
 ![Introduction to web programming](/images/webdev-programming.png)
 > Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
 
+![Introduction to web programming](/images/poli kk.png)
+
 ## Key Concepts
 
 ### 1. Requirements Engineering
