@@ -2,8 +2,9 @@
 
 ![image](https://github.com/drshahizan/learn-github/assets/115357859/e5433a20-6a56-4c4a-b70d-2f9d62e1abe4)
 
+https://github.com/drshahizan/Python_EDA/blob/main/lab/hpdp1.jpeg
 
-images/LD.png
+
 
 Software engineering is a discipline that involves the application of engineering principles to the design, development, maintenance, testing, and evaluation of the software and systems that enable computers to perform their various applications.
 
