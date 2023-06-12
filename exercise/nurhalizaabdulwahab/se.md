@@ -2,7 +2,9 @@
 
 ![image](https://github.com/drshahizan/learn-github/assets/115357859/e5433a20-6a56-4c4a-b70d-2f9d62e1abe4)
 
-https://github.com/drshahizan/Python_EDA/blob/main/lab/hpdp1.jpeg
+<p align="center">
+<img src="https://github.com/drshahizan/Python_EDA/blob/main/lab/hpdp1.jpeg"  height="100" />
+</p>
 
 
 
