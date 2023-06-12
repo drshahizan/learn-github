@@ -5,7 +5,9 @@ Software engineering is a discipline that deals with the development, design, ma
 
 ![image](https://github.com/drshahizan/learn-github/assets/106678071/a08316bd-207b-4146-9067-7c72ce0b3a53)
 
-![image](https://github.com/drshahizan/learn-github/assets/106678071/d7d61ed9-b012-4204-8a03-e328f5114155)
+<p align="center">
+<img src="https://github.com/drshahizan/Python_EDA/blob/main/lab/hpdp1.jpeg"  height="200" />
+</p>
 
 ## Key Concepts
 
