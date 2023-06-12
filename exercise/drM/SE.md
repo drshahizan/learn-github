@@ -7,7 +7,7 @@ Software Engineering is a discipline that focuses on the systematic development,
 
 ![Introduction to web programming](/images/LD.png)
 
-(/images/github.png)
+![gambar](/images/github.png)
 ## Key Principles
 
 ### 1. Modularity and Abstraction
