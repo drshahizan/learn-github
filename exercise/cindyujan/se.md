@@ -2,6 +2,9 @@
 
 Software engineering is a discipline that involves the design, development, and maintenance of software systems. It encompasses various methodologies, principles, and practices aimed at building high-quality, reliable, and efficient software.
 
+![Introduction to web programming](/images/webdev-programming.png)
+> Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
+
 ## Key Concepts
 
 ### 1. Requirements Engineering
