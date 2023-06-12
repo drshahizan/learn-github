@@ -2,6 +2,9 @@
 
 Software Engineering is a discipline that focuses on the systematic development, design, maintenance, and documentation of software systems. It involves applying engineering principles and practices to software development processes in order to create reliable, scalable, and efficient software solutions.
 
+![Introduction to web programming](/images/webdev-programming.png)
+> Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
+
 ## Key Concepts
 
 ### 1. Software Development Life Cycle (SDLC)
