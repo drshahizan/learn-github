@@ -2,6 +2,9 @@
 
 Software Engineering is a discipline that focuses on the systematic development, design, and maintenance of software systems. It encompasses a wide range of activities, including requirements analysis, software design, programming, testing, deployment, and maintenance.
 
+![Introduction to web programming](/images/webdev-programming.png)
+> Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
+> 
 ## Key Principles
 
 ### 1. Modularity and Abstraction
