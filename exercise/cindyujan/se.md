@@ -12,6 +12,8 @@ Software engineering is a discipline that involves the design, development, and 
 <img src="https://github.com/drshahizan/Python_EDA/blob/main/lab/hpdp1.jpeg"  height="200" />
 </p>
 
+❤️
+
 ## Key Concepts
 
 ### 1. Requirements Engineering
