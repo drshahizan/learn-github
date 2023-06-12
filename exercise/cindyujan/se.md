@@ -7,7 +7,7 @@ Software engineering is a discipline that involves the design, development, and 
 
 ![Introduction to web programming](/images//poli%20kk.png)
 
-https://github.com/drshahizan/Python_EDA/blob/main/lab/hpdp1.jpeg
+![tulis anything](https://github.com/drshahizan/Python_EDA/blob/main/lab/hpdp1.jpeg)
 
 ## Key Concepts
 
