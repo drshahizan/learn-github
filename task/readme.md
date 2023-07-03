@@ -19,11 +19,11 @@ The "GitHub: Step-by-Step Guide" is a comprehensive tutorial covering account se
 - Logging in to your GitHub account
 - Using two-factor authentication (2FA)
 
-## 3. GitHub Education
+### 3. GitHub Education
 - Signing up for GitHub Education
 - Accessing educational benefits and features
 
-## 4. Basic GitHub Operations
+### 4. Basic GitHub Operations
 - Star: Understanding and using the "Star" feature
 - Fork a repo: Creating a forked repository and contributing to open-source projects
 - Cloning your forked repository: Cloning a repository to your local machine
@@ -31,7 +31,7 @@ The "GitHub: Step-by-Step Guide" is a comprehensive tutorial covering account se
 - Modifying files in a repository: Editing and updating existing files in a repository
 - Deleting files from a repository: Removing files from a repository
 
-### Writing on GitHub
+### 5. Writing on GitHub
 - Creating or editing your profile README
 - Adding an image
 - Adding a table
@@ -41,22 +41,22 @@ The "GitHub: Step-by-Step Guide" is a comprehensive tutorial covering account se
 - Creating diagrams: Mermaid diagrams, GeoJSON and TopoJSON maps, and STL 3D models
 - Saving your work
 
-## 5. GitHub Desktop
+## 6. GitHub Desktop
 - Clone: Cloning a repository to your local machine using GitHub Desktop
 - Commit: Committing changes to a repository using GitHub Desktop
 - Delete: Removing repositories from GitHub Desktop
 
-## 6. GitHub Profile
+## 7. GitHub Profile
 - Customizing your GitHub profile
 - Adding a profile picture and bio
 - Showcasing your contributions and projects
 
 ## Session 2
-### Create a repo
+### 8.Create a repo
 - Creating a new repository
 - Commit your first change to the repository
 
-## Settings
+## 9.Settings
 - Managing repository settings
 
 ## Add collaborator
@@ -65,24 +65,17 @@ The "GitHub: Step-by-Step Guide" is a comprehensive tutorial covering account se
 ## Insights
 - Utilizing GitHub's Insights feature to gain valuable project statistics
 
-## 7. GitHub Pages
+## 10. GitHub Pages
 - Setting up a GitHub Pages website
 - Creating and publishing web content using Markdown and Jekyll
 - Customizing your GitHub Pages site
 
-## Projects for a repository
+## 11. Projects for a repository
 - Using GitHub Projects to manage and organize tasks within a repository
 
 ## Conclusion
 - Recap of key GitHub features and concepts
 - Additional resources for further learning
-
-
-Feel free to make any adjustments or additions based on your specific requirements.
-
-
-
-
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
