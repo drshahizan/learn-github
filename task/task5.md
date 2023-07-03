@@ -64,10 +64,12 @@ Use the following Markdown syntax to add the image:
    Replace `Alt Text` with a descriptive alternative text for the image, and `image_url` with the URL of the image you want to add. You can use an image hosting service or the direct URL of an image file in your repository.
 
    For example:
-
    ```markdown
-   ![Profile Image](https://example.com/profile-image.jpg)
+   ![Youtube](../images/youtube64.png)
    ```
+  
+   ![Youtube](../images/youtube64.png)
+ 
 
 Note that the `Alt Text` is used to provide alternative text for the image, which is important for accessibility purposes.
 
@@ -88,12 +90,11 @@ To add a table, use the following markdown syntax:
 
    For example:
 
-   ```markdown
    | Name     | Age |
    | -------- | --- |
    | Shah     | 25  |
    | Aiman    | 28  |
-   ```
+  
 
 ## 5.4 Adding a collapsed section
 
@@ -112,7 +113,6 @@ To add a collapsed section, use the following markdown syntax:
 
    For example:
 
-   ```markdown
    <details>
    <summary>More details</summary>
 
@@ -122,7 +122,6 @@ To add a collapsed section, use the following markdown syntax:
    - List item 2
 
    </details>
-   ```
 
 > You can have multiple collapsed sections in your README by repeating the `<details>` and `</details>` tags.
 
@@ -144,6 +143,10 @@ To add a quote, use the following markdown syntax:
    > - Winston Churchill
    ```
 
+   > Success is not final, failure is not fatal: It is the courage to continue that counts.
+   > - Winston Churchill
+   
+
 ## 5.6 Adding a comment
 
 To add a comment, use the following markdown syntax:
@@ -155,10 +158,12 @@ To add a comment, use the following markdown syntax:
    Replace "Comment text goes here" with your desired comment. Comments in Markdown are not visible when the README is rendered, but they can be useful for adding notes or explanations to your code.
 
    For example:
-
    ```markdown
    <!-- This section is under development. Please check back later for updates. -->
    ```
+
+   <!-- This section is under development. Please check back later for updates. -->
+   
 
 > Comments in Markdown are helpful for adding contextual information to your README file without affecting its appearance when rendered. Keep in mind that comments are meant for developers or collaborators reading the Markdown source, and they are not visible in the final rendered version of the README.
 
@@ -166,7 +171,7 @@ To add a comment, use the following markdown syntax:
 
 To create a Mermaid diagram, use the following markdown syntax:
 
-   a. Mermaid Diagrams:
+### a. Mermaid Diagrams:
    Use the following Markdown syntax to create a Mermaid diagram:
 
    ```
@@ -205,8 +210,8 @@ graph TD;
      B -- No --> D[Result 2]
    ```
 
-   b. GeoJSON and TopoJSON Maps:
-   Use the following Markdown syntax to embed a GeoJSON or TopoJSON map:
+### b. GeoJSON Maps:
+   Use the following Markdown syntax to embed a GeoJSON map:
 
  ```markdown
 {
@@ -263,26 +268,148 @@ graph TD;
 }
 ```
 
-   c. STL 3D Models:
-   Use the following Markdown syntax to embed an STL 3D model:
+### c. Using TopoJSON
+You can create a TopoJSON map by specifying coordinates and shapes.
 
-   ```markdown
-   ```html
-   <model-viewer src="path_to_stl_file.stl" alt="3D Model" auto-rotate camera-controls></model-viewer>
-   ```
-   ```
+```
+{
+  "type": "Topology",
+  "transform": {
+    "scale": [0.0005000500050005, 0.00010001000100010001],
+    "translate": [100, 0]
+  },
+  "objects": {
+    "example": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "type": "Point",
+          "properties": {"prop0": "value0"},
+          "coordinates": [4000, 5000]
+        },
+        {
+          "type": "LineString",
+          "properties": {"prop0": "value0", "prop1": 0},
+          "arcs": [0]
+        },
+        {
+          "type": "Polygon",
+          "properties": {"prop0": "value0",
+            "prop1": {"this": "that"}
+          },
+          "arcs": [[1]]
+        }
+      ]
+    }
+  },
+  "arcs": [[[4000, 0], [1999, 9999], [2000, -9999], [2000, 9999]],[[0, 0], [0, 9999], [2000, 0], [0, -9999], [-2000, 0]]]
+}
+```
 
-   Replace "path_to_stl_file.stl" with the actual path or URL of your STL 3D model file.
+```topojson
+{
+  "type": "Topology",
+  "transform": {
+    "scale": [0.0005000500050005, 0.00010001000100010001],
+    "translate": [100, 0]
+  },
+  "objects": {
+    "example": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "type": "Point",
+          "properties": {"prop0": "value0"},
+          "coordinates": [4000, 5000]
+        },
+        {
+          "type": "LineString",
+          "properties": {"prop0": "value0", "prop1": 0},
+          "arcs": [0]
+        },
+        {
+          "type": "Polygon",
+          "properties": {"prop0": "value0",
+            "prop1": {"this": "that"}
+          },
+          "arcs": [[1]]
+        }
+      ]
+    }
+  },
+  "arcs": [[[4000, 0], [1999, 9999], [2000, -9999], [2000, 9999]],[[0, 0], [0, 9999], [2000, 0], [0, -9999], [-2000, 0]]]
+}
+```
+### d. STL 3D Models:
+You can use ASCII STL syntax directly in markdown to create interactive 3D models. To display a model, add ASCII STL syntax inside a fenced code block with the stl syntax identifier. 
 
-3. Preview your changes by clicking on the "Preview" tab to see how your README will look with the added diagram.
-4. Make any necessary adjustments to the content or formatting.
-5. Once you are satisfied with your changes, click on the "Commit changes" button at the bottom of the page.
-6.  GitHub will save your changes and update your profile README.
-7.  Refresh your profile page to see the updated README displayed with the added diagram.
+For example, you can create a simple 3D model:
 
-> Make sure to replace the placeholder content in the Markdown code with your own diagram data, coordinates, file paths, or URLs.
+```
+solid cube_corner
+  facet normal 0.0 -1.0 0.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 1.0 0.0 0.0
+      vertex 0.0 0.0 1.0
+    endloop
+  endfacet
+  facet normal 0.0 0.0 -1.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 0.0 1.0 0.0
+      vertex 1.0 0.0 0.0
+    endloop
+  endfacet
+  facet normal -1.0 0.0 0.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 0.0 0.0 1.0
+      vertex 0.0 1.0 0.0
+    endloop
+  endfacet
+  facet normal 0.577 0.577 0.577
+    outer loop
+      vertex 1.0 0.0 0.0
+      vertex 0.0 1.0 0.0
+      vertex 0.0 0.0 1.0
+    endloop
+  endfacet
+endsolid
+```
 
-## 5.8 Saving your work
+```stl
+solid cube_corner
+  facet normal 0.0 -1.0 0.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 1.0 0.0 0.0
+      vertex 0.0 0.0 1.0
+    endloop
+  endfacet
+  facet normal 0.0 0.0 -1.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 0.0 1.0 0.0
+      vertex 1.0 0.0 0.0
+    endloop
+  endfacet
+  facet normal -1.0 0.0 0.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 0.0 0.0 1.0
+      vertex 0.0 1.0 0.0
+    endloop
+  endfacet
+  facet normal 0.577 0.577 0.577
+    outer loop
+      vertex 1.0 0.0 0.0
+      vertex 0.0 1.0 0.0
+      vertex 0.0 0.0 1.0
+    endloop
+  endfacet
+endsolid
+```
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
