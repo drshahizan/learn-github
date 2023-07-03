@@ -9,6 +9,8 @@ Don't forget to hit the :star: if you like this repo.
 
 # GitHub: Step-by-Step Guide
 
+## 8.Create a repo
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
