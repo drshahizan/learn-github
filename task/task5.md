@@ -12,14 +12,14 @@ Don't forget to hit the :star: if you like this repo.
 ## 5. Writing on GitHub
 Writing on GitHub involves various tasks to enhance your repositories and profile. You can create or edit your profile README to provide information. Add images using Markdown syntax. Utilize tables for structured data representation. Create collapsible sections with HTML tags. Include quotes using Markdown blockquote syntax. Leave comments on specific lines or sections. Use Mermaid diagrams, GeoJSON and TopoJSON maps, and STL 3D models to visualize data. Remember to save your work by committing and pushing changes to ensure they are saved and backed up. These features enhance your GitHub experience and facilitate effective communication and presentation of your projects.
 
-## 5.1 Creating or editing your profile README
+### 5.1 Creating or editing your profile README
 
 1. Log in to your GitHub account.
 2. Navigate to your profile by clicking on your profile picture in the top-right corner of the screen.
 3. On your profile page, click on the "Add a README" button, or if you already have a README file, click on the pencil icon to edit it.
 4. GitHub will open the README file in the Markdown editor.
 
-Sample Markdown code for your profile README:
+#### Sample Markdown code for your profile README:
 
 ```markdown
 # My Profile
@@ -53,11 +53,9 @@ Feel free to reach out to me via email at [your-email@example.com]. Let's connec
 10. GitHub will save your changes and update your profile README.
 11. Refresh your profile page to see the updated README displayed.
 
-## 5.2 Adding an image
+### 5.2 Adding an image
 
-1. Open the README file in the Markdown editor. If you already have a README file, click on the pencil icon to edit it.
-2. Position the cursor in the location where you want to add the image.
-3. Use the following Markdown syntax to add the image:
+Use the following Markdown syntax to add the image:
 
    ```markdown
    ![Alt Text](image_url)
@@ -71,22 +69,13 @@ Feel free to reach out to me via email at [your-email@example.com]. Let's connec
    ![Profile Image](https://example.com/profile-image.jpg)
    ```
 
-   Note that the `Alt Text` is used to provide alternative text for the image, which is important for accessibility purposes.
+Note that the `Alt Text` is used to provide alternative text for the image, which is important for accessibility purposes.
 
-4. Preview your changes by clicking on the "Preview" tab to see how your README will look with the added image.
-5. Make any necessary adjustments to the content or formatting.
-6. Once you are satisfied with your changes, click on the "Commit changes" button at the bottom of the page.
-7. GitHub will save your changes and update your profile README.
-8. Refresh your profile page to see the updated README displayed with the image.
-
->Make sure to replace `image_url` with the actual URL of your image. You can upload the image to an image hosting service or use the direct URL of the image file in your repository.
+> Make sure to replace `image_url` with the actual URL of your image. You can upload the image to an image hosting service or use the direct URL of the image file in your repository.
 
 ## 5.3 Adding a table
-Certainly! Here is a step-by-step guide on how to add a table to your GitHub profile README using Markdown:
 
-1. Open the README file in the Markdown editor. If you already have a README file, click on the pencil icon to edit it.
-2. Position the cursor in the location where you want to add the table.
-3. Use the following Markdown syntax to create a table:
+To add a table, use the following markdown syntax:
 
    ```markdown
    | Header 1 | Header 2 |
@@ -102,27 +91,19 @@ Certainly! Here is a step-by-step guide on how to add a table to your GitHub pro
    ```markdown
    | Name     | Age |
    | -------- | --- |
-   | John     | 25  |
-   | Jane     | 28  |
+   | Shah     | 25  |
+   | Aiman     | 28  |
    ```
-
-4. Preview your changes by clicking on the "Preview" tab to see how your README will look with the added table.
-5. Make any necessary adjustments to the table's structure or formatting.
-6. Once you are satisfied with your changes, click on the "Commit changes" button at the bottom of the page.
-7. GitHub will save your changes and update your profile README.
-8. Refresh your profile page to see the updated README displayed with the added table.
 
 ## 5.4 Adding a collapsed section
 
-1. Open the README file in the Markdown editor. If you already have a README file, click on the pencil icon to edit it.
-2. Position the cursor in the location where you want to add the collapsed section.
-3. Use the following Markdown syntax to create a collapsed section:
+To add a collapsed section, use the following markdown syntax:
 
    ```markdown
    <details>
    <summary>Click to expand</summary>
 
-   Content goes here.
+   Content goes here. This can include text, images, links, or any other markdown elements.
 
    </details>
    ```
@@ -143,19 +124,11 @@ Certainly! Here is a step-by-step guide on how to add a table to your GitHub pro
    </details>
    ```
 
-4. Preview your changes by clicking on the "Preview" tab to see how your README will look with the added collapsed section.
-5. Make any necessary adjustments to the content or formatting.
-6. Once you are satisfied with your changes, click on the "Commit changes" button at the bottom of the page.
-7.  GitHub will save your changes and update your profile README.
-8.  Refresh your profile page to see the updated README displayed with the added collapsed section.
-
-> Feel free to customize the summary text and content within the collapsed section according to your needs. You can have multiple collapsed sections in your README by repeating the `<details>` and `</details>` tags.
+> You can have multiple collapsed sections in your README by repeating the `<details>` and `</details>` tags.
 
 ## 5.5 Adding a quote
 
-1. Open the README file in the Markdown editor. If you already have a README file, click on the pencil icon to edit it.
-2. Position the cursor in the location where you want to add the quote.
-3. Use the following Markdown syntax to create a quote:
+To add a quote, use the following markdown syntax:
 
    ```markdown
    > Quote text goes here.
@@ -171,17 +144,9 @@ Certainly! Here is a step-by-step guide on how to add a table to your GitHub pro
    > - Winston Churchill
    ```
 
-4. Preview your changes by clicking on the "Preview" tab to see how your README will look with the added quote.
-5. Make any necessary adjustments to the content or formatting.
-6. Once you are satisfied with your changes, click on the "Commit changes" button at the bottom of the page.
-7.  GitHub will save your changes and update your profile README.
-8.  Refresh your profile page to see the updated README displayed with the added quote.
-
 ## 5.6 Adding a comment
 
-1. Open the README file in the Markdown editor. If you already have a README file, click on the pencil icon to edit it.
-2. Position the cursor in the location where you want to add the comment.
-3. Use the following Markdown syntax to create a comment:
+To add a comment, use the following markdown syntax:
 
    ```markdown
    <!-- Comment text goes here -->
@@ -195,18 +160,11 @@ Certainly! Here is a step-by-step guide on how to add a table to your GitHub pro
    <!-- This section is under development. Please check back later for updates. -->
    ```
 
-4. Preview your changes by clicking on the "Preview" tab to see how your README will look with the added comment.
-5. Make any necessary adjustments to the content or formatting.
-6. Once you are satisfied with your changes, click on the "Commit changes" button at the bottom of the page.
-7.  GitHub will save your changes and update your profile README.
-8.  Refresh your profile page to see the updated README displayed without the comment.
-
 > Comments in Markdown are helpful for adding contextual information to your README file without affecting its appearance when rendered. Keep in mind that comments are meant for developers or collaborators reading the Markdown source, and they are not visible in the final rendered version of the README.
 
 ## 5.7 Creating diagrams: Mermaid diagrams, GeoJSON and TopoJSON maps, and STL 3D models
 
-1. Open the README file in the Markdown editor. If you already have a README file, click on the pencil icon to edit it.
-2. Choose the type of diagram you want to create and use the corresponding Markdown syntax.
+To create a Mermaid diagram, use the following markdown syntax:
 
    a. Mermaid Diagrams:
    Use the following Markdown syntax to create a Mermaid diagram:
