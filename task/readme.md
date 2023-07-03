@@ -41,12 +41,12 @@ The "GitHub: Step-by-Step Guide" is a comprehensive tutorial covering account se
 - Creating diagrams: Mermaid diagrams, GeoJSON and TopoJSON maps, and STL 3D models
 - Saving your work
 
-## 6. GitHub Desktop
+### 6. GitHub Desktop
 - Clone: Cloning a repository to your local machine using GitHub Desktop
 - Commit: Committing changes to a repository using GitHub Desktop
 - Delete: Removing repositories from GitHub Desktop
 
-## 7. GitHub Profile
+### 7. GitHub Profile
 - Customizing your GitHub profile
 - Adding a profile picture and bio
 - Showcasing your contributions and projects
@@ -56,21 +56,21 @@ The "GitHub: Step-by-Step Guide" is a comprehensive tutorial covering account se
 - Creating a new repository
 - Commit your first change to the repository
 
-## 9.Settings
+### 9.Settings
 - Managing repository settings
 
-## Add collaborator
+#### Add collaborator
 - Inviting collaborators to your repository
 
-## Insights
+#### Insights
 - Utilizing GitHub's Insights feature to gain valuable project statistics
 
-## 10. GitHub Pages
+### 10. GitHub Pages
 - Setting up a GitHub Pages website
 - Creating and publishing web content using Markdown and Jekyll
 - Customizing your GitHub Pages site
 
-## 11. Projects for a repository
+### 11. Projects for a repository
 - Using GitHub Projects to manage and organize tasks within a repository
 
 ## Conclusion
