@@ -7,6 +7,8 @@
 
 Don't forget to hit the :star: if you like this repo.
 
+Here's a revised version of the table of contents for your GitHub step-by-step guide:
+
 # GitHub: Step-by-Step Guide
 
 ## Session 1
@@ -24,50 +26,45 @@ Don't forget to hit the :star: if you like this repo.
 
 ## 4. Basic GitHub Operations
 - Star: Understanding and using the "Star" feature
+- Fork a repo: Creating a forked repository and contributing to open-source projects
+- Cloning your forked repository: Cloning a repository to your local machine
+- Adding files to a repository: Creating and adding files to a repository
+- Modifying files in a repository: Editing and updating existing files in a repository
+- Deleting files from a repository: Removing files from a repository
 
-Fork a repo
-Cloning your forked repository
-
-A fork is a new repository that shares code and visibility settings with the original “upstream” repository.
-Forking a repository
-
-- Fork: Forking a repository and contributing to open source projects
-- Add file: Creating and adding files to a repository
-- Edit file: Modifying and updating existing files in a repository
-- Delete file: Removing files from a repository
-
-writing on GitHub
-Creating or editing your profile README
-Adding an image
-Adding a table
-Adding a collapsed section
-Adding a quote
-Adding a comment
-
-Creating diagrams
-Creating Mermaid diagrams
-Creating GeoJSON and TopoJSON maps
-Creating STL 3D models
-Saving your work
-
+### Writing on GitHub
+- Creating or editing your profile README
+- Adding an image
+- Adding a table
+- Adding a collapsed section
+- Adding a quote
+- Adding a comment
+- Creating diagrams: Mermaid diagrams, GeoJSON and TopoJSON maps, and STL 3D models
+- Saving your work
 
 ## 5. GitHub Desktop
-- Clone: Cloning a repository to your local machine
-- Commit: Committing changes to a repository
+- Clone: Cloning a repository to your local machine using GitHub Desktop
+- Commit: Committing changes to a repository using GitHub Desktop
 - Delete: Removing repositories from GitHub Desktop
 
 ## 6. GitHub Profile
 - Customizing your GitHub profile
 - Adding a profile picture and bio
 - Showcasing your contributions and projects
-- 
-## Session 1
-## Create a repo
-Create a repository
-Commit your first change
+
+## Session 2
+### Create a repo
+- Creating a new repository
+- Commit your first change to the repository
 
 ## Settings
+- Managing repository settings
+
 ## Add collaborator
+- Inviting collaborators to your repository
+
+## Insights
+- Utilizing GitHub's Insights feature to gain valuable project statistics
 
 ## 7. GitHub Pages
 - Setting up a GitHub Pages website
@@ -75,10 +72,14 @@ Commit your first change
 - Customizing your GitHub Pages site
 
 ## Projects for a repository
+- Using GitHub Projects to manage and organize tasks within a repository
 
 ## Conclusion
 - Recap of key GitHub features and concepts
 - Additional resources for further learning
+
+
+Feel free to make any adjustments or additions based on your specific requirements.
 
 
 
