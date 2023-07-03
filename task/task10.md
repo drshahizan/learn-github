@@ -76,6 +76,71 @@ theme: jekyll-theme-cayman
 
 ### 10.3 Customizing your GitHub Pages site
 
+1. Go to your GitHub repository that hosts your GitHub Pages site.
+
+2. In the root directory of your repository, create a new file called `index.html`. This file will serve as the main HTML file for your custom site.
+
+3. Open the `index.html` file and add your custom HTML code to structure and design your site. You can include CSS styles, JavaScript code, and any other web elements you want to display on your site.
+
+4. Save the `index.html` file and commit it to your repository.
+
+5. GitHub Pages will automatically detect the presence of the `index.html` file and use it as the main page for your site.
+
+6. To further customize the appearance of your site, you can create a new CSS file and link it to your HTML file. For example, create a file called `styles.css` in the root directory of your repository.
+
+7. In your `index.html` file, add a `<link>` tag in the `<head>` section to link your custom CSS file. For example:
+
+   ```html
+   <link rel="stylesheet" href="styles.css">
+   ```
+
+8. Open the `styles.css` file and add your custom CSS code to define the styles for your site elements. You can modify colors, fonts, layout, and other visual aspects of your site using CSS.
+
+9. Save the `styles.css` file and commit it to your repository.
+
+10. GitHub Pages will now apply the custom styles from your `styles.css` file to your site.
+
+#### Source code
+a. HTML
+```html
+<!-- index.html -->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Welcome to My Custom GitHub Pages Site!</h1>
+    <p>This is a sample custom GitHub Pages site.</p>
+</body>
+</html>
+```
+
+b. CSS
+```css
+/* styles.css */
+
+body {
+    background-color: #f1f1f1;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+p {
+    color: #666;
+    text-align: center;
+}
+```
+
+In this code, the `index.html` file contains the HTML structure for your custom site, and the `styles.css` file contains the custom CSS styles to modify the appearance of the site elements.
+
+You can modify the HTML content and CSS styles according to your preferences to create a fully customized GitHub Pages site. Remember to commit and push these files to your repository to apply the changes and update your site.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
 
