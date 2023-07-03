@@ -8,12 +8,13 @@
 Don't forget to hit the :star: if you like this repo.
 
 # GitHub: Step-by-Step Guide
-## Sesi 1
-## 1. Getting Started with Your GitHub Account
+
+## Session 1
+### 1. Getting Started with Your GitHub Account
 - Signing up for a GitHub account
 - Configuring your profile settings
 
-## 2. Signing in to GitHub
+### 2. Signing in to GitHub
 - Logging in to your GitHub account
 - Using two-factor authentication (2FA)
 
@@ -60,7 +61,7 @@ Saving your work
 - Adding a profile picture and bio
 - Showcasing your contributions and projects
 - 
-## Sesi 2
+## Session 1
 ## Create a repo
 Create a repository
 Commit your first change
@@ -71,6 +72,8 @@ Commit your first change
 - Setting up a GitHub Pages website
 - Creating and publishing web content using Markdown and Jekyll
 - Customizing your GitHub Pages site
+
+## Project
 
 ## Conclusion
 - Recap of key GitHub features and concepts
