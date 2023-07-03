@@ -10,7 +10,8 @@ Don't forget to hit the :star: if you like this repo.
 # Zenodo
 
 # Introduction
-## PeerL example for DOI
+# Who uses it? How to use it?
+## PeerJ example for DOI
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
 
