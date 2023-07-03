@@ -19,10 +19,34 @@ This integration enhances collaboration and reproducibility within the scientifi
 * [Gene Ontology Data Archive](https://www.sciencedirect.com/science/article/pii/S2405676622000166?via%3Dihub)
 * [A large-scale COVID-19 Twitter chatter dataset for open scientific research - an international collaboration](https://zenodo.org/record/7834392)
 
-## Let's get started with preserving your GitHub repository!
-* Flip the switch: Choose the repository you wish to preserve and enable automatic preservation by toggling the switch. This activates Zenodo's feature to preserve your software automatically.
-* Create a release: Head to GitHub and create a release for your repository. Zenodo will then automatically download a .zip-ball of each new release and generate a DOI (Digital Object Identifier) for it.
-* Get the badge: Once your first release is complete, a DOI badge will appear next to your repository. You can include this badge in your GitHub README to showcase the DOI and highlight the preserved version of your software.
+## Using Zenodo with GitHub :octocat:
+
+🔘 Step 1: **Sign up and create accounts** :pencil2:
+   - Create a GitHub account if you don't have one. :ballot_box_with_check:
+   - Create a Zenodo account or log in using your existing GitHub credentials. :ballot_box_with_check:
+
+🚀 Step 2: **Create a new release on GitHub** :rocket:
+   - Go to your repository on GitHub. :ballot_box_with_check:
+   - Click on "Releases" in the repository menu. :ballot_box_with_check:
+   - Click on "Draft a new release." :ballot_box_with_check:
+   - Enter the release tag version, title, and description. :ballot_box_with_check:
+   - Click "Publish release" to create the release. :ballot_box_with_check:
+
+🎉 Step 3: **Zenodo DOI assignment** :medal_military:
+   - Once you publish the release, Zenodo will automatically create a DOI for the release. :ballot_box_with_check:
+   - Zenodo will also create a snapshot of the repository at that release version, ensuring preservation. :ballot_box_with_check:
+
+📎 Step 4: **Retrieve the DOI badge** :bookmark_tabs:
+   - After the DOI is assigned, you will find a DOI badge associated with the repository on Zenodo. :ballot_box_with_check:
+   - Copy the badge markdown code provided by Zenodo. :ballot_box_with_check:
+
+📝 Step 5: **Add the DOI badge to your README** :memo:
+   - Go to your repository on GitHub. :ballot_box_with_check:
+   - Click on the "README.md" file to edit it. :ballot_box_with_check:
+   - Add the DOI badge markdown code at an appropriate location in the README. :ballot_box_with_check:
+   - Commit the changes to the README. :ballot_box_with_check:
+
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
 
