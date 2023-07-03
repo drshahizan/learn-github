@@ -7,22 +7,47 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Github: Task
+# GitHub: Step-by-Step Guide
 
-Getting started with your GitHub account
-Sign in Github
-Sign in Github Educatiob
-Star
-Fork
-Add file
-Edit file
-Delete File
-Github Desktop
-Commit
-Delete
-Github Profile
+## 1. Getting Started with Your GitHub Account
+- Signing up for a GitHub account
+- Configuring your profile settings
 
-Github Pages
+## 2. Signing in to GitHub
+- Logging in to your GitHub account
+- Using two-factor authentication (2FA)
+
+## 3. GitHub Education
+- Signing up for GitHub Education
+- Accessing educational benefits and features
+
+## 4. Basic GitHub Operations
+- Star: Understanding and using the "Star" feature
+- Fork: Forking a repository and contributing to open source projects
+- Add file: Creating and adding files to a repository
+- Edit file: Modifying and updating existing files in a repository
+- Delete file: Removing files from a repository
+
+## 5. GitHub Desktop
+- Clone: Cloning a repository to your local machine
+- Commit: Committing changes to a repository
+- Delete: Removing repositories from GitHub Desktop
+
+## 6. GitHub Profile
+- Customizing your GitHub profile
+- Adding a profile picture and bio
+- Showcasing your contributions and projects
+
+## 7. GitHub Pages
+- Setting up a GitHub Pages website
+- Creating and publishing web content using Markdown and Jekyll
+- Customizing your GitHub Pages site
+
+## Conclusion
+- Recap of key GitHub features and concepts
+- Additional resources for further learning
+
+
 
 
 
