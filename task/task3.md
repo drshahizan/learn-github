@@ -26,7 +26,7 @@ Don't forget to hit the :star: if you like this repo.
 9. If your verification is successful, GitHub will send you an email notifying you that your student benefits have been granted.
 10. Congratulations! You are now signed up for GitHub Education and can start enjoying the benefits offered to students, such as free access to certain tools and resources.
 
-Note: It's important to follow the instructions provided by GitHub carefully during the verification process. Make sure to provide accurate information and any required documentation to ensure a smooth verification and approval process.
+> Note: It's important to follow the instructions provided by GitHub carefully during the verification process. Make sure to provide accurate information and any required documentation to ensure a smooth verification and approval process.
 
 ### 3.2 Accessing educational benefits and features
 
@@ -42,7 +42,8 @@ Note: It's important to follow the instructions provided by GitHub carefully dur
 10. If you encounter any issues or have questions regarding a specific benefit or feature, refer to the GitHub Education support documentation or reach out to their support team for assistance.
 11. Take advantage of the educational benefits and features provided through GitHub Education to enhance your learning, collaborate with others, and contribute to open-source projects.
 
-Note: Keep in mind that access to certain benefits and features may require ongoing enrollment verification or have specific eligibility criteria. Make sure to comply with any requirements to continue enjoying the educational benefits provided by GitHub Education.
+> Note: Keep in mind that access to certain benefits and features may require ongoing enrollment verification or have specific eligibility criteria. Make sure to comply with any requirements to continue enjoying the educational benefits provided by GitHub Education.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
 
