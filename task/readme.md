@@ -16,22 +16,22 @@ The "GitHub: Step-by-Step Guide" is a comprehensive tutorial covering account se
 
 | No | Topic |  File |
 | :-----: |  ------ | :-----: | 
-| 1 | Getting Started with Your GitHub Account| <a href="task1.md" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
-| 2 | Signing in to GitHub| <a href="task2.md" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
-| 3 | Signing in to GitHub Education | <a href="task3.md" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
-| 4 | Basic GitHub Operations| <a href="task4.md" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
-| 5 | Writing on GitHub| <a href="task5.md" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
-| 6 | GitHub Desktop | <a href="task6.md" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
-| 7 | GitHub Profile | <a href="task7.md" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
+| 1 | Getting Started with Your GitHub Account| <a href="task1.md" ><img src="../images/document1.png" width="24px" height="24px" ></a> | 
+| 2 | Signing in to GitHub| <a href="task2.md" ><img src="../images/document1.png" width="24px" height="24px" ></a> | 
+| 3 | Signing in to GitHub Education | <a href="task3.md" ><img src="../images/document1.png" width="24px" height="24px" ></a> | 
+| 4 | Basic GitHub Operations| <a href="task4.md" ><img src="../images/document1.png" width="24px" height="24px" ></a> | 
+| 5 | Writing on GitHub| <a href="task5.md" ><img src="../images/document1.png" width="24px" height="24px" ></a> | 
+| 6 | GitHub Desktop | <a href="task6.md" ><img src="../images/document1.png" width="24px" height="24px" ></a> | 
+| 7 | GitHub Profile | <a href="task7.md" ><img src="../images/document1.png" width="24px" height="24px" ></a> | 
 
 ## Session 2
 | No | Topic |  File |
 | :-----: |  ------ | :-----: | 
-| 8 | Create a repo | <a href="task8.md" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
-| 9 | Settings | <a href="task9.md" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
-| 10 | GitHub Pages | <a href="task10.md" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
-| 11 | Projects for a repository | <a href="task11.md" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
-| 12 | Zenodo | <a href="task12.md" ><img src="./images/document1.png" width="24px" height="24px" ></a> | 
+| 8 | Create a repo | <a href="task8.md" ><img src="../images/document1.png" width="24px" height="24px" ></a> | 
+| 9 | Settings | <a href="task9.md" ><img src="../images/document1.png" width="24px" height="24px" ></a> | 
+| 10 | GitHub Pages | <a href="task10.md" ><img src="../images/document1.png" width="24px" height="24px" ></a> | 
+| 11 | Projects for a repository | <a href="task11.md" ><img src="../images/document1.png" width="24px" height="24px" ></a> | 
+| 12 | Zenodo | <a href="task12.md" ><img src="../images/document1.png" width="24px" height="24px" ></a> | 
 
 ### 1. [Getting Started with Your GitHub Account](task1.md)
 - Signing up for a GitHub account
