@@ -74,7 +74,7 @@ Commit your first change
 - Creating and publishing web content using Markdown and Jekyll
 - Customizing your GitHub Pages site
 
-## Project
+## Projects for a repository
 
 ## Conclusion
 - Recap of key GitHub features and concepts
