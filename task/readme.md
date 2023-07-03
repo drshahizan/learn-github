@@ -66,6 +66,7 @@ Saving your work
 Create a repository
 Commit your first change
 
+## Settings
 ## Add collaborator
 
 ## 7. GitHub Pages
