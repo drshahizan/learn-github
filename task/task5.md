@@ -92,7 +92,7 @@ To add a table, use the following markdown syntax:
    | Name     | Age |
    | -------- | --- |
    | Shah     | 25  |
-   | Aiman     | 28  |
+   | Aiman    | 28  |
    ```
 
 ## 5.4 Adding a collapsed section
@@ -169,36 +169,34 @@ To create a Mermaid diagram, use the following markdown syntax:
    a. Mermaid Diagrams:
    Use the following Markdown syntax to create a Mermaid diagram:
 
-   ```markdown
-   ```mermaid
-   graph LR
-     A-->B
-     B-->C
-     C-->A
    ```
-   ```
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
 
-output
 
-   ```mermaid
-   graph LR
-     A-->B
-     B-->C
-     C-->A
-  ```
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
 
    Replace the content within the ```mermaid``` code block with your own Mermaid diagram code. You can create various types of diagrams such as flowcharts, sequence diagrams, and more.
 
    For example:
 
    ```markdown
-   ```mermaid
    graph LR
      A[Start] --> B{Condition}
      B -- Yes --> C[Result 1]
      B -- No --> D[Result 2]
    ```
-   ```
+
 
    ```mermaid
    graph LR
@@ -210,27 +208,60 @@ output
    b. GeoJSON and TopoJSON Maps:
    Use the following Markdown syntax to embed a GeoJSON or TopoJSON map:
 
-   ```markdown
-   ```json
-   {
-     "type": "FeatureCollection",
-     "features": [
-       {
-         "type": "Feature",
-         "geometry": {
-           "type": "Point",
-           "coordinates": [longitude, latitude]
-         },
-         "properties": {
-           "name": "Location Name"
-         }
-       }
-     ]
-   }
-   ```
-   ```
+ ```markdown
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-90,35],
+              [-90,30],
+              [-85,30],
+              [-85,35],
+              [-90,35]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
 
-   Replace the content within the ```json``` code block with your own GeoJSON or TopoJSON map data.
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-90,35],
+              [-90,30],
+              [-85,30],
+              [-85,35],
+              [-90,35]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
 
    c. STL 3D Models:
    Use the following Markdown syntax to embed an STL 3D model:
