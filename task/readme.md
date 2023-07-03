@@ -7,9 +7,8 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-Here's a revised version of the table of contents for your GitHub step-by-step guide:
-
 # GitHub: Step-by-Step Guide
+The "GitHub: Step-by-Step Guide" is a comprehensive tutorial covering account setup, basic operations like forking and file management, GitHub Desktop usage, profile customization, GitHub Pages, and collaboration features. It provides a concise walkthrough of key GitHub concepts and offers additional resources for learning.
 
 ## Session 1
 ### 1. Getting Started with Your GitHub Account
