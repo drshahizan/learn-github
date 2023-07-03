@@ -9,6 +9,21 @@ Don't forget to hit the :star: if you like this repo.
 
 # Github: Task
 
+Getting started with your GitHub account
+Sign in Github
+Sign in Github Educatiob
+Star
+Fork
+Add file
+Edit file
+Delete File
+Github Desktop
+Commit
+Delete
+Github Profile
+
+Github Pages
+
 
 
 ## Contribution 🛠️
