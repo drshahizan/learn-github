@@ -10,6 +10,9 @@ Don't forget to hit the :star: if you like this repo.
 # GitHub: Step-by-Step Guide
 
 ## 10. GitHub Pages
+- Setting up a GitHub Pages website
+- Creating and publishing web content using Markdown and Jekyll
+- Customizing your GitHub Pages site
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
