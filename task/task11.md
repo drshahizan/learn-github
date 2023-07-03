@@ -10,6 +10,7 @@ Don't forget to hit the :star: if you like this repo.
 # GitHub: Step-by-Step Guide
 
 ### 11. Projects for a repository
+- Using GitHub Projects to manage and organize tasks within a repository
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
