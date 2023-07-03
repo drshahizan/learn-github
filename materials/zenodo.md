@@ -17,9 +17,7 @@ Best research data and code-sharing practices are essential to promote transpare
 This integration enhances collaboration and reproducibility within the scientific community. As developers continue to update their code on GitHub, Zenodo creates a record of each release, capturing the state of the project at that moment. This enables others to access and cite specific versions of the code, promoting transparent and reproducible research. By combining the collaborative capabilities of GitHub with the preservation and citation features of Zenodo, the integration facilitates the seamless sharing and documentation of research software, fostering open-source development and accelerating scientific progress.
 ## Examples of successful use cases for Zenodo and GitHub in research
 * [Gene Ontology Data Archive](https://www.sciencedirect.com/science/article/pii/S2405676622000166?via%3Dihub)
-* []()
-* 
-
+* [A large-scale COVID-19 Twitter chatter dataset for open scientific research - an international collaboration](https://zenodo.org/record/7834392)
 
 ## Let's get started with preserving your GitHub repository!
 * Flip the switch: Choose the repository you wish to preserve and enable automatic preservation by toggling the switch. This activates Zenodo's feature to preserve your software automatically.
