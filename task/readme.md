@@ -8,7 +8,7 @@
 Don't forget to hit the :star: if you like this repo.
 
 # GitHub: Step-by-Step Guide
-
+## Sesi 1
 ## 1. Getting Started with Your GitHub Account
 - Signing up for a GitHub account
 - Configuring your profile settings
@@ -23,10 +23,32 @@ Don't forget to hit the :star: if you like this repo.
 
 ## 4. Basic GitHub Operations
 - Star: Understanding and using the "Star" feature
+
+Fork a repo
+Cloning your forked repository
+
+A fork is a new repository that shares code and visibility settings with the original “upstream” repository.
+Forking a repository
+
 - Fork: Forking a repository and contributing to open source projects
 - Add file: Creating and adding files to a repository
 - Edit file: Modifying and updating existing files in a repository
 - Delete file: Removing files from a repository
+
+writing on GitHub
+Creating or editing your profile README
+Adding an image
+Adding a table
+Adding a collapsed section
+Adding a quote
+Adding a comment
+
+Creating diagrams
+Creating Mermaid diagrams
+Creating GeoJSON and TopoJSON maps
+Creating STL 3D models
+Saving your work
+
 
 ## 5. GitHub Desktop
 - Clone: Cloning a repository to your local machine
@@ -37,6 +59,13 @@ Don't forget to hit the :star: if you like this repo.
 - Customizing your GitHub profile
 - Adding a profile picture and bio
 - Showcasing your contributions and projects
+- 
+## Sesi 2
+## Create a repo
+Create a repository
+Commit your first change
+
+## Add collaborator
 
 ## 7. GitHub Pages
 - Setting up a GitHub Pages website
