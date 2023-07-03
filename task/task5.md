@@ -178,6 +178,15 @@ To create a Mermaid diagram, use the following markdown syntax:
    ```
    ```
 
+output
+
+   ```mermaid
+   graph LR
+     A-->B
+     B-->C
+     C-->A
+  ```
+
    Replace the content within the ```mermaid``` code block with your own Mermaid diagram code. You can create various types of diagrams such as flowcharts, sequence diagrams, and more.
 
    For example:
@@ -189,6 +198,13 @@ To create a Mermaid diagram, use the following markdown syntax:
      B -- Yes --> C[Result 1]
      B -- No --> D[Result 2]
    ```
+   ```
+
+   ```mermaid
+   graph LR
+     A[Start] --> B{Condition}
+     B -- Yes --> C[Result 1]
+     B -- No --> D[Result 2]
    ```
 
    b. GeoJSON and TopoJSON Maps:
