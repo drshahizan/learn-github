@@ -3,4 +3,4 @@
 </p>
 
 # 🦞 Lobster 😋 😋
-[link 😋]
+[link 😋] (readme.md)
