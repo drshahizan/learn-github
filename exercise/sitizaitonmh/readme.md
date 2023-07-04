@@ -50,3 +50,12 @@ Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text d
 Yati-->CtZ: Checking with John...
 CtZ->John: Yes... John, how are you?
 ```
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+D --> E
+```
