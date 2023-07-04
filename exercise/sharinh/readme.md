@@ -42,3 +42,13 @@ Note right of Azmi: Hazlin thinks a long<br/>long time, so long<br/>that the tex
 Hazlin-->Sharin: Checking with John...
 Hazlin->Azmi: Yes... Hazlin, how are you?
 ```
+
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+D --> E[Square2]
+```
