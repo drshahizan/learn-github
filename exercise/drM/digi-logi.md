@@ -1,4 +1,4 @@
-# 🔗 [link](image.md)Course Information: Digital Logic 
+# 🔗 [Course Information: Digital Logic](image.md) 
 
 ## Course Description
 The Digital Logic course introduces fundamental concepts and principles of digital systems and logic design. Students will gain knowledge and skills necessary for understanding and designing digital circuits used in various computer systems and electronic devices. The course will cover topics such as Boolean algebra, logic gates, combinational and sequential circuits, and their applications.
