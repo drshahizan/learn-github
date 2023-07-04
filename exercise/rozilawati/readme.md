@@ -52,3 +52,13 @@ Note right of Noorfa: Goh thinks a long<br/>long time, so long<br/>that the text
 
 Goh-->Along: Checking with Noorfa...
 Along->Noorfa: Yes... Noorfa, how are you?
+```
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+C --> E
+```
