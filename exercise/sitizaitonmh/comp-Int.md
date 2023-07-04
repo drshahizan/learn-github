@@ -1,4 +1,4 @@
-# Course Information: Computational Intelligence
+[# Course Information: Computational Intelligence](images.md)
 
 ## Course Overview
 
