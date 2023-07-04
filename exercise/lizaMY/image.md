@@ -4,4 +4,4 @@
 
 # 🔥Github 🥰🫶
 
-[🔗 LINK]{readme.md}
+[🔗 LINK](readme.md)
