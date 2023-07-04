@@ -54,6 +54,8 @@ Goh-->Along: Checking with Noorfa...
 Along->Noorfa: Yes... Noorfa, how are you?
 ```
 
+
+And this will produce a flow chart:
 ```mermaid
 graph LR
 A[Square Rect] -- Link text --> B((Circle))
