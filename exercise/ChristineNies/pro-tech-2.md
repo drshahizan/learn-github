@@ -1,4 +1,4 @@
-[# Programming Techniques using C++](image.md)
+# [Programming Techniques using C++](image.md)
 
 ## Course Overview
 This course is designed to provide students with a comprehensive understanding of programming techniques using the C++ programming language. Students will learn the fundamentals of C++ and gain hands-on experience in applying various programming techniques to solve real-world problems. The course will cover topics such as object-oriented programming, data structures, algorithms, memory management, and more.
