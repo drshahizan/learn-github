@@ -62,3 +62,12 @@ B --> D{Rhombus}
 C --> D
 C --> E
 ```
+
+```mermaid
+graph TD
+    A[User] -->|Provides URLs| B(Web Scraper Tool)
+    B -->|Scrapes web data| C{Data}
+    C -->|Sends scraped data| D[User or System]
+    B -->|Logs errors| E[Logging System]
+    B -->|Manages scraping settings| F[Configuration Management]
+    B -->|Updates scraping rules| G[Rule Management]
