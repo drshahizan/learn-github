@@ -5,4 +5,4 @@
 
 # 🫶 GITHUB 😀 😀
 
-[🔗LINK 😀]readme.md
+[🔗LINK](readme.md)
