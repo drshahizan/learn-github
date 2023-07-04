@@ -49,3 +49,12 @@ Note right of Simba: Mona thinks a long<br/>long time, so long<br/>that the text
 
 Mona-->Shukor: Checking with Simba...
 Shukor->Simba: Yes... Simba, how are you?
+```
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+C --> E
+```
