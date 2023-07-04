@@ -30,7 +30,7 @@ $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
 $$
 
-## How to draw Use Case
+## How to draw UML
 ```mermaid
 sequenceDiagram
 Sharin ->> Hazlin: Hello Hazlin, how are you?
