@@ -1,4 +1,4 @@
-# [Programming C++ with Object-Oriented Approach] (image.md)
+# [Programming C++ with Object-Oriented Approach](image.md)
 
 ## Course Description
 
