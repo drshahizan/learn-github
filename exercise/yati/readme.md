@@ -20,7 +20,16 @@ There are two types of synchronization and they can complement each other:
 	> Before starting to sync files, you must link an account in the **Synchronize** sub-menu.
 
 
+And this will produce a flow chart:
 
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+D --> E
+```
 
 ## Table
 
