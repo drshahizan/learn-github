@@ -17,6 +17,7 @@ There are two types of synchronization and they can complement each other:
 - The file synchronization will keep one file of the workspace synced with one or multiple files in **Google Drive**, **Dropbox** or **GitHub**.
 	> Before starting to sync files, you must link an account in the **Synchronize** sub-menu.
 
+## How to do tables
 |                |ASCII                          |HTML                         |
 |----------------|:-------------------------------:|-----------------------------:|
 |Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
@@ -29,6 +30,7 @@ $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
 $$
 
+## How to draw Use Case
 ```mermaid
 sequenceDiagram
 Sharin ->> Hazlin: Hello Hazlin, how are you?
