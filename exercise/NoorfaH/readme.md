@@ -48,9 +48,9 @@ You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For e
 sequenceDiagram
 Noorfa ->> Goh: Hello Bob, how are you?
 Goh-->>Ely: How about you John?
-Goh--x Noorfae: I am good thanks!
+Goh--x Noorfa: I am good thanks!
 Goh-x Ely: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+Note right of Ely: Goh thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
 
 Goh-->Noorfa: Checking with John...
 Noorfa->Ely: Yes... John, how are you?
