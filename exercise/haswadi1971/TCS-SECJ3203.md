@@ -1,4 +1,4 @@
-# Theory of Computer Science Course
+# [Theory of Computer Science Course](image.md) 
 
 ## Course Overview
 The Theory of Computer Science course provides a comprehensive understanding of the fundamental principles and theoretical underpinnings of computer science. It explores various mathematical models and formal languages that form the basis of computation, algorithms, and problem-solving. This course is essential for students pursuing degrees in computer science or related fields.
