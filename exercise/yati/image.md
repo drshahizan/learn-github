@@ -4,7 +4,7 @@
 <p align="center">
 <img src="../../images/Github-EN.jpg"  height="400" />
 </p>
-<p align="center">
+<p align="left">
 <img src="../../images/Github-EN.jpg"  height="400" />
 </p>
 <p align="center">
