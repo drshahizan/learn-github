@@ -1,1 +1,1 @@
-#[Fundamental Computer Graphics](image.md)
+#[🔗 Fundamental Computer Graphics](image.md)
