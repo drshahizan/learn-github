@@ -6,3 +6,5 @@
 # 🔥 Github 😊☀️❤️✅
 
 [🔗LINK](readme.md) 
+
+[🔗LINK](DataMining.md) 
