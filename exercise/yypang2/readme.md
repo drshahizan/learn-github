@@ -36,4 +36,20 @@ $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
 $$
 
+## UML diagrams
+
+You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
+
+```mermaid
+sequenceDiagram
+Adrian ->> Baba: Hello Baba, how are you?
+Baba-->>Janice: How about you Janice?
+Baba--x Adrian: I am good thanks!
+Baba-x Janice: I am good thanks!
+Note right of Janice: Baba thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+
+Baba-->Adrian: Checking with Janice...
+Adrian->John: Yes... Janice, how are you?
+```
+
 > You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
