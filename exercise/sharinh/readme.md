@@ -43,7 +43,7 @@ Hazlin-->Sharin: Checking with John...
 Hazlin->Azmi: Yes... Hazlin, how are you?
 ```
 
-
+## How to draw flowchart
 ```mermaid
 graph LR
 A[Square Rect] -- Link text --> B((Circle))
