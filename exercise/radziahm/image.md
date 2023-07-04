@@ -6,3 +6,5 @@
 # 🫶 GITHUB 😀 😀
 
 [🔗LINK](readme.md)
+
+[SQA](SECJ3343.md)
