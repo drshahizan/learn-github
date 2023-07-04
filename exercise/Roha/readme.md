@@ -51,7 +51,7 @@ Note right of Asa: Em thinks a long<br/>long time, so long<br/>that the text doe
 
 Em-->Nadya: Checking with Asa...
 Nadya->Asa: Yes... Asa, how are you?
-
+```
 
 And this will produce a flow chart:
 
@@ -61,5 +61,4 @@ A[Square Rect] -- Link text --> B((Circle))
 A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
-C --> E
 ```
