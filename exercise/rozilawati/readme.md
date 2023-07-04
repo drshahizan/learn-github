@@ -37,3 +37,18 @@ $$
 
 > You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
 > 
+
+## UML diagrams
+
+You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
+
+```mermaid
+sequenceDiagram
+Along ->> Goh: Hello Bob, how are you?
+Goh-->>Noorfa: How about you John?
+Goh--x Along: I am good thanks!
+Goh-x Noorfa: I am good thanks!
+Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+
+Goh-->Along: Checking with John...
+Along->Noorfa: Yes... John, how are you?
