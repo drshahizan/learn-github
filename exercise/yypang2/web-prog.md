@@ -80,3 +80,4 @@ By the end of this course, students should be able to:
 ---
 
 **NOTE:** It is recommended to have a basic understanding of computers and the internet before enrolling in this course.
+
