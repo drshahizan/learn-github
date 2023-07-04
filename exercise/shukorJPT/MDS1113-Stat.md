@@ -1,5 +1,6 @@
 Certainly! Here's the course information for "Statistics for Data Science" in Markdown format:
 
+# [📚 Statistics for Data Science](image.md)
 # Course Name: Statistics for Data Science
 
 ## Course Description
@@ -32,4 +33,4 @@ Upon completion of the course, students are expected to:
 8. Create informative and visually appealing data visualizations.
 9. Utilize statistical software tools for data analysis and modeling.
 
-Note: The course syllabus and specific topics covered may vary depending on the institution and the instructor offering the course. It's advisable to check the syllabus of the particular course you are interested in for more detailed information.
+Note: The course syllabus and specific topics covered may vary depending on the institution and the instructor offering the course. It's advisable to check the syllabus of the particular course you are interested in for more detailed info
