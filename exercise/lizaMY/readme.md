@@ -54,7 +54,7 @@ Note right of Aiman: Afiqah thinks a long<br/>long time, so long<br/>that the te
 
 Afiqah-->Liza: Checking with Aiman...
 Liza->Aiman: Yes... Aiman, how are you?
-
+```
 And this will produce a flow chart:
 
 ```mermaid
