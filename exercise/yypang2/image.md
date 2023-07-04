@@ -5,4 +5,4 @@
 
 # 🔥 Github ❄️🥶❄️
 
-[🔗LINK:](Readme.md)
+[🔗LINK:](readme.md)
