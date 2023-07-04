@@ -1,5 +1,3 @@
-Certainly! Here's an example of course information for the subject "Programming Techniques using C++" written in Markdown language:
-
 # Programming Techniques using C++
 
 ## Course Overview
