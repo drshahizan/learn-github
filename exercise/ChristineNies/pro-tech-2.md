@@ -68,4 +68,4 @@ By the end of this course, students will be able to:
 - Class participation and discussions
 - Final examination
 
-Please note that the course content and structure may vary depending on the institution and instructor.
+
