@@ -1,4 +1,3 @@
-Sure! Here's some detailed information about a course on Software Engineering:
 
 # Software Engineering
 
