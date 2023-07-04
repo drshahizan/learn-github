@@ -1,4 +1,4 @@
-# [link Software Engineering Course](image.md)
+# [Software Engineering Course](image.md)
 
 ## Course Description
 
