@@ -55,3 +55,12 @@ Note right of Ely: Goh thinks a long<br/>long time, so long<br/>that the text do
 Goh-->Noorfa: Checking with John...
 Noorfa->Ely: Yes... John, how are you?
 ```
+And this will produce a flow chart:
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+D --> E
