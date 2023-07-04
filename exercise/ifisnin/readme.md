@@ -1,10 +1,8 @@
+# hello world
+## hello world
+### hello world
 ~~Universiti~~ **Teknologi** Malaysia
-# Hello World
-## Hello World
-### Hello World
-#### Hello World
-# Welcome to StackEdit!
-# Name : Mohd Murtadha
+
 # Synchronization
 
 Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.
@@ -16,11 +14,31 @@ There are two types of synchronization and they can complement each other:
 
 - The file synchronization will keep one file of the workspace synced with one or multiple files in **Google Drive**, **Dropbox** or **GitHub**.
 	> Before starting to sync files, you must link an account in the **Synchronize** sub-menu.
-- tolak itu bullet
-  
+
+## Open a file
+
+You can open a file from **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Open from**. Once opened in the workspace, any modification in the file will be automatically synced.
+
+## Save a file
+
+You can save any file of the workspace to **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Save on**. Even if a file in the workspace is already synced, you can save it to another location. StackEdit can sync one file with multiple locations and accounts.
+
+## Synchronize a file
+
+Once your file is linked to a synchronized location, StackEdit will periodically synchronize it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be resolved.
+
+If you just have modified your file and you want to force syncing, click the **Synchronize now** button in the navigation bar.
+
+> **Note:** The **Synchronize now** button is disabled if you have no file to synchronize.
+
+## Manage file synchronization
+
+Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking **File synchronization** in the **Synchronize** sub-menu. This allows you to list and remove synchronized locations that are linked to your file.
+
+
 |                |ASCII                          |HTML                         |
-|----------------|:-------------------------------:|-----------------------------:|
-|Single backticks|`'Isn't this fun?'`           |'Isn't this fun?'            |
+|----------------|-------------------------------|-----------------------------|
+|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
 |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
@@ -35,6 +53,7 @@ $$
 $$
 
 > You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
+> 
 
 ## UML diagrams
 
@@ -42,14 +61,14 @@ You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For e
 
 ```mermaid
 sequenceDiagram
-Murtadha ->> Shahizan: Hello Shahizan, how are you?
-Shahizan-->>Norris: How about you Norris?
-Shahizan--x Murtadha: I am good thanks!
-Shahizan-x Norris: I am good thanks!
-Note right of Norris: Shahizan thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+Ismail ->> Azri: Hello Azri, how are you?
+Bob-->>John: How about you John?
+Bob--x Alice: I am good thanks!
+Bob-x John: I am good thanks!
+Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
 
-Shahizan-->Murtadha: Checking with Norris...
-Murtadha->Norris: Yes... Norris, how are you?
+Bob-->Alice: Checking with John...
+Alice->John: Yes... John, how are you?
 ```
 
 And this will produce a flow chart:
@@ -60,5 +79,5 @@ A[Square Rect] -- Link text --> B((Circle))
 A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
-D --> E
+C --> E
 ```

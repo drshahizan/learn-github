@@ -1,13 +1,12 @@
-~~Universiti~~ **Teknologi** Malaysia
 # Hello World
 ## Hello World
-### Hello World
-#### Hello World
-# Welcome to StackEdit!
-# Name : Mohd Murtadha
-# Synchronization
+### Hello World 
 
-Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.
+Name : Noorfa 
+~~Universiti~~ **Teknologi** Malaysia
+
+# Synchronization 
+is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.
 
 There are two types of synchronization and they can complement each other:
 
@@ -16,11 +15,16 @@ There are two types of synchronization and they can complement each other:
 
 - The file synchronization will keep one file of the workspace synced with one or multiple files in **Google Drive**, **Dropbox** or **GitHub**.
 	> Before starting to sync files, you must link an account in the **Synchronize** sub-menu.
-- tolak itu bullet
-  
+ - Bullet
+
+   
+## SmartyPants
+
+SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
+
 |                |ASCII                          |HTML                         |
 |----------------|:-------------------------------:|-----------------------------:|
-|Single backticks|`'Isn't this fun?'`           |'Isn't this fun?'            |
+|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
 |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
@@ -42,16 +46,15 @@ You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For e
 
 ```mermaid
 sequenceDiagram
-Murtadha ->> Shahizan: Hello Shahizan, how are you?
-Shahizan-->>Norris: How about you Norris?
-Shahizan--x Murtadha: I am good thanks!
-Shahizan-x Norris: I am good thanks!
-Note right of Norris: Shahizan thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+Noorfa ->> Goh: Hello Bob, how are you?
+Goh-->>Ely: How about you John?
+Goh--x Noorfa: I am good thanks!
+Goh-x Ely: I am good thanks!
+Note right of Ely: Goh thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
 
-Shahizan-->Murtadha: Checking with Norris...
-Murtadha->Norris: Yes... Norris, how are you?
+Goh-->Noorfa: Checking with John...
+Noorfa->Ely: Yes... John, how are you?
 ```
-
 And this will produce a flow chart:
 
 ```mermaid
@@ -61,4 +64,3 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 D --> E
-```
