@@ -24,6 +24,19 @@ There are two types of synchronization and they can complement each other:
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
 The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
+
 $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
 $$
+
+```mermaid
+sequenceDiagram
+Sharin ->> Hazlin: Hello Hazlin, how are you?
+Hazlin-->>Azmi: How about you John?
+Hazlin--x Sharin: I am good thanks!
+Hazlin-x Azmi: I am good thanks!
+Note right of Azmi: Hazlin thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+
+Hazlin-->Sharin: Checking with John...
+Hazlin->Azmi: Yes... Hazlin, how are you?
+```
