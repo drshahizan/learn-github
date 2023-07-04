@@ -3,5 +3,5 @@
 </p>
 #🔥Github
 💀
-🔗[link]{readme.md}
+🔗[link](readme.md)
 
