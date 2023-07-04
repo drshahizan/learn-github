@@ -1,6 +1,6 @@
 # [Software Engineering Course](image.md)
 
-## Course Description
+## Course Description - try edit
 
 The Software Engineering course provides an in-depth understanding of software development principles, methodologies, and best practices. It covers the entire software development lifecycle, including requirements analysis, design, implementation, testing, and maintenance. Students will gain practical knowledge of industry-standard tools, techniques, and processes used in software engineering.
 
