@@ -1,4 +1,5 @@
-# [Programming Techniques using C++](image.md) 
+# [Programming Techniques using C++](image.md)  ![image](https://github.com/drshahizan/learn-github/assets/84613560/a19d5970-ca5b-40a5-88d8-4e56896c7678)
+
 
 
 ## Course Overview
