@@ -49,7 +49,7 @@ Baba-x Janice: I am good thanks!
 Note right of Janice: Baba thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
 
 Baba-->Adrian: Checking with Janice...
-Adrian->John: Yes... Janice, how are you?
+Adrian->Janice: Yes... Janice, how are you?
 ```
 
 > You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
