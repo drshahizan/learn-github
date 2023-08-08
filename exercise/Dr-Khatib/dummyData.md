@@ -52,3 +52,47 @@
 | Ridzuan Mohd     | 35  | Male   | 1234 Lorong Damai Indah   | ridzuan@example.com      |
 
 
+
+
+# Simple BMI Calculator
+
+This is a simple BMI (Body Mass Index) calculator. The BMI is a measure of body fat based on an individual's weight and height.
+
+## Code
+
+```python
+def calculate_bmi(weight, height):
+    """
+    Calculate BMI using weight in kilograms and height in meters.
+    Formula: BMI = weight / (height^2)
+    """
+    bmi = weight / (height ** 2)
+    return bmi
+
+def interpret_bmi(bmi):
+    """
+    Interpret BMI results and provide corresponding category.
+    """
+    if bmi < 18.5:
+        return "Underweight"
+    elif 18.5 <= bmi < 24.9:
+        return "Normal Weight"
+    elif 25 <= bmi < 29.9:
+        return "Overweight"
+    else:
+        return "Obese"
+
+# Input from user
+weight = float(input("Enter your weight in kilograms: "))
+height = float(input("Enter your height in meters: "))
+
+# Calculate BMI
+bmi = calculate_bmi(weight, height)
+
+# Interpret BMI
+category = interpret_bmi(bmi)
+
+# Display result
+print(f"Your BMI is {bmi:.2f}, which falls into the '{category}' category.")
+
+
