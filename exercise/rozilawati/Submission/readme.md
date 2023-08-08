@@ -66,7 +66,7 @@ In summary, this folder structure appears to be organizing a GitHub repository b
 | --- | --- | :---: |
 | 1 | FIROZ| <a href="Jokeryde" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
 | 2 | RASHIDAH | <a href="AdrinaAsyiqin" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
-| 3 | NOR AZIZAH | <a href="AfifHazmie" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
+| 3 | NOR AZIZAH | <a href="DrNzah" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
 | 4 | ZURAINI | <a href="AimanHafizi619" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
 | 5 | AHMAD MUHAIMIN BIN AHMAD HAMBALI | <a href="Mincridible" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
 | 6 | AMIRAH RAIHANAH BINTI ABDUL RAHIM | <a href="raihanarahim" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
