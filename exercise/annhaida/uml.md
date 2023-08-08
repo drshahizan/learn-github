@@ -13,3 +13,12 @@ Note right of Hidayah: Firoz thinks a long<br/>long time, so long<br/>that the t
 Firoz-->Haida: Checking with Hidayah...
 Haida->Hidayah: Yes... Hidayah, how are you?
 ```
+And this will produce a flow chart:
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
