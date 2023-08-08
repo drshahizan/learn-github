@@ -64,13 +64,13 @@ In summary, this folder structure appears to be organizing a GitHub repository b
 
 | No | Name | Folder |
 | --- | --- | :---: |
-| 1 | A ROZILAWATI | <a href="rozilawati" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
-| 2 | ADRINA ASYIQIN BINTI MD ADHA | <a href="AdrinaAsyiqin" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
-| 3 | AFIF HAZMIE ARSYAD BIN AGUS | <a href="AfifHazmie" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
-| 4 | AHMAD AIMAN HAFIZI BIN MUHAMMAD | <a href="AimanHafizi619" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
-| 5 | AHMAD MUHAIMIN BIN AHMAD HAMBALI | <a href="Mincridible" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
-| 6 | AMIRAH RAIHANAH BINTI ABDUL RAHIM | <a href="raihanarahim" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
-| 7 | CHLOE RACQUELMAE KENNEDY | <a href="Racquelmae" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
+| 1 | A ROZILAWATI | <a href="rozilawati" ><img src="folder.png" width="24px" height="24px" ></a> | 
+| 2 | ADRINA ASYIQIN BINTI MD ADHA | <a href="AdrinaAsyiqin" ><img src="folder.png" width="24px" height="24px" ></a> | 
+| 3 | AFIF HAZMIE ARSYAD BIN AGUS | <a href="AfifHazmie" ><img src="folder.png" width="24px" height="24px" ></a> | 
+| 4 | AHMAD AIMAN HAFIZI BIN MUHAMMAD | <a href="AimanHafizi619" ><img src="folder.png" width="24px" height="24px" ></a> | 
+| 5 | AHMAD MUHAIMIN BIN AHMAD HAMBALI | <a href="Mincridible" ><img src="folder.png" width="24px" height="24px" ></a> | 
+| 6 | AMIRAH RAIHANAH BINTI ABDUL RAHIM | <a href="raihanarahim" ><img src="folder.png" width="24px" height="24px" ></a> | 
+| 7 | CHLOE RACQUELMAE KENNEDY | <a href="Racquelmae" ><img src="folder.png" width="24px" height="24px" ></a> | 
 | 8 | CHONG KAI ZHE | <a href="ChongKaiZhe" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
 | 9 | EDDIE WONG CHUNG PHENG | <a href="Prowong01" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
 | 10 | FARAH IRDINA BINTI AHMAD BAHARUDIN | <a href="FarahIrdina" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
