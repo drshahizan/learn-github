@@ -41,3 +41,45 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </body>
 </html>
 ```
+
+# API Configuration
+# JavaScript API Configuration Example
+
+This example demonstrates how to configure and make API requests using JavaScript.
+
+```javascript
+// Define the API base URL
+const apiBaseUrl = 'https://api.example.com';
+
+// Configure API headers
+const headers = {
+    'Content-Type': 'application/json',
+    'Authorization': 'Bearer YourAccessTokenHere'
+};
+
+// Function to make a GET request to the API
+async function fetchData(endpoint) {
+    try {
+        const response = await fetch(apiBaseUrl + endpoint, {
+            method: 'GET',
+            headers: headers
+        });
+
+        if (!response.ok) {
+            throw new Error(`HTTP error! Status: ${response.status}`);
+        }
+
+        const data = await response.json();
+        return data;
+    } catch (error) {
+        console.error('Error fetching data:', error);
+    }
+}
+
+// Example usage
+const endpoint = '/posts';
+fetchData(endpoint)
+    .then(data => {
+        console.log('API Response:', data);
+    });
+```
