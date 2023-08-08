@@ -12,3 +12,12 @@ Note right of Adila: Jo thinks a long<br/>long time, so long<br/>that the text d
 
 Jo-->Liza: Checking with Adila...
 Liza->Adila: Yes... John, how are you?
+
+And this will produce a flow chart:
+
+```mermaid
+graph LR
+A[Square Rect] -- teach --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
