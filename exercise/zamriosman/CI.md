@@ -18,15 +18,63 @@ By the end of this course, you will be able to:
 - Secure user authentication and data
 - Build resilient applications
 
-## Course Outline
-1. Introduction to Secure Programming
-2. Security Fundamentals
-3. Authentication and Authorization
-4. Data Security
-5. Web Application Security
-6. Secure Coding in Different Languages
-7. Secure API Development
-8. Secure Code Review and Testing
+# Course Outline with Weightage
+
+## 1. Introduction to Secure Programming (5%)
+- Importance of secure programming
+- Overview of common security vulnerabilities
+
+## 2. Security Fundamentals (10%)
+- Input validation and sanitization
+- Output encoding and data escaping
+- Error handling and logging securely
+
+## 3. Authentication and Authorization (15%)
+- User authentication methods
+- Role-based access control
+- Security tokens and session management
+
+## 4. Data Security (15%)
+- Secure data storage and transmission
+- Encryption and hashing techniques
+- Preventing SQL injection and NoSQL injection
+
+## 5. Web Application Security (10%)
+- Cross-site scripting (XSS) prevention
+- Cross-site request forgery (CSRF) protection
+- Security headers and content security policy
+
+## 6. Secure Coding in Different Languages (10%)
+- Java, Python, C#, and JavaScript best practices
+- Language-specific vulnerabilities and mitigations
+
+## 7. Secure API Development (15%)
+- API authentication and authorization
+- Rate limiting and throttling
+- Input validation for APIs
+
+## 8. Secure Code Review and Testing (20%)
+- Static and dynamic code analysis
+- Penetration testing and vulnerability scanning
+- Bug bounty programs and responsible disclosure
+
+---
+
+## Assessment and Grading
+- Participation: 5%
+- Coding Exercises: 15%
+- Group Projects: 20%
+- Final Exam: 20%
+- API Development Project: 20%
+- Secure Code Review Assignment: 20%
+
+---
+
+## Resources
+- Required Reading: "The Secure Coding Field Manual" by SecureCode Academy
+- Supplementary Materials: Online articles, video tutorials, and practical examples
+
+---
 
 ## Assessment
 - Participation: 10%
