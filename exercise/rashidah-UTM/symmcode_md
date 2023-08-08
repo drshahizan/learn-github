@@ -1,1 +1,31 @@
+# Symmetric Cipher using Caesar Cipher
 
+```python
+def caesar_cipher_encrypt(plaintext, key):
+    encrypted_text = ""
+    for char in plaintext:
+        if char.isalpha():
+            is_upper = char.isupper()
+            char = char.lower()
+            encrypted_char = chr((ord(char) - 97 + key) % 26 + 97)
+            if is_upper:
+                encrypted_char = encrypted_char.upper()
+        else:
+            encrypted_char = char
+        encrypted_text += encrypted_char
+    return encrypted_text
+
+
+def caesar_cipher_decrypt(ciphertext, key):
+    return caesar_cipher_encrypt(ciphertext, -key)
+
+
+# Example usage
+plaintext = "Hello, World!"
+key = 3
+encrypted_text = caesar_cipher_encrypt(plaintext, key)
+decrypted_text = caesar_cipher_decrypt(encrypted_text, key)
+
+print("Plaintext:", plaintext)
+print("Encrypted:", encrypted_text)
+print("Decrypted:", decrypted_text)
