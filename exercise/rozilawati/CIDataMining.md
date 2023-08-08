@@ -4,55 +4,80 @@ src="https://github.com/drshahizan/learn-github/blob/main/exercise/rozilawati/IM
 </p>
 
 
-
-
-# COURSE INFORMATION
-
-## Course Name
-DATA MINING
-
-## Course Number
-SECP2753
-
-## Instructor
-ROZILAWATI BINTI DOLLAH @ MD ZAIN
-
-## Email
-rozilawati@utm.my
+# Data Mining Course
 
 ## Course Description
-This course introduces the principles and techniques of data mining. Topics covered include data exploration, data preparation, clustering, classification, regression, and association rule mining.
+Welcome to the Data Mining course! In this course, you will learn the fundamental concepts, techniques, and tools used to extract valuable insights and knowledge from large datasets. Data mining is an essential skill in today's data-driven world, and this course will provide you with hands-on experience in working with real-world datasets to uncover hidden patterns, relationships, and trends.
 
-## Course Objectives
-Upon completion of this course, students will be able to:
+## Course Details
 
-* Understand the basic concepts of data mining
-* Apply data mining techniques to real-world problems
-* Evaluate the effectiveness of data mining techniques
-* Communicate the results of data mining to stakeholders
+- **Course Code:** SECP2753
+- **Instructor:** [ROZILAWATI BINTI DOLLAH @ MDZAIN](mailto:rozilawati@utm.my)
+- **Credits:** 3
+- **Prerequisites:** Basic understanding of statistics and programming
+- **Format:** In-person lectures, hands-on lab sessions, assignments, and a final project
 
-## Textbook
-Data Mining: Concepts and Techniques by Ian H. Witten, Eibe Frank, and Mark A. Hall
+## Learning Objectives
 
-## Course Schedule
+By the end of this course, you will be able to:
 
-Week 1: Introduction to Data Mining
-Week 2: Data Exploration
-Week 3: Data Preparation
-Week 4: Clustering
-Week 5: Classification
-Week 6: Regression
-Week 7: Association Rule Mining
-Week 8: Advanced Topics
+1. Understand the key concepts and terminology in data mining.
+2. Apply various data preprocessing techniques to clean and prepare datasets for analysis.
+3. Explore and visualize data to gain insights into its underlying structure.
+4. Implement and evaluate different data mining algorithms, including classification, clustering, and association rule mining.
+5. Interpret the results of data mining models and make informed decisions based on the insights gained.
+6. Work with popular data mining tools and software.
+7. Develop a comprehensive data mining project from start to finish.
 
-## Grading
+## Course Outline
 
-* Midterm Exam (30%)
-* Final Exam (50%)
-* Homework Assignments (20%)
+1. **Introduction to Data Mining**
+   - Overview of data mining and its applications
+   - Data mining process and methodologies
+   - Ethical considerations in data mining
 
-## Attendance Policy
-Attendance is mandatory. Students are allowed two absences without penalty. Any additional absences will result in a loss of 1% of the final grade per absence.
+2. **Data Preprocessing**
+   - Data cleaning, transformation, and integration
+   - Handling missing values and outliers
+   - Feature selection and dimensionality reduction
 
-## Plagiarism Policy
-Plagiarism will not be tolerated. Any student caught plagiarizing will receive an automatic failing grade for the course.
+3. **Exploratory Data Analysis**
+   - Data visualization techniques
+   - Descriptive statistics and data summarization
+   - Identifying patterns and trends in data
+
+4. **Classification and Prediction**
+   - Decision trees and random forests
+   - Naive Bayes and k-Nearest Neighbors
+   - Model evaluation and performance metrics
+
+5. **Clustering and Segmentation**
+   - K-means clustering
+   - Hierarchical clustering
+   - Cluster validation techniques
+
+6. **Association Rule Mining**
+   - Apriori algorithm
+   - Market basket analysis
+   - Rule evaluation and interpretation
+
+7. **Advanced Topics in Data Mining**
+   - Text mining and sentiment analysis
+   - Time series analysis
+   - Anomaly detection
+
+8. **Final Project**
+   - Applying data mining techniques to a real-world dataset
+   - Project proposal, implementation, and presentation
+
+## Assessment and Grading
+
+- Participation: 10%
+- Assignments: 30%
+- Midterm Exam: 20%
+- Final Project: 40%
+
+## Recommended Resources
+
+- **Textbook:** "Introduction to Data Mining" by Pang-Ning Tan, Michael Steinbach, and Vipin Kumar
+- **Software:** Weka, RapidMiner, etc.
