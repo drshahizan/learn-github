@@ -55,7 +55,7 @@ Don't forget to hit the :star: if you like this repo.
     Case Study: Develop a web-based dashboard that visualizes research findings and allows users to interact with data.
     GitHub: Store the frontend code (HTML/CSS/JS), backend code (Python/Node.js), and instructions to deploy the dashboard.
 
-Each of these case studies combines academic/research and software development aspects and can be hosted on GitHub, demonstrating your expertise and versatility in different areas. Remember to create clear documentation, README files, and any necessary instructions to make your GitHub repositories informative and user-friendly.
+> Each of these case studies combines academic/research and software development aspects and can be hosted on GitHub, demonstrating your expertise and versatility in different areas. Remember to create clear documentation, README files, and any necessary instructions to make your GitHub repositories informative and user-friendly.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
