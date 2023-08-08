@@ -12,10 +12,11 @@ Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text d
 
 Foad-->Firoz: Checking with John...
 Firoz->Shahizan: Yes... John, how are you?
-
+```
 ```mermaid
 graph LR
 A[Square Rect] -- Link text --> B((Circle))
 A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
+```
