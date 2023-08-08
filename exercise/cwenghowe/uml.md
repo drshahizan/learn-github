@@ -10,6 +10,6 @@ Zamri--x Nies: I am good thanks!
 Zamri-x Chan: I am good thanks!
 Note right of Chan: Zamri thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
 
-Zamri-->Nies: Checking with John...
+Zamri-->Nies: Checking with Chan...
 Nies->Chan: Yes... Chan, how are you?
 ```
