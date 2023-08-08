@@ -7,32 +7,55 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Articles 📖
-- [Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
-- [GitHub Skills](https://skills.github.com/)
-- [An Intro to Git and GitHub for Beginners (Tutorial)](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
-- [Coursera: Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github?action=enroll)
-- [Microsoft Learning: Github](https://learn.microsoft.com/en-us/training/github/)
-- ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
-- ["How to Stand Out on Github with Profile READMEs"](https://medium.com/better-programming/how-to-stand-out-on-github-with-profile-readmes-dfd2102a3490?source=friends_link&sk=61df9c4b63b329ad95528b8d7c00061f) - *Jessica Lim*
-- ["What's on your GitHub Profile"](https://dev.to/waylonwalker/what-s-on-your-github-profile-40p3) - *Waylon Walker*
-- ["3 Ways to Spice up your Github Profile README 🔥"](https://dev.to/jayehernandez/3-ways-to-spice-up-your-github-profile-readme-1276) - *Jaye Hernandez*
-- ["Dynamically Generated Github Stats For Your Profile ReadMe"](https://dev.to/anuraghazra/dynamically-generated-github-stats-for-your-profile-readme-o4g) - *Anurag Hazra*
-- ["How to create an awesome GIF for your GitHub Profile README"](https://dev.to/satvikchachra/how-to-add-an-awesome-readme-to-your-github-profile-361n) - *Satvik Chachra*
-- ["Create a special repository in your GitHub Profile 🔨, supported and unsupported features"](https://torrocus.com/blog/special-github-repository/) - *Alex Malaszkiewicz*
-- ["How to create a Github Profile README with Dynamic Github Stats"](https://codewithghazi.com/how-to-create-a-github-profile-readme-with-dynamic-github-stats/) - *Ghazi Khan*
-- ["How I Built A Self-Updating README On My Github Profile"](https://www.mokkapps.de/blog/how-i-built-a-self-updating-readme-on-my-git-hub-profile/) - *Michael Hoffmann (Mokkapps)*
-- ["Building a self-updating profile README for GitHub"](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) - *Simon Willison*
-- ["How to create an interactive README for your GitHub profile"](https://kavishhukmani.me/github-profile-interactive-readme-tutorial/) - *Kavish Hukmani*
-- ["什么？Github 居然可以这么玩？"](https://zhuanlan.zhihu.com/p/161705999) - *Tw93*
-- ["Getting started with Markdown Badges"](https://dev.to/ileriayo/mardown-badges-2og0) - *Ileriayo Adebiyi*
-- ["Show your latest dev.to posts automatically on your GitHub profile readme"](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)  - *Gautam krishna R*
-- ["How I Built A Self-Updating README by Webhooks and Netlify Functions"](https://github.com/RaoHai/RaoHai/blob/master/How-I-Built-A-Self-Updating-README-by-Webhooks-and-Netlify-Functions.md/) - *Rao Hai*
-- ["Build a Stunning README For Your GitHub Profile"](https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7) - *Martin Heinz*
-- ["How I added my Spotify statistics to my GitHub readme 📜"](https://dev.to/gargakshit/how-i-added-my-spotify-statistics-to-my-github-readme-4jdd) - *Akshit Garg*
-- ["Static Readme Regeneration"](https://dev.to/aralroca/static-readme-regeneration-4pf2) - *Aral Roca*
-- ["How to Create a Self-Updating README.md for Your GitHub Profile"](https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91) - *Thomas Guibert*
-- ["一文玩转github主页"](https://blog.holic-x.com/wv-blog/post/7ad96a5d.html) - *holic-x*
+# Case Study: Academic/research and software development aspects
+
+**Academic/Research:**
+
+1. **Data Analysis for Research Paper:**
+   Case Study: Conduct data analysis for a research paper on a relevant topic (e.g., social trends, medical studies) using Python/R.
+   GitHub: Host Jupyter notebooks with data preprocessing, analysis, and visualization code.
+
+2. **Machine Learning Research Replication:**
+   Case Study: Replicate and extend a machine learning research paper's results, showcasing your understanding of the model and experiments.
+   GitHub: Share code, datasets, and results, along with a detailed README explaining your approach.
+
+3. **Natural Language Processing Study:**
+   Case Study: Analyze sentiment in a large corpus of text using NLP techniques (e.g., sentiment analysis, topic modeling).
+   GitHub: Upload code, sample dataset, and a report discussing findings and methodology.
+
+**Software Development:**
+
+4. **Full Stack Web Application:**
+   Case Study: Build a web app (e.g., task manager, note-taking app) with both frontend (HTML/CSS/JS) and backend (Node.js/Python) components.
+   GitHub: Store frontend and backend code, database schema, and deployment instructions.
+
+5. **Open Source Contribution:**
+   Case Study: Contribute to an open-source project, addressing an issue or adding a new feature.
+   GitHub: Showcase the pull requests, discussions, and code changes you made in the project.
+
+6. **Mobile App Development:**
+   Case Study: Develop a mobile app (iOS/Android) that solves a specific problem, demonstrating your mobile development skills.
+   GitHub: Include the codebase, app screenshots, and instructions to build/run the app.
+
+**Academic/Research and Software Development Integration:**
+
+7. **Scientific Computing Tool:**
+   Case Study: Develop a tool that assists researchers in a specific domain with data analysis, simulations, or visualization.
+   GitHub: Host the code, documentation, and examples of how researchers can use the tool.
+
+8. **Research Data API:**
+   Case Study: Build a RESTful API that provides programmatic access to a curated dataset relevant to a particular research field.
+   GitHub: Share the API code, data preprocessing scripts, and API documentation.
+
+9. **Automating Research Workflows:**
+   Case Study: Create a workflow automation tool for a research process (e.g., data preprocessing, feature extraction) using Python.
+   GitHub: Upload the code, sample input/output data, and detailed usage instructions.
+
+10. **Interactive Research Dashboard:**
+    Case Study: Develop a web-based dashboard that visualizes research findings and allows users to interact with data.
+    GitHub: Store the frontend code (HTML/CSS/JS), backend code (Python/Node.js), and instructions to deploy the dashboard.
+
+Each of these case studies combines academic/research and software development aspects and can be hosted on GitHub, demonstrating your expertise and versatility in different areas. Remember to create clear documentation, README files, and any necessary instructions to make your GitHub repositories informative and user-friendly.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
