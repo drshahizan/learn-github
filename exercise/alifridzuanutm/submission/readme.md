@@ -63,7 +63,7 @@ In summary, this folder structure appears to be organizing a GitHub repository b
 ## Your Folder
 
 | No | Name | Folder |
-| --- | --- | :---: |
+| :---: | --- | :---: |
 | 1 | KHATIBSYARBINI | <a href="khatib" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
 | 2 | ADRINA ASYIQIN BINTI MD ADHA | <a href="AdrinaAsyiqin" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
 | 3 | AFIF HAZMIE ARSYAD BIN AGUS | <a href="AfifHazmie" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
