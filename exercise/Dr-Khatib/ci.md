@@ -1,7 +1,7 @@
 # Programming Technique 1 Course Information
 
 <p align = "center">
-<img src="https://github.com/drshahizan/learn-github/blob/main/exercise/Dr-Khatib/images/images.jpg" height="200">
+<img src="https://github.com/drshahizan/learn-github/blob/main/exercise/Dr-Khatib/images/images.png" height="200">
 </p>
 
 Welcome to the **Programming Technique 1** course! In this course, you will learn essential programming techniques and concepts that form the foundation of efficient and structured coding practices. Whether you're a beginner or have some programming experience, this course will help you enhance your skills and develop a strong programming mindset.
