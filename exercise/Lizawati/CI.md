@@ -99,5 +99,5 @@ Welcome to the Data Structures and Algorithms Course! In this course, you will l
 
 ## Contact Information
 
-If you have any questions, please feel free to contact the instructor at [Your Email].
+If you have any questions, please feel free to contact the instructor at [lizawati@utm.my].
 
