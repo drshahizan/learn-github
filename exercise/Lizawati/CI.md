@@ -1,5 +1,5 @@
 <p align ="center">
-  <img src="https://github.com/drshahizan/learn-github/blob/main/exercise/Lizawati/images/Gambar%20Liza.jpg" height="20">
+  <img src="https://github.com/drshahizan/learn-github/blob/main/exercise/Lizawati/images/Gambar%20Liza.jpg" height="100">
 </p>
 
 # Data Structures and Algorithms Course
