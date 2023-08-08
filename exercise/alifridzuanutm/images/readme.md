@@ -1,1 +1,1 @@
-![Sample Image](PhotoAlif.jpg)
+![My Image](PhotoAlif.jpg)
