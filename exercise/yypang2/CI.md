@@ -47,3 +47,16 @@ An introduction to the foundational concepts and techniques of web programming. 
 - **Name:** Dr. Aisha Rahman
 - **Email:** aisha.rahman@utm.my
 - **Office Hours:** Monday & Wednesday 2-4 PM
+
+| Name           | Age | Gender | Occupation        | State           |
+|----------------|-----|--------|--------------------|-----------------|
+| Ahmad Zulkifli | 32  | Male   | Engineer           | Selangor        |
+| Siti Hasmah    | 28  | Female | Teacher            | Johor           |
+| Rajesh Kumar   | 40  | Male   | IT Specialist      | Penang          |
+| Noraini Binti  | 22  | Female | University Student | Kuala Lumpur    |
+| Lee Chong Wei  | 35  | Male   | Athlete            | Melaka          |
+| Esther Lim     | 29  | Female | Banker             | Sabah           |
+| Faizul Hakim   | 27  | Male   | Photographer       | Sarawak         |
+| Laila Rashid   | 31  | Female | Doctor             | Negeri Sembilan |
+| Gan Wei Loon   | 45  | Male   | Chef               | Perak           |
+| Sarah Abdullah | 25  | Female | Designer           | Kedah           |
