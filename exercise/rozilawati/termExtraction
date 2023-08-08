@@ -1,0 +1,22 @@
+import re
+
+def extract_multiword_terms(text):
+  """Extracts multiword terms from a given text.
+
+  Args:
+    text: The text to extract terms from.
+
+  Returns:
+    A list of multiword terms.
+  """
+
+  terms = []
+  for match in re.finditer(r"\b\w+\b", text):
+    terms.append(match.group())
+
+  return terms
+
+if __name__ == "__main__":
+  text = "This is a blog post about machine learning."
+  terms = extract_multiword_terms(text)
+  print(terms)
