@@ -1,3 +1,7 @@
+<div style="text-align: center;">
+  <img src="https://github.com/drshahizan/learn-github/blob/main/exercise/Lizawati/images/Gambar%20Liza.jpg" alt="My photo" style="max-width: 50%; height: 10%;">
+</div>
+
 # Data Structures and Algorithms Course
 
 Welcome to the Data Structures and Algorithms Course! In this course, you will learn the fundamental concepts of data structures and algorithms, which are crucial for writing efficient and optimized computer programs.
