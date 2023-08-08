@@ -1,4 +1,8 @@
-![Dr Nzah]([relative/path/to/image.png](https://github.com/drshahizan/learn-github/blob/main/exercise/DrNzah/images/NzahID.jpg))
+<p align="center">
+<img
+ src="https://github.com/drshahizan/learn-github/blob/main/exercise/DrNzah/images/NzahID.jpg" height="200"/>
+</p>
+
 Course Title: Business Intelligence Fundamentals
 
 Course Description:
