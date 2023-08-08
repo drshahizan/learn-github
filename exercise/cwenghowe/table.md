@@ -2,7 +2,6 @@
 
 SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
 
-|----------------|-------------------------------:|-----------------------------:|
 |                |ASCII                          |HTML                         |
 |----------------|:-------------------------------:|-----------------------------:|
 |Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
