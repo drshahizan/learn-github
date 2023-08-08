@@ -18,58 +18,53 @@ By the end of this course, you will be able to:
 - Secure user authentication and data
 - Build resilient applications
 
-# Course Outline with Weightage
-
-## 1. Introduction to Secure Programming (5%)
+## 1. Remembering and Understanding
+### Introduction to Secure Programming (5%)
 - Importance of secure programming
-- Overview of common security vulnerabilities
+- Recognizing common security vulnerabilities
 
-## 2. Security Fundamentals (10%)
-- Input validation and sanitization
-- Output encoding and data escaping
-- Error handling and logging securely
+## 2. Applying and Analyzing
+### Security Fundamentals (15%)
+- Applying input validation and sanitization techniques
+- Analyzing output encoding and data escaping methods
+- Examining error handling and secure logging practices
 
-## 3. Authentication and Authorization (15%)
-- User authentication methods
-- Role-based access control
-- Security tokens and session management
+### Authentication and Authorization (20%)
+- Applying various user authentication methods
+- Analyzing role-based access control mechanisms
+- Implementing secure security tokens and session management
 
-## 4. Data Security (15%)
-- Secure data storage and transmission
-- Encryption and hashing techniques
-- Preventing SQL injection and NoSQL injection
+### Secure API Development (20%)
+- Applying API authentication and authorization strategies
+- Analyzing rate limiting and throttling mechanisms
+- Implementing secure input validation for APIs
 
-## 5. Web Application Security (10%)
-- Cross-site scripting (XSS) prevention
-- Cross-site request forgery (CSRF) protection
-- Security headers and content security policy
+## 3. Evaluating and Creating
+### Data Security (20%)
+- Evaluating secure data storage and transmission techniques
+- Creating encryption and hashing mechanisms
+- Designing strategies to prevent SQL injection and NoSQL injection
 
-## 6. Secure Coding in Different Languages (10%)
-- Java, Python, C#, and JavaScript best practices
-- Language-specific vulnerabilities and mitigations
+### Web Application Security (15%)
+- Evaluating cross-site scripting (XSS) prevention techniques
+- Creating cross-site request forgery (CSRF) protection mechanisms
+- Designing security headers and content security policy guidelines
 
-## 7. Secure API Development (15%)
-- API authentication and authorization
-- Rate limiting and throttling
-- Input validation for APIs
-
-## 8. Secure Code Review and Testing (20%)
-- Static and dynamic code analysis
-- Penetration testing and vulnerability scanning
-- Bug bounty programs and responsible disclosure
+### Secure Code Review and Testing (25%)
+- Evaluating static and dynamic code analysis techniques
+- Creating penetration testing and vulnerability scanning plans
+- Designing effective bug bounty programs and responsible disclosure processes
 
 ---
 
 ## Assessment and Grading
 - Participation: 5%
-- Coding Exercises: 15%
-- Group Projects: 20%
-- Final Exam: 20%
-- API Development Project: 20%
-- Secure Code Review Assignment: 20%
+- Quizzes (Remembering and Understanding): 15%
+- Hands-on Exercises (Applying and Analyzing): 25%
+- Group Projects (Applying and Analyzing): 25%
+- Final Exam (Evaluating and Creating): 30%
 
 ---
-
 ## Resources
 - Required Reading: "The Secure Coding Field Manual" by SecureCode Academy
 - Supplementary Materials: Online articles, video tutorials, and practical examples
