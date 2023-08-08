@@ -9,3 +9,8 @@ $$
 $$
 
 > You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
+
+
+$$
+\f(x) = \int_0^\infty x^{2}y^{2}\,.
+$$
