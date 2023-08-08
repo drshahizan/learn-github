@@ -1,5 +1,9 @@
 # Software Engineering Course
 
+<p align="center">
+<img src="images/PhotoAlif.jpg" alt="MyImage" width="250" height="300">
+</p>
+
 ## Course Overview
 
 Welcome to the Software Engineering course! In this course, you will learn the fundamental principles and practices of software development. We will cover various aspects of the software development lifecycle, from requirements gathering and design to implementation, testing, and maintenance. By the end of this course, you will have a solid foundation in software engineering concepts and be well-prepared to contribute effectively to software projects.
