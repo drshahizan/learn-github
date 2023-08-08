@@ -4,8 +4,8 @@ Welcome to the Application Development course! In this course, you'll learn the 
 
 ## Course Details
 
-- **Course Code:** APPDEV101
-- **Duration:** 10 weeks
+- **Course Code:** SECJ3104
+- **Duration:** 14 weeks
 - **Level:** Beginner to Intermediate
 
 ## Course Outline
@@ -73,8 +73,8 @@ Welcome to the Application Development course! In this course, you'll learn the 
 
 ## Instructor
 
-- **Name:** John Doe
-- **Email:** john.doe@example.com
+- **Name:** Adil Firdaus Binti Arbain
+- **Email:** adilafirdaus@utm.my
 - **Office Hours:** Mondays and Wednesdays, 2:00 PM - 4:00 PM
 
 Feel free to reach out to the instructor with any questions or concerns.
