@@ -43,5 +43,3 @@ By the end of this course, you will be able to:
    - Types of models: functional, structural, behavioral
    - Modeling languages: UML, SysML, etc.
 
-5
-
