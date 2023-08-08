@@ -4,10 +4,10 @@ Welcome to the Data Structures and Algorithms Course! In this course, you will l
 
 ## Course Overview
 
-- **Course Duration:** XX weeks
-- **Instructor:** [Your Name]
-- **Contact:** [Your Email]
-- **Prerequisites:** Basic programming knowledge in [Language]
+- **Course Duration:** 15 weeks
+- **Instructor:** [Lizawati binti Mi Yusuf]
+- **Contact:** [lizawati@utm.my]
+- **Prerequisites:** Basic programming knowledge in [C++]
 
 ## Table of Contents
 
