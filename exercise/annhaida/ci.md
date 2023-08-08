@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/drshahizan/learn-github/blob/main/exercise/annhaida/images/geomod.JPG" alt="Geometric Modelling">
+</p>
+
 # Geometric Modelling Course
 
 ## Course Description
