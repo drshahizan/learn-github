@@ -1,3 +1,11 @@
+<p align="center">
+<img
+src="https://github.com/drshahizan/learn-github/blob/main/exercise/rozilawati/IMAGES/rozilawati1%20(1).jpg" height="200"/>
+</p>
+
+
+
+
 # COURSE INFORMATION
 
 ## Course Name
