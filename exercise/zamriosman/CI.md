@@ -82,6 +82,6 @@ By the end of this course, you will be able to:
 - Supplementary Materials: Articles, tutorials
 
 ## Instructor
-- Name: John Smith
-- Contact: john.smith@email.com
+- Name: Mohd Zamri Osman
+- Contact: mohdzamri.osman@utm.my
 - Office Hours: Wed, 2:00 PM - 4:00 PM
