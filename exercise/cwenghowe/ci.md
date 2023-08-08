@@ -2,7 +2,7 @@
 
 ## Course Overview
 
-This course offers an in-depth study of No-SQL (Not Only SQL) databases and their applications in the world of Data Engineering. Designed specifically for undergraduate students pursuing a Bachelor's degree in Computer Science with a specialization in Data Engineering, the course will explore various No-SQL systems and their use in managing, storing, and retrieving data.
+This course offers an in-depth study of No-SQL (Not Only SQL) databases, tailored for undergraduate students pursuing a Bachelor's degree in Computer Science specializing in Data Engineering.
 
 ### Course Code
 
@@ -23,24 +23,48 @@ Fall 2023
 
 ## Course Objectives
 
-By the end of this course, students should be able to:
-
 1. Understand the differences between SQL and No-SQL databases.
-2. Explore various No-SQL database models such as Document, Key-Value, Column-family, and Graph.
-3. Implement and query No-SQL databases using languages like MongoDB, Cassandra, and Redis.
-4. Analyze and design scalable No-SQL solutions for big data problems.
-5. Evaluate performance, consistency, and scalability issues in No-SQL systems.
+2. Explore various No-SQL database models.
+3. Implement and query No-SQL databases.
+4. Design scalable No-SQL solutions.
+5. Evaluate No-SQL system performance.
 
 ## Topics Covered
 
-1. Introduction to No-SQL Systems
-2. No-SQL Data Models
-3. Querying No-SQL Databases
-4. No-SQL Database Management Systems (MongoDB, Cassandra, Redis, etc.)
-5. Scaling No-SQL Databases
-6. Consistency and Performance in No-SQL
-7. Security Considerations in No-SQL
-8. Case Studies and Industry Applications
+1. **Introduction to No-SQL Systems**
+   - Understanding the need for No-SQL
+   - Differentiating SQL and No-SQL
+
+2. **No-SQL Data Models**
+   - Document
+   - Key-Value
+   - Column-family
+   - Graph
+
+3. **Querying No-SQL Databases**
+   - Basics of querying in No-SQL
+   - Query languages for No-SQL
+
+4. **No-SQL Database Management Systems**
+   - MongoDB
+   - Cassandra
+   - Redis
+
+5. **Scaling No-SQL Databases**
+   - Horizontal vs. Vertical scaling
+   - Sharding and partitioning
+
+6. **Consistency and Performance in No-SQL**
+   - CAP theorem
+   - Transactions and concurrency control
+
+7. **Security Considerations in No-SQL**
+   - Authentication and authorization
+   - Encryption and data integrity
+
+8. **Case Studies and Industry Applications**
+   - Real-world applications of No-SQL
+   - Success stories and lessons learned
 
 ## Assessment & Grading
 
@@ -52,7 +76,7 @@ By the end of this course, students should be able to:
 ## Textbook & Resources
 
 - "NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence" by Martin Fowler and Pramod J. Sadalage
-- Online Documentation and Tutorials for various No-SQL Systems
+- Online Documentation and Tutorials
 
 ## Instructor Information
 
@@ -62,6 +86,7 @@ By the end of this course, students should be able to:
 
 ## Additional Notes
 
-- Students are expected to follow the academic integrity policies of the university.
-- Collaboration on assignments is encouraged, but all submitted work must be your own.
-- Students with disabilities who require special accommodations should contact the instructor at the beginning of the semester.
+- Academic integrity policies apply.
+- Collaboration is encouraged, but plagiarism is not allowed.
+- Special accommodations available for students with disabilities.
+
