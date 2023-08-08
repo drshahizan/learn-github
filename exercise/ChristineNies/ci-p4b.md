@@ -41,11 +41,11 @@ By the end of this course, students will be able to:
 * Bioinformatics Algorithms: The Basics in Python by Kevin Davies
 
 ## Instructor
-<p align="center">
+<p align="left">
   <img src="https://github.com/drshahizan/learn-github/blob/main/exercise/ChristineNies/data/images.jpeg" height="200">
 </p>
-* Dr. Jane Doe
-* Email: jdoe@example.edu
+* Dr. H
+* Email: drh@example.edu
 * Office hours: Tuesday and Thursday, 10am-11am
 
 ## Course Website
