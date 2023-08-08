@@ -6,9 +6,14 @@ Welcome to the course on Requirements Engineering and Software Modeling! This co
 
 ## Course Details
 
-- **Instructor:** [Shahliza Abd Halim]
-- **Email:** [shahliza@utm.my]
-- **Office Hours:** [8am-10am]
+- **Instructor:** [Your Name]
+- **Email:** [Your Email Address]
+- **Office Hours:** [Specify your office hours]
+
+## Prerequisites
+
+- Basic understanding of software development concepts.
+- Familiarity with programming languages is beneficial but not mandatory.
 
 ## Course Objectives
 
@@ -43,3 +48,49 @@ By the end of this course, you will be able to:
    - Types of models: functional, structural, behavioral
    - Modeling languages: UML, SysML, etc.
 
+5. **Use Case Diagrams**
+   - Capturing functional requirements
+   - Actors and use cases
+   - Relationships and scenarios
+
+6. **Class Diagrams**
+   - Representing static structure
+   - Classes, attributes, methods
+   - Associations, aggregations, inheritances
+
+7. **Sequence and Activity Diagrams**
+   - Modeling dynamic behavior
+   - Sequence diagrams for interactions
+   - Activity diagrams for workflows
+
+8. **Advanced Topics in Modeling**
+   - State machine diagrams
+   - Component and deployment diagrams
+   - Modeling non-functional requirements
+
+9. **Model-based System Engineering**
+   - Integrating requirements and models
+   - SysML overview
+   - System architecture and design
+
+## Assessment and Grading
+
+- Assignments: 30%
+- Quizzes and Tests: 40%
+- Final Project: 20%
+- Class Participation: 10%
+
+## Recommended Resources
+
+- Textbook: [Title of the Textbook]
+- Online Resources: [List of relevant websites, articles, and tutorials]
+
+## Important Dates
+
+- First Day of Class: [Specify date]
+- Midterm Exam: [Specify date]
+- Final Exam: [Specify date]
+- Last Day of Class: [Specify date]
+
+---
+Note: This course outline is subject to change at the instructor's discretion.
