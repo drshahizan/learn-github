@@ -1,6 +1,6 @@
-<div style="text-align: center;">
-  <img src="https://github.com/drshahizan/learn-github/blob/main/exercise/Lizawati/images/Gambar%20Liza.jpg" alt="My photo" style="max-width: 50%; height: 10%;">
-</div>
+<p align ="center">
+  <img src="https://github.com/drshahizan/learn-github/blob/main/exercise/Lizawati/images/Gambar%20Liza.jpg" height="20">
+</p>
 
 # Data Structures and Algorithms Course
 
