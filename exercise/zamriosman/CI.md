@@ -1,4 +1,5 @@
 # Secure Programming Course
+![Alt Text](images/coding.png)
 
 ## Course Description
 Learn to write secure code and build resilient applications in the Secure Programming course. Covering various languages and frameworks, this course focuses on security best practices, vulnerabilities, and defensive techniques.
