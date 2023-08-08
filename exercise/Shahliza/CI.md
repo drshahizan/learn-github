@@ -6,9 +6,9 @@ Welcome to the course on Requirements Engineering and Software Modeling! This co
 
 ## Course Details
 
-- **Instructor:** [Your Name]
-- **Email:** [Your Email Address]
-- **Office Hours:** [Specify your office hours]
+- **Instructor:** [Shahliza Abd Halim]
+- **Email:** [shahliza@utm.my]
+- **Office Hours:** [8am-10am]
 
 ## Course Objectives
 
