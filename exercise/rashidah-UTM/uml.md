@@ -10,3 +10,10 @@ Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text d
 
 Zuraini-->Shidah: Checking with John...
 Shidah->Azizah: Yes... John, how are you?
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
