@@ -1,2 +1,3 @@
 <p align="center">
-<img src="PhotoAlif.jpg" alt="Alt Text" width="250" height="300">
+<img src="PhotoAlif.jpg" alt="MyImage" width="250" height="300">
+</p>
