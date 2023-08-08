@@ -21,6 +21,7 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
+
 ## KaTeX
 
 You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
