@@ -2,42 +2,48 @@
 ## Universiti Teknologi Malaysia
 
 ### Course Description
-[Add a brief description of the course here.]
+An introduction to the foundational concepts and techniques of web programming. Students will learn how to design, develop, and deploy dynamic websites using modern technologies.
 
 ### Objectives
-- [Course objective 1]
-- [Course objective 2]
-- [Course objective 3]
-- ... 
+- Understand the fundamental concepts of web programming.
+- Learn the basics of HTML, CSS, and JavaScript.
+- Develop dynamic web applications using client and server-side frameworks.
+- Gain practical experience in web deployment and maintenance.
 
 ### Prerequisites
-- [Prerequisite course 1]
-- [Prerequisite course 2]
-- ...
+- SECV1111 Introduction to Computing
+- SECV1112 Programming Fundamentals
 
 ### Course Outline
 1. **Week 1:** Introduction to Web Programming
-    - Subtopic 1.1
-    - Subtopic 1.2
-    - ...
-2. **Week 2:** [Topic for week 2]
-    - Subtopic 2.1
-    - Subtopic 2.2
-    - ...
-3. ...
-...
+    - History of the Web
+    - Web Architecture and Protocols
+2. **Week 2:** Basics of HTML and CSS
+    - Creating Basic Web Pages
+    - Styling with CSS
+3. **Week 3:** Introduction to JavaScript
+    - Variables, Data Types, and Functions
+    - DOM Manipulation
+4. **Week 4:** Advanced HTML and CSS
+    - Responsive Web Design
+    - CSS Frameworks
+5. **Week 5:** Client-side Frameworks
+    - Introduction to ReactJS
+    - Building Components
+6. ... [And so on...]
 
 ### Assessment
-1. **Assignment 1:** [Details about the assignment]
-2. **Mid-term Exam:** [Date, Coverage]
-3. **Final Exam:** [Date, Coverage]
-4. ...
+1. **Assignment 1:** Basic Webpage Design - Due Week 3
+2. **Mid-term Exam:** Week 6, Covers Weeks 1-5
+3. **Final Exam:** Week 12, Covers All Topics
+4. **Project:** Dynamic Web Application - Due Week 11
 
 ### Textbooks & References
-1. [Author Name]. (Year). **Book Title**. Publisher.
-2. ...
+1. Duckett, J. (2014). **HTML & CSS: Design and Build Websites**. Wiley.
+2. Flanagan, D. (2011). **JavaScript: The Definitive Guide**. O'Reilly Media.
+3. ...
 
 ### Instructor Information
-- **Name:** [Instructor's name]
-- **Email:** [Instructor's email]
-- **Office Hours:** [e.g., Monday 2-4 PM]
+- **Name:** Dr. Aisha Rahman
+- **Email:** aisha.rahman@utm.my
+- **Office Hours:** Monday & Wednesday 2-4 PM
