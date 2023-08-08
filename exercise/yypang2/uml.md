@@ -14,3 +14,10 @@ Badawi-->Ahmad: Checking with Johan...
 Ahmad->Johan: Yes... Johan, how are you?
 ```
 
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
