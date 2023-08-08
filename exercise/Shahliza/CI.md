@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://github.com/drshahizan/learn-github/blob/main/exercise/Shahliza/images/MyPicture.GIF" height="200"/>
+</p>
+
+
 # Course: Requirements Engineering and Software Modeling
 
 ## Course Overview
