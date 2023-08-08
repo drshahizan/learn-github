@@ -1,3 +1,4 @@
+![Dr Nzah](relative/path/to/image.png)
 Course Title: Business Intelligence Fundamentals
 
 Course Description:
