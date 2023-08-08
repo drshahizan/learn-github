@@ -64,7 +64,7 @@ In summary, this folder structure appears to be organizing a GitHub repository b
 
 | No | Name | Folder |
 | --- | --- | :---: |
-| 1 | ADAM FIROZ | <a href="firozypd" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
+| 1 | ADAM FIROZ | <a href="firozypd" ><img src="folder.png" width="24px" height="24px" ></a> | 
 | 2 | ADRINA ASYIQIN BINTI MD ADHA | <a href="AdrinaAsyiqin" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
 | 3 | AFIF HAZMIE ARSYAD BIN AGUS | <a href="AfifHazmie" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
 | 4 | AHMAD AIMAN HAFIZI BIN MUHAMMAD | <a href="AimanHafizi619" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
