@@ -1,6 +1,10 @@
 
 # Software Engineering Course
 
+<p align="center">
+<img src="https://github.com/drshahizan/learn-github/raw/main/exercise/JA/images/Pic%20Profile%20Johanna.png" height ="100" />
+</p>
+
 ## Course Description
 
 The Software Engineering course provides a comprehensive introduction to the principles, techniques, and practices of developing high-quality software systems. Students will learn how to apply software engineering methodologies to design, develop, test, and maintain software projects. The course covers various aspects of the software development lifecycle, including requirements engineering, design patterns, coding practices, testing strategies, version control, and project management.
