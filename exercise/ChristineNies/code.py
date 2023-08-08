@@ -1,5 +1,5 @@
-import markdown
-from bs4 import BeautifulSoup
+import pandas as pd
+from io import StringIO
 
 markdown_text = """
 | No | First Name | Last Name  | Identity Card Number | Sex | Address                 | Contact Number    |
@@ -16,18 +16,13 @@ markdown_text = """
 | 10 | Saraswathi | Subram     | 910527-06-7890      | F   | 654 Jalan Murni, Klang  | 012-345-6789     |
 """
 
-html_text = markdown.markdown(markdown_text)
-soup = BeautifulSoup(html_text, 'html.parser')
+# Convert Markdown text to CSV-like format
+csv_text = "\n".join(line.strip() for line in markdown_text.split("\n") if line.strip())
 
-table = soup.find('table')
-rows = table.find_all('tr')
+# Read CSV-like data using pandas
+data = pd.read_csv(StringIO(csv_text), sep="|", skipinitialspace=True)
 
-data = []
+# Remove leading and trailing spaces in column names
+data.columns = data.columns.str.strip()
 
-for row in rows[1:]:
-    columns = row.find_all('td')
-    row_data = [column.get_text(strip=True) for column in columns]
-    data.append(row_data)
-
-for record in data:
-    print(record)
+print(data)
