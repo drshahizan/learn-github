@@ -1,7 +1,3 @@
-Certainly! Here's an example of course information for a Database course using Markdown formatting:
-
----
-
 # Database Course
 
 ## Course Description
