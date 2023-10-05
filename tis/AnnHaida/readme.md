@@ -1,4 +1,3 @@
-```markdown
 # Geometric Modelling Course
 
 ## Course Description
@@ -79,8 +78,8 @@ By the end of this course, students should be able to:
 
 ## Instructor
 
-- Dr. Ann
-- Email: ann@example.com
+- Dr. Ann MS
+- Email: ann.ms@example.com
 - Office Hours: Tuesdays and Thursdays, 2:00 PM - 4:00 PM.
 
 ## Class Schedule
@@ -91,4 +90,3 @@ By the end of this course, students should be able to:
 ## Course Website
 
 All course materials, assignments, announcements, and resources will be available on the course website: [http://www.geometricmodellingcourse.com](http://www.geometricmodellingcourse.com)
-```
