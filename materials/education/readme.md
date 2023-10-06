@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/learn-github/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/learn-github?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Flearn-github&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-Don't forget to hit the :star: if you like this repo.
+🌟 Hit star button to save this repo in your profile
 
 # [Github Education](https://education.github.com/)
 GitHub Education is a program that provides students, teachers, and academic institutions with access to a range of tools and resources to help them learn and teach technology skills. The program offers a number of benefits, including access to GitHub Pro, Canva Pro, Microsoft Azure, JetBrains, Namecheap, GitKraken, and other developer tools, all of which are designed to help students and teachers collaborate on code, manage projects, and build their skills.
