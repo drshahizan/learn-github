@@ -2,11 +2,11 @@
 
 ## Introduction
 
-In the vast realm of technology and innovation, [Your Name], a promising Computer Science student, has emerged as a beacon of knowledge and ingenuity. This essay endeavors to shed light on their unique journey, unveiling their academic background, interests, and noteworthy contributions within the domain of computer science.
+In the vast realm of technology and innovation, Ikmal Bin Khairulezuan, a promising Computer Science student, has emerged as a beacon of knowledge and ingenuity. This essay endeavors to shed light on their unique journey, unveiling their academic background, interests, and noteworthy contributions within the domain of computer science.
 
 ## Academic Odyssey
 
-Hailing from [mention your place of origin or current academic institution], [Your Name] embarked on an academic odyssey driven by an insatiable curiosity for the inner workings of technology. From their early days, they exhibited an innate talent for logical thinking and problem-solving, setting the stage for a remarkable academic journey in the field of computer science.
+Hailing from Melaka, Malaysia, Ikmal embarked on an academic odyssey driven by an insatiable curiosity for the inner workings of technology. From their early days, they exhibited an innate talent for logical thinking and problem-solving, setting the stage for a remarkable academic journey in the field of computer science.
 
 ## The Code that Drives Passion
 
