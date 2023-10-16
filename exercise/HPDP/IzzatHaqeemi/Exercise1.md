@@ -1,4 +1,3 @@
-
 # 🚀 Izzat Haqeemi Bin Hairudin: Navigating the Data Galaxy 🌌
 Greetings, fellow cosmic traveler! 👋 I'm Izzat Haqeemi Bin Hairudin, a 21-year-old explorer hailing from the serene town of Tampin nestled in the heart of Negeri Sembilan, Malaysia. 🏞️
 
