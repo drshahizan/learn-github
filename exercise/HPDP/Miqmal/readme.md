@@ -47,6 +47,7 @@ Note right of Mikha: Adam thinks a long<br/>long time, so long<br/>that the text
 
 Adam-->Damia : Checking with Mikha...
 Damia->Mikha: Yes... Mikha, how are you?
+```
 
 And this will produce a flow chart:
 
