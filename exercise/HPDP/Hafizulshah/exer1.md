@@ -14,14 +14,12 @@ Coding is not just a skill for me; it's a passion that drives me to explore the 
 
 One of my proudest achievements as a programmer is the creation of a mod for Terraria. This endeavor allowed me to blend my creativity with my technical expertise, resulting in a unique and engaging gaming experience. Developing a mod for such a popular game required meticulous attention to detail, problem-solving skills, and a deep understanding of game mechanics – all of which I enthusiastically embraced. This project not only honed my programming abilities but also ignited my passion for game development.
 
-![Terraria Mod](https://example.com/terraria-mod-screenshot.png)
-
 ## Future Aspirations 🌟
 
 As I progress in my academic and professional journey, I aspire to contribute significantly to the tech industry. Whether it's developing innovative software solutions, exploring the realms of artificial intelligence, or making groundbreaking advancements in data engineering, I am determined to make a positive impact. My goal is not only to excel in my chosen field but also to inspire others with my passion for coding and programming.
 
 I invite you to join me on this exciting journey of exploration, learning, and innovation. Let's connect, collaborate, and create a future where technology knows no bounds.
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/hafizulshah-bin-sharom/) to discuss coding, programming, or anything tech-related. Together, let's shape the future of technology!
+Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/https://my.linkedin.com/in/hafizulshah-sharom-5b3b2423b) to discuss coding, programming, or anything tech-related. Together, let's shape the future of technology!
 
 Happy coding! 😊🚀
