@@ -1,1 +1,26 @@
 
+class Person:
+    def __init__(self, name, degree, studying, university, from_location, occupation):
+        self.name = name
+        self.degree = degree
+        self.studying = studying
+        self.university = university
+        self.from_location = from_location
+        self.occupation = occupation
+
+    def describe(self):
+        description = f"Name: {self.name}\nDegree: {self.degree}\nStudying: {self.studying}\nUniversity: {self.university}\nFrom: {self.from_location}\nOccupation: {self.occupation}"
+        return description
+
+
+# تعريف المتغيرات
+name = "Mustafa Ghazi Talab"
+degree = "Computer Engineering"
+studying = "Master of Science in Computer Science"
+university = "UTM"
+from_location = "Baghdad, Iraq"
+occupation = "Manager"
+
+# إنشاء مثيل للفئة وطباعة الوصف
+person = Person(name, degree, studying, university, from_location, occupation)
+print(person.describe())
