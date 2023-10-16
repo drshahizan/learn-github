@@ -47,8 +47,8 @@ Farhan--x Sarah: I am good thanks!
 Farhan-x Aliya: I am good thanks!
 Note right of Aliya: Farhan thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
 
-Farhan-->Sarah: Checking with John...
-Sarah->Frahan: Yes... John, how are you?
+Farhan-->Sarah: Checking with Farhan...
+Sarah->Farhan: Yes... Farhan, how are you?
 ```
 
 And this will produce a flow chart:
