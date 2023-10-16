@@ -52,3 +52,12 @@ Note right of Muhaimin: Hafizul thinks a long<br/>long time, so long<br/>that th
 Hafizul-->Yvonne: Checking with Muhaimin...
 Yvonne->Muhaimin: Yes... Muhaimin, how are you?
 
+And this will produce a flow chart:
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+
