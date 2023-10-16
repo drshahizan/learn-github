@@ -43,7 +43,17 @@ Damia ->> Adam: Hello Adam, how are you?
 Adam-->>Mikha: How about you Mikha?
 Adam--x Damia : I am good thanks!
 Adam-x Mikha: I am good thanks!
-Note right of Mikga: Adam thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+Note right of Mikha: Adam thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
 
 Adam-->Damia : Checking with Mikha...
-Damia->Mikha: Yes... Mikga, how are you?
+Damia->Mikha: Yes... Mikha, how are you?
+
+And this will produce a flow chart:
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
