@@ -1,103 +1,103 @@
-|   ID   |    Name    |   Age   |  City      |   Email                    |
-|------- |------------|---------|------------|-----------------------------|
-|   1    |  John Doe  |   32    |  New York  |  john.doe@example.com       |
-|   2    |  Jane Smith|   28    |  Los Angeles| jane.smith@example.com     |
-|   3    |  Bob Johnson|  45    |  Chicago   |  bob.johnson@example.com    |
-|   4    |  Sarah Lee |   37    |  San Francisco| sarah.lee@example.com     |
-|   5    |  James Brown|  29    |  Miami     |  james.brown@example.com    |
-|   6    |  Emily Davis|  31    |  Dallas    |  emily.davis@example.com    |
-|   7    |  Michael Wilson|  40 |  Boston    |  michael.wilson@example.com |
-|   8    |  Olivia Clark|   26 |  Seattle   |  olivia.clark@example.com    |
-|   9    |  Robert Turner|  34 |  Denver    |  robert.turner@example.com  |
-|   10   |  Sophia White|  27 |  Houston   |  sophia.white@example.com   |
-|   11   |  William Hall|  33 |  Phoenix   |  william.hall@example.com   |
-|   12   |  Emma Harris|   30 |  Philadelphia| emma.harris@example.com   |
-|   13   |  Joseph Jackson| 43|  San Diego |  joseph.jackson@example.com |
-|   14   |  Mia Thomas |  25 |  San Antonio| mia.thomas@example.com     |
-|   15   |  David Martin|  38 |  Austin    |  david.martin@example.com   |
-|   16   |  Isabella Perez| 29 |  San Jose |  isabella.perez@example.com |
-|   17   |  Charles Rodriguez| 42|  Jacksonville| charles.rodriguez@example.com |
-|   18   |  Amelia Garcia|   27 |  Indianapolis| amelia.garcia@example.com |
-|   19   |  Christopher Martinez| 36 |  San Francisco | christopher.martinez@example.com |
-|   20   |  Sofia Hernandez|   31 |  Columbus  |  sofia.hernandez@example.com |
-|   21   |  Andrew Smith|  35 |  Fort Worth|  andrew.smith@example.com   |
-|   22   |  Elizabeth Davis| 28 |  Charlotte |  elizabeth.davis@example.com |
-|   23   |  Daniel Lopez | 41 |  Detroit   |  daniel.lopez@example.com   |
-|   24   |  Scarlett Young| 26 |  El Paso  |  scarlett.young@example.com |
-|   25   |  Ethan Brown |  30 |  Memphis  |  ethan.brown@example.com   |
-|   26   |  Ava Johnson  | 44 |  Baltimore |  ava.johnson@example.com   |
-|   27   |  Benjamin Lewis| 29|  Boston    |  benjamin.lewis@example.com |
-|   28   |  Mia Moore   |  35 |  Nashville|  mia.moore@example.com     |
-|   29   |  William Lewis| 27 |  Washington, D.C. | william.lewis@example.com |
-|   30   |  Grace Hall  |  32 |  Portland |  grace.hall@example.com     |
-|   31   |  Samuel Davis|  37 |  Las Vegas |  samuel.davis@example.com   |
-|   32   |  Lily Anderson| 26 |  Louisville| lily.anderson@example.com  |
-|   33   |  Christopher Lee| 39|  Oklahoma City | christopher.lee@example.com |
-|   34   |  Sophia Johnson| 28 |  Milwaukee|  sophia.johnson@example.com |
-|   35   |  Matthew White|  33 |  Albuquerque | matthew.white@example.com |
-|   36   |  Ava Harris  |  30 |  Tucson   |  ava.harris@example.com     |
-|   37   |  Daniel Moore|  31 |  Fresno   |  daniel.moore@example.com   |
-|   38   |  Olivia Wilson|  32 |  Sacramento | olivia.wilson@example.com |
-|   39   |  Joseph Robinson| 45|  Long Beach | joseph.robinson@example.com |
-|   40   |  Amelia Lewis | 26 |  Kansas City | amelia.lewis@example.com  |
-|   41   |  David Martin | 38 |  Mesa     |  david.martin@example.com   |
-|   42   |  Emily Harris | 29 |  Atlanta  |  emily.harris@example.com   |
-|   43   |  Benjamin Scott| 34|  Raleigh  |  benjamin.scott@example.com |
-|   44   |  Mia Lopez   |  27 |  Colorado Springs| mia.lopez@example.com     |
-|   45   |  James Turner|  35 |  Omaha    |  james.turner@example.com   |
-|   46   |  Isabella Martin| 28|  Miami   |  isabella.martin@example.com |
-|   47   |  Ethan Rodriguez| 42|  Minneapolis| ethan.rodriguez@example.com |
-|   48   |  Grace Allen |  31 |  Tampa   |  grace.allen@example.com     |
-|   49   |  William Young| 33 |  Arlington|  william.young@example.com   |
-|   50   |  Sophia Taylor| 30 |  Wichita |  sophia.taylor@example.com   |
-|   51   |  Michael Davis| 44 |  St. Louis|  michael.davis@example.com   |
-|   52   |  Emma Hernandez| 27|  Santa Ana|  emma.hernandez@example.com |
-|   53   |  Joseph Taylor|  38|  Anaheim |  joseph.taylor@example.com   |
-|   54   |  Mia Johnson  | 29 |  Pittsburgh| mia.johnson@example.com   |
-|   55   |  Noah Hernandez| 32|  Cincinnati| noah.hernandez@example.com |
-|   56   |  Olivia Turner| 30 |  Bakersfield| olivia.turner@example.com |
-|   57   |  William Davis | 33 |  Tampa   |  william.davis@example.com   |
-|   58   |  Sophia Perez| 26 |  Aurora   |  sophia.perez@example.com   |
-|   59   |  Benjamin Hall| 39 |  Honolulu |  benjamin.hall@example.com |
-|   60   |  Ava Rodriguez| 28 |  Anaheim  |  ava.rodriguez@example.com  |
-|   61   |  James White |  37 |  Santa Ana|  james.white@example.com   |
-|   62   |  Emily Harris|  34 |  Riverside|  emily.harris@example.com   |
-|   63   |  Noah Clark  |  31 |  Corpus Christi| noah.clark@example.com   |
-|   64   |  Isabella Smith| 43|  Lexington| isabella.smith@example.com |
-|   65   |  Michael Taylor| 30|  Pittsburgh| michael.taylor@example.com |
-|   66   |  Emma Davis  |  32 |  Anchorage|  emma.davis@example.com     |
-|   67   |  Joseph Lewis|  45 |  Stockton |  joseph.lewis@example.com   |
-|   68   |  Mia Young   |  27 |  Toledo   |  mia.young@example.com     |
-|   69   |  William Brown| 36 |  St. Paul |  william.brown@example.com |
-|   70   |  Sophia Johnson| 30 |  Newark |  sophia.johnson@example.com |
-|   71   |  Benjamin Martin| 31|  Plano   |  benjamin.martin@example.com |
-|   72   |  Olivia Clark|  29 |  Henderson|  olivia.clark@example.com   |
-|   73   |  James Anderson| 42 |  Lincoln|  james.anderson@example.com |
-|   74   |  Ava Lee    |  34 |  Buffalo  |  ava.lee@example.com       |
-|   75   |  Emma Harris |  33 |  Jersey City| emma.harris@example.com   |
-|   76   |  William Allen| 28 |  Chula Vista| william.allen@example.com |
-|   77   |  Noah Hall  |  37 |  Orlando  |  noah.hall@example.com     |
-|   78   |  Sophia Davis|  30 |  Chandler |  sophia.davis@example.com   |
-|   79   |  Benjamin Smith| 29 |  Laredo  |  benjamin.smith@example.com |
-|   80   |  Mia Martinez|  44 |  Madison |  mia.martinez@example.com   |
-|   81   |  Olivia Perez|  27 |  Lubbock  |  olivia.perez@example.com   |
-|   82   |  James Taylor|  35 |  Garland |  james.taylor@example.com   |
-|   83   |  Isabella Wilson| 38|  Glendale | isabella.wilson@example.com |
-|   84   |  William Moore| 30 |  Hialeah |  william.moore@example.com   |
-|   85   |  Joseph Martin| 32 |  Reno    |  joseph.martin@example.com   |
-|   86   |  Sophia Rodriguez| 41|  Gilbert |  sophia.rodriguez@example.com |
-|   87   |  Emma Lewis |  29 |  North Las Vegas| emma.lewis@example.com   |
-|   88   |  Benjamin Brown| 33 |  Irving |  benjamin.brown@example.com |
-|   89   |  Mia Smith  |  28 |  Fremont |  mia.smith@example.com     |
-|   90   |  James Davis |  45 |  Richmond |  james.davis@example.com   |
-|   91   |  Ava Clark  |  30 |  Baton Rouge | ava.clark@example.com     |
-|   92   |  William Anderson| 36 |  Spokane |  william.anderson@example.com |
-|   93   |  Emma Taylor |  31 |  Des Moines | emma.taylor@example.com   |
-|   94   |  Joseph Hall|  29 |  Montgomery | joseph.hall@example.com   |
-|   95   |  Sophia Young|  28 |  Shreveport | sophia.young@example.com   |
-|   96   |  Mia Perez  |  33 |  Boise   |  mia.perez@example.com     |
-|   97   |  Benjamin Garcia| 37|  Spokane |  benjamin.garcia@example.com |
-|   98   |  Olivia Harris| 26 |  Birmingham | olivia.harris@example.com |
-|   99   |  Noah Hernandez| 35|  Rochester | noah.hernandez@example.com |
-|   100  |  Isabella Lewis| 30|  Modesto |  isabella.lewis@example.com |
-
+| Student Number | Student Name        | Age | Gender | Course                | University                  |
+|----------------|--------------------- | --- | ------ | ---------------------  | ---------------------------- |
+| 1              | Ali bin Rahman       | 21  | Male   | Engineering           | University of KL             |
+| 2              | Siti Aminah Tan      | 20  | Female | Medicine              | National University          |
+| 3              | Raj Kumar Singh      | 22  | Male   | Business              | Taylor's University          |
+| 4              | Mei Ling Lim         | 21  | Female | Computer Science      | University of Malaya         |
+| 5              | Ahmad Abdullah       | 23  | Male   | Law                   | Multimedia University        |
+| 6              | Hana Yap             | 20  | Female | Accounting            | Sunway University            |
+| 7              | Mohd Ali Hassan      | 22  | Male   | Psychology            | Help University              |
+| 8              | Jessica Wong         | 21  | Female | Marketing             | Monash University            |
+| 9              | Ismail Ibrahim       | 23  | Male   | Environmental Science | Universiti Putra Malaysia     |
+| 10             | Nurul Huda Chan      | 20  | Female | Architecture          | UCSI University              |
+| 11             | David Lim            | 22  | Male   | Pharmacy              | International Medical University |
+| 12             | Jasmine Lee          | 21  | Female | Dentistry             | International Islamic University Malaysia |
+| 13             | William Goh          | 23  | Male   | Computer Engineering   | University of Nottingham Malaysia |
+| 14             | Aishah Tan           | 20  | Female | Economics             | University of Science Malaysia |
+| 15             | Charles Chan         | 22  | Male   | Finance               | Asia Pacific University      |
+| 16             | Siti Fatimah         | 21  | Female | English Literature    | Limkokwing University        |
+| 17             | Amirah Abdullah      | 23  | Male   | Civil Engineering      | Tunku Abdul Rahman University |
+| 18             | Emily Wong           | 20  | Female | Biotechnology         | Curtin University Malaysia   |
+| 19             | John Tan             | 22  | Male   | Computer Science       | Swinburne University of Technology Sarawak Campus |
+| 20             | Samantha Ng          | 21  | Female | Communications        | KDU University College       |
+| 21             | Nor Aziz             | 23  | Male   | Mathematics           | Universiti Teknologi Malaysia |
+| 22             | Nurul Huda Mohd      | 20  | Female | Political Science     | University of Sabah         |
+| 23             | Karthik Raj          | 24  | Male   | Physics               | Universiti Sains Malaysia    |
+| 24             | Aminah Lee           | 21  | Female | History               | Management & Science University |
+| 25             | Daniel Lim           | 22  | Male   | Chemistry             | Universiti Malaysia Pahang   |
+| 26             | Zara Abdullah        | 23  | Female | Sociology             | Universiti Malaysia Sarawak   |
+| 27             | Zulkifli Hassan      | 21  | Male   | Geography             | International University College of Technology Twintech |
+| 28             | Melati Chan          | 22  | Female | Environmental Studies | Universiti Kuala Lumpur      |
+| 29             | Anisah Abdul Rahman | 24  | Female | Nursing               | International Medical College |
+| 30             | Faisal Ali           | 25  | Male   | Computer Engineering   | Multimedia University        |
+| 31             | Liyana Tan           | 22  | Female | Dentistry             | Universiti Teknologi MARA     |
+| 32             | Mani Kumar           | 23  | Male   | Mechanical Engineering | University of Nottingham Malaysia |
+| 33             | Hafizah Mohd Hassan  | 21  | Female | Biochemistry          | UCSI University              |
+| 34             | Faizal Tan           | 22  | Male   | Accounting            | Taylor's University          |
+| 35             | Aisyah Abdullah      | 23  | Female | Medicine              | Monash University            |
+| 36             | Amirul Lee           | 20  | Male   | Business              | Limkokwing University        |
+| 37             | Anis Wong            | 21  | Female | Psychology            | Swinburne University of Technology Sarawak Campus |
+| 38             | Subramaniam Raj      | 24  | Male   | Physics               | Universiti Malaysia Pahang   |
+| 39             | Priya Chan           | 25  | Female | Chemistry             | Universiti Putra Malaysia     |
+| 40             | Faridah Ibrahim      | 23  | Female | Civil Engineering      | Universiti Malaysia Sarawak   |
+| 41             | Ravi Kumar           | 22  | Male   | Marketing             | Curtin University Malaysia   |
+| 42             | Yasmin Hassan        | 21  | Female | Computer Science       | Asia Pacific University      |
+| 43             | Ahmad Ali            | 24  | Male   | Environmental Science | Universiti Kuala Lumpur      |
+| 44             | Zainab Tan           | 23  | Female | Economics             | Universiti Teknologi Malaysia |
+| 45             | Sameer Chan          | 25  | Male   | Dentistry             | International Medical University |
+| 46             | Aina Wong            | 20  | Female | Architecture          | National University          |
+| 47             | Razif Abdullah       | 21  | Male   | Computer Engineering   | Taylor's University          |
+| 48             | Farah Lee            | 23  | Female | Business              | University of KL             |
+| 49             | Iskandar Mohd        | 22  | Male   | Finance               | Sunway University            |
+| 50             | Nurul Huda Tan       | 24  | Female | Medicine              | Help University              |
+| 51             | Zara Rahman          | 22  | Female | Computer Science       | Management & Science University |
+| 52             | Kamal Kumar          | 25  | Male   | Civil Engineering      | KDU University College       |
+| 53             | Liyana Lee           | 24  | Female | Psychology            | University of Science Malaysia |
+| 54             | Amirah Chan          | 21  | Female | Marketing             | International Islamic University Malaysia |
+| 55             | Mohd Ali Ibrahim     | 23  | Male   | Electrical Engineering | Universiti Teknologi MARA     |
+| 56             | Arif Rahman          | 22  | Male   | Environmental Science | Universiti Sains Malaysia    |
+| 57             | Siti Aminah Mohd     | 21  | Female | Economics             | International University College of Technology Twintech |
+| 58             | Farid Chan           | 24  | Male   | Computer Engineering   | Universiti Malaysia Sabah    |
+| 59             | Aisyah Tan           | 22  | Female | Finance               | Asia Pacific University      |
+| 60             | Amirul Lee           | 25  | Male   | Medicine              | Monash University            |
+| 61             | Aina Wong            | 23  | Female | Business              | Curtin University Malaysia   |
+| 62             | Razif Abdullah       | 24  | Male   | Marketing             | Swinburne University of Technology Sarawak Campus |
+| 63             | Iskandar Mohd        | 21  | Male   | Architecture          | University of Malaya         |
+| 64             | Nurul Huda Tan       | 22  | Female | Computer Science       | UCSI University              |
+| 65             | Zara Rahman          | 25  | Female | Electrical Engineering | Multimedia University        |
+| 66             | Kamal Kumar          | 24  | Male   | Dentistry             | Universiti Malaysia Pahang   |
+| 67             | Liyana Lee           | 21  | Female | Computer Engineering   | Universiti Putra Malaysia     |
+| 68             | Arif Rahman          | 23  | Male   | Business              | National University          |
+| 69             | Siti Aminah Mohd     | 22  | Female | Marketing             | Taylor's University          |
+| 70             | Farid Chan           | 25  | Male   | Medicine              | International Medical University |
+| 71             | Aisyah Tan           | 24  | Female | Civil Engineering      | Universiti Teknologi Malaysia |
+| 72             | Amirul Lee           | 21  | Male   | Computer Science       | Universiti Malaysia Sarawak   |
+| 73             | Aina Wong            | 23  | Female | Economics             | Curtin University Malaysia   |
+| 74             | Razif Abdullah       | 22  | Male   | Environmental Science | Asia Pacific University      |
+| 75             | Iskandar Mohd        | 25  | Male   | Finance               | Sunway University            |
+| 76             | Nurul Huda Tan       | 24  | Female | Business              | Help University              |
+| 77             | Zara Rahman          | 23  | Female | Medicine              | Monash University            |
+| 78             | Kamal Kumar          | 22  | Male   | Psychology            | Management & Science University |
+| 79             | Liyana Lee           | 21  | Female | Computer Engineering   | University of KL             |
+| 80             | Arif Rahman          | 24  | Male   | Dentistry             | Universiti Teknologi MARA     |
+| 81             | Siti Aminah Mohd     | 23  | Female | Business              | National University          |
+| 82             | Farid Chan           | 25  | Male   | Civil Engineering      | Taylor's University          |
+| 83             | Aisyah Tan           | 21  | Female | Marketing             | Multimedia University        |
+| 84             | Amirul Lee           | 22  | Male   | Computer Science       | Universiti Teknologi Malaysia |
+| 84             | Amirul Lee           | 22  | Male   | Computer Science       | UCSI University              |
+| 85             | Aina Wong            | 23  | Female | Economics             | Curtin University Malaysia   |
+| 86             | Razif Abdullah       | 21  | Male   | Business              | Asia Pacific University      |
+| 87             | Iskandar Mohd        | 22  | Male   | Medicine              | Sunway University            |
+| 88             | Nurul Huda Tan       | 24  | Female | Civil Engineering      | Help University              |
+| 89             | Zara Rahman          | 23  | Female | Environmental Science | Monash University            |
+| 90             | Kamal Kumar          | 25  | Male   | Marketing             | Management & Science University |
+| 91             | Liyana Lee           | 22  | Female | Computer Engineering   | University of KL             |
+| 92             | Arif Rahman          | 24  | Male   | Dentistry             | Universiti Teknologi MARA     |
+| 93             | Siti Aminah Mohd     | 23  | Female | Business              | National University          |
+| 94             | Farid Chan           | 25  | Male   | Civil Engineering      | Taylor's University          |
+| 95             | Aisyah Tan           | 21  | Female | Marketing             | Multimedia University        |
+| 96             | Amirul Lee           | 22  | Male   | Computer Science       | UCSI University              |
+| 97             | Aina Wong            | 23  | Female | Economics             | Curtin University Malaysia   |
+| 98             | Razif Abdullah       | 21  | Male   | Business              | Asia Pacific University      |
+| 99             | Iskandar Mohd        | 22  | Male   | Medicine              | Sunway University            |
+| 100            | Nurul Huda Tan       | 24  | Female | Civil Engineering      | Help University              |
