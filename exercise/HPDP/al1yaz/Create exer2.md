@@ -85,4 +85,19 @@
 | 83  | Terengganu          | 1,256,183         |
 | 84  | Negeri Sembilan     | 1,052,619         |
 | 85  | Malacca             | 922,202           |
-| 86  | Perlis              | 263,313
+| 86  | Perlis              | 263,313           |
+| 87  | Federal Territories | 1,543,915         |
+| 88  | Labuan              | 101,994           |
+| 89  | Putrajaya           | 111,778           |
+| 90  | Sarawak             | 2,668,958         |
+| 91  | Sabah               | 3,976,484         |
+| 92  | Pahang              | 1,662,228         |
+| 93  | Perlis              | 263,313           |
+| 94  | Kelantan            | 1,811,472         |
+| 95  | Kedah               | 2,100,546         |
+| 96  | Perak               | 2,508,808         |
+| 97  | Terengganu          | 1,256,183         |
+| 98  | Negeri Sembilan     | 1,052,619         |
+| 99  | Malacca             | 922,202           |
+| 100 | Selangor            | 6,974,768         |
+
