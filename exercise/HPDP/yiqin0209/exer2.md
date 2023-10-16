@@ -22,4 +22,24 @@
 | Lee Yen           | 29  | Account Manager     |
 | Tan Wei           | 36  | Dentist             |
 | Priya Patel       | 30  | Pharmacist          |
+| John Doe           | 35   | Engineer                 |
+| Jane Smith         | 28   | Teacher                  |
+| Ahmad Rahman       | 42   | Doctor                   |
+| Lisa Tan           | 31   | Accountant               |
+| Mohd Ali           | 29   | Graphic Designer         |
+| Sarah Lim          | 45   | Lawyer                   |
+| David Chong        | 39   | Architect                |
+| Emily Ng           | 33   | Nurse                    |
+| Michael Goh        | 28   | Software Developer       |
+| Aisha Lee          | 37   | Marketing Manager        |
+| Adam Wong          | 40   | Sales Representative     |
+| Nurul Hassan       | 34   | Chef                     |
+| Rachel Tan         | 27   | Pharmacist               |
+| Daniel Lim         | 30   | Photographer             |
+| Hana Abdullah      | 36   | Librarian                |
+| Amirah Tan         | 25   | Writer                   |
+| William Ng         | 38   | Financial Analyst        |
+| Faridah Yusof      | 29   | Electrician              |
+| Michelle Lee      | 31   | Biologist                |
+| Isaac Wong         | 32   | Marketing Coordinator    |
 | ...
