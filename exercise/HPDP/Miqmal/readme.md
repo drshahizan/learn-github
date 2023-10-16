@@ -43,7 +43,7 @@ Damia ->> Adam: Hello Adam, how are you?
 Adam-->>Mikha: How about you Mikha?
 Adam--x Damia : I am good thanks!
 Adam-x Mikha: I am good thanks!
-Note right of John: Adam thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+Note right of Mikga: Adam thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
 
 Adam-->Damia : Checking with Mikha...
-Damia->Mikha: Yes... John, how are you?
+Damia->Mikha: Yes... Mikga, how are you?
