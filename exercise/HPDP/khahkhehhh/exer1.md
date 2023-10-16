@@ -4,10 +4,10 @@ Hi there, I'm Fong Khah Kheh! 👋 I am passionate about transforming raw data i
 
 ## About Me
 
-- **Education:** I am currently a third-year Data Engineering student at Universiti Teknologi Malaysia.
-- **Passion:** I am a data enthusiast, always excited about the prospect of turning data into actionable insights that can drive meaningful change.
-- **Skills:** As a dedicated Code Composer, I enjoy working with various programming languages to craft efficient and elegant solutions.
-- **Interests:** Apart from my data-centric pursuits, I find solace and stimulation in the game of chess, where strategic thinking and problem-solving skills are constantly put to the test.
+- **Education:** 📚 I am currently a third-year Data Engineering student at Universiti Teknologi Malaysia.
+- **Passion:** 🚀 I am a data enthusiast, always excited about the prospect of turning data into actionable insights that can drive meaningful change.
+- **Skills:** 💻 As a dedicated Code Composer, I enjoy working with various programming languages to craft efficient and elegant solutions.
+- **Interests:** ♟️ Apart from my data-centric pursuits, I find solace and stimulation in the game of chess, where strategic thinking and problem-solving skills are constantly put to the test.
 
 ## My Journey
 
@@ -25,7 +25,7 @@ Feel free to reach out and join me on this exhilarating journey of data explorat
 
 ### Contact Information
 
-- LinkedIn: [Fong Khah Kheh](www.linkedin.com/in/fong-khah-kheh-0a539625a)
-- Email: [your_email@example.com](mailto:fongkheh@graduate.utm.my)
-- GitHub: [Your GitHub Profile](https://github.com/khahkhehhh)
+- LinkedIn: [Fong Khah Kheh](www.linkedin.com/in/fong-khah-kheh-0a539625a) 
+- Email: [fongkheh@graduate.utm.my](mailto:fongkheh@graduate.utm.my)
+- GitHub: [khahkhehhh](https://github.com/khahkhehhh)
 
