@@ -22,9 +22,8 @@ Hello! I am Nurunnajwa, a third-year student at UTM pursuing my Bachelor of Scie
 - Web Development
 
 ## Contact Information
-- **Email:** [Your Email Address]
-- **LinkedIn:** [Your LinkedIn Profile URL]
-- **GitHub:** [Your GitHub Profile URL]
+- **Email:** [nurunnajwa21@gmail.com](mailto:nurunnajwa21@gmail.com)
+- **LinkedIn:** [Nurunnajwa Zulkifli](https://www.linkedin.com/in/nurunnajwa-zulkifli)
+- **GitHub:** [Nurunnajwa12](https://github.com/Nurunnajwa12)
 
 Feel free to reach out if you have any questions or if you want to connect and discuss technology, data, or anything related!
-
