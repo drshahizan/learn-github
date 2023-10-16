@@ -16,3 +16,30 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 |Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
 |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+
+## KaTeX
+
+You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
+
+The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
+
+$$
+\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
+$$
+
+> You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
+
+## UML diagrams
+
+You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
+
+```mermaid
+sequenceDiagram
+Kah Hooi ->> Yvonne: Hello Yvonne, how are you?
+Yvonne-->>Terresa: How about you Terresa?
+Yvonne--x Kah Hooi: I am good thanks!
+Yvonne-x Terresa: I am good thanks!
+Note right of Terresa: Yvonne thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+
+Yvonne-->Kah Hooi: Checking with Terresa...
+Kah Hooi->Terresa: Yes... Terresa, how are you?
