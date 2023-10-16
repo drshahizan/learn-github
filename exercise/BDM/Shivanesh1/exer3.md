@@ -24,6 +24,5 @@
   - 💽 SQL
   - 📉 Data Visualization Tools (e.g., Matplotlib, Seaborn, Tableau)
   - 🤖 Machine Learning Frameworks (e.g., TensorFlow, PyTorch)
-- **Goals:** [Mention their career aspirations and what they hope to achieve with their data science education]
-
+- **Goals:** I aspire to use data science to solve complex problems in the healthcare industry and contribute to improved patient care.
 This data science student is passionate about working with data, conducting meaningful analyses, and using machine learning techniques to solve real-world problems. They have a strong foundation in programming, statistics, and data analysis, and are continuously developing their skills to become a proficient data scientist.
