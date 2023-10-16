@@ -47,3 +47,12 @@ Note right of Iqmal: Farhan thinks a long<br/>long time, so long<br/>that the te
 
 Farhan-->Zarena : Checking with Iqmal...
 Zarena->Iqmal: Yes... Farhan, how are you?
+
+And this will produce a flow chart:
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
