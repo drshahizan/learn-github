@@ -43,7 +43,7 @@ Zarena ->> Farhan: Hello Farhan, how are you?
 Farhan-->>Iqmal: How about you Iqmal?
 Farhan--x Zarena : I am good thanks!
 Farhan-x Iqmal: I am good thanks!
-Note right of Iqmal: Adam thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+Note right of Iqmal: Farhan thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
 
 Farhan-->Zarena : Checking with Iqmal...
 Zarena->Iqmal: Yes... Farhan, how are you?
