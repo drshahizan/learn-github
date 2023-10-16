@@ -43,7 +43,7 @@ You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For e
 ```mermaid
 sequenceDiagram
 SP ->> KK: Hello KK, how are you?
-KK-->>YC: How about you John?
+KK-->>YC: How about you YC?
 KK--x SP: I am good thanks!
 KK-x YC: I am good thanks!
 Note right of YC: KK thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
