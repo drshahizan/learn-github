@@ -1,4 +1,4 @@
-## Data of Malaysian Citizens
+## Data of Malaysian Citizen
 
 | ID | Name                | Age | City             | Email                         |
 |----|---------------------|-----|------------------|-------------------------------|
