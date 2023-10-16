@@ -1,4 +1,4 @@
-## 100 data about Malaysia citizen
+## 100 data about Malaysia citizens
 | Name              | IC Number     | Gender | Birthdate  | Occupation         |
 |-------------------|---------------|--------|------------|--------------------|
 | John Doe          | 901231-12-3456| Male   | 1990-12-31 | Engineer           |
