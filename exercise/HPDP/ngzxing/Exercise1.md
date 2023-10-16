@@ -1,6 +1,6 @@
 # Introduction
 
-Hello, I'm [Your Name], a dedicated and driven Bachelor's Data Engineering student at University Teknology Malaysia. My journey into the world of data engineering and analysis is a testament to my unwavering passion for exploring the profound potential of big data to construct intelligent solutions that transform the way we interact with information and make decisions.
+Hello, I'm Ng Zi Xing, a dedicated and driven Bachelor's Data Engineering student at University Teknology Malaysia. My journey into the world of data engineering and analysis is a testament to my unwavering passion for exploring the profound potential of big data to construct intelligent solutions that transform the way we interact with information and make decisions.
 
 ## The Journey So Far
 
