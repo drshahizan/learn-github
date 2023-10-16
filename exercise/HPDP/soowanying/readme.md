@@ -40,7 +40,7 @@ You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For e
 
 ```mermaid
 sequenceDiagram
-Alice ->> Yiqin: Hello Yiqin, how are you?
+Yee Chi ->> Yiqin: Hello Yiqin, how are you?
 Yiqin-->>Yvonne: How about you Yvonne?
 Yiqin--x Yee Chi: I am good thanks!
 Yiqin-x Yvonne: I am good thanks!
