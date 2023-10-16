@@ -77,4 +77,25 @@
 | Izzati binti Mohd   | 930924-05-3456 | Female | 1993-09-24    | 234 Jalan Sejahtera, Sarawak              | +6010-123-4567   |
 | Faisal bin Teh      | 960613-08-4567 | Male   | 1996-06-13    | 876 Jalan Mutiara, Negeri Sembilan        | +6015-678-9012   |
 | Sarah binti Kow     | 850407-10-5678 | Female | 1985-04-07    | 123 Jalan Harmoni, Kedah                 | +6013-567-8901   |
-
+| Amir bin Ong        | 930805-03-6789 | Male   | 1993-08-05    | 432 Jalan Murni, Sabah                    | +6012-345-6789   |
+| Nurul binti Goh     | 860520-06-2345 | Female | 1986-05-20    | 123 Jalan Sentosa, Terengganu             | +6016-789-1234   |
+| Azhar bin Ali       | 950927-08-3456 | Male   | 1995-09-27    | 567 Jalan Berjaya, Perlis                 | +6019-456-7890   |
+| Aisha binti Ng      | 920511-09-4567 | Female | 1992-05-11    | 234 Jalan Cemerlang, Melaka               | +6010-123-4567   |
+| Hafiz bin Tan       | 870811-10-5678 | Male   | 1987-08-11    | 765 Jalan Damai, Johor                    | +6018-901-2345   |
+| Zara binti Lim      | 940612-03-2345 | Female | 1994-06-12    | 321 Jalan Harmoni, Kedah                 | +6014-234-5678   |
+| Irfan bin Wong      | 930913-05-3456 | Male   | 1993-09-13    | 987 Jalan Bahagia, Selangor               | +6011-345-6789   |
+| Siti binti Teh      | 880619-06-4567 | Female | 1988-06-19    | 234 Jalan Mutiara, Negeri Sembilan        | +6012-345-6789   |
+| Mohd bin Hassan     | 940803-03-5678 | Male   | 1994-08-03    | 876 Jalan Sejahtera, Sarawak              | +6016-789-1234   |
+| Yasmin binti Ali    | 900714-07-2345 | Female | 1990-07-14    | 456 Jalan Merdeka, Kuala Lumpur            | +6019-456-7890   |
+| Amirul bin Chan     | 950724-09-3456 | Male   | 1995-07-24    | 123 Jalan Ria, Penang                     | +6010-123-4567   |
+| Lina binti Lim      | 920128-10-4567 | Female | 1992-01-28    | 765 Jalan Murni, Sabah                    | +6015-678-9012   |
+| Firdaus bin Teh     | 890619-11-6789 | Male   | 1989-06-19    | 234 Jalan Sentosa, Terengganu             | +6013-567-8901   |
+| Zara binti Wong     | 970314-08-2345 | Female | 1997-03-14    | 567 Jalan Bahagia, Selangor               | +6018-901-2345   |
+| Hanif bin Ali       | 930322-09-3456 | Male   | 1993-03-22    | 321 Jalan Damai, Johor                    | +6014-234-5678   |
+| Anis binti Goh      | 850822-05-4567 | Female | 1985-08-22    | 876 Jalan Berjaya, Perlis                 | +6012-345-6789   |
+| Lisa binti Teh      | 960513-06-5678 | Female | 1996-05-13    | 123 Jalan Cemerlang, Melaka               | +6016-789-1234   |
+| Arif bin Ng         | 900405-10-6789 | Male   | 1990-04-05    | 987 Jalan Harmoni, Kedah                 | +6019-456-7890   |
+| Sarah binti Kow     | 850729-08-2345 | Female | 1985-07-29    | 234 Jalan Mutiara, Negeri Sembilan        | +6010-123-4567   |
+| Haziq bin Teh       | 970611-09-3456 | Male   | 1997-06-11    | 765 Jalan Berjaya, Perlis                 | +6015-678-9012   |
+| Azlina binti Chan   | 900207-11-4567 | Female | 1990-02-07    | 432 Jalan Damai, Johor                    | +6013-567-8901   |
+| Amir bin Lim        | 930412-03-5678 | Male   | 1993-04-12    | 987 Jalan Sentosa, Terengganu             | +6011-345-6789   |
