@@ -45,11 +45,11 @@ sequenceDiagram
 Chloe ->> Bob: Hello Shuang Joo, how are you?
 Bob-->>Shin Pearl: How about you Shin Pearl?
 Bob--x Chloe: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+Bob-x Shin Pearl: I am good thanks!
+Note right of Shin Pearl: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
 
 Bob-->Chloe: Checking with Shin Pearl...
-Chloe->John: Yes... Shin Pearl, how are you?
+Chloe->Shin Pearl: Yes... Shin Pearl, how are you?
 ```
 
 And this will produce a flow chart:
