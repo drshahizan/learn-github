@@ -44,6 +44,4 @@
 | Nor Azizah binti Ali   | 870605-03-8765 | Female | 1987-06-05    | 34 Jalan Damai, Johor Bahru           | 011-987-6543   | azizah.ali@email.com       |
 
 
-(100 records in total)
-
 
