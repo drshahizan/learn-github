@@ -50,3 +50,12 @@ Note right of KK: Chloe thinks a long<br/>long time, so long<br/>that the text d
 
 Chloe-->Joo: Checking with KK...
 Joo->KK: Yes... KK, how are you?
+
+And this will produce a flow chart:
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
