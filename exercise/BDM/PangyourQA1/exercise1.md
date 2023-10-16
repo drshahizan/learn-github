@@ -31,10 +31,10 @@ You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For e
 ```mermaid
 sequenceDiagram
 Pang Chern Hong ->> JM: Hello JM, how are you?
-JM-->>Pang Chern Hong: How about you John?
+JM-->>John: How about you John?
 JM--x Pang Chern Hong: I am good thanks!
-Pang Chern Hong-x JM: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+JM-x John: I am good thanks!
+Note right of John: JM thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
 
 JM-->Pang Chern Hong: Checking with John...
 Pang Chern Hong->John: Yes... John, how are you?
@@ -48,4 +48,3 @@ A[Square Rect] -- Link text --> B((Circle))
 A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
-```
