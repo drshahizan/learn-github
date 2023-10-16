@@ -1,3 +1,20 @@
+import pandas as pd
+
+# تعريف البيانات كقاموس
+data = {
+    'Name': ['Mustafa Ghazi Talab'],
+    'Degree': ['Computer Engineering'],
+    'Studying': ['Master of Science in Computer Science'],
+    'University': ['UTM'],
+    'From': ['Baghdad, Iraq'],
+    'Occupation': ['Manager']
+}
+
+# إنشاء DataFrame
+df = pd.DataFrame(data)
+
+# طباعة الجدول
+print(df)
 
 class Person:
     def __init__(self, name, degree, studying, university, from_location, occupation):
