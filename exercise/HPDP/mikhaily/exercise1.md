@@ -1,10 +1,11 @@
 # **Mikhail Bin Yassin**
 
-- **Hometown**: Kota Belud
-- **State**: Sabah
-- **University**: Universiti Teknologi Malaysia
-- **Degree**: Bachelor of Computer Science in Data Engineering
-- **Class**: High Performance Data Processing
+
+- **Hometown**: Kota Belud 🏞️
+- **State**: Sabah 🌅
+- **University**: Universiti Teknologi Malaysia 🎓
+- **Degree**: Bachelor of Computer Science in Data Engineering 💻📊
+- **Class**: High Performance Data Processing 🚀
 
 ---
 
