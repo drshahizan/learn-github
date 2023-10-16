@@ -88,3 +88,13 @@
 | Leading Golf Courses | Saujana Golf & Country Club, Kuala Lumpur Golf & Country Club |
 | Historical Figures  | Hang Tuah, Tun Fatimah, Hang Jebat             |
 | Famous Waterfalls   | Lata Iskandar (Cameron Highlands), Chiling Waterfall (Selangor) |
+| National Stadium    | Bukit Jalil National Stadium (Kuala Lumpur)                |
+| Famous Mountains    | Mount Korbu, Mount Ophir (Gunung Ledang)                   |
+| Leading Universities| Universiti Malaya (UM), Universiti Putra Malaysia (UPM)    |
+| Notable Authors     | Tash Aw, Yangsze Choo, Tan Twan Eng                        |
+| Traditional Dance   | Mak Yong, Joget Lambak, Zapin                             |
+| Major Newspapers    | The Star, New Straits Times, Berita Harian                |
+| National Monuments  | National Monument (Tugu Negara), Sultan Abdul Samad Building |
+| Endangered Languages| Jahai, Kensiu, Kedah Malay                                |
+| Famous Islands      | Redang Island, Sipadan Island, Rawa Island                |
+| Popular Festivals   | Thaipusam, Wesak, Hari Raya Haji   
