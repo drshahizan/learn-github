@@ -1,3 +1,16 @@
+👋 Hello, I'm Siti Norafizah, a passionate student hailing from Malaysia. 🇲🇾
+
+📚 Currently, I'm immersed in the world of learning and development, constantly seeking new opportunities to expand my knowledge and skills.
+
+🌍 I believe in the power of technology to make a positive impact on our world, and GitHub is where I showcase my projects, collaborate with others, and contribute to open-source initiatives.
+
+🔗 Let's connect! You can find me on GitHub at [sitinorafizah](https://github.com/sitinorafizah). Feel free to explore my repositories and drop a message. I'm always open to collaboration and new ideas!
+
+🌱 When I'm not coding, I enjoy exploring new horizons, sipping on a good cup of coffee, and embracing the beauty of life's journey.
+
+🚀 Join me on my coding adventures, and together, let's create a better, more connected digital future! 🌟
+
+
 | Shopping Brand     | Sales (in millions) |
 |-------------------|----------------------|
 | Brand A           | 100                 |
