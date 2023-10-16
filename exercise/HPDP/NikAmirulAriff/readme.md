@@ -35,15 +35,16 @@ $$
 
 You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
 
-mermaidsequenceDiagram
-Alya ->> Shu: Hello Bob, how are you?
-Shu-->>Najwa: How about you John?
+mermaid
+sequenceDiagram
+Alya ->> Shu: Hello Shu, how are you?
+Shu-->>Najwa: How about you Najwa?
 Shu--x Alya: I am good thanks!
 Shu-x Najwa: I am good thanks!
 Note right of Najwa: Shu thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
 
 Shu-->Dina: Checking with Najwa...
-Dina->John: Yes... Najwa, how are you?
+Dina->Najwa: Yes... Najwa, how are you?
 
 
 And this will produce a flow chart:
