@@ -1,6 +1,5 @@
 <div align="center">
   <h1 style="color: #ff8c00; font-size: 30px; font-weight: bold;">👋 Meet Ashraaf Saleh</h1>
-  <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" alt="GIF" width="300" height="230">
   <h2 style="color: #117a65; font-size: 20px;">Striving for Excellence Every Minute!</h2>
 </div>
 
