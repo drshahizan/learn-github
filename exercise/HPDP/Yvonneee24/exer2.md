@@ -76,3 +76,25 @@
 | Emily Chong         | 26  | Female | 444 Persiaran Damai, PJ     | 018-123-4567   | emily@example.com                |
 | Mohd Zul Azhar      | 40  | Male   | 555 Jalan Sentiasa, KL      | 019-234-5678   | zul@example.com                  |
 | Tan Mei Ling        | 27  | Female | 123 Persiaran Damai, JB     | 011-345-6789   | meiling@example.com              |
+| Lim Chin Leong   | 32  | Male   | 123 Jalan Sentosa, KL       | 012-345-6789   | lim@example.com                |
+| Wong Mei Ling    | 29  | Female | 456 Persiaran Damai, PJ     | 017-234-5678   | wong@example.com               |
+| Raj Kumar        | 40  | Male   | 789 Jalan Harmoni, JB       | 016-543-2109   | raj@example.com                |
+| Siti Aminah      | 30  | Female | 101 Taman Bahagia, KL       | 013-987-6543   | aminah@example.com             |
+| Ng Kok Weng      | 22  | Male   | 555 Jalan Larkin, KL        | 019-345-6781   | ng@example.com                 |
+| Lee Mei Yen      | 38  | Female | 22 Jalan Indah, PJ          | 014-876-5432   | lee@example.com                |
+| Tan Kok Seng     | 27  | Male   | 33 Persiaran Cerah, KL      | 011-234-5678   | tan@example.com                |
+| Kumar Rajesh     | 42  | Male   | 888 Jalan Damai, JB         | 019-876-5432   | kumar@example.com              |
+| Tan Siew Ling    | 33  | Female | 77 Jalan Harmoni, KL        | 015-678-9012   | siew@example.com               |
+| Heng Sze Wei     | 29  | Male   | 456 Persiaran Sentosa, PJ   | 013-456-7890   | heng@example.com               |
+| Norazizah Abdul  | 43  | Female | 99 Jalan Bahagia, KL        | 012-345-6789   | azizah@example.com             |
+| Ali bin Hussin   | 36  | Male   | 21 Persiaran Indah, JB      | 016-789-0123   | ali@example.com                |
+| Ng Mei Hui       | 24  | Female | 123 Jalan Cerah, KL         | 017-345-6789   | ng@example.com                 |
+| Lim Wei Kiat     | 31  | Male   | 333 Jalan Riang, PJ         | 014-567-8901   | lim@example.com                |
+| Wong Kar Wei     | 25  | Female | 567 Persiaran Damai, KL     | 018-123-4567   | wong@example.com               |
+| Rajesh Singh     | 43  | Male   | 90 Jalan Bahagia, JB        | 013-890-1234   | rajesh@example.com             |
+| Tan Mei Ling     | 29  | Female | 77 Jalan Sentosa, KL        | 019-234-5678   | tan@example.com                |
+| Liew Peng Seng   | 32  | Male   | 222 Persiaran Harmoni, PJ   | 015-678-9012   | liew@example.com               |
+| Nurul Ain Abdul  | 30  | Female | 456 Jalan Ria, KL           | 012-345-6789   | ain@example.com                |
+| Hussein bin Ali  | 34  | Male   | 10 Persiaran Damai, JB      | 016-789-0123   | hussein@example.com            |
+| Wong Kar Mun     | 26  | Female | 555 Jalan Bahagia, KL       | 017-890-1234   | kar@example.com                |
+| Muhammad Hassan  | 27  | Male   | 999 Jalan Harmoni, PJ       | 011-234-5678   | hassan@example.com             |
