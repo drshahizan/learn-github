@@ -2,7 +2,7 @@
 
 - **Name:** Shivanesh
 - **University:** University Teknology Malaysia
-- **Program:** Data Science and Analytics
+- **Program:** Data Science 
 - **Year:** 1st year
 - **Background:** 📚 I hold a bachelor's degree in Applied Mathematics, which has equipped them with a solid foundation in mathematical concepts, statistics, and problem-solving skills. Their academic background in Applied Mathematics provides them with a strong analytical mindset, making them well-prepared for the data science field.
 - **Interests:**
