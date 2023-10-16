@@ -65,17 +65,3 @@ C --> D
 
 
 
-# Ang Yi Qin: Unraveling the Enigma
-
-Meet **Ang Yi Qin** - a name that exudes mystery and adventure. In this repository, we embark on a journey to explore the life and experiences of Ang Yi Qin. From the ordinary to the extraordinary, be prepared to be captivated by this unique world.
-
-## Table of Contents
-
-- [Introduction](#ang-yi-qin-unraveling-the-enigma)
-- [About Ang Yi Qin](#about-ang-yi-qin)
-- [Personal Journey](#personal-journey)
-- [Projects and Achievements](#projects-and-achievements)
-- [Get in Touch](#get-in-touch)
-
-Stay tuned for an intriguing journey through the life of Ang Yi Qin!
-
