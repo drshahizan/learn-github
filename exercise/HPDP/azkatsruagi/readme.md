@@ -24,7 +24,31 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
 
 The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
+## UML diagrams
 
+You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
+
+```mermaid
+sequenceDiagram
+Yasmeen ->> Sarah: Hello Sarah, how are you?
+Sarah-->>John: How about you John?
+Sarah--x Yasmeen: I am good thanks!
+Sarah-x John: I am good thanks!
+Note right of John: Sarah thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+
+Sarah-->Alice: Checking with John...
+Alice->John: Yes... John, how are you?
+```
+
+And this will produce a flow chart:
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
 $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
 $$
