@@ -30,3 +30,27 @@ $$
 $$
 
 > You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
+
+You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
+
+```mermaid
+sequenceDiagram
+Dina ->> Miyo: Hello Miyo, how are you?
+Miyo-->>Azri: How about you John?
+Miyo--x Dina: I am good thanks!
+Miyo-x Azri: I am good thanks!
+Note right of Azri: Miyo thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+
+Miyo-->Dina: Checking with Azri...
+Dina->Azri: Yes... Azri, how are you?
+```
+
+And this will produce a flow chart:
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
