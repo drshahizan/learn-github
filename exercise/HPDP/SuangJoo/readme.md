@@ -50,6 +50,7 @@ Note right of KK: Chloe thinks a long<br/>long time, so long<br/>that the text d
 
 Chloe-->Joo: Checking with KK...
 Joo->KK: Yes... KK, how are you?
+```
 
 And this will produce a flow chart:
 
