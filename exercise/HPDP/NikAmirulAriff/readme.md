@@ -35,8 +35,7 @@ $$
 
 You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
 
-mermaid
-sequenceDiagram
+mermaidsequenceDiagram
 Alya ->> Shu: Hello Bob, how are you?
 Shu-->>Najwa: How about you John?
 Shu--x Alya: I am good thanks!
