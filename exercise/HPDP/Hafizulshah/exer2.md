@@ -1,6 +1,3 @@
-Certainly! Here is the complete table with dummy data for 100 Malaysians:
-
-```markdown
 | Name               | Age | Gender | City           | Occupation        |
 |--------------------|-----|--------|-----------------|-------------------|
 | Ahmad Abdullah     | 25  | Male   | Kuala Lumpur    | Engineer          |
@@ -70,4 +67,92 @@ Certainly! Here is the complete table with dummy data for 100 Malaysians:
 | Amirul Lim         | 29  | Male   | Lahad Datu      | Pharmacist         |
 | Aisyah Rahim       | 35  | Female | Semporna        | Social Worker      |
 | Harith Tan         | 31  | Male   | Beaufort        | Biologist          |
-| Amira Ong          | 
+| Amira Ong          | 28  | Female | Kota Kinabalu   | Dentist            |
+| Irfan Cheong       | 32  | Male   | Ranau           | Photographer       |
+| Zara Ibrahim       | 26  | Female | Tawau           | Journalist         |
+| Faiq Ong           | 33  | Male   | Lahad Datu      | Geologist          |
+| Alya Tan           | 29  | Female | Sandakan        | Architect          |
+| Aiman Goh          | 34  | Male   | Semporna        | Marketing Manager  |
+| Nurul Huda          | 27  | Female | Tuaran          | HR Manager         |
+| Faisal Cheong       | 35  | Male   | Kota Kinabalu   | Account Manager    |
+| Aisyah Rahim        | 31  | Female | Papar           | IT Consultant      |
+| Amirul Abdullah     | 28  | Male   | Penampang       | Software Dev       |
+| Nurul Aminah        | 30  | Female | Tenom           | UX Designer        |
+| Harith Ibrahim      | 26  | Male   | Tambunan        | Web Developer      |
+| Amira Hamid         | 33  | Female | Ranau           | Engineer            |
+| Irfan Lim           | 29  | Male   | Tawau           | Data Analyst        |
+| Aisha Ong           | 34  | Female | Lahad Datu      | Graphic Designer    |
+| Yasmin Tan          | 31  | Male   | Sandakan        | Lawyer              |
+| Faiq Ibrahim        | 27  | Female | Semporna        | Pharmacist          |
+| Alya Goh            | 35  | Male   | Tuaran          | Teacher             |
+| Nur Aminah          | 32  | Female | Papar           | Doctor              |
+| Harith Abdullah     | 28  | Male   | Penampang       | Nurse               |
+| Amira Cheong        | 30  | Female | Tenom           | Accountant          |
+| Irfan Ibrahim       | 26  | Male   | Tambunan        | Engineer             |
+| Aisha Hamid         | 33  | Female | Ranau           | Librarian            |
+| Yasmin Lim          | 29  | Male   | Tawau           | Marketing Manager    |
+| Faiq Tan            | 34  | Female | Lahad Datu      | HR Manager           |
+| Alya Cheong         | 31  | Male   | Sandakan        | Account Manager      |
+| Nur Ibrahim         | 27  | Female | Semporna        | IT Consultant        |
+| Harith Goh          | 35  | Male   | Tuaran          | Web Developer        |
+| Amira Rahim         | 32  | Female | Papar           | Doctor               |
+| Irfan Abdullah      | 28  | Male   | Penampang       | Nurse                |
+| Aisha Cheong        | 30  | Female | Tenom           | Accountant           |
+| Yasmin Ibrahim      | 26  | Male   | Tambunan        | Engineer              |
+| Faiq Hamid          | 33  | Female | Ranau           | Librarian             |
+| Alya Lim            | 29  | Male   | Tawau           | Marketing Manager     |
+| Nur Tan             | 34  | Female | Lahad Datu      | HR Manager            |
+| Harith Cheong       | 31  | Male   | Sandakan        | Account Manager       |
+| Amira Ibrahim       | 27  | Female | Semporna        | IT Consultant         |
+| Irfan Goh           | 35  | Male   | Tuaran          | Web Developer         |
+| Aisha Rahim         | 32  | Female | Papar           | Doctor                |
+| Yasmin Abdullah     | 28  | Male   | Penampang       | Nurse                 |
+| Faiq Cheong         | 30  | Female | Tenom           | Accountant            |
+| Alya Ibrahim        | 26  | Male   | Tambunan        | Engineer               |
+| Nur Goh             | 33  | Female | Ranau           | Librarian              |
+| Harith Lim          | 29  | Male   | Tawau           | Marketing Manager      |
+| Amira Tan           | 34  | Female | Lahad Datu      | HR Manager             |
+| Irfan Cheong        | 31  | Male   | Sandakan        | Account Manager        |
+| Aisha Ibrahim       | 27  | Female | Semporna        | IT Consultant          |
+| Yasmin Goh          | 35  | Male   | Tuaran          | Web Developer          |
+| Faiq Rahim          | 32  | Female | Papar           | Doctor                 |
+| Alya Abdullah       | 28  | Male   | Penampang       | Nurse                  |
+| Nur Cheong          | 30  | Female | Tenom           | Accountant             |
+| Harith Ibrahim      | 26  | Male   | Tambunan        | Engineer                |
+| Amira Hamid         | 33  | Female | Ranau           | Librarian               |
+| Irfan Lim           | 29  | Male   | Tawau           | Marketing Manager       |
+| Aisha Ong           | 34  | Female | Lahad Datu      | HR Manager              |
+| Yasmin Tan          | 31  | Male   | Sandakan        | Account Manager         |
+| Faiq Ibrahim        | 27  | Female | Semporna        | IT Consultant           |
+| Alya Goh            | 35  | Male   | Tuaran          | Web Developer           |
+| Nur Aminah          | 32  | Female | Papar           | Doctor                   |
+| Harith Abdullah     | 28  | Male   | Penampang       | Nurse                    |
+| Amira Cheong        | 30  | Female | Tenom           | Accountant               |
+| Irfan Ibrahim       | 26  | Male   | Tambunan        | Engineer                  |
+| Aisha Hamid         | 33  | Female | Ranau           | Librarian                 |
+| Yasmin Lim          | 29  | Male   | Tawau           | Marketing Manager         |
+| Faiq Tan            | 34  | Female | Lahad Datu      | HR Manager                |
+| Alya Cheong         | 31  | Male   | Sandakan        | Account Manager           |
+| Nur Ibrahim         | 27  | Female | Semporna        | IT Consultant             |
+| Harith Goh          | 35  | Male   | Tuaran          | Web Developer             |
+| Amira Rahim         | 32  | Female | Papar           | Doctor                    |
+| Irfan Abdullah      | 28  | Male   | Penampang       | Nurse                     |
+| Aisha Cheong        | 30  | Female | Tenom           | Accountant                |
+| Yasmin Ibrahim      | 26  | Male   | Tambunan        | Engineer                   |
+| Faiq Hamid          | 33  | Female | Ranau           | Librarian                  |
+| Alya Lim            | 29  | Male   | Tawau           | Marketing Manager          |
+| Nur Tan             | 34  | Female | Lahad Datu      | HR Manager                 |
+| Harith Cheong       | 31  | Male   | Sandakan        | Account Manager            |
+| Amira Ibrahim       | 27  | Female | Semporna        | IT Consultant              |
+| Irfan Goh           | 35  | Male   | Tuaran          | Web Developer              |
+| Aisha Rahim         | 32  | Female | Papar           | Doctor                     |
+| Yasmin Abdullah     | 28  | Male   | Penampang       | Nurse                      |
+| Faiq Cheong         | 30  | Female | Tenom           | Accountant                 |
+| Alya Ibrahim        | 26  | Male   | Tambunan        | Engineer                    |
+| Nur Goh             | 33  | Female | Ranau           | Librarian                   |
+| Harith Lim          | 29  | Male   | Tawau           | Marketing Manager           |
+| Amira Tan           | 34  | Female | Lahad Datu      | HR Manager                  |
+| Irfan Cheong        | 31  | Male   | Sandakan        | Account Manager             |
+| Aisha Ibrahim       | 27  | Female | Semporna        | IT Consultant               |
+| Yasmin Goh          | 35  | Male   | Tuaran          | Web Developer               |
+| Faiq Rahim          | 32  | Female | Papar           | Doctor                      |
