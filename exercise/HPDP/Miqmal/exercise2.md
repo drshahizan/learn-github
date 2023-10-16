@@ -265,4 +265,3 @@
 | Kulim            | 280,452           | Kedah | Kulim Hi-Tech Park, Badlishah Mosque |
 | Kangar           | 50,456            | Perlis | Kota Kayang Museum, Alwi Mosque |
 | Sungai Kolok     | 49,604            | Kelantan | Talo Kapo Beach, Wat Pho Temple |
-|
