@@ -17,4 +17,3 @@ As Adam decoded the book, he uncovered a groundbreaking data analysis technique,
 Word of his discovery spread like wildfire, and Adam became an overnight sensation in the data science community. He was no longer just a student; he was a visionary, a future Data Scientist whose name was etched in the annals of data history. 🌐🚀
 
 And so, the story of Adam Fahmi continued, a tale of passion, discovery, and the thrilling adventures that await a young Data Engineering student on the path to becoming a Data Science legend. 🌠📈🌌
-
