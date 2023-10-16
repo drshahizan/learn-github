@@ -45,9 +45,15 @@ I am a passionate data science student, currently pursuing a Master's degree in 
 - Data Preprocessing
 
 ## Certifications
-- [Microsoft Certified: Power BI Data Analyst Associate]
+- Microsoft Certified: Power BI Data Analyst Associate
 
 ## Contact
-Feel free to reach out to me through my email or LinkedIn if you would like to connect, collaborate, or discuss anything related to data science and analytics.
-
+<div>
+<a href="https://www.linkedin.com/in/rnabila-husna/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:nnabhusna@gmail.com?subject=Hello%20Nabila%20!">
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 Let's explore the world of data together!
