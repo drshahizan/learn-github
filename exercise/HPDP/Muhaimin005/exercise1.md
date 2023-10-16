@@ -1,6 +1,6 @@
 # Celebrating the Extraordinary in the Ordinary
 
-![Your Name](insert-image-url-here)
+![Muhaimin](https://github.com/account)
 
 In a world where the spotlight often shines on extraordinary achievements and remarkable stories, it's time to celebrate the beauty of the everyday. Meet Muhaimin, an individual who embodies the essence of an 'average' life, reminding us that ordinary can be extraordinary in its own way.
 
