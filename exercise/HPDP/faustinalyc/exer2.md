@@ -30,8 +30,6 @@
 | Mira Lim          | 940219-13-7777| Female | 1994-02-19 | Nurse              |
 | Ramesh Kumar      | 810724-07-2222| Male   | 1981-07-24 | Engineer           |
 | Puteri Azizah     | 970415-11-3333| Female | 1997-04-15 | Architect          |
-| Name              | IC Number     | Gender | Birthdate  | Occupation         |
-|-------------------|---------------|--------|------------|--------------------|
 | John Doe          | 901231-12-3456| Male   | 1990-12-31 | Engineer           |
 | Jane Smith        | 850123-45-6789| Female | 1985-01-23 | Teacher            |
 | Ahmad Abdullah    | 950506-09-1234| Male   | 1995-05-06 | Doctor             |
@@ -98,3 +96,5 @@
 | Kamal Kumar       | 910718-06-7777| Male   | 1991-07-18 | Software Developer |
 | Emily Wong        | 980620-04-2222| Female | 1998-06-20 | Nurse              |
 | Haniyah Malik     | 930824-07-2222| Female | 1993-08-24 | Nurse              |
+| Kamal Kumar       | 910718-06-7777| Male   | 1991-07-18 | Software Developer |
+| Emily Wong        | 980620-04-2222| Female | 1998-06-20 | Nurse              |
