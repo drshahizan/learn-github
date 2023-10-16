@@ -1,4 +1,4 @@
-## 🎓 Data Science Student Profile
+## 🎓 My Profile
 
 - **Name:** Shivanesh
 - **University:** University Teknology Malaysia
