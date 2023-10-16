@@ -26,3 +26,26 @@ $$
 > You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
 
 
+```mermaid
+sequenceDiagram
+chin ->> Alie: Hello Bob, how are you?
+Alie-->>Naquib: How about you John?
+Alie--x chin: I am good thanks!
+Alie-x Naquib: I am good thanks!
+Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+
+Alie-->Chin: Checking with John...
+Chin->Naquib: Yes... John, how are you?
+```
+
+And this will produce a flow chart:
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
+
+
