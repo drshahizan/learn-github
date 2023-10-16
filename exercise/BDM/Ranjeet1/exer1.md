@@ -122,14 +122,14 @@ You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For e
 
 ```mermaid
 sequenceDiagram
-Alice ->> Bob: Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+Ranjeet ->> Sam: Hello Sam, how are you?
+Sam-->>John: How about you John?
+Sam--x Ranjeet: I am good thanks!
+Sam-x John: I am good thanks!
+Note right of John: Sam thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
 
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
+Sam-->Ranjeet: Checking with John...
+Ranjeet->John: Yes... John, how are you?
 ```
 
 And this will produce a flow chart:
@@ -140,4 +140,3 @@ A[Square Rect] -- Link text --> B((Circle))
 A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
-```
