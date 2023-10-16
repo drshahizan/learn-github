@@ -46,7 +46,7 @@ Bob-x Shin Pearl: I am good thanks!
 Note right of Shin Pearl: Yvonne thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
 
 Yvonne-->Wan Ying: Checking with John...
-Wan Ying->Shin Pearl: Yes... John, how are you?
+Wan Ying->Shin Pearl: Yes... Shin Pearl, how are you?
 ```
 And this will produce a flow chart:
 
