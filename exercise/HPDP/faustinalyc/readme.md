@@ -48,3 +48,11 @@ Note right of Shin Pearl: Yvonne thinks a long<br/>long time, so long<br/>that t
 Yvonne-->Wan Ying: Checking with John...
 Wan Ying->Shin Pearl: Yes... John, how are you?
 ```
+And this will produce a flow chart:
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
