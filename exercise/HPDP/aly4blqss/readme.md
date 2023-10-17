@@ -45,7 +45,7 @@ Shu-x Najwa: I am good thanks!
 Note right of Najwa: Shu thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
 
 Shu-->Dina: Checking with Najwa...
-Dina->John: Yes... Najwa, how are you?
+Dina->Najwa: Yes... Najwa, how are you?
 ```
 
 And this will produce a flow chart:
