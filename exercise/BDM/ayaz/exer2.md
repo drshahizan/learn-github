@@ -30,9 +30,9 @@
   - Strong communication, time management, and organizational skills.
  
 
-  #Dummy Data Table
+  # Dummy Data Table
 
-  | ID | Name              | Age | City         | Email                               | Phone          |
+| ID | Name              | Age | City         | Email                               | Phone          |
 |----|-------------------|-----|--------------|-------------------------------------|----------------|
 | 1  | John Doe          | 25  | New York     | john.doe@example.com                | (555) 555-5555  |
 | 2  | Jane Smith        | 30  | Los Angeles  | jane.smith@example.com              | (555) 555-5556  |
@@ -98,4 +98,39 @@
 | 62 | Mia Rodriguez     | 26  | San Francisco| mia.rodriguez@example.com           | (555) 555-5616  |
 | 63 | Liam Wilson       | 28  | Columbus     | liam.wilson@example.com             | (555) 555-5617  |
 | 64 | Sophia Taylor     | 30  | Charlotte    | sophia.taylor@example.com           | (555) 555-5618  |
-
+| 65 | Mason Smith       | 25  | Seattle      | mason.smith@example.com             | (555) 555-5619  |
+| 66 | Harper Johnson    | 27  | Denver       | harper.johnson@example.com          | (555) 555-5620  |
+| 67 | Evelyn Brown      | 31  | Washington   | evelyn.brown@example.com            | (555) 555-5621  |
+| 68 | Benjamin Lee      | 32  | Boston       | benjamin.lee@example.com            | (555) 555-5622  |
+| 69 | Oliver Davis      | 24  | Nashville    | oliver.davis@example.com            | (555) 555-5623  |
+| 70 | Emma Clark        | 33  | Baltimore    | emma.clark@example.com              | (555) 555-5624  |
+| 71 | Liam Harris       | 29  | Austin       | liam.harris@example.com             | (555) 555-5625  |
+| 72 | Ava Johnson       | 26  | San Francisco| ava.johnson@example.com             | (555) 555-5626  |
+| 73 | Noah Martinez     | 28  | San Diego    | noah.martinez@example.com           | (555) 555-5627  |
+| 74 | Isabella Davis    | 30  | Dallas       | isabella.davis@example.com          | (555) 555-5628  |
+| 75 | Sophia Wilson     | 25  | San Jose     | sophia.wilson@example.com           | (555) 555-5629  |
+| 76 | Mia Thomas        | 27  | Jacksonville | mia.thomas@example.com              | (555) 555-5630  |
+| 77 | Ethan Lee         | 31  | Charlotte    | ethan.lee@example.com               | (555) 555-5631  |
+| 78 | Harper Brown      | 32  | Seattle      | harper.brown@example.com            | (555) 555-5632  |
+| 79 | Benjamin Taylor   | 24  | Denver       | benjamin.taylor@example.com         | (555) 555-5633  |
+| 80 | Oliver Smith      | 33  | Washington   | oliver.smith@example.com            | (555) 555-5634  |
+| 81 | Christopher Davis | 29  | Indianapolis | christopher.davis@example.com       | (555) 555-5635  |
+| 82 | Mia Rodriguez     | 26  | San Francisco| mia.rodriguez@example.com           | (555) 555-5636  |
+| 83 | Liam Wilson       | 28  | Columbus     | liam.wilson@example.com             | (555) 555-5637  |
+| 84 | Sophia Taylor     | 30  | Charlotte    | sophia.taylor@example.com           | (555) 555-5638  |
+| 85 | Mason Smith       | 25  | Seattle      | mason.smith@example.com             | (555) 555-5639  |
+| 86 | Harper Johnson    | 27  | Denver       | harper.johnson@example.com          | (555) 555-5640  |
+| 87 | Evelyn Brown      | 31  | Washington   | evelyn.brown@example.com            | (555) 555-5641  |
+| 88 | Benjamin Lee      | 32  | Boston       | benjamin.lee@example.com            | (555) 555-5642  |
+| 89 | Oliver Davis      | 24  | Nashville    | oliver.davis@example.com            | (555) 555-5643  |
+| 90 | Emma Clark        | 33  | Baltimore    | emma.clark@example.com              | (555) 555-5644  |
+| 91 | Liam Harris       | 29  | Austin       | liam.harris@example.com             | (555) 555-5645  |
+| 92 | Ava Johnson       | 26  | San Francisco| ava.johnson@example.com             | (555) 555-5646  |
+| 93 | Noah Martinez     | 28  | San Diego    | noah.martinez@example.com           | (555) 555-5647  |
+| 94 | Isabella Davis    | 30  | Dallas       | isabella.davis@example.com          | (555) 555-5648  |
+| 95 | Sophia Wilson     | 25  | San Jose     | sophia.wilson@example.com           | (555) 555-5649  |
+| 96 | Mia Thomas        | 27  | Jacksonville | mia.thomas@example.com              | (555) 555-5650  |
+| 97 | Ethan Lee         | 31  | Charlotte    | ethan.lee@example.com               | (555) 555-5651  |
+| 98 | Harper Brown      | 32  | Seattle      | harper.brown@example.com            | (555) 555-5652  |
+| 99 | Benjamin Taylor   | 24  | Denver       | benjamin.taylor@example.com         | (555) 555-5653  |
+| 100| Oliver Smith      | 33  | Washington   | oliver.smith@example.com            | (555) 555-5654  |
