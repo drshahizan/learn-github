@@ -1,4 +1,4 @@
-# Software Engineer Profile :computer:
+# Ayaz Rahman's Profile :computer:
 
 - **Skills and Expertise** :rocket:  
   - Proficient in programming languages like Python, Java, C++, etc.
@@ -31,5 +31,3 @@
 
 - **Soft Skills** :speech_balloon:  
   - Strong communication, time management, and organizational skills.
-
-Remember, every software engineer may have their unique areas of expertise and interests within the field! :sparkles:
