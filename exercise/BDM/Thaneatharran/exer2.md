@@ -17,3 +17,21 @@ SPSS as analytic software.
 Swinburne University Of Technology, Sarawak,Malaysia
 
 Graduated with a CGPA of 3.12
+
+# WORK EXPERIENCE
+
+**- INTERNSHIP - LAB ASSISTANT**
+Central Material Lab JKR CML, Kuching
+
+1) Carried out a geotechnical investigation of sites of proposed
+    government infrastructure projects located throughout Sarawak.
+2) Ensured quality control of engineering materials and works.
+3) Carried out laboratory testing, site investigations, calibration
+    works, and the supply of test equipment.
+
+**- INTERNSHIP - ASSISTANT DESIGNER**
+Jurutera CMP Sarawak Sdn Bhd, Kuching
+
+1) Carried out research for an engineering-related legal case involving a building.
+2) Edited AutoCAD structural files according to the architect's specifications.
+3) Learned new software, Orion
