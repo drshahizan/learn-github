@@ -42,13 +42,13 @@ You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For e
 
 ```mermaid
 sequenceDiagram
-Chloe ->> Bob: Hello Shuang Joo, how are you?
-Bob-->>Shin Pearl: How about you Shin Pearl?
-Bob--x Chloe: I am good thanks!
-Bob-x Shin Pearl: I am good thanks!
-Note right of Shin Pearl: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+Chloe ->> Shuang Joo: Hello Shuang Joo, how are you?
+Shuang Joo-->>Shin Pearl: How about you Shin Pearl?
+Shuang Joo--x Chloe: I am good thanks!
+Shuang Joo-x Shin Pearl: I am good thanks!
+Note right of Shin Pearl: Shuang Joo thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
 
-Bob-->Chloe: Checking with Shin Pearl...
+Shuang Joo-->Chloe: Checking with Shin Pearl...
 Chloe->Shin Pearl: Yes... Shin Pearl, how are you?
 ```
 

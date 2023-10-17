@@ -37,6 +37,7 @@ $$
 
 > You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
 
+
 ## UML diagrams
 
 You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
@@ -51,6 +52,7 @@ Note right of Muhaimin: Hafizul thinks a long<br/>long time, so long<br/>that th
 
 Hafizul-->Yvonne: Checking with Muhaimin...
 Yvonne->Muhaimin: Yes... Muhaimin, how are you?
+```
 
 And this will produce a flow chart:
 
