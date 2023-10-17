@@ -26,8 +26,5 @@
 - **Adaptive** :gear:  
   - Comfortable with various technologies and platforms.
 
-- **Security Awareness** :lock:  
-  - Prioritizes writing secure code and understanding common vulnerabilities.
-
 - **Soft Skills** :speech_balloon:  
   - Strong communication, time management, and organizational skills.
