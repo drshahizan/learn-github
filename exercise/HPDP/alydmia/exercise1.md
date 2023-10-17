@@ -2,7 +2,7 @@
 
 Greetings, distinguished individuals! 🌟
 
-I am **Alya Damia**, though it is my pleasure to be addressed simply as **Alya**. At the tender age of 21, I stand proudly as a third-year scholar immersed in the intricate realms of **Data Engineering** within the esteemed faculty of **Computing**. My fervent choice of major germinated from a profound interest in the craftsmanship of engineering, entwined artfully with the enchanting nuances of computing.
+I am **Alya Damia**, though it is my pleasure to be addressed simply as **Damia**. At the tender age of 21, I stand proudly as a third-year scholar immersed in the intricate realms of **Data Engineering** within the esteemed faculty of **Computing**. My fervent choice of major germinated from a profound interest in the craftsmanship of engineering, entwined artfully with the enchanting nuances of computing.
 
 💡 My profound adoration for technology transcends mere admiration; it is a profound way of existence. Technology serves as a conduit to elevate the rhythms of our quotidian lives. It is not just a tool, but a paradigm-shifting force. Empowered with technology, we traverse the boundaries of the once impossible.
 
