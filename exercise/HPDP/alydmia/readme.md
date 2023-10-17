@@ -49,7 +49,7 @@ Aliya--x Azri: I am good thanks!
 Aliya-x Yew: I am good thanks!
 Note right of Yew: Aliya thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
 
-Alya-->Azri: Checking with Azri...
+Aliya-->Azri: Checking with Azri...
 Azri->Yew: Yes... Yew, how are you?
 ```
 
