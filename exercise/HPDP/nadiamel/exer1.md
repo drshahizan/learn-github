@@ -1,7 +1,5 @@
 # Meet Nadia Syafiqah: Your Future Data Analyst 📊
 
-![Nadia Syafiqah](https://yourimageurl.com)
-
 Nadia Syafiqah, a name synonymous with passion and commitment in the field of data analysis. Hailing from the heart of Johor Bahru, Johor, she's not just another computer science student; she's a dedicated individual on a mission to turn raw data into actionable insights.
 
 **About Nadia:**
