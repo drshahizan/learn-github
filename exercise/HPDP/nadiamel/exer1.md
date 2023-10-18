@@ -11,7 +11,7 @@ What sets Nadia apart is her ability to turn data into stories. She understands 
 
 Nadia's dreams extend far beyond the classroom. She envisions a career as a Data Analyst, where she can make an impact in various industries. Her aim is to help organizations make data-driven decisions that lead to growth and success. 
 
-**Get in Touch:**
+## Get in Touch 🤝
 If you're as excited about data as Nadia, feel free to [connect with her](https://github.com/nadiamel) on GitHub. Whether you're a fellow data enthusiast, a mentor, or an employer, her passion and commitment to the field make her a valuable addition to any data team.
 
 Nadia Syafiqah is not just a student; she's a future data rockstar, ready to turn your data into gold. Keep an eye on her journey—this is just the beginning of a remarkable data adventure. 🌟
