@@ -41,8 +41,8 @@ You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For e
 
 ```mermaid
 sequenceDiagram
-Sarah ->> Farhan: Hello Bob, how are you?
-Farhan-->>Aliya: How about you John?
+Sarah ->> Farhan: Hello Farhan, how are you?
+Farhan-->>Aliya: How about you Aliya?
 Farhan--x Sarah: I am good thanks!
 Farhan-x Aliya: I am good thanks!
 Note right of Aliya: Farhan thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
