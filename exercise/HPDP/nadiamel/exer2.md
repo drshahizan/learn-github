@@ -1,6 +1,6 @@
 ## Malaysian Population Demographics
 
-| #   | Name             | Age | Gender | Ethnicity | Location        |
+| No.   | Name             | Age | Gender | Ethnicity | Location        |
 |---|------------------|-----|--------|-----------|-----------------|
 | 1 | Adam Abdullah    | 32  | Male   | Malay     | Kuala Lumpur    |
 | 2 | Aisha Lim        | 25  | Female | Chinese   | Penang          |
