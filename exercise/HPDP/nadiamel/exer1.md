@@ -2,7 +2,7 @@
 
 Nadia Syafiqah, a name synonymous with passion and commitment in the field of data analysis. Hailing from the heart of Johor Bahru, Johor, she's not just another computer science student. She's a dedicated individual on a mission to turn raw data into actionable insights.
 
-**About Nadia** 💭
+#**About Nadia** 💭
 With a smile as warm as her heart, Nadia embarked on her adventure in the dynamic realm of data engineering. As a Computer Science major, she found her true calling in data, where every row and column tell a unique story waiting to be unveiled. Nadia's pursuit of knowledge knows no bounds as she thrives on embracing the latest data analysis tools and techniques.
 
 Nadia's fascination with data runs deep. She immerses herself in complex datasets, transforming them into comprehensible patterns and trends. Whether it's diving into machine learning algorithms or crafting elegant SQL queries, she's a true data wizard.
