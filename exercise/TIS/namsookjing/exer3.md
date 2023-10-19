@@ -24,7 +24,7 @@ Alice->John: Yes... John, how are you?
 
 And this will produce a flow chart:
 
-
+```mermaid
 mindmap
   root((mindmap))
     Origins
@@ -42,3 +42,4 @@ mindmap
     Tools
       Pen and paper
       Mermaid
+      ```
