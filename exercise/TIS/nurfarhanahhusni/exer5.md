@@ -1,6 +1,4 @@
-Certainly, here's a table format for the dummy data related to Malaysia profiles in Markdown:
 
-```markdown
 # Malaysia Profile Data
 
 | Name            | Age | Gender | Location         | Occupation         | Email                |
@@ -18,5 +16,3 @@ Certainly, here's a table format for the dummy data related to Malaysia profiles
 | ...             | ... | ...    | ...              | ...                | ...                  |
 | Alex Chong      | 36  | Male   | Alor Setar       | Engineer            | alex.chong@email.com |
 ```
-
-You can continue adding or modifying entries as needed within the table format. This makes it easier to read and maintain a structured list of profiles.
