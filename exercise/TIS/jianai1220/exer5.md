@@ -13,9 +13,3 @@
 | Anwar Bin Ismail | 38 | Male | Architect | anwar.ismail@email.com |
 | Jasmin Kaur | 26 | Female | Marketing Executive | jasmin.kaur@email.com |
 | ...
-
-*(Continued with 90 more profiles)*
-
---- 
-
-Feel free to add more columns or modify the existing ones to include more details about the profiles.
