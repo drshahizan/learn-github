@@ -29,7 +29,7 @@ mindmap
       Long history
       ::icon(fa fa-book)
       Popularisation
-        British popular psychology author Tony Buzan
+        British popular psychology author xx
     Research
       On effectiveness<br/>and features
       On Automatic creation
