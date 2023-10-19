@@ -1,5 +1,3 @@
-Certainly! Here's the formatted information with meaningful icons:
-
 ---
 
 ## 🧠 Artificial Intelligence Course
