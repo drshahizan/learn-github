@@ -8,7 +8,7 @@
 🌟 Hit star button to save this repo in your profile
 
 # Essential Preparations for a Successful Start in Github Class 🚀
-Welcome to Big Data Management (BDM) class! We are thrilled to embark on this exciting learning journey together. Before our first class, there are a few important steps you need to take:
+Welcome to Github class! We are thrilled to embark on this exciting learning journey together. Before our first class, there are a few important steps you need to take:
 
 1. **Complete Information Form:**
    Please fill in 🧑‍💻 your details in the provided Google Sheets document [here](https://docs.google.com/spreadsheets/d/1WJWrzrGmfC0z5CmTYCGmlkKa7_byYOoxlU0MTg7pRrk/edit#gid=0).
