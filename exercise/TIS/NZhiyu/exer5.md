@@ -1,6 +1,4 @@
-Certainly, here's the same dummy data for profiles of 100 individuals in Malaysia presented in a table format in a Markdown file:
 
-```markdown
 # Malaysian Profiles
 
 Below is a table of 100 fictional profiles of individuals in Malaysia. This data is for demonstration purposes only.
