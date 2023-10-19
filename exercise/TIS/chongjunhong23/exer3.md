@@ -24,10 +24,12 @@ Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text d
 Bob-->Alice: Checking with John...
 Alice->John: Yes... John, how are you?
 ```
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
+  journey
+    title My working day
+    section Go to work
+      Make tea: 5: Me
+      Go upstairs: 3: Me
+      Do work: 1: Me, Cat
+    section Go home
+      Go downstairs: 5: Me
+      Sit down: 3: Me
