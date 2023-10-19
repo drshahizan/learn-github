@@ -1,4 +1,4 @@
-gitGraph:
+
     commit "Ashish"
     branch newbranch
     checkout newbranch
