@@ -28,6 +28,12 @@ Alice->John: Yes... John, how are you?
 
 And this will produce a flow chart:
 
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
+
 ```mermaid
 graph LR
 
@@ -49,9 +55,4 @@ mindmap
     Tools
       Pen and paper
       Mermaid
-```
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
 ```
