@@ -32,6 +32,8 @@ B --> D{Rhombus}
 C --> D
 ```
 
+This will produce a mind map:
+
 ```mermaid
 mindmap
   root((mindmap))
