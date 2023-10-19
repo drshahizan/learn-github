@@ -1,17 +1,60 @@
-Professional Document Formatting:
+# Malaysia Profile
 
-Use a consistent and easily readable font, such as Arial or Calibri.
-Maintain a clear and consistent text size (e.g., 12-point font for the main body text).
-Apply appropriate line spacing (usually 1.5 or double spacing for readability).
-Use headers and subheadings to organize content.
-Create a visually appealing layout with margins and proper alignment.
-Consistently use bold, italics, or underline for emphasis, but avoid overuse.
-Ensure proper page numbering and document headers/footers.
-Meaningful Icons:
+| **Overview**                |                                                                 |
+|-----------------------------|-----------------------------------------------------------------|
+| **Population**              | 32,000,000                                                       |
+| **Capital**                 | Kuala Lumpur                                                    |
+| **Official Language**       | Malay (Bahasa Malaysia)                                         |
+| **Ethnic Groups**           | Malay: 69%<br>Chinese: 23%<br>Indian: 7%<br>Other: 1%           |
 
-Icons should complement your content and convey relevant information. They should not be used arbitrarily.
-Icons can be found in various icon libraries, both free and paid. Some popular sources include FontAwesome, Iconfinder, and Flaticon.
-Choose icons that are clear and universally understood. For example, a magnifying glass icon for search or a trash can icon for delete.
-Consider color and style consistency when using icons. They should align with your document's overall design.
-Be cautious not to overcrowd your content with icons. Less is often more.
-If you're working with a specific platform or software and need help with formatting or adding icons, please provide more details, and I can give more specific guidance.
+| **Geography**               |                                                                 |
+|-----------------------------|-----------------------------------------------------------------|
+| **Area**                    | 329,847 square kilometers                                      |
+| **Highest Point**           | Mount Kinabalu (4,095 meters)                                   |
+| **Coastline**               | 4,675 kilometers                                                |
+
+| **Economy**                 |                                                                 |
+|-----------------------------|-----------------------------------------------------------------|
+| **GDP (nominal)**           | $350 billion                                                    |
+| **Currency**                | Malaysian Ringgit (MYR)                                        |
+| **Major Industries**        | Electronics<br>Oil and Gas<br>Tourism<br>Palm Oil Production    |
+
+| **Culture**                 |                                                                 |
+|-----------------------------|-----------------------------------------------------------------|
+| **Religions**               | Islam (official), Buddhism, Hinduism, Christianity              |
+| **Festivals**               | Hari Raya Aidilfitri, Chinese New Year, Deepavali                |
+| **Cuisine**                 | Nasi Lemak, Roti Canai, Satay                                   |
+
+| **Government**              |                                                                 |
+|-----------------------------|-----------------------------------------------------------------|
+| **Monarch**                 | Yang di-Pertuan Agong                                          |
+| **Prime Minister**          | Currently vacant                                                |
+| **Parliament**              | Bicameral (Dewan Rakyat and Dewan Negara)                        |
+
+| **Education**               |                                                                 |
+|-----------------------------|-----------------------------------------------------------------|
+| **Literacy Rate**           | 94.6%                                                           |
+| **Higher Education Institutions** | Universiti Malaya<br>Universiti Teknologi Malaysia<br>Universiti Kebangsaan Malaysia |
+
+| **Tourism**                 |                                                                 |
+|-----------------------------|-----------------------------------------------------------------|
+| **Top Tourist Destinations** | Kuala Lumpur (Petronas Towers)<br>Penang (Georgetown)<br>Langkawi (Beaches) |
+| **Tourist Arrivals (2019)** | 26.1 million                                                    |
+
+| **Transportation**          |                                                                 |
+|-----------------------------|-----------------------------------------------------------------|
+| **Major Airports**          | Kuala Lumpur International Airport (KLIA)                        |
+| **Roadways**                | Well-developed highways and road networks                        |
+| **Railways**                | Extensive rail connections                                      |
+
+| **Healthcare**              |                                                                 |
+|-----------------------------|-----------------------------------------------------------------|
+| **Life Expectancy**         | 74 years                                                        |
+| **Healthcare Facilities**   | Public and private hospitals and clinics                        |
+| **Major Hospitals**         | Kuala Lumpur Hospital<br>Penang General Hospital                |
+
+| **Notable Personalities**    |                                                            |
+|-----------------------------|------------------------------------------------------------|
+| Tunku Abdul Rahman           | Malaysia's first Prime Minister                               |
+| Lee Chong Wei                | World-renowned badminton player                                |
+| Michelle Yeoh                | International actress                                         |
