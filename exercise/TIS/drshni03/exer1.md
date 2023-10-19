@@ -1,1 +1,1 @@
-**University** *Teknologi* ~~Malaysia~~
+**Universiti** *Teknologi* ~~Malaysia~~
