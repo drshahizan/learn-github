@@ -30,6 +30,7 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 
+```mermaid
 journey
     title My working day
     section Go to work
