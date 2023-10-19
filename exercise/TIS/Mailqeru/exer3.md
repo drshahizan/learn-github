@@ -37,7 +37,7 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 
-
+```mermaid
 mindmap
   root((mindmap))
     Origins
@@ -54,4 +54,5 @@ mindmap
             Argument mapping
     Tools
       Pen and paper
-      Mermaid
+      
+```Mermaid
