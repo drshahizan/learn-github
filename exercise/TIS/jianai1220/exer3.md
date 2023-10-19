@@ -18,8 +18,8 @@ Laura--x Jian Ai: I am good thanks!
 Laura-x Angelia: I am good thanks!
 Note right of Angelia: Laura thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
 
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
+Laura-->Jian Ai: Checking with Angelia...
+Jian Ai->Angelia: Yes... Angelia, how are you?
 ```
 
 And this will produce a flow chart:
