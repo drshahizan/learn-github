@@ -1,1 +1,24 @@
+| Name          | Age | Gender | City          | Occupation          | Education       |
+|---------------|-----|--------|---------------|---------------------|------------------|
+| Ahmed         | 35  | Male   | Cairo         | Software Engineer    | Bachelor's Degree|
+| Fatima        | 28  | Female | Alexandria    | Accountant           | Master's Degree  |
+| Mahmoud       | 40  | Male   | Giza          | Doctor               | PhD              |
+| Aisha         | 32  | Female | Luxor         | Teacher              | Bachelor's Degree|
+| Hassan        | 45  | Male   | Aswan         | Engineer             | Master's Degree  |
+| Sara          | 29  | Female | Sharm El Sheikh | Hotel Manager     | Bachelor's Degree|
+| Omar          | 38  | Male   | Hurghada      | Tour Guide           | Associate Degree |
+| Nour          | 26  | Female | Alexandria    | Graphic Designer     | Bachelor's Degree|
+| Ali           | 33  | Male   | Cairo         | Architect            | Bachelor's Degree|
+| Yasmin        | 31  | Female | Giza          | HR Specialist        | Master's Degree  |
+| ...           | ... | ...    | ...           | ...                   | ...              |
+| Layla         | 27  | Female | Aswan         | Pharmacist           | Bachelor's Degree|
+| Ahmed         | 41  | Male   | Luxor         | Police Officer       | Bachelor's Degree|
+| Samira        | 34  | Female | Hurghada      | Chef                 | Culinary School   |
+| Mahmoud       | 39  | Male   | Cairo         | Marketing Manager    | Master's Degree  |
+| Salma         | 30  | Female | Sharm El Sheikh | Diving Instructor  | Bachelor's Degree|
+| Tariq         | 44  | Male   | Alexandria    | Lawyer               | Law Degree       |
+| Amira         | 28  | Female | Giza          | Web Developer        | Bachelor's Degree|
+| Khaled        | 36  | Male   | Luxor         | Archaeologist        | Master's Degree  |
+| Hana          | 29  | Female | Aswan         | Nurse                | Bachelor's Degree|
+| ...           | ... | ...    | ...           | ...                   | ...              |
 
