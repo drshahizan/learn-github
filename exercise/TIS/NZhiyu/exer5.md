@@ -1,7 +1,6 @@
 
 # Malaysian Profiles
 
-Below is a table of 100 fictional profiles of individuals in Malaysia. This data is for demonstration purposes only.
 
 | Name              | Age | Gender | Location        | Occupation          |
 |-------------------|-----|--------|-----------------|---------------------|
@@ -20,7 +19,3 @@ Below is a table of 100 fictional profiles of individuals in Malaysia. This data
 | Ali bin Hassan    | 22  | Male   | Johor Bahru     | Student             |
 | ...
 
-Please note that this is entirely fictional data and does not represent real individuals. It's provided for the purpose of creating a sample Markdown document with dummy profiles for Malaysia.
-```
-
-You can continue to add or modify the profiles as needed, and this format can also be saved as a `.md` file for your use.
