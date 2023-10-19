@@ -36,7 +36,6 @@ B --> D{Rhombus}
 C --> D
 ```
 
-
 mindmap
   root((mindmap))
     Origins
