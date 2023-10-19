@@ -16,7 +16,6 @@ $$
 
 You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
 
-
 ```mermaid
 mindmap
   root((mindmap))
@@ -34,18 +33,5 @@ mindmap
             Argument mapping
     Tools
       Pen and paper
-      Mermaid
-```
-
-```mermaid
-journey
-    title My working day
-    section Go to work
-      Make tea: 5: Me
-      Go upstairs: 3: Me
-      Do work: 1: Me, Cat
-    section Go home
-      Go downstairs: 5: Me
-      Sit down: 5: Me
       Mermaid
 ```
