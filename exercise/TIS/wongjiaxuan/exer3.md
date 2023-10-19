@@ -36,4 +36,4 @@ journey
     section Go home
       Go downstairs: 5: Me
       Sit down: 5: Me
-------
+```
