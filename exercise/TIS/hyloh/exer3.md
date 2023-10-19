@@ -16,10 +16,10 @@ You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For e
 
 ```mermaid
 sequenceDiagram
-Alice ->> Bobi: Hello Bob, how are you?
+Alice ->> Bobi: Hello Bobi, how are you?
 Bobi-->>John: How about you John?
 Bobi--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
+Bobi-x John: I am good thanks!
 Note right of John: Bobi thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
 
 Bobi-->Alice: Checking with John...
