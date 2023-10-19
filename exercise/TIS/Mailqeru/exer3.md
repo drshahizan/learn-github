@@ -38,7 +38,6 @@ B --> D{Rhombus}
 C --> D
 
 
-```mermaid
 mindmap
   root((mindmap))
     Origins
@@ -56,5 +55,3 @@ mindmap
     Tools
       Pen and paper
       Mermaid
-```
-
