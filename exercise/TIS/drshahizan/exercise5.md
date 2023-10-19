@@ -1,5 +1,5 @@
 
-```markdown
+
 # Malaysia Profiles
 
 | Profile | Name            | Age | City           | Occupation         |
@@ -25,5 +25,5 @@
 | 19      | Ravi Kumar      | 33  | Penang         | Marketing Consultant|
 | 20      | Fatimah Chua    | 35  | Kuala Lumpur   | Psychologist        |
 | ...     | ...             | ... | ...            | ...                 |
-```
+
 
