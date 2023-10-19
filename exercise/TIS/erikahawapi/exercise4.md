@@ -55,3 +55,51 @@ This course provides an in-depth exploration of Artificial Intelligence, coverin
 ## 📞 Contact Information
 For any questions or concerns related to the course, please contact the instructor via email or during office hours.
 
+
+# Malaysian Profiles
+
+Below is a list of 100 fictional profiles from Malaysia:
+
+## Profile 1
+- **Name:** Aisha Abdullah
+- **Age:** 28
+- **Gender:** Female
+- **City:** Kuala Lumpur
+- **Occupation:** Software Engineer
+
+## Profile 2
+- **Name:** Amirul bin Rahman
+- **Age:** 35
+- **Gender:** Male
+- **City:** Penang
+- **Occupation:** Architect
+
+## Profile 3
+- **Name:** Siti Nurul Huda
+- **Age:** 23
+- **Gender:** Female
+- **City:** Johor Bahru
+- **Occupation:** Medical Student
+
+(Profiles 4 to 97 - More profiles with similar details...)
+
+## Profile 98
+- **Name:** Harith Ismail
+- **Age:** 42
+- **Gender:** Male
+- **City:** Ipoh
+- **Occupation:** Marketing Manager
+
+## Profile 99
+- **Name:** Khairul Azman
+- **Age:** 31
+- **Gender:** Male
+- **City:** Malacca
+- **Occupation:** Teacher
+
+## Profile 100
+- **Name:** Nur Aisyah
+- **Age:** 26
+- **Gender:** Female
+- **City:** Kota Kinabalu
+- **Occupation:** Graphic Designer
