@@ -49,3 +49,13 @@
 
 (Continue with additional profiles up to 100 as needed)
 
+# Malaysia Profiles
+
+| Name             | Age | Occupation         | Location        | Email                               | Phone            |
+|------------------|-----|-------------------|-----------------|-------------------------------------|-----------------|
+| John Doe         | 28  | Software Engineer | Kuala Lumpur   | john.doe@gmail.com                  | +6012-345-6789   |
+| Jane Smith       | 34  | Marketing Manager | Penang          | jane.smith@hotmail.com              | +6011-987-6543   |
+| Ahmad Abdullah   | 25  | Student           | Johor Bahru     | ahmad.abdullah@student.utm.my       | +6017-123-4567   |
+| Sarah Lim        | 42  | Doctor            | Kota Kinabalu   | dr.sarah.lim@gmail.com              | +6088-765-4321   |
+| Tan Wei Ming     | 30  | Entrepreneur      | Ipoh            | wm.tan@mybusiness.com               | +605-678-9012    |
+| ...              | ... | ...               | ...             | ...                                 | ...             |
