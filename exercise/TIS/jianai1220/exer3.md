@@ -36,12 +36,12 @@ This will produce a mind map:
 
 ```mermaid
 mindmap
-  root((mindmap))
-    Origins
-      Long history
+  root((UTM))
+    Background
+      Used to be in KL
       ::icon(fa fa-book)
-      Popularisation
-        British popular psychology author Tony Buzan
+      Founded in 1904
+        As a technical school
     Research
       On effectiveness<br/>and features
       On Automatic creation
