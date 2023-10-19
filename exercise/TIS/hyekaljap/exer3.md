@@ -20,11 +20,4 @@ Alice ->> Bob: Hello Bob, how are you?
 Bob-->>John: How about you John?
 Bob--x Alice: I am good thanks!
 Bob-x John: I am good thanks!
-
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
 ```
