@@ -37,21 +37,3 @@ B --> D{Rhombus}
 C --> D
 ```
 
-
-mindmap
-  root((mindmap))
-    Origins
-      Long history
-      ::icon(fa fa-book)
-      Popularisation
-        Malaysia popular psychology author AmmarQhawiem
-    Research
-      On effectiveness<br/>and features
-      On Automatic creation
-        Uses
-            Creative techniques
-            Strategic planning
-            Argument mapping
-    Tools
-      Pen and paper
-      Mermaid
