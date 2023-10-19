@@ -55,6 +55,8 @@ mindmap
       Pen and paper
       Mermaid
 ```
+
+```mermaid
 journey
     title My working day
     section Go to work
