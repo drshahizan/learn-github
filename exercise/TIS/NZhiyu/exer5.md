@@ -14,5 +14,3 @@
 | Farah Ng          | 27  | Female | Perak           | Nurse               |
 | Sam Tan           | 36  | Male   | Kuala Lumpur    | Architect           |
 | Emily Goh         | 31  | Female | Johor Bahru     | Lawyer              |
-
-
