@@ -26,6 +26,21 @@ Alice->John: Yes... John, how are you?
 ```
 
 ```mermaid
-mindmap root((mindmap)) Origins Long history ::icon(fa fa-book) Popularisation British popular psychology author Tony Buzan Research On effectiveness<br/>and features On Automatic creation Uses Creative techniques Strategic planning Argument mapping Tools Pen and paper Mermaid
+mindmap
+  root((mindmap))
+    Origins
+      Long history
+      ::icon(fa fa-book)
+      Popularisation
+        Malaysian popular psychology author Dr Shahizan
+    Research
+      On effectiveness<br/>and features
+      On Automatic creation
+        Uses
+            Creative techniques
+            Strategic planning
+            Argument mapping
+    Tools
+      Pen and paper
+      Mermaid
 ```
-
