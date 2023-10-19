@@ -35,6 +35,7 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
+
 ```mermaid
 mindmap
   root((mindmap))
@@ -53,10 +54,12 @@ mindmap
     Tools
       Pen and paper
       Mermaid
-
+```
+```mermaid
 journey
     title My working day
     section Go to work
+```
       Make tea: 5: Me
       Go upstairs: 3: Me
       Do work: 1: Me, Cat
