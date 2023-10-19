@@ -41,7 +41,7 @@ mindmap
       Long history
       ::icon(fa fa-book)
       Popularisation
-        British popular psychology author Syahirah
+        Malaysian popular psychology author Syahirah
     Research
       On effectiveness<br/>and features
       On Automatic creation
