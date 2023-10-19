@@ -30,7 +30,7 @@ mindmap
       Long history
       ::icon(fa fa-book)
       Popularisation
-        British popular psychology author Tony Buzan
+        Malaysia popular psychology author Dr Shahnizan
     Research
       On effectiveness<br/>and features
       On Automatic creation
