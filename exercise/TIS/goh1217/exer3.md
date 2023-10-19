@@ -21,15 +21,6 @@ Bob-->Alice: Checking with John...
 Alice->Chang Zhe: Yes... Chang Zhe, how are you?
 ```
 
-And this will produce a flow chart:
-
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-
 ```mermaid
 journey
     title My working day
@@ -40,4 +31,4 @@ journey
     section Go home
       Go downstairs: 5: Me
       Sit down: 5: Me
-``````
+```
