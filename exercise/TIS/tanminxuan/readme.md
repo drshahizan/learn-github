@@ -1,4 +1,4 @@
 # Hello World
-## Hello Word
+## Hello World
 ### Hello World
 #### Hello World
