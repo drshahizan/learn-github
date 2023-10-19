@@ -10,7 +10,7 @@
 | ...             | ... | ...    | ...             | ...                | ...                    |
 | Jane Ng         | 29  | Female | Malacca         | Nurse              | Gardening, Movies      |
 | Amirah Abdullah | 27  | Female | Kuala Terengganu | Marketing Executive | Travel, Food           |
-| ...
+
 
 (Repeat this structure for all 100 profiles)
 
