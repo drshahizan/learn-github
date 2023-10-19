@@ -1,6 +1,5 @@
 Certainly, here's a Markdown table with 100 rows of dummy data for Malaysia profiles. Please note that this is an extensive list, and for practical purposes, you may consider generating such data using a script or a data generation tool:
 
-```markdown
 # Malaysia Profiles
 
 | Name              | Age | Gender | Occupation             | Location        |
