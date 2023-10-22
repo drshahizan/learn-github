@@ -45,6 +45,10 @@ As learners progress in their developer roadmap, they may dive deeper into more 
 <img src="images/Github-EN.jpg"  height="400" />
 </p>
 
+<p align="center">
+<img src="images/git"  height="400" />
+</p>
+
 ## Developer Roadmaps
 [Roadmap.sh](https://roadmap.sh/) is a website that provides roadmaps for learning various topics in technology, such as programming languages, web development, data science, and more. The roadmaps are essentially step-by-step guides that outline the skills, tools, and concepts that someone should learn to become proficient in a particular area.
 
