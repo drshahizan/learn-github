@@ -29,6 +29,10 @@ Please be sure to complete these tasks before our first class, as they are essen
 
 Looking forward to an amazing and productive class!
 
+<p align="center">
+<img src="images/git.gif"  height="700" />
+</p>
+
 # Github Education
 GitHub Education is a program designed to support students and educators by providing them with free access to various tools and resources to learn, teach, and collaborate on coding and technology projects. The program offers a range of benefits, including free access to GitHub Enterprise, GitHub Pro, and a host of developer tools, as well as access to various courses, webinars, and learning resources. GitHub Education aims to foster a community of learners and educators by connecting students and teachers worldwide to create innovative projects and push the boundaries of technology. [**[More info...]**](./materials/education)
 
@@ -40,10 +44,6 @@ Git and GitHub are an essential part of the developer roadmap, particularly for 
 In the developer roadmap, learners are typically introduced to Git and GitHub early on as a foundational skill. They are taught how to set up a Git repository, make commits, and push changes to a remote repository on GitHub. They may also learn about basic Git commands like branching, merging, and rebasing.
 
 As learners progress in their developer roadmap, they may dive deeper into more advanced Git and GitHub features, such as using pull requests for code reviews, integrating Git with continuous integration/continuous deployment (CI/CD) pipelines, and automating workflows using GitHub Actions.
-
-<p align="center">
-<img src="images/git.gif"  height="700" />
-</p>
 
 ## Developer Roadmaps
 [Roadmap.sh](https://roadmap.sh/) is a website that provides roadmaps for learning various topics in technology, such as programming languages, web development, data science, and more. The roadmaps are essentially step-by-step guides that outline the skills, tools, and concepts that someone should learn to become proficient in a particular area.
