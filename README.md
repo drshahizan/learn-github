@@ -17,10 +17,10 @@ Welcome to Github class! We are thrilled to embark on this exciting learning jou
    Ensure you have a GitHub :octocat: account by signing up at [GitHub](https://github.com/login).
 
 3. **Access Teaching Materials:**
-   All teaching materials will be available on my GitHub account. Please follow [this link](https://github.com/drshahizan) to access the materials.
+   All teaching materials will be available on my GitHub account. Please **follow** [this link](https://github.com/drshahizan) to access the materials.
 
 4. **Fork and Star Repository:**
-   To kick off our first meeting, please fork and star the repository available [here](https://github.com/drshahizan/learn-github). We will be using this repository extensively.
+   To kick off our first meeting, please **fork** and **star** the repository available [here](https://github.com/drshahizan/learn-github). We will be using this repository extensively.
 
 5. **GitHub Usage for Course:**
    Throughout this course, we will utilize GitHub for sharing materials, submitting tasks, projects, and more. Make sure you have a meaningful GitHub username associated with your account.
