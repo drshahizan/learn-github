@@ -11,7 +11,7 @@
 Welcome to Github class! We are thrilled to embark on this exciting learning journey together. Before our first class, there are a few important steps you need to take:
 
 1. **Complete Information Form:**
-   Please fill in 🧑‍💻 your details in the provided Google Sheets document [here](https://docs.google.com/spreadsheets/d/1tAnUHQd5M5c7zkO8qUQbfIthm5echltQCH52H2UBGr4/edit#gid=0).
+   Please fill in 🧑‍💻 your details in the provided Google Sheets document [here](https://docs.google.com/spreadsheets/d/1tAnUHQd5M5c7zkO8qUQbfIthm5echltQCH52H2UBGr4/edit#gid=928215770).
 
 2. **Create a GitHub Account:**
    Ensure you have a GitHub :octocat: account by signing up at [GitHub](https://github.com/login).
