@@ -1,4 +1,0 @@
-# About Me
-
-I am Umar Haziq, a multifaceted individual with a passion for knowledge and a drive for excellence. Born and raised in Selangor, I have always embraced curiosity as my guiding star. From a young age, I pursued academic success and eventually graduated from University Teknologi Malaysia with a degree in Data Engineering Computer Science. Professionally, I have thrived in various roles, constantly seeking to broaden my horizons. I am known for my unwavering commitment to my work and my innate qualities of [mention one or two notable personal traits], which have always guided my interactions with others. In my spare time, I find solace and joy in [mention a specific hobby or interest], where I can unwind and recharge. Looking ahead, my future aspirations include [mention one or two future goals or aspirations], as I continue to embrace life's challenges and opportunities.
-
