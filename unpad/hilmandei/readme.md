@@ -1,3 +1,4 @@
-## Hello 👋 
+# Hello 👋 
 
-hello this is my first time commit
+this is my first time commit
+thanks sir
