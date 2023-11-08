@@ -1,8 +1,11 @@
+Here is your text in markdown format:
+
+```
 ## KaTeX
 
 You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
 
-The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
+The *Gamma function* satisfying $$\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$$ is via the Euler integral
 
 $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
@@ -35,3 +38,7 @@ A[Square Rect] -- Link text --> B((Circle))
 A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
+```
+
+Source: Conversation with Bing, 11/8/2023
+(1) github.com. https://github.com/joe-speedboat/workshop.ansible/tree/05557368ef9155f08e72181d6cdf44c4b3a6d075/Welcome%20file.md.
