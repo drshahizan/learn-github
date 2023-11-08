@@ -1,3 +1,3 @@
 # Hello World !
 ## Hello world..
-**Hello** *world* _abc_
+**Hello** *world* ~~abc~~
