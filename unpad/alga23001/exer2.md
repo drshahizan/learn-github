@@ -1,1 +1,1 @@
-It's OK ?! I **hope** *so*
+It's ~~OK~~ ?! I **hope** *so*
