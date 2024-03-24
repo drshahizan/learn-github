@@ -8,7 +8,7 @@
 🌟 Hit star button to save this repo in your profile
 
 <p align="left">
-<img src="/images/Github_poster.jpeg"  height="400" />
+<img src="/images/Github_poster1.jpeg"  height="400" />
 </p>
 
 # Learn Github 🚀
