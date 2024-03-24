@@ -8,6 +8,10 @@
 🌟 Hit star button to save this repo in your profile
 
 # Learn Github 🚀
+<p align="left">
+<img src="/images/Github_poster.jpeg"  height="500" />
+</p>
+
 Welcome to Github class! We are thrilled to embark on this exciting learning journey together. 
 
 <p align="center">
