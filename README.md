@@ -12,9 +12,6 @@
 </p>
 
 # Learn Github 🚀
-<p align="left">
-<img src="/images/Github_poster.jpeg"  height="500" />
-</p>
 
 Welcome to Github class! We are thrilled to embark on this exciting learning journey together. 
 
