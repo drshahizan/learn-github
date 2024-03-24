@@ -12,6 +12,16 @@
 </p>
 
 # GitHub for Research Students: From Code to Collaboration
+## A. GitHub Sign-In
+Signing in to GitHub is straightforward. 
+
+1. Go to the [GitHub login page](https://github.com/login).
+2. Enter your **username** or **email address** associated with your GitHub account.
+3. Type in your **password**.
+4. Click **Sign in**.
+
+If you're new to GitHub and need to create an account, you can click on **Create an account** on the same page. Remember, if you're having trouble signing in, there's a **Forgot password?** link to help you reset your password.
+
 
 ## B. Install GitHub Desktop
 GitHub Desktop is a free and open source application that lets you interact with GitHub repositories using a graphical user interface. You can use it to clone, create, commit, push, pull, and merge your code, as well as manage branches, issues, pull requests, and more.
