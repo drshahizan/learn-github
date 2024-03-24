@@ -13,7 +13,7 @@
 
 # GitHub for Research Students: From Code to Collaboration
 
-## A. Install GitHub Desktop
+## B. Install GitHub Desktop
 GitHub Desktop is a free and open source application that lets you interact with GitHub repositories using a graphical user interface. You can use it to clone, create, commit, push, pull, and merge your code, as well as manage branches, issues, pull requests, and more.
 
 <p align="center">
