@@ -71,6 +71,31 @@ You can connect to your codespaces from your browser, from Visual Studio Code, f
 |:---|
 | 1. [What is Codespaces?](https://youtu.be/sYJ3CHtT6WM)<br>2. [Github gave me a BEAST for coding 🤯 NO MORE VS Code](https://youtu.be/vPigsZ-zk1g)<br>3. [How to use GitHub Codespaces for Free (VSCode in the cloud!)](https://youtu.be/YFdh32ShBeI)<br>4. [Github Codespace crash course](https://youtu.be/D_5T6KMTRb8)<br>5. [How to connect Github Codespaces and Mongodb Atlas](https://youtu.be/X88dsegH0-Y)|
 
+## Using GitHub Codespaces
+
+1. **Create a Codespace**:
+   - Navigate to a GitHub repository that you want to work on.
+   - Click the **Code** button and then select **Open with Codespaces**.
+   - Choose **New codespace** to create a new environment.
+
+2. **Run the Application**:
+   - Once the codespace is ready, it will open in the browser version of Visual Studio Code.
+   - Use the terminal within the codespace to enter commands like `npm run dev` to start your application.
+
+3. **View Your Running Application**:
+   - GitHub Codespaces will automatically forward the ports.
+   - Click **Open in Browser** to view your running application in a new tab.
+
+4. **Edit and Commit Changes**:
+   - Make changes to your code directly within the codespace editor.
+   - Use the Source Control feature in VS Code to commit and push your changes to the repository.
+
+5. **Personalize Your Setup**:
+   - Install extensions and personalize the codespace environment to suit your development needs.
+
+For a detailed walkthrough, you can check out the [Quickstart for GitHub Codespaces](https://docs.github.com/en/codespaces/getting-started/quickstart) or explore more in-depth documentation on [GitHub's official site](https://github.blog/2023-02-22-a-beginners-guide-to-learning-to-code-with-github-codespaces/). Remember, you can also change the default editor and customize your codespace to match your preferences.
+
+If you're a beginner and want to learn coding with GitHub Codespaces, there's a [beginner's guide](https://docs.github.com/en/codespaces) that might be very helpful. It provides a step-by-step process to help you get started with coding in a codespace environment. Happy coding!
 
 ## GitHub Codespaces in Visual Studio Code
 To run GitHub Codespaces in Visual Studio Code, you can follow these steps:
