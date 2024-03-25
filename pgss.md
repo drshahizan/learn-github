@@ -32,7 +32,6 @@ Signing in to GitHub is straightforward.
 
 If you're new to GitHub and need to create an account, you can click on **Create an account** on the same page. Remember, if you're having trouble signing in, there's a **Forgot password?** link to help you reset your password.
 
-
 ## C. Install GitHub Desktop
 GitHub Desktop is a free and open source application that lets you interact with GitHub repositories using a graphical user interface. You can use it to clone, create, commit, push, pull, and merge your code, as well as manage branches, issues, pull requests, and more.
 
@@ -68,14 +67,6 @@ Signing up for GitHub Education to access the Student Developer Pack involves a 
 7. **Answer the questions** regarding how you plan to use GitHub.
 
 Once you've completed these steps, you'll have access to the tools and events offered by GitHub Education, which can greatly benefit your learning and project development. Remember, the Student Developer Pack includes a variety of offers, from free credits to waived fees, all aimed at providing real-world tools to students at no cost.
-
-Source: Conversation with Bing, 25/03/2024
-(1) GitHub Education - Engaged students are the result of using real-world .... https://education.github.com/.
-(2) Students - GitHub Education. https://education.github.com/students.
-(3) Step-by-Step: Setting Up GitHub Student and GitHub Copilot as an .... https://techcommunity.microsoft.com/t5/educator-developer-blog/step-by-step-setting-up-github-student-and-github-copilot-as-an/ba-p/3736279.
-(4) Quickstart for GitHub Educators - GitHub Docs. https://docs.github.com/en/education/quickstart.
-
-
 
 
 # Learn Github 🚀
