@@ -22,7 +22,7 @@
 
 Once you've signed up, you can start exploring GitHub and all its features. For a more detailed guide, you can visit [GitHub's documentation](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github).
 
-## A. GitHub Sign in
+## B. GitHub Sign in
 Signing in to GitHub is straightforward. 
 
 1. Go to the [GitHub login page](https://github.com/login).
@@ -33,7 +33,7 @@ Signing in to GitHub is straightforward.
 If you're new to GitHub and need to create an account, you can click on **Create an account** on the same page. Remember, if you're having trouble signing in, there's a **Forgot password?** link to help you reset your password.
 
 
-## B. Install GitHub Desktop
+## C. Install GitHub Desktop
 GitHub Desktop is a free and open source application that lets you interact with GitHub repositories using a graphical user interface. You can use it to clone, create, commit, push, pull, and merge your code, as well as manage branches, issues, pull requests, and more.
 
 <p align="center">
@@ -56,10 +56,10 @@ To install GitHub Desktop, you need to have a supported operating system, which 
     4. Allow the installation to download and install.
     5. Launch GitHub Desktop and sign in with your GitHub account.
 
-## C. Sign Up GitHub Education
+## D. Sign Up GitHub Education
 Signing up for GitHub Education to access the Student Developer Pack involves a few steps. Here's a quick guide to help you through the process:
 
-1. **Visit the Student Developer Pack main page** at GitHub Education¹.
+1. **Visit the Student Developer Pack main page** at [GitHub Education](https://education.github.com/students).
 2. **Sign Up** for the Student Developer Pack.
 3. **Select 'Get Student Benefit'** on the page.
 4. **Sign-in or Sign-up** for a GitHub account if you don't already have one.
@@ -67,7 +67,7 @@ Signing up for GitHub Education to access the Student Developer Pack involves a 
 6. **Enter the name of your school** in the provided field.
 7. **Answer the questions** regarding how you plan to use GitHub.
 
-Once you've completed these steps, you'll have access to the tools and events offered by GitHub Education, which can greatly benefit your learning and project development. Remember, the Student Developer Pack includes a variety of offers, from free credits to waived fees, all aimed at providing real-world tools to students at no cost².
+Once you've completed these steps, you'll have access to the tools and events offered by GitHub Education, which can greatly benefit your learning and project development. Remember, the Student Developer Pack includes a variety of offers, from free credits to waived fees, all aimed at providing real-world tools to students at no cost.
 
 Source: Conversation with Bing, 25/03/2024
 (1) GitHub Education - Engaged students are the result of using real-world .... https://education.github.com/.
