@@ -13,6 +13,13 @@
 <img src="/images/Github_poster.jpeg"  height="400" />
 </p>
 
+## Activites
+🌟 Learn the foundations of version control and why it is critical for research integrity.
+🌟Explore the GitHub ecosystem. 
+🌟Discover how to work on projects with fellow researchers, manage modifications, and seamlessly merge contributions.
+🌟Learn about standard practices for documenting research code and data on GitHub.
+
+
 | No | Lesson | Description |
 |--------|---------|---------|
 | 1. | [Installation & Sign in Github](./materials/pgss/signin.md)| Github Developer, Github Education |
