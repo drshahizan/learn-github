@@ -12,7 +12,7 @@
 </p>
 
 | No | Lesson | 
-|--------|---------|---------|
+|--------|---------|
 | 1. | [Installation & Sign in Github](./material/signin.md)|
 | 2. | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
 
