@@ -13,14 +13,15 @@
 <img src="/images/Github_poster.jpeg"  height="400" />
 </p>
 
-| No | Lesson | 
-|--------|---------|
+| No | Lesson | Description |
+|--------|---------|---------|
 | 1. | [Installation & Sign in Github](./materials/pgss/signin.md)|
 | 2. | [Introduction to Github](./materials/pgss/intro.md)|
 | 3. | [Github Profile](./materials/pgss/profile.md)|
 | 4. | [Github Pages](./materials/pgss/profile.md)|
 | 5. | [Github Projects](./materials/projects/readme.md)|
 | 6. | [Github Codespaces](./materials/education/codespace.md)|
+| 7. | [Tools and useful links](./materials/tools.md)| Various tools and useful links for developers, particularly those using Git and GitHub. Some of the tools mentioned include StackEdit and Dillinger for editing and formatting Markdown documents, GitHub Skills for learning and improving Git and GitHub skills, and Awesome README Tools for creating more engaging and informative README files for projects. There are also links to various resources for tracking project statistics, including Todoist Stats in Readme, Github Readme Stats, and Github Contributor Stats. Additionally, there are tools for creating visitor badges, profile activity generators, and more. Overall, these tools and resources can help developers to be more productive and make their projects more accessible and engaging for users. |
 
 
 
