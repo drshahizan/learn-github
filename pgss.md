@@ -20,14 +20,9 @@
 | 3. | [Github Profile](./materials/pgss/profile.md)|
 | 4. | [Github Pages](./materials/pgss/profile.md)|
 | 5. | [Github Projects](./materials/projects/readme.md)|
+| 6. | [Github Codespaces](./materials/education/codespace.md)|
 
-## Github Projects
-GitHub is a web-based platform that is widely used for version control and collaborative software development. GitHub projects refer to the various software projects that are hosted on the platform.
 
-When a project is hosted on GitHub, developers can create and manage the project's code, track its changes over time, and collaborate with other developers on the project. Each project has its own repository, which is a central location where all the project's files and code are stored. [**[More info...]**](./materials/projects)
-
-## Github Codespaces
-GitHub Codespaces is a cloud-based development environment that allows developers to create, customize, and use a fully-functional development environment in the cloud. With Codespaces, developers can quickly and easily set up a development environment for their projects, without the need to install software on their local machines. They can access their codespaces from anywhere, collaborate with their team members in real-time, and deploy their applications to production. Codespaces support a wide range of programming languages and tools, including PHP, and provide a powerful and flexible platform for building, testing, and deploying web applications. [**[More info...]**](./materials/education/codespace.md)
 
 ## Tools and useful links
 Various tools and useful links for developers, particularly those using Git and GitHub. Some of the tools mentioned include StackEdit and Dillinger for editing and formatting Markdown documents, GitHub Skills for learning and improving Git and GitHub skills, and Awesome README Tools for creating more engaging and informative README files for projects. There are also links to various resources for tracking project statistics, including Todoist Stats in Readme, Github Readme Stats, and Github Contributor Stats. Additionally, there are tools for creating visitor badges, profile activity generators, and more. Overall, these tools and resources can help developers to be more productive and make their projects more accessible and engaging for users.
