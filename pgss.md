@@ -12,6 +12,22 @@
 </p>
 
 # GitHub for Research Students: From Code to Collaboration
+
+## Sign up for a GitHub account
+
+1. **Navigate** to [GitHub's website](https://github.com/).
+2. Click on the **Sign up** button.
+3. **Follow the prompts** to create your personal account. This will include choosing a username, providing an email address, and setting a password.
+4. **Verify your email address**. GitHub will send you an email to ensure your email address is valid. You must verify it to complete some basic tasks on GitHub, such as creating a repository.
+
+Once you've signed up, you can start exploring GitHub and all its features. For a more detailed guide, you can visit [GitHub's documentation](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github).
+
+Source: Conversation with Bing, 25/03/2024
+(1) undefined. https://github.com/.
+(2) Creating an account on GitHub - GitHub Docs. https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github.
+(3) Join GitHub · GitHub. https://github.com/join.
+(4) Git - Account Setup and Configuration. https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration.
+(5) undefined. https://github.com.
 ## A. GitHub Sign-In
 Signing in to GitHub is straightforward. 
 
@@ -45,6 +61,26 @@ To install GitHub Desktop, you need to have a supported operating system, which 
     3. In your computer's Downloads folder, double-click the **GitHubDesktopSetup.exe** file.
     4. Allow the installation to download and install.
     5. Launch GitHub Desktop and sign in with your GitHub account.
+
+## C. Sign Up GitHub Education
+Signing up for GitHub Education to access the Student Developer Pack involves a few steps. Here's a quick guide to help you through the process:
+
+1. **Visit the Student Developer Pack main page** at GitHub Education¹.
+2. **Sign Up** for the Student Developer Pack.
+3. **Select 'Get Student Benefit'** on the page.
+4. **Sign-in or Sign-up** for a GitHub account if you don't already have one.
+5. **Add your school email** to verify your academic status.
+6. **Enter the name of your school** in the provided field.
+7. **Answer the questions** regarding how you plan to use GitHub.
+
+Once you've completed these steps, you'll have access to the tools and events offered by GitHub Education, which can greatly benefit your learning and project development. Remember, the Student Developer Pack includes a variety of offers, from free credits to waived fees, all aimed at providing real-world tools to students at no cost².
+
+Source: Conversation with Bing, 25/03/2024
+(1) GitHub Education - Engaged students are the result of using real-world .... https://education.github.com/.
+(2) Students - GitHub Education. https://education.github.com/students.
+(3) Step-by-Step: Setting Up GitHub Student and GitHub Copilot as an .... https://techcommunity.microsoft.com/t5/educator-developer-blog/step-by-step-setting-up-github-student-and-github-copilot-as-an/ba-p/3736279.
+(4) Quickstart for GitHub Educators - GitHub Docs. https://docs.github.com/en/education/quickstart.
+
 
 
 
