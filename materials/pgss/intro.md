@@ -14,7 +14,7 @@ Welcome to Github class! We are thrilled to embark on this exciting learning jou
 </p>
 
 # Github Education
-GitHub Education is a program designed to support students and educators by providing them with free access to various tools and resources to learn, teach, and collaborate on coding and technology projects. The program offers a range of benefits, including free access to GitHub Enterprise, GitHub Pro, and a host of developer tools, as well as access to various courses, webinars, and learning resources. GitHub Education aims to foster a community of learners and educators by connecting students and teachers worldwide to create innovative projects and push the boundaries of technology. [**[More info...]**](../materials/education)
+GitHub Education is a program designed to support students and educators by providing them with free access to various tools and resources to learn, teach, and collaborate on coding and technology projects. The program offers a range of benefits, including free access to GitHub Enterprise, GitHub Pro, and a host of developer tools, as well as access to various courses, webinars, and learning resources. GitHub Education aims to foster a community of learners and educators by connecting students and teachers worldwide to create innovative projects and push the boundaries of technology. [**[More info...]**](../education)
 
 ## [Case study](./materials/case_study.md)
 
