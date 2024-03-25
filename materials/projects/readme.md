@@ -27,6 +27,8 @@ Tables are a way of organizing data in a tabular format within GitHub projects. 
 ### 2. Boards
 Boards are a Kanban-style project management tool that allow developers to visualize the progress of tasks as they move through different stages of completion. Boards are customizable, so developers can create columns to represent different stages of the development process, such as "To Do," "In Progress," and "Done." Each task or issue can be represented by a card that is moved between columns as work progresses. Boards can be used by individuals or teams to keep track of their work and ensure that nothing falls through the cracks.
 
+https://docs.github.com/assets/cb-167219/mw-1440/images/help/projects-v2/example-board.webp
+
 ### 3. Roadmaps
 Roadmaps are a way of visualizing the long-term goals and milestones for a project. GitHub Projects offer a built-in roadmap feature that allows developers to create and manage high-level plans for their projects. Roadmaps can be used to track progress towards major milestones, identify dependencies between different tasks, and communicate project timelines to stakeholders. Roadmaps can be updated as needed to reflect changes in the project plan or to adjust timelines based on feedback from stakeholders.
 
