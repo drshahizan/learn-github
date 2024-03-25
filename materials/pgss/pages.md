@@ -8,7 +8,7 @@
 ## Github Pages
 GitHub Pages is a web hosting service provided by GitHub that allows users to create and host static websites directly from their GitHub repositories. With GitHub Pages, users can publish websites for personal or project use, including blogs, portfolios, and documentation. Users can choose to host their site on a custom domain or a GitHub-provided subdomain, and can create and edit their site using a variety of tools and languages, including HTML, CSS, and JavaScript. GitHub Pages is a powerful and easy-to-use tool for creating and hosting websites, and is a popular choice for developers, designers, and individuals looking to build an online presence.
 
-- [Learn GitHub Pages](./materials/pages.md)
+- [Learn GitHub Pages](../pages.md)
 - [GitHub Pages](https://pages.github.com/)
 - [Youtube - Getting Started with GitHub Pages](https://youtu.be/QyFcl_Fba-k)
 - [Youtube - Github Pages: Web Hosting Gratis dengan GitHub Pages](https://youtu.be/rgDDWhQe-ow)
