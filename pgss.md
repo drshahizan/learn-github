@@ -19,8 +19,7 @@
 | 2. | [Introduction to Github](./materials/pgss/intro.md)|
 | 3. | [Github Profile](./materials/pgss/profile.md)|
 | 4. | [Github Pages](./materials/pgss/profile.md)|
-| 5. | [Github Projects](./materials/pgss/project.md)|
-
+| 5. | [Github Projects](./materials/projects/readme.md)|
 
 ## Github Projects
 GitHub is a web-based platform that is widely used for version control and collaborative software development. GitHub projects refer to the various software projects that are hosted on the platform.
