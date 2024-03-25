@@ -16,6 +16,8 @@ Before the launch of GitHub Codespaces, developers typically had to set up their
 
 GitHub Codespaces aimed to simplify this process and provide developers with a consistent and reproducible development environment that could be accessed from anywhere with an internet connection. By moving the development environment to the cloud, developers could save time on initial setup, easily switch between projects, and collaborate more seamlessly with others.
 
+https://res.cloudinary.com/practicaldev/image/fetch/s--Dx9tPPRf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/xm8bkn7j9qp9jhj2vqsu.png
+
 The history of GitHub Codespaces can be traced back to Visual Studio Codespaces, which was initially introduced by Microsoft as Visual Studio Online in 2019. Visual Studio Codespaces provided a similar cloud-based development environment but was primarily focused on Visual Studio IDE users.
 
 GitHub, being a subsidiary of Microsoft, leveraged the technology behind Visual Studio Codespaces and integrated it into their platform to create GitHub Codespaces. This integration brought the benefits of cloud-based development environments to the GitHub ecosystem, allowing developers to work on their GitHub repositories directly from the browser or their preferred IDE, including Visual Studio Code.
