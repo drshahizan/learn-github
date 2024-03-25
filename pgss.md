@@ -11,6 +11,12 @@
 <img src="/images/Github_poster.jpeg"  height="400" />
 </p>
 
+| No | Lesson | Topic |
+|--------|---------|---------|
+| 1. | Installation & Sign in |[ChatGPT, BingAI, Gemini and AIPRM for ChatGPT](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/signin.md)|
+| 2. | Prompts | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
+
+
 # GitHub for Research Students: From Code to Collaboration
 
 ## A. Sign up for a GitHub account
