@@ -15,8 +15,8 @@
 
 | No | Lesson | 
 |--------|---------|
-| 1. | [Installation & Sign in Github](./material/pgss/signin.md)|
-| 2. | [Introduction to Github](./material/pgss/intro.md)|
+| 1. | [Installation & Sign in Github](./materials/pgss/signin.md)|
+| 2. | [Introduction to Github](./materials/pgss/intro.md)|
 
 
 # Learn Github 🚀
