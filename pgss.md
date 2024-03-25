@@ -11,10 +11,10 @@
 <img src="/images/Github_poster.jpeg"  height="400" />
 </p>
 
-| No | Lesson | Topic |
+| No | Lesson | 
 |--------|---------|---------|
 | 1. | [Installation & Sign in Github](./material/signin.md)|
-| 2. | Prompts | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
+| 2. | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
 
 
 # GitHub for Research Students: From Code to Collaboration
