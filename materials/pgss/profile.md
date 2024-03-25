@@ -5,71 +5,34 @@
 <a href="https://github.com/drshahizan/learn-github/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/learn-github?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Flearn-github&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Introduction to Github 🚀
+## Github Profile 👋
+A GitHub profile is a public facing page that displays a user's activity on the platform. It includes information such as the user's username, profile picture, bio, location, and links to their website or social media profiles.
 
-Welcome to Github class! We are thrilled to embark on this exciting learning journey together. 
+The main focus of a GitHub profile is the user's repositories. Repositories are collections of files that contain a project or a portion of a project. On a GitHub profile, users can showcase their repositories, which can be sorted by type (public or private), language, and date. Each repository includes information such as the name, description, number of stars (a measure of popularity), and the number of forks (when someone makes a copy of the repository to make their own changes).
 
-<p align="center">
-<img src="images/git.gif"  height="700" />
-</p>
+GitHub profiles also include information on a user's contributions to open source projects. GitHub tracks contributions such as pull requests (code changes that are proposed for review and merging into a project), issues (problem reports or feature requests), and comments.
 
-# Github Education
-GitHub Education is a program designed to support students and educators by providing them with free access to various tools and resources to learn, teach, and collaborate on coding and technology projects. The program offers a range of benefits, including free access to GitHub Enterprise, GitHub Pro, and a host of developer tools, as well as access to various courses, webinars, and learning resources. GitHub Education aims to foster a community of learners and educators by connecting students and teachers worldwide to create innovative projects and push the boundaries of technology. [**[More info...]**](../education)
+Another important aspect of a GitHub profile is the user's activity feed. This shows a chronological list of the user's recent activity on the platform, such as repositories they have starred or issues they have commented on.
 
-## [Case study](./materials/case_study.md)
+GitHub profiles are a great way for developers to showcase their skills and projects to potential employers or collaborators. By maintaining an active and well-curated profile, developers can establish themselves as experts in their field and attract new opportunities.
 
-## Git and GitHub
-Git and GitHub are an essential part of the developer roadmap, particularly for those interested in software development or web development. Git is a version control system that allows developers to track changes in their codebase over time, collaborate with others, and revert changes if necessary. GitHub, on the other hand, is a web-based hosting service that uses Git for version control.
+### Sample
 
-In the developer roadmap, learners are typically introduced to Git and GitHub early on as a foundational skill. They are taught how to set up a Git repository, make commits, and push changes to a remote repository on GitHub. They may also learn about basic Git commands like branching, merging, and rebasing.
+| <img alt="activity status" align="right" height="24" src="images/kotak.svg" /> 😎 My students |
+|:---|
+| 1. [Qaisara](https://github.com/qaisarrra) <br> 2. [Low Junyi](https://github.com/LowJunyi2001) <br> 3. [Ahmad Aiman Hafizi bin Muhammad](https://github.com/AimanHafizi619) <br> 4. [KONG JIA ROU](https://github.com/jrkong2001utm) <br> 5. [Hong Pei Geok](https://github.com/peiyu00) <br> 6. [El Insyiraah](https://github.com/elleamyr) <br> 7. [SEPRIYANDI BIN AGUSR](https://github.com/sepz36) <br> 8. [Charlene A](https://github.com/Chikoness) <br> 9. [Neo Zheng Weng](https://github.com/zw-weng) <br> 10. [Wan Nur Sofea](https://github.com/wannursofea)<br> 11. [Camily Tang](https://github.com/camilytang)<br> 12. [Ng Shu Yu](https://github.com/ShuYu03) |
 
-As learners progress in their developer roadmap, they may dive deeper into more advanced Git and GitHub features, such as using pull requests for code reviews, integrating Git with continuous integration/continuous deployment (CI/CD) pipelines, and automating workflows using GitHub Actions.
+| <img alt="activity status" align="right" height="24" src="images/kotak.svg" /> 🗣 Others |
+|:---|
+| 1. [How to Create an Impressive GitHub Profile](https://medium.com/@catherineisonline/how-to-create-an-impressive-github-profile-c1a3610b0770)<br>2. [Ekaterine (Catherine) Mitagvaria](https://github.com/catherineisonline)<br>3. [How to create a GitHub Profile README: Michelle Mannering](https://dev.to/github/how-to-create-a-github-profile-readme-jha)<br>4. [How To Create A GitHub Profile README: Monica Powell](https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj)<br>5. [katiehuangx](https://github.com/katiehuangx)|
 
-## Developer Roadmaps
-[Roadmap.sh](https://roadmap.sh/) is a website that provides roadmaps for learning various topics in technology, such as programming languages, web development, data science, and more. The roadmaps are essentially step-by-step guides that outline the skills, tools, and concepts that someone should learn to become proficient in a particular area.
+## Tools
 
-The website was created to help people who are just starting out in technology or who are looking to switch careers within the industry. The roadmaps are designed to be flexible and customizable, so users can choose their own learning paths and set their own goals.
+1. [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+2. [GPRM](https://gprm.itsvg.in/)
+3. [Profilinator](https://profilinator.rishav.dev/)
+4. [Arturs Smirnovs](https://arturssmirnovs.github.io/github-profile-readme-generator/)
 
-In addition to the roadmaps, the website also includes resources such as books, online courses, and tools to help learners on their journey. The community aspect of the website allows users to connect with others who are also learning and share tips and resources.
-- [Frontend Developer](https://roadmap.sh/frontend)
-- [Backend Developer](https://roadmap.sh/backend)
-- [Flutter Developer](https://roadmap.sh/flutter)
-
-## :large_orange_diamond: [Git](/materials/git-intro.md)
-Git is a distributed version control system designed to track changes in software code over time. It was created in 2005 by Linus Torvalds, the same person who created the Linux operating system. Git is open-source software, meaning that it is free to use and modify, and it is widely used in software development teams.
-
-With Git, developers can work collaboratively on the same codebase, making changes and merging them together seamlessly. Each developer has their own copy of the code repository, which they can modify and then share with others. Git also provides tools for branching and merging code, allowing developers to work on different features or bug fixes without interfering with each other's work.
-
-One of the main benefits of using Git is its ability to track changes and roll back to previous versions if needed. This is particularly useful when bugs are introduced or when a new feature causes unintended consequences. Git also allows developers to review and comment on each other's code changes, making it easier to catch errors and maintain quality control.
-
-Git can be used with a command-line interface, or with a variety of graphical user interfaces (GUIs) that provide a more user-friendly experience. Some popular Git GUIs include GitHub Desktop, Sourcetree, and GitKraken.
-
-Overall, Git is a powerful tool for software developers that facilitates collaboration, version control, and quality control. [**[More info...]**](/materials/git-intro.md)
-
-## :octocat: [GitHub](/materials/github-intro.md)
-GitHub is a web-based platform for software development that uses Git for version control. It allows developers to collaborate on projects, share code, and manage their software development workflows.
-
-<p align="center">
-<img src="https://github.com/drshahizan/learn-github/blob/main/images/github.png"  height="400" />
-</p>
-
-GitHub provides a range of features that make it easy for developers to work together on projects. Some of the key features of GitHub include:
-
-1. **Repositories**: GitHub provides a hosting service for Git repositories, making it easy to manage and share code with others. Repositories can be public or private, and can be accessed by anyone with the appropriate permissions.
-
-2. **Pull requests**: GitHub's pull request feature allows developers to review and discuss code changes before they are merged into the main codebase. This can help ensure that code changes are of high quality and don't introduce bugs or conflicts.
-
-3. **Issues**: GitHub's issue tracking system allows developers to create and track bugs, feature requests, and other issues related to a project. Issues can be assigned to specific developers, labeled, and prioritized to help manage the development process.
-
-4. **Collaboration**: GitHub provides a range of tools to help developers collaborate on projects, including commenting on code, reviewing pull requests, and collaborating on code changes using branches and forks.
-
-5. **Integrations**: GitHub integrates with a range of other software development tools and services, such as CI/CD pipelines, code analysis tools, and project management tools.
-
-GitHub is used by millions of developers and organizations around the world for software development. It is particularly popular among open source software projects, which use GitHub to collaborate on code and manage contributions from a community of developers.
-
-- [Stuck on Git: Git basic for beginners explained with post it notes](https://www.linkedin.com/posts/brookejamieson_git-learntocode-techbasics-activity-7029577352955219968-i4X1/)
-
-[**[More info...]**](/materials/github-intro.md)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
