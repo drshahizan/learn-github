@@ -16,7 +16,7 @@ Welcome to Github class! We are thrilled to embark on this exciting learning jou
 # Github Education
 GitHub Education is a program designed to support students and educators by providing them with free access to various tools and resources to learn, teach, and collaborate on coding and technology projects. The program offers a range of benefits, including free access to GitHub Enterprise, GitHub Pro, and a host of developer tools, as well as access to various courses, webinars, and learning resources. GitHub Education aims to foster a community of learners and educators by connecting students and teachers worldwide to create innovative projects and push the boundaries of technology. [**[More info...]**](../education)
 
-## [Case study](./materials/case_study.md)
+## [Case study](../case_study.md)
 
 ## Git and GitHub
 Git and GitHub are an essential part of the developer roadmap, particularly for those interested in software development or web development. Git is a version control system that allows developers to track changes in their codebase over time, collaborate with others, and revert changes if necessary. GitHub, on the other hand, is a web-based hosting service that uses Git for version control.
