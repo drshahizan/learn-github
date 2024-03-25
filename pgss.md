@@ -13,7 +13,7 @@
 
 | No | Lesson | Topic |
 |--------|---------|---------|
-| 1. | [Installation & Sign in Github]()|
+| 1. | [Installation & Sign in Github](./material/signin.md)|
 | 2. | Prompts | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
 
 
