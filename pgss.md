@@ -15,8 +15,8 @@
 
 | No | Lesson | 
 |--------|---------|
-| 1. | [Installation & Sign in Github](./material/signin.md)|
-| 2. | [Introduction to Github](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
+| 1. | [Installation & Sign in Github](./material/pgss/signin.md)|
+| 2. | [Introduction to Github](./material/pgss/intro.md)|
 
 
 # Learn Github 🚀
