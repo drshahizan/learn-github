@@ -19,6 +19,7 @@
 🌟Discover how to work on projects with fellow researchers, manage modifications, and seamlessly merge contributions.
 🌟Learn about standard practices for documenting research code and data on GitHub.
 
+## Course Outline
 
 | No | Lesson | Description |
 |--------|---------|---------|
