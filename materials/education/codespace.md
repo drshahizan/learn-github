@@ -16,13 +16,17 @@ Before the launch of GitHub Codespaces, developers typically had to set up their
 
 GitHub Codespaces aimed to simplify this process and provide developers with a consistent and reproducible development environment that could be accessed from anywhere with an internet connection. By moving the development environment to the cloud, developers could save time on initial setup, easily switch between projects, and collaborate more seamlessly with others.
 
-https://res.cloudinary.com/practicaldev/image/fetch/s--Dx9tPPRf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/xm8bkn7j9qp9jhj2vqsu.png
+<p align="center">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Dx9tPPRf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/xm8bkn7j9qp9jhj2vqsu.png"  height="400" />
+</p>
 
 The history of GitHub Codespaces can be traced back to Visual Studio Codespaces, which was initially introduced by Microsoft as Visual Studio Online in 2019. Visual Studio Codespaces provided a similar cloud-based development environment but was primarily focused on Visual Studio IDE users.
 
 GitHub, being a subsidiary of Microsoft, leveraged the technology behind Visual Studio Codespaces and integrated it into their platform to create GitHub Codespaces. This integration brought the benefits of cloud-based development environments to the GitHub ecosystem, allowing developers to work on their GitHub repositories directly from the browser or their preferred IDE, including Visual Studio Code.
 
-https://res.cloudinary.com/practicaldev/image/fetch/s--1OETLAua--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/f4npb6tqeve28klcos69.png
+<p align="center">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--1OETLAua--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/f4npb6tqeve28klcos69.png"  height="400" />
+</p>
 
 GitHub Codespaces has continued to evolve since its launch, with regular updates and enhancements to improve the developer experience. It has gained popularity among developers who prefer the convenience and flexibility of cloud-based development environments, enabling them to work on their projects from various devices without the need for complex setup processes.
 
