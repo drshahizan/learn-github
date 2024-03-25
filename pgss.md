@@ -13,7 +13,7 @@
 
 | No | Lesson | Topic |
 |--------|---------|---------|
-| 1. | Installation & Sign in |[ChatGPT, BingAI, Gemini and AIPRM for ChatGPT](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/signin.md)|
+| 1. | [Installation & Sign in Github]()|
 | 2. | Prompts | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
 
 
