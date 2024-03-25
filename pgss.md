@@ -17,6 +17,8 @@
 |--------|---------|
 | 1. | [Installation & Sign in Github](./materials/pgss/signin.md)|
 | 2. | [Introduction to Github](./materials/pgss/intro.md)|
+| 3. | [Github Profile](./materials/pgss/profile.md)|
+| 4. | [Github Pages](./materials/pgss/profile.md)|
 
 
 ## Github Profile 👋
