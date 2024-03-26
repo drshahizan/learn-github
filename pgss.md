@@ -22,7 +22,7 @@ This course is meant for research students who want to improve their studies by 
 3. Discover how to work on projects with fellow researchers, manage modifications, and seamlessly merge contributions.
 4. Learn about standard practices for documenting research code and data on GitHub.
 
-## Who Should Attend: 
+## Who Should Attend
 This course is perfect for research students from any discipline who are new to GitHub or want to enhance their collaborative coding skills. Whether you operate on your own or with a research team, this session will help you manage and share your work with the global research community.
 
 ## Course Outline
