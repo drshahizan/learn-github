@@ -13,11 +13,14 @@
 <img src="/images/Github_poster.jpeg"  height="400" />
 </p>
 
+## Overview
+This course is meant for research students who want to improve their studies by leveraging collaboration and version control. Participants will discover how GitHub can allow them manage their code, data, and research findings more effectively.
+
 ## Activites
-🌟 Learn the foundations of version control and why it is critical for research integrity.
-🌟Explore the GitHub ecosystem. 
-🌟Discover how to work on projects with fellow researchers, manage modifications, and seamlessly merge contributions.
-🌟Learn about standard practices for documenting research code and data on GitHub.
+1. Learn the foundations of version control and why it is critical for research integrity.
+2. 2. Explore the GitHub ecosystem. 
+3. Discover how to work on projects with fellow researchers, manage modifications, and seamlessly merge contributions.
+4. Learn about standard practices for documenting research code and data on GitHub.
 
 ## Course Outline
 
