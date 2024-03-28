@@ -1,6 +1,7 @@
 
 <div align="center"><img src="IMG_20191224_145150.jpg" height="300" /></div>
-<h1 align="center">Amalina Zul 👨‍💻</h1>
+
+# [🐱Amalina Zul🐱](https://github.com/Amalinazul)
 
 ## About Me 🚀
 <div align="center"><img src="https://github.com/drshahizan/BDM/assets/51344005/ffaa458f-d247-48f9-86f6-c4f88ebefaa5" width="600" /></div>
