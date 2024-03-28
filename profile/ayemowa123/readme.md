@@ -1,6 +1,6 @@
 <div align="center"><img src="My Photograph.jpg" width="300" /></div>
 <h1 align="center">ayemowa123 👨‍💻</h1>
-**Ayemowa Matthew Ojo** is a **PhD student** at **Universiti Teknologi Malaysia (UTM)**. His research interests likely span various fields, and he has contributed to academic work in the past. Here are some relevant details:
+**Ayemowa Matthew Ojo** is a **PhD student** at **Universiti Teknologi Malaysia (UTM)**. His research interests is Data Science, Generative AI, Deep Learning, and he has contributed to academic work in the past. Here are some relevant details:
 
 1. **GitHub Profile**: Ayemowa has a GitHub profile where they have recently joined. While they don't have any public repositories yet, it's possible that they are actively working on projects or contributing to others¹.
 
