@@ -1,6 +1,6 @@
 
 <div align="center"> <img src="ZHANJINGCHUN.jpg" width="300" height = "400" alt="not found ">   </div>
-<h1 align="center">[ZHAN JINGCHUN](https://github.com/littlerabitt110)</h1>
+# [ZHAN JINGCHUN](https://github.com/littlerabitt110)
 
 
 
