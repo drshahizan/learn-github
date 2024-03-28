@@ -3,7 +3,6 @@
 <h1 align="center">Hazwani Haris 🌸</h1>
 
 ## About Me 🚀
-<div align="center"><img src="https://github.com/drshahizan/BDM/assets/51344005/ffaa458f-d247-48f9-86f6-c4f88ebefaa5" width="600" /></div>
 
 Hi, I'm Hazwani Haris, a full time mPhil student, a daughter, a wife and a mother. Currently pursuing a Masters of Philosophy in Computer Science at Universiti Teknologi Malaysia. My research is about Gamification in Rehabilitation, focusing on psychological rehabilitation. 
 
