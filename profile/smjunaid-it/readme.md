@@ -1,7 +1,8 @@
 
 <div align="center"><img src="https://github.com/drshahizan/learn-github/blob/main/profile/smjunaid-it/junaid.jpeg" width="300" /></div>
 
-<h1 align="center">Syed Muhammad Junaid Hassan 👨‍💻</h1>
+<h1 align="center">Syed Muhammad Junaid Hassan </h1>
+[My Github](https://github.com/smjunaid-it)
 
 ## Overview
 I am an Assistant Professor at Balochistan University of Information Technology, Engineering and Management Sciences in Quetta, Pakistan. My primary areas of specialization include Software Engineering, Software Testing, and Software Security.
