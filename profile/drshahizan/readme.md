@@ -1,6 +1,6 @@
 
 <div align="center"><img src="Github_poster.jpeg" width="300" /></div>
-<h1 align="center">Bakunga Bronson 👨‍💻</h1>
+<h1 align="center">Mohd Shahizan Othman 👨‍💻</h1>
 
 ## About Me 🚀
 Certainly! Here's a brief profile of **Mohd Shahizan Othman**:
