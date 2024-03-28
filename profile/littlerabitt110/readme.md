@@ -1,7 +1,7 @@
 
 <div align="center"> <img src="ZHANJINGCHUN.jpg" width="300" height = "400" alt="not found ">   </div>
 
-#About Me
+# About Me
 
 Certainly! Here's a concise summary of the instructions for creating an impressive GitHub profile README for **ZHAN Jingchun** using Markdown:
 
