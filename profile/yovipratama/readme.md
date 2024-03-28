@@ -2,8 +2,6 @@
 
 # [Yovi Pratama](https://github.com/yovipratama/) 👨‍💻
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/huKDsuDr1Iw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Education
 - Faculty of Computing, University Teknologi Malaysia
 - School of Electrical Engineering and Informatics, Bandung Institute of Technology, INDONESIA[^1^][1]
