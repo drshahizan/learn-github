@@ -27,6 +27,6 @@ I am a passionate **Data Scientist** with experience in machine learning, data a
    - Reduced downtime and maintenance costs
 
 ## Contact
-- Email: sitizaleha@example.com
+- Email: sitizalehaharun@gmail.com
 - LinkedIn: [Siti Zaleha](https://bing.com/search?q=)
 
