@@ -1,6 +1,7 @@
 
 <div align="center"><img src="nurul.jpeg" width="300" /></div>
-<h1 align="center">[Nurul Nazihah Jamal](https://github.com/nnazihah27) 👨‍💻</h1>
+
+# [Nurul Nazihah Jamal](https://github.com/nnazihah27) 👨‍💻
 
 ## About Me 🚀
 <div align="center"><img src="https://github.com/drshahizan/BDM/assets/51344005/ffaa458f-d247-48f9-86f6-c4f88ebefaa5" width="600" /></div>
