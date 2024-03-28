@@ -1,6 +1,4 @@
 
-# Create a markdown content for the profile
-markdown_content = """
 # Siti Zaleha Binti Harun
 
 ## About Me
