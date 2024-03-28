@@ -1,6 +1,6 @@
 <div align="center"><img src="Github_poster.jpeg" width="300" /></div>
 
-# [Mohd Shahizan Othman](https://github.com/drshahizan) 👨‍💻
+# [Siti Hajar Binti Mohd Yusof](https://github.com/hajar1204) 👨‍💻
 
 
 
