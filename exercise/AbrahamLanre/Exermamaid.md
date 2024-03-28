@@ -1,4 +1,6 @@
 # Test
+
+'''mermaid
 ---
 config:
     xyChart:
