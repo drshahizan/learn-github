@@ -18,11 +18,11 @@ Problem Solving: I thrive on dissecting complex problems and finding elegant sol
 
 ## Work Experience 💼
 
-- I have worked for several companies over the last couple of years, starting in 2021 where I took an intern role at Pelican International, a procurement company based in Kampala. I then worked on a number of projects with Inter Miles, Code Sync and also did several projects under the mentorship of [Chris Kateera](https://github.com/chris-kck) built on [Frappe Framework: Open Source Low Code Framework](https://frappeframework.com). More recently, I worked at AfroFleet Technologies (South Africa) and Bitcoin Innovation Hub (Uganda) before resuming my studies here at UTM. For a full breakdown of my work experience, please refer to my [resume](https://drive.google.com/file/d/1nMfGgOqV1s_OcfU7Cw3GEYB0_d-eewmI/view?usp=sharing)
+- I'm working as document specialist in a global company; Syneos Health. 
 
 ## Education and Training 🎓
 
-- Bachelor of Science in Equine Management (Hons.) at Makerere University (2014-2018)
+- Bachelor of Science in Equine Management (Hons.) at Universiti Teknologi Malaysia (2014-2018)
 
 
 ## Contact Me 📫
