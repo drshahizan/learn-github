@@ -29,8 +29,11 @@ Beep is a simple Python GUI application that helps a user limit the number of ch
 
 ## Education and Training 🎓
 
-- Bachelor of Science in Software Engineering (Hons.) at Makerere University (2018 - 2023)
-- Certificate of Accomplishment in the Blockchain Innovation Program, Uganda (2022 - 2023). Also emerged as the overall best student in the cohort.
+- Doctor of Philosophy in Computer Science at Universiti Teknologi Malaysia
+- Master of Science in Computer Science at Lead City University
+- Post Graduate Diploma in Computer Science at Lead City University
+- Higher National Diploma in Computer Science
+- National Diploma in Computer Science
 
 ## Blog 📝
 
