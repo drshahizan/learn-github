@@ -24,3 +24,32 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
+
+
+
+## UML diagrams
+
+You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
+
+```mermaid
+sequenceDiagram
+Junaid ->> Hassan: Hello Hassan, how are you?
+Hassan-->>John: How about you John?
+Hassan--x Junaid: I am good thanks!
+Hassan-x John: I am good thanks!
+Note right of John: Hassan thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+
+Hassan-->Junaid: Checking with John...
+Junaid->John: Yes... John, how are you?
+```
+
+And this will produce a flow chart:
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
+
