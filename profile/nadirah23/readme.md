@@ -1,6 +1,6 @@
 
 <div align="center"><img src="D.jpg" width="300" /></div>
-<h1 align="center">[Nadirah Mohamad](https://github.com/nadirah23) 👨‍💻</h1>
+[Nadirah Mohamad](https://github.com/nadirah23) <h1 align="center">👨‍💻</h1>
 # []() for linking
 ## About Me 🚀
 <div align="center"><img src="https://github.com/drshahizan/BDM/assets/51344005/ffaa458f-d247-48f9-86f6-c4f88ebefaa5" width="600" /></div>
