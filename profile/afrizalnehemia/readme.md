@@ -1,8 +1,8 @@
 
 # My Profile
-
+![Profile Picture](afrizal.jpg)
 ## Introduction
-Hello, I'm [Your Name]. I am a software developer with a passion for coding and problem-solving.
+Hello, I'm Afrizal Nehemia. I am a software developer with a passion for coding and problem-solving.
 
 ## Skills
 - Programming languages: Python, Java, JavaScript
