@@ -1,6 +1,6 @@
 <div align="center"><img src="https://github.com/drshahizan/learn-github/blob/main/profile/AbrahamLanre/Abraham.JPG" width="300" /></div>
 
-[**Abraham Lanre**](https://github.com/Abrahamlanre)
+[**Abraham OLanrewaju Lawrence**](https://github.com/Abrahamlanre)
 
 ## About Me 🚀
 <div align="center"><img src="https://github.com/drshahizan/BDM/assets/51344005/ffaa458f-d247-48f9-86f6-c4f88ebefaa5" width="600" /></div>
