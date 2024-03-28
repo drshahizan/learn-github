@@ -3,9 +3,29 @@
 <h1 align="center">Muhammad Anwar Ahmad 👨‍💻</h1>
 
 ## About Me 🚀
-<div align="center"><img src="https://github.com/drshahizan/BDM/assets/51344005/ffaa458f-d247-48f9-86f6-c4f88ebefaa5" width="600" /></div>
+Certainly! Let's create a markdown profile for **Muhammad Anwar Ahmad**. Below, I'll provide a brief summary of his research contributions related to occlusion handling in handheld augmented reality.
 
-Hi, I'm Bakunga Bronson, a passionate software engineer from Uganda. I love learning about new technologies and creating innovative solutions for real-world problems. I have experience in software development, system administration, Enterprise Resource Planning Systems (ERPs), and blockchain. Currently pursuing a Masters in Computer Science at Universiti Teknologi Malaysia. In my free time, I enjoy writing articles on my blog, sharing my knowledge with others, and also exploring and contributing to open-source projects.
+# Muhammad Anwar Ahmad
+
+## Research Interests
+- **Augmented Reality (AR)**
+- **Occlusion Handling**
+- **Depth-Based Techniques**
+- **Model-Based Methods**
+
+## Summary of Research 
+
+### **Review of Model-Based Techniques in Augmented Reality Occlusion Handling**
+- **Authors**: Muhammad Anwar Ahmad, Norhaida Mohd Suaib, Ajune Wanis Ismail
+- **Abstract**: This review focuses on model-based methods for occlusion handling. It classifies existing approaches as depth-based or model-based. The paper provides insights into the current state-of-the-art literature and challenges in this field³.
+
+## Comparison of AR Frameworks
+- **Vuforia**: Utilizes Model Target features for depth masks and occlusion handling³.
+- **Photogrammetry-Based AR**: Incorporates close-range photogrammetry for 3D reconstruction and real-time orientation tracking. Efficiently solves occlusion problems⁴.
+
+## Depth Data Extraction
+- **Structure from Motion**: A technique used for depth estimation³.
+
 
 ## Skills 🛠️
 
