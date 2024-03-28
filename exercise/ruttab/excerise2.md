@@ -42,3 +42,11 @@ gantt
     Describe gantt syntax               :after doc1, 3d
     Add gantt diagram to demo page      :20h
     Add another diagram to demo page    :48h
+''''''''''''''''''''''''''''''''''''''''
+
+
+However, if the excluded dates are between two tasks that are set to start consecutively, the excluded dates will be skipped graphically and left blank, and the following task will begin after the end of the excluded dates. As shown here
+
+A Gantt chart is useful for tracking the amount of time it would take before a project is finished, but it can also be used to graphically represent "non-working days", with a few tweaks.
+
+Mermaid can render Gantt diagrams as SVG, PNG or a MarkDown link that can be pasted into docs.
