@@ -1,6 +1,10 @@
 
-<div align="center"><img src="afrizal.jpg" width="300" /></div>
-<h1 align="center">Bakunga Bronson 👨‍💻</h1>
+<div align="center">
+  <div style="border: 2px solid #ccc; padding: 10px; border-radius: 10px;">
+    <img src="afrizal.jpg" alt="Profile Picture" style="width: 200px; height: 200px; border-radius: 50%;">
+</div>
+</div>
+<h1 align="center">Afrizal Nehemia Toscany 👨‍💻</h1>
 
 ## About Me 🚀
 <div align="center"><img src="https://github.com/drshahizan/BDM/assets/51344005/ffaa458f-d247-48f9-86f6-c4f88ebefaa5" width="600" /></div>
