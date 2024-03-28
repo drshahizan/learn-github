@@ -7,7 +7,7 @@
 
 # Student Information
 
-| No. | Name | ID | Github | Linkedin | Portfolio |
+| No. | Name | ID | Github | Linkedin | Profile |
 |-----:|-----------------------------------------|------------|:-----------------:|:-----------------------:| :-----------------------:|
 | i   | BAKUNGA BRONSON                         | BakungaBronson    | [:octocat:](https://github.com/BakungaBronson)   | <a href="https://www.linkedin.com/in/bronson-bakunga-682a581ba"><img src="../images/linkedin.png" width="24px" height="24px"></a> |<a href="BakungaBronson"><img src="../images/portfolio.png" width="24px" height="24px"></a>|
 | ii   | HAZEM TAHER OMRAN FENNEER               | HazemFenneer   | [:octocat:](https://github.com/HazemFenneer)     | <a href="https://www.linkedin.com/in/hazem-fenneer-7aa8b3219"><img src="../images/linkedin.png" width="24px" height="24px"></a>|<a href="hazemfenneer"><img src="../images/portfolio.png" width="24px" height="24px"></a>                |
