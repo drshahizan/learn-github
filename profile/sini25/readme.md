@@ -16,3 +16,8 @@
 | Nor Azizah      | 45  | Female | Nurse            | Ipoh            |
 | Adam bin Yusof | 29  | Male   | Lawyer           | Melaka          |
 | Maya binti Tan  | 33  | Female | Marketing Manager | Kuala Lumpur  |
+
+| name      | Age | City |
+|-----------|-----|------|
+| Apri      |20   | Johor|
+
