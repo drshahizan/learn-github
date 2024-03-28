@@ -6,7 +6,6 @@
 </div>
 </div>
 <h1 align="center">Afrizal Nehemia Toscany 👨‍💻</h1>
-# Afrizal Nehemia
 
 - **GitHub Profile**: afrizalnehemia
 - **Contributions**: Created 6 commits in the last year.
