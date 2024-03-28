@@ -1,3 +1,34 @@
-<div align="center"><img src="[https://github.com/drshahizan/BDM/assets/51344005/profile/mir-mansoor/pic.jpg](https://github.com/drshahizan/learn-github/blob/main/profile/mir-mansoor/pic.jpg?raw=true)" width="300" /></div>
+<div align="center"><img src="https://github.com/drshahizan/BDM/assets/51344005/profile/mir-mansoor/pic.jpg" width="300" /></div>
 <h1 align="center">Bakunga Bronson 👨‍💻</h1>
-https://github.com/drshahizan/BDM/assets/51344005/profile/mir-mansoor/pic.jpg
+
+# Mir Mansoor Ahmad
+
+👋 Hi there! I'm Mir Mansoor Ahmad, a passionate software developer and researcher. Welcome to my GitHub profile!
+
+## About Me
+Certainly! Here's a concise summary of **Mir Mansoor Ahmad's** GitHub profile:
+
+**Mir Mansoor Ahmad** is a passionate software developer and researcher. Currently, they are working on the **Systematic Literature Review (SLR) Using AI** project. This initiative aims to automate the process of conducting systematic literature reviews by leveraging artificial intelligence techniques. Mir actively contributes to open-source projects and enjoys exploring new technologies. You can connect with them on [LinkedIn](https://www.linkedin.com/in/mir-mansoor-ahmad/) or follow them on Twitter [@mir_mansoor](https://twitter.com/).
+
+Feel free to visit their GitHub profile and explore their work! 😊🚀
+
+- 🌱 I'm currently working on **Systematic Literature Review (SLR) Using AI**.
+- 🚀 I love exploring new technologies and contributing to open-source projects.
+- 📫 You can reach me via email at your.email@example.com.
+
+## Projects
+
+### Systematic Literature Review (SLR) Using AI
+
+I'm actively involved in this project, which aims to automate the process of conducting systematic literature reviews using artificial intelligence. We're leveraging cutting-edge techniques to analyze and synthesize research papers.
+
+Feel free to explore the repository: SLR-FC
+
+## Connect with Me
+
+- LinkedIn: Mir Mansoor Ahmad
+- Twitter: @mir_mansoor
+
+Thanks for visiting! Feel free to connect and collaborate. 😊
+
+
