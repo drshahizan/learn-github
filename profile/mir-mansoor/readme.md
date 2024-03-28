@@ -1,6 +1,8 @@
-<div align="center"><img src="https://github.com/drshahizan/BDM/assets/51344005/profile/mir-mansoor/pic.jpg" width="300" /></div>
+<div align="center"><img src="https://github.com/drshahizan/learn-github/blob/main/profile/mir-mansoor/pic.jpg" width="300" /></div>
 <h1 align="center">Bakunga Bronson 👨‍💻</h1>
 
+
+https://github.com/drshahizan/learn-github/blob/main/profile/mir-mansoor/pic.jpg?raw=true
 # Mir Mansoor Ahmad
 
 👋 Hi there! I'm Mir Mansoor Ahmad, a passionate software developer and researcher. Welcome to my GitHub profile!
