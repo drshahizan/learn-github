@@ -57,8 +57,9 @@
 | 44  | Ong Yin Ren                          | | | | |
 | 45  | Abid Saeed Khattak                  | | | | |
 | 46  | Abubakar Sadiq Muhammad              | | | | |
-| 47  | Syed Muhammad Junaid Hassan             | smjunaid-it | [:octocat:](https://github.com/smjunaid-it) | FC | |
+| 47  | Syed Muhammad Junaid Hassan             | smjunaid-it | [:octocat:](https://github.com/smjunaid-it) | FC | (https://github.com/drshahizan/learn-github/blob/main/profile/smjunaid-it) |
 | 48  | Muhammad Anwar Ahmad              |muhd-anwar |[:octocat:](https://github.com/muhd-anwar) | FC| |<a href="[muhd-anwar](https://github.com/drshahizan/learn-github/blob/main/profile/muhd-anwar)"><img src="../images/portfolio.png" width="24px" height="24px"></a>|
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
 
