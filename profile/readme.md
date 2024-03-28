@@ -38,7 +38,7 @@
 | 25  | Nadirah Mohamad                      | | | | |
 | 26  | Nur Fakhira Alya Binti Mohd Ashari  | | | | |
 | 27  | Nurul Nazihah Binti Jamal           | | | | |
-| 28  | Nur Amalina Zulkifli Airwan         | | | | |
+| 28  | Nur Amalina Zulkifli Airwan         | amalinazul | [:octocat:](https://github.com/amalinazul) | FKE | <a href="amalinazul"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 29  | Nuradin Mohamed Abdikadir           | | | | |
 | 30  | Nurhafiyah Hazwani Binti Haris Fadzillah | hzwaniharis | [:octocat:](https://github.com/hzwaniharis)  | FC | <a href="hzwaniharis"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 31  | Pan Tong                             | | | | |
