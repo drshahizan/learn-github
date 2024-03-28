@@ -2,6 +2,7 @@
 <div align="center"> <img src="ZHANJINGCHUN.jpg" width="300" height = "400" alt="not found ">   </div>
 
 #About Me
+
 Certainly! Here's a concise summary of the instructions for creating an impressive GitHub profile README for **ZHAN Jingchun** using Markdown:
 
 1. **Create a New Repository**: Start by creating a new public repository with your GitHub username as the repository name. Make sure to check the "Add a README file" option to create a `README.md` file.
