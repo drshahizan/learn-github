@@ -1,6 +1,6 @@
 
 <div align="center"><img src="https://github.com/drshahizan/learn-github/blob/main/profile/ruffige/YB7A5509.JPG" width="300" /></div>
-<h1 align="center">Bakunga Bronson 👨‍💻</h1>
+<h1 align="center">Marco Chin 👨‍💻</h1>
 
 ## About Me 🚀
 <div align="center"><img src="https://github.com/drshahizan/BDM/assets/51344005/ffaa458f-d247-48f9-86f6-c4f88ebefaa5" width="600" /></div>
