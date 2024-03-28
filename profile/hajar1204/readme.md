@@ -1,3 +1,9 @@
+<div align="center"><img src="Github_poster.jpeg" width="300" /></div>
+
+# [Mohd Shahizan Othman](https://github.com/drshahizan) 👨‍💻
+
+
+
 
 <div align="center"><img src="https://github.com/drshahizan/BDM/assets/51344005/25f3fada-2bf5-4711-a387-862d114cd389" width="300" /></div>
 <h1 align="center">Siti Hajar Binti Mohd Yusof 👨‍💻</h1>
