@@ -1,6 +1,8 @@
 
 # My Profile
-![Profile Picture](afrizal.jpg)
+<div style="text-align: center;">
+    <img src="afrizal.jpg" alt="Profile Picture" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);">
+</div>
 ## Introduction
 Hello, I'm Afrizal Nehemia. I am a software developer with a passion for coding and problem-solving.
 
