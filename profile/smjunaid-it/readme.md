@@ -4,24 +4,18 @@
 <h1 align="center">Syed Muhammad Junaid Hassan 👨‍💻</h1>
 
 ## About Me 🚀
-<div align="center"><img src="https://github.com/drshahizan/BDM/assets/51344005/ffaa458f-d247-48f9-86f6-c4f88ebefaa5" width="600" /></div>
-
 
 
 ## Skills 🛠️
 
 
-
-## Projects <img src="https://github.com/drshahizan/BDM/assets/51344005/9bfd8fba-9b7b-4f06-8b4e-0a44313e5baa" width="30" />
-
+## Projects
 
 
 ### Beep 🔋
 
 
-
 ## Work Experience 💼
-
 
 
 ## Education and Training 🎓
