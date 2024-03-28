@@ -4,14 +4,14 @@ You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For e
 
 ```mermaid
 sequenceDiagram
-Alice ->> Bob: Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+Yovi Pratama ->> Afrizal: Hello Afrizal, how are you?
+Afrizal-->>Apri: How about you Apri?
+Afrizal--x Yovi Pratama: I am good thanks!
+Afrizal-x Apri: I am good thanks!
+Note right of Apri: Afrizal thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
 
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
+Apri-->Yovi Pratama: Checking with Apri...
+Yovi Pratama->Apri: Yes... Apri, how are you?
 ```
 
 And this will produce a flow chart:
