@@ -13,4 +13,4 @@
     - They joined GitHub on **January 22, 2024**¹.
 
 If you'd like to explore more about Ayemowa's work or connect with them, you can visit their [GitHub profile](https://github.com/Ayemowa) or explore their academic contributions at [UTM Scholar](https://pure.utm.my/Scholar/ScholarInfoDetails/8gOG) ¹².
-
+email: ayemowaodunayo@gmail.com
