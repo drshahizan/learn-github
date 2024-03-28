@@ -19,11 +19,11 @@ Certainly! Let's create a markdown profile for **Muhammad Anwar Ahmad**. Below, 
 - **Authors**: Muhammad Anwar Ahmad, Norhaida Mohd Suaib, Ajune Wanis Ismail
 - **Abstract**: This review focuses on model-based methods for occlusion handling. It classifies existing approaches as depth-based or model-based. The paper provides insights into the current state-of-the-art literature and challenges in this field³.
 
-## Comparison of AR Frameworks
+### Comparison of AR Frameworks
 - **Vuforia**: Utilizes Model Target features for depth masks and occlusion handling³.
 - **Photogrammetry-Based AR**: Incorporates close-range photogrammetry for 3D reconstruction and real-time orientation tracking. Efficiently solves occlusion problems⁴.
 
-## Depth Data Extraction
+### Depth Data Extraction
 - **Structure from Motion**: A technique used for depth estimation³.
 
 
