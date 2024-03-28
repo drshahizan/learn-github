@@ -1,6 +1,13 @@
 <div align="center"><img src="https://github.com/drshahizan/learn-github/blob/main/profile/mir-mansoor/pic.jpg" width="300" /></div>
-[Mir Mansoor Ahmad] (https://github.com/mir-mansoor) 
 
+[**Mir Mansoor Ahmad**](https://github.com/mir-mansoor)
+
+Feel free to explore and connect! 😊🚀
+
+Source: Conversation with Bing, 28/03/2024
+(1) mir-mansoor (Mir Mansoor Ahmad) · GitHub. https://github.com/mir-mansoor.
+(2) Mirmansoorahmed (Mir Mansoor Ahmed) · GitHub. https://github.com/Mirmansoorahmed.
+(3) Creating an Engaging GitHub Profile: A Step-by-Step Guide. https://dev.to/zanepearton/creating-an-engaging-github-profile-a-step-by-step-guide-4hfl.
 
 
 # Mir Mansoor Ahmad
