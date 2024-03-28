@@ -2,7 +2,7 @@
 <h1 align="center">Mir Mansoor Ahmad 👨‍💻</h1>
 
 
-https://github.com/drshahizan/learn-github/blob/main/profile/mir-mansoor/pic.jpg?raw=true
+
 # Mir Mansoor Ahmad
 
 👋 Hi there! I'm Mir Mansoor Ahmad, a passionate software developer and researcher. Welcome to my GitHub profile!
