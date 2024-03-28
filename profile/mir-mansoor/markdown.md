@@ -1,4 +1,4 @@
-#Kashmir People Data
+# Kashmir People Data
 | **Name**       | **Gender** | **Date of Birth** | **Occupation**      | **Email**                  | **Phone**       |
 |----------------|------------|-------------------|---------------------|----------------------------|-----------------|
 | Amina Shah     | Female     | January 15, 1985 | Teacher             | amina.shah@example.com     | +91 9876543210  |
