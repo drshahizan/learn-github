@@ -1,8 +1,7 @@
 <div align="center"><img src="https://github.com/drshahizan/learn-github/blob/58085070cec37886e342d361f69339bd6835f5bc/profile/yovipratama/prof.jpeg" width="300" /></div>
 <h1 align="center">Yovi Pratama 👨‍💻</h1>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/huKDsuDr1Iw?si=R9x5v6jqxxrB6jL9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## About Me 🚀
-<div align="center"><img src="https://github.com/drshahizan/learn-github/blob/58085070cec37886e342d361f69339bd6835f5bc/profile/yovipratama/prof.jpeg" width="600" /></div>
 
 Hi, I'm Yovi Pratama, a passionate software engineer from Indonesia. I love learning about new technologies and creating innovative solutions for real-world problems. I have experience in software development, system administration, Enterprise Resource Planning Systems (ERPs), and blockchain. Currently pursuing a Masters in Computer Science at Universiti Teknologi Malaysia. In my free time, I enjoy writing articles on my blog, sharing my knowledge with others, and also exploring and contributing to open-source projects.
 
