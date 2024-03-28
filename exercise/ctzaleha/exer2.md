@@ -23,11 +23,7 @@ S --> C(Round Rect)
 Z --> D{Rhombus}
 C --> D
 ```
-User Journey Diagram
-User journeys describe at a high level of detail exactly what steps different users take to complete a specific task within a system, application or website. This technique shows the current (as-is) user workflow, and reveals areas of improvement for the to-be workflow. (Wikipedia)
-
-Mermaid can render user journey diagrams:
-
+```mermaid
 journey
     title My working day
     section Go to work
@@ -37,3 +33,5 @@ journey
     section Go home
       Go downstairs: 5: Me
       Sit down: 5: Me
+```
+
