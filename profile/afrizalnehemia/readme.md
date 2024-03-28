@@ -1,8 +1,9 @@
 
 <div align="center">
   
+   <div style="border: 2px solid #ccc; padding: 10px; border-radius: 10px;">
     <img src="afrizal.jpg" alt="Profile Picture" style="width: 200px; height: 250px; border-radius: 50%;">
-
+</div>
 </div>
 <h1 align="center">Afrizal Nehemia Toscany 👨‍💻</h1>
 
