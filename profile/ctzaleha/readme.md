@@ -1,3 +1,5 @@
+![Profile Picture](profile/ctzaleha/ctzaleha.jpg)
+
 # Siti Zaleha Binti Harun
 [Siti Zaleha Binti Harun](https://github.com/ctzaleha)
 
