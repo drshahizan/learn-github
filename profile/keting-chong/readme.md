@@ -70,7 +70,7 @@ Source: Conversation with Bing, 28/03/2024
 If you want to get in touch with me, you can reach me through any of the following channels:
 
 - Email: keting.chong0610@gmail.com ✉️
-- LinkedIn: [Bakunga Bronson](https://www.linkedin.com/in/bronson-bakunga-682a581ba/) 💼
-- GitHub: [BakungaBronson](https://github.com/BakungaBronson) 🐱
+- LinkedIn: [KeTing](https://github.com/keting-chong) 💼
+- GitHub: [KeTing](https://github.com/keting-chong) 🐱
 
 
