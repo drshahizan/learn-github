@@ -1,5 +1,5 @@
 
-<div align="center"><img src="https://github.com/drshahizan/" width="300" /></div>
+<div align="center"><img src="https://github.com/drshahizan/learn-github/profile/nnazihah27/nurul.jpeg" width="300" /></div>
 <h1 align="center">Nurul Nazihah Jamal 👨‍💻</h1>
 
 ## About Me 🚀
