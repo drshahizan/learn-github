@@ -1,7 +1,7 @@
 ### This in an example file 
 
 [Passport%2045%2035%20white.jpg](https://github.com/drshahizan/learn-github/blob/main/exercise/csmharis1/Passport%2045%2035%20white.jpg)
-<div align="center"><img src="" ></div>
+<div align="center"><img src="https://github.com/drshahizan/learn-github/blob/main/exercise/csmharis1/Passport%2045%2035%20white.jpg" ></div>
 
 
 
