@@ -1,6 +1,6 @@
 
 <div align="center"><img src="hazwani.jpg" height="300" /></div>
-<h1 align="center">Hazwani Haris 🌸</h1>
+<h1 align="center"> [Hazwani Haris](https://github.com/hzwaniharis) 🌸</h1>
 
 ## About Me 🚀
 
