@@ -2,8 +2,6 @@
 
 # [Yovi Pratama](https://github.com/yovipratama/) 👨‍💻
 
-# Yovi Pratama
-
 ## Education
 - School of Electrical Engineering and Informatics, Bandung Institute of Technology, INDONESIA[^1^][1]
 
