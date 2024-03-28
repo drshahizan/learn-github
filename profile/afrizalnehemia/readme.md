@@ -6,7 +6,19 @@
 </div>
 </div>
 <h1 align="center">Afrizal Nehemia Toscany 👨‍💻</h1>
+# Afrizal Nehemia
 
+- **GitHub Profile**: afrizalnehemia
+- **Contributions**: Created 6 commits in the last year.
+- **Repositories**:
+    - learn-github: A step-by-step guide to getting started with Git and GitHub for beginners.
+    - awesome-python: A curated list of awesome Python libraries, frameworks, and resources.
+    - web-dev-resources: A collection of useful web development resources and tools.
+    - data-science-playground: Exploring data science concepts and techniques.
+    - portfolio-website: My personal portfolio website showcasing my projects and skills.
+    - code-snippets: Handy code snippets for various programming languages.
+
+Feel free to explore these repositories and learn more about Afrizal's work! 🚀
 ## About Me 🚀
 <div align="center"><img src="https://github.com/drshahizan/BDM/assets/51344005/ffaa458f-d247-48f9-86f6-c4f88ebefaa5" width="600" /></div>
 
