@@ -1,5 +1,5 @@
 
-<div align="center"><img src="https://github.com/drshahizan/BDM/assets/profile/hajar1204/siti hajar.jpg" width="300" /></div>
+<div align="center"><img src="https://github.com/drshahizan/profile/hajar1204/siti hajar.jpg" width="300" /></div>
 <h1 align="center">Siti Hajar Binti Mohd Yusof 👨‍💻</h1>
 
 ## About Me 🚀
