@@ -4,7 +4,7 @@
 [Siti Zaleha Binti Harun](https://github.com/ctzaleha)
 
 ## About Me
-I am a passionate **Data Scientist** with experience in machine learning, data analysis, and statistical modeling. I love exploring data, extracting insights, and building predictive models. My skills include:
+I am a passionate **Data Scientist** and **experienced lecturer** with 8 years of teaching experience. My expertise lies in machine learning, data analysis, statistical modeling, and lecturing. I thoroughly enjoy exploring data, extracting insights, and building predictive models. My skills include::
 
 - Python (NumPy, Pandas, Scikit-learn)
 - SQL
