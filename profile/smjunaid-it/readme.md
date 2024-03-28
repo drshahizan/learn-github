@@ -3,27 +3,32 @@
 
 <h1 align="center">Syed Muhammad Junaid Hassan 👨‍💻</h1>
 
-## About Me 🚀
+## Overview
+I am an Assistant Professor at Balochistan University of Information Technology, Engineering and Management Sciences in Quetta, Pakistan. My primary areas of specialization include Software Engineering, Software Testing, and Software Security.
 
+## Education
+Ph.D. in Computer Science: I completed my doctoral studies in Computer Science, focusing on software quality and testing methodologies.
+M.Sc. in Computer Science: I obtained my master’s degree in Computer Science from a reputable institution.
+Research Interests
 
-## Skills 🛠️
+## My research interests span several domains within software engineering:
+History-Based Test Case Prioritization Techniques: I have conducted an exploratory study on these techniques using different datasets1.
+Software Security: Investigating ways to enhance the security of software systems.
+Software Testing: Developing effective testing strategies to ensure software quality.
 
+## Professional Experience
+Fulbright Visiting Professor: In late 2013, I had the privilege of being a Fulbright Visiting Professor at Columbia University, New York.
+Malaysia Chair of Islam in Southeast Asia: From 2017 to 2018, I held the position of Professor and Malaysia Chair of Islam in Southeast Asia at Georgetown University, USA.
 
-## Projects
+## Contact Information
+Email: syed.junaid@buitms.edu.pk
+Homepage: Balochistan University of IT, Engineering and Management Sciences
+Feel free to reach out if you have any questions or would like to collaborate on research projects!
 
-
-### Beep 🔋
-
-
-## Work Experience 💼
-
-
-## Education and Training 🎓
-
-
-
-## Blog 📝
-
+Learn more
+1. scholar.google.com
+2. profile.nus.edu.sg
+3. orcid.org
 
 ## Contact Me 📫
 
