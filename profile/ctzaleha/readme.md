@@ -1,4 +1,4 @@
-<div align="center"><img src="profile/ctzaleha" width="300" /></div>
+<div align="center"><img src="profile/ctzaleha" width="300"/></div>
 
 <h1 align="center">Bakunga Bronson 👨‍💻</h1>
 
