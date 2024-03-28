@@ -1,6 +1,6 @@
 # Hi I am *Apri Junaidi*
 
-
+'''mermaid
 journey
     title My working day
     section Go to work
@@ -10,3 +10,4 @@ journey
     section Go home
       Go downstairs: 5: Me
       Sit down: 5: Me
+'''
