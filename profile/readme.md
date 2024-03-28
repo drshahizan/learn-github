@@ -40,7 +40,7 @@
 | 27  | Nurul Nazihah Binti Jamal           | | | | |
 | 28  | Nur Amalina Zulkifli Airwan         | | | | |
 | 29  | Nuradin Mohamed Abdikadir           | | | | |
-| 30  | Nurhafiyah Hazwani Binti Haris Fadzillah |  | | | |
+| 30  | Nurhafiyah Hazwani Binti Haris Fadzillah | hzwaniharis | [:octocat:](https://github.com/hzwaniharis)  | | |
 | 31  | Pan Tong                             | | | | |
 | 32  | Pang Chee Hwa                        | | | | |
 | 33  | Rutab Marriam                        | | | | |
