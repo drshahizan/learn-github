@@ -1,8 +1,8 @@
 
+<div align="center"><img src="IMG_20240111_0001.jpg" width="300" /></div>
+<h1 align="center">[Faisal Bin Al Abid ](https://github.com/Faisal1234-hue) 👨‍💻</h1>
 
 
-<div align="center"><img src="IMG_20240111_0001.jpg" /></div>
-<h1 align="center">FAISAL BIN AL ABID  👨‍💻</h1>
 
 # Faisal Bin Al Abid
 
