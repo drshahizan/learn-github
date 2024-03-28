@@ -1,5 +1,5 @@
 <div align="center"><img src="https://github.com/drshahizan/learn-github/blob/main/profile/mir-mansoor/pic.jpg" width="300" /></div>
-<h1 align="center">Bakunga Bronson 👨‍💻</h1>
+<h1 align="center">Mir Mansoor Ahmad 👨‍💻</h1>
 
 
 https://github.com/drshahizan/learn-github/blob/main/profile/mir-mansoor/pic.jpg?raw=true
