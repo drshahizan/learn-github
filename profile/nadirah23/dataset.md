@@ -1,6 +1,5 @@
 # Malaysian people
 
-Certainly! Here are 10 dummy records about people from Malaysia presented in a Markdown table:
 
 | Name          | Age | Gender | Occupation    | City         |
 |---------------|-----|--------|---------------|--------------|
@@ -16,3 +15,4 @@ Certainly! Here are 10 dummy records about people from Malaysia presented in a M
 | Jasmine Lim   | 26  | Female | Sales Manager | Petaling Jaya|
 
 These are fictional names and details created for demonstration purposes only.
+Source: chatgpt 3.5
