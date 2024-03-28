@@ -1,6 +1,6 @@
 # Test
 
-'''mermaid
+```mermaid
 journey
     title My working day
     section Go to work
@@ -11,4 +11,4 @@ journey
       Go downstairs: 5: Me
       Sit down: 5: Me
 
-'''
+```
