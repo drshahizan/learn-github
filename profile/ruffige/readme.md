@@ -1,7 +1,7 @@
 
 <div align="center"><img src="https://github.com/drshahizan/learn-github/blob/main/profile/ruffige/YB7A5509.JPG" width="300" /></div>
 <h1 align="center">
-[Marco Chin](https://github.com/ruffige)
+Marco Chin (https://github.com/ruffige)
 
 #
 
