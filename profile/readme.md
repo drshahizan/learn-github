@@ -7,10 +7,10 @@
 
 # Student Information
 
-| No. | Name | ID | Github | Linkedin | Profile |
+| No. | Name | ID | Github | Faculty | Profile |
 |-----:|-----------------------------------------|------------|:-----------------:|:-----------------------:| :-----------------------:|
-| i   | BAKUNGA BRONSON                         | BakungaBronson    | [:octocat:](https://github.com/BakungaBronson)   | <a href="https://www.linkedin.com/in/bronson-bakunga-682a581ba"><img src="../images/linkedin.png" width="24px" height="24px"></a> |<a href="BakungaBronson"><img src="../images/portfolio.png" width="24px" height="24px"></a>|
-| ii   | HAZEM TAHER OMRAN FENNEER               | HazemFenneer   | [:octocat:](https://github.com/HazemFenneer)     | <a href="https://www.linkedin.com/in/hazem-fenneer-7aa8b3219"><img src="../images/linkedin.png" width="24px" height="24px"></a>|<a href="hazemfenneer"><img src="../images/portfolio.png" width="24px" height="24px"></a>                |
+| i   | BAKUNGA BRONSON                         | BakungaBronson    | [:octocat:](https://github.com/BakungaBronson)   | FC |<a href="BakungaBronson"><img src="../images/portfolio.png" width="24px" height="24px"></a>|
+| ii   | HAZEM TAHER OMRAN FENNEER               | HazemFenneer   | [:octocat:](https://github.com/HazemFenneer)     | FC |<a href="hazemfenneer"><img src="../images/portfolio.png" width="24px" height="24px"></a>                |
 | 1   | Abraham Olanrewaju Lawrence          | | | | |
 | 2   | Adeyemo Sarafa Olasunkanmi           | | | | |
 | 3   | Afrizal Nehemia Toscany              | | | | |
