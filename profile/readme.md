@@ -12,6 +12,7 @@
 | i   | BAKUNGA BRONSON                         | BakungaBronson    | [:octocat:](https://github.com/BakungaBronson)   | FC |<a href="BakungaBronson"><img src="../images/portfolio.png" width="24px" height="24px"></a>|
 | ii   | HAZEM TAHER OMRAN FENNEER               | HazemFenneer   | [:octocat:](https://github.com/HazemFenneer)     | FC |<a href="hazemfenneer"><img src="../images/portfolio.png" width="24px" height="24px"></a>                |
 | iii   | Abraham Olanrewaju Lawrence          | AbrahamLanre| [:octocat:](https://github.com/Abrahamlanre) | FC| <a href="Abrahamlanre"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| iv  | Syed Muhammad Junaid Hassan             | smjunaid-it | [:octocat:](https://github.com/smjunaid-it) | FC | <a href="smjunaid-it"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 2   | Adeyemo Sarafa Olasunkanmi           | | | | |
 | 3   | Afrizal Nehemia Toscany              | afrizalnehemia | [:octocat:](https://github.com/afrizalnehemia) | FC | <a href="afrizalnehemia"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 4   | Aleena Javed                         | | | | |
@@ -57,7 +58,7 @@
 | 44  | Ong Yin Ren                          | | | | |
 | 45  | Abid Saeed Khattak                  | | | | |
 | 46  | Abubakar Sadiq Muhammad              | | | | |
-| 47  | Syed Muhammad Junaid Hassan             | smjunaid-it | [:octocat:](https://github.com/smjunaid-it) | FC | <a href="smjunaid-it"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+
 | 48  | Muhammad Anwar Ahmad              |muhd-anwar |[:octocat:](https://github.com/muhd-anwar) | FC| |<a href="[muhd-anwar](https://github.com/drshahizan/learn-github/blob/main/profile/muhd-anwar)"><img src="../images/portfolio.png" width="24px" height="24px"></a>|
 
 ## Contribution 🛠️
