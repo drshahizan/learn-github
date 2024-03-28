@@ -5,7 +5,7 @@
     <img src="afrizal.jpg" alt="Profile Picture" style="width: 200px; height: 250px; border-radius: 50%;">
 </div>
 </div>
-<h1 align="center">Afrizal Nehemia Toscany 👨‍💻</h1>
+<h1 align="center" ><a href = "https://github.com/afrizalnehemia">Afrizal Nehemia Toscany </a>👨‍💻</h1>
 
 - **GitHub Profile**: afrizalnehemia
 - **Contributions**: Created 6 commits in the last year.
