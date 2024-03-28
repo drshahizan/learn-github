@@ -26,7 +26,7 @@ Homepage: Balochistan University of IT, Engineering and Management Sciences
 Feel free to reach out if you have any questions or would like to collaborate on research projects!
 
 Learn more
-1. scholar.google.com
+1. https://scholar.google.com/citations?user=sWsW1qcAAAAJscholar.google.com
 2. profile.nus.edu.sg
 3. orcid.org
 
