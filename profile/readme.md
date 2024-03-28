@@ -13,7 +13,7 @@
 | ii   | HAZEM TAHER OMRAN FENNEER               | HazemFenneer   | [:octocat:](https://github.com/HazemFenneer)     | FC |<a href="hazemfenneer"><img src="../images/portfolio.png" width="24px" height="24px"></a>                |
 | iii   | Abraham Olanrewaju Lawrence          | AbrahamLanre| [:octocat:](https://github.com/Abrahamlanre) | FC| <a href="Abrahamlanre"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 2   | Adeyemo Sarafa Olasunkanmi           | | | | |
-| 3   | Afrizal Nehemia Toscany              | | | | |
+| 3   | Afrizal Nehemia Toscany              | afrizalnehemia | [:octocat:](https://github.com/afrizalnehemia) | FC | <a href="afrizalnehemia"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 4   | Aleena Javed                         | | | | |
 | 5   | Amar Aminu Umar                      | | | | |
 | 6   | Bu Xu                                | | | | |
