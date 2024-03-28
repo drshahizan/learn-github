@@ -10,7 +10,7 @@ I am a passionate **Data Scientist** with experience in machine learning, data a
 - Statistical Analysis
 
 ## Education
-- Master's Degree in Data Science, University of Malaya
+- Ph.D's Degree in Data Science, University of Malaya
 
 ## Work Experience
 - Data Scientist at Aerodyne Group Analytics (2019 - Present)
