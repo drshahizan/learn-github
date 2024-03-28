@@ -1,6 +1,7 @@
 
 <div align="center"><img src="Github_poster.jpeg" width="300" /></div>
-<h1 align="center">[Mohd Shahizan Othman](https://github.com/drshahizan) 👨‍💻</h1>
+
+# [Mohd Shahizan Othman](https://github.com/drshahizan) 👨‍💻
 
 
 ## About Me 🚀
