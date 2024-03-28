@@ -1,3 +1,7 @@
+
+<div align="center"><img src="my pic (2)" width="300"/></div>
+<h1 align="center">[rutab]()
+
 malaysia dataset
 Farah binti Tan	22	Female	Malay	Student	Kuching
 Tan Wei Liang	37	Male	Chinese	Lawyer	Georgetown
