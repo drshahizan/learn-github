@@ -27,4 +27,4 @@
 - "A Model of Preprocessing for Social Media Data Extraction"[^2^][2]
 
 ## Contact
-- Email: yovi.pratama@students.itb.ac.id[^1^][1]
+- Email: yovi@graduate.utm.my[^1^][1]
