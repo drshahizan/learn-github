@@ -1,5 +1,5 @@
 <div align="center"><img src="https://github.com/drshahizan/learn-github/blob/main/profile/mir-mansoor/pic.jpg" width="300" /></div>
-<h1 align="center">[Mir Mansoor Ahmad]("https://github.com/mir-mansoor") 👨‍💻</h1>
+[Mir Mansoor Ahmad](https://github.com/mir-mansoor) 
 
 
 
