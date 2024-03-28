@@ -24,6 +24,7 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
+
 ````
 journey
     title My working day
