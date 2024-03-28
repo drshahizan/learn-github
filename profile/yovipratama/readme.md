@@ -1,7 +1,9 @@
 <div align="center"><img src="https://github.com/drshahizan/learn-github/blob/58085070cec37886e342d361f69339bd6835f5bc/profile/yovipratama/prof.jpeg" width="300" /></div>
 <h1 align="center">Yovi Pratama 👨‍💻</h1>
 
-[![UTM Sanjungan bangsa]](https://www.youtube.com/embed/huKDsuDr1Iw?si=R9x5v6jqxxrB6jL9)
+<video width="320" height="240" controls>
+  <source src="https://www.youtube.com/embed/huKDsuDr1Iw?si=R9x5v6jqxxrB6jL9" type="video/mp4">
+</video>
 
 # Yovi Pratama
 
