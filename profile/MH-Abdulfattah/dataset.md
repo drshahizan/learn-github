@@ -1,3 +1,5 @@
+10 dummy records about Malaysia people in a markdown table:
+
 | Name       | Age | Gender | Occupation      | City          |
 |------------|-----|--------|-----------------|---------------|
 | Ahmad      | 35  | Male   | Engineer        | Kuala Lumpur  |
