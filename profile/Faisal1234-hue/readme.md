@@ -46,6 +46,6 @@ I regularly write articles on my blog about various topics related to software e
 
 If you want to get in touch with me, you can reach me through any of the following channels:
 
-- Email: bakungabro@gmail.com ✉️
-- LinkedIn: [Bakunga Bronson](https://www.linkedin.com/in/bronson-bakunga-682a581ba/) 💼
-- GitHub: [BakungaBronson](https://github.com/BakungaBronson) 🐱
+- Email: faisaliut42@gmail.com ✉️
+- LinkedIn: 
+- GitHub: 
