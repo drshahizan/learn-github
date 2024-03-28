@@ -1,6 +1,5 @@
 # Malaysian dataset
 
-```markdown
 | Name                    | Age | Occupation           | City           | Education                              |
 |-------------------------|-----|----------------------|----------------|----------------------------------------|
 | Ahmad bin Abdullah      | 35  | Software Engineer    | Kuala Lumpur   | Bachelor's Degree in Computer Science |
@@ -13,4 +12,3 @@
 | Wong Mei Ling           | 38  | HR Manager           | Subang Jaya    | Master's Degree in Human Resource Management |
 | Muhammad bin Ibrahim    | 45  | Police Officer       | Kuala Lumpur   | Diploma in Law Enforcement            |
 | Priya a/p Maniam        | 31  | Architect            | Ipoh           | Bachelor's Degree in Architecture     |
-```
