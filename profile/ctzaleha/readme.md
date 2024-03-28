@@ -2,7 +2,7 @@
 # Siti Zaleha Binti Harun
 
 ## About Me
-I am a passionate software engineer with experience in web development and data science. I love solving complex problems and creating efficient solutions. My skills include:
+I am a passionate Data Scientist with experience in web development and data science. I love solving complex problems and creating efficient solutions. My skills include:
 
 - Python
 - JavaScript
