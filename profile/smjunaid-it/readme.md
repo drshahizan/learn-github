@@ -2,6 +2,7 @@
 <div align="center"><img src="https://github.com/drshahizan/learn-github/blob/main/profile/smjunaid-it/junaid.jpeg" width="300" /></div>
 
 <h1 align="center">Syed Muhammad Junaid Hassan </h1>
+
 [My Github](https://github.com/smjunaid-it)
 
 ## Overview
@@ -36,7 +37,7 @@ Learn more
 If you want to get in touch with me, you can reach me through any of the following channels:
 
 - Email: smjunadid.it@gmail.com ✉️
-- LinkedIn: [Bakunga Bronson]() 💼
-- GitHub: [BakungaBronson]((https://github.com/smjunaid-it)) 🐱
+- LinkedIn: [Bakunga Bronson](https://pk.linkedin.com/in/syed-muhammad-junaid-hassan-47181871?trk=people-guest_people_search-card) 💼
+- GitHub: [BakungaBronson](https://github.com/smjunaid-it) 🐱
 
 
