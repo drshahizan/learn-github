@@ -1,6 +1,3 @@
-<div align="center"><img src="profile/ctzaleha" width="300"/></div>
-
-<h1 align="center">Bakunga Bronson 👨‍💻</h1>
 
 # Create a markdown content for the profile
 markdown_content = """
