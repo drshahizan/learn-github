@@ -2,7 +2,7 @@
 
 # [Yovi Pratama](https://github.com/yovipratama/) 👨‍💻
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/huKDsuDr1Iw?si=R9x5v6jqxxrB6jL9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/huKDsuDr1Iw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Education
 - Faculty of Computing, University Teknologi Malaysia
