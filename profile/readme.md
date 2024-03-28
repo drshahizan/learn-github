@@ -52,7 +52,7 @@
 | 39  | Tafa Taofik Olasunkanmi             | | | | |
 | 40  | Wisal Khan                           | | | | |
 | 41  | Woli Taiye Olayinka                 | | | | |
-| 42  | Yovi Pratama                         | | | | |
+| 42  | Yovi Pratama                         | Yovi Pratama    | [:octocat:](https://github.com/yovipratama)   | FC |<a href="https://www.linkedin.com/in/yovipratama"><img src="../images/portfolio.png" width="24px" height="24px"></a>|
 | 43  | Yunusa Adamu Bena                    | | | | |
 | 44  | Ong Yin Ren                          | | | | |
 | 45  | Abid Saeed Khattak                  | | | | |
