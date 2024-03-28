@@ -1,5 +1,5 @@
 
-<div align="center"><img src="profile/keting-chong/1. ChongKeTing_Presiden.png" width="300" /></div>
+<div align="center"><img src="[profile/keting-chong/1. ChongKeTing_Presiden.png](https://github.com/drshahizan/learn-github/blob/main/profile/keting-chong/1.%20ChongKeTing_Presiden.png)" width="300" /></div>
 <h1 align="center">Bakunga Bronson 👨‍💻</h1>
 
 ## About Me 🚀
