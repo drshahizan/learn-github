@@ -1,5 +1,5 @@
 
-<div align="center"><img src="hazwani.jpg" width="300" /></div>
+<div align="center"><img src="hazwani.jpg" height="300" /></div>
 <h1 align="center">Hazwani Haris 🌸</h1>
 
 ## About Me 🚀
