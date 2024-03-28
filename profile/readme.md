@@ -11,7 +11,7 @@
 |-----:|-----------------------------------------|------------|:-----------------:|:-----------------------:| :-----------------------:|
 | i   | BAKUNGA BRONSON                         | BakungaBronson    | [:octocat:](https://github.com/BakungaBronson)   | FC |<a href="BakungaBronson"><img src="../images/portfolio.png" width="24px" height="24px"></a>|
 | ii   | HAZEM TAHER OMRAN FENNEER               | HazemFenneer   | [:octocat:](https://github.com/HazemFenneer)     | FC |<a href="hazemfenneer"><img src="../images/portfolio.png" width="24px" height="24px"></a>                |
-| 1   | Abraham Olanrewaju Lawrence          | AbrahamLanre| [:octocat:](https://github.com/Abrahamlanre) | FC| <a href="Abrahamlanre"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| iii   | Abraham Olanrewaju Lawrence          | AbrahamLanre| [:octocat:](https://github.com/Abrahamlanre) | FC| <a href="Abrahamlanre"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 2   | Adeyemo Sarafa Olasunkanmi           | | | | |
 | 3   | Afrizal Nehemia Toscany              | | | | |
 | 4   | Aleena Javed                         | | | | |
