@@ -10,8 +10,8 @@
 
 ## Personal Information
 
-**Location:** City, Country  
-**Email:** [Email Address](mailto:email@example.com)  
+**Location:** Malaysia, Johor Bahru  
+**Email:** faisaliut42@gmail.com  
 **LinkedIn:** [LinkedIn Profile](LinkedIn_URL)  
 **GitHub:** [GitHub Profile](GitHub_URL)
 
@@ -19,7 +19,7 @@
 
 A brief summary about Faisal Bin Al Abid. This could include professional interests, career goals, and a bit about personal background.
 
-## Experience
+## Experience : 5 years teachng experinece 
 
 ### Job Position 1
 **Company Name** - Location  
