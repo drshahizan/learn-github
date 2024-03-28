@@ -6,17 +6,18 @@
 [My Github](https://github.com/smjunaid-it)
 
 ## Overview
-I am an Assistant Professor at Balochistan University of Information Technology, Engineering and Management Sciences in Quetta, Pakistan. My primary areas of specialization include Software Engineering, Software Testing, and Software Security.
+I am an Assistant Professor at Balochistan University of Information Technology, Engineering and Management Sciences in Quetta, Pakistan.<br>
+My primary areas of specialization include Software Engineering, Software Testing, and Software Security.
 
 ## Education
-Ph.D. in Computer Science: I completed my doctoral studies in Computer Science, focusing on software quality and testing methodologies.
+Ph.D. in Computer Science: I completed my doctoral studies in Computer Science, focusing on software quality and testing methodologies.<br>
 M.Sc. in Computer Science: I obtained my master’s degree in Computer Science from a reputable institution.
-Research Interests
 
-## My research interests span several domains within software engineering:
-History-Based Test Case Prioritization Techniques: I have conducted an exploratory study on these techniques using different datasets1.
-Software Security: Investigating ways to enhance the security of software systems.
-Software Testing: Developing effective testing strategies to ensure software quality.
+## Research Interests
+My research interests span several domains within software engineering:<br>
+History-Based Test Case Prioritization Techniques: I have conducted an exploratory study on these techniques using different datasets1.<br>
+Software Security: Investigating ways to enhance the security of software systems.<br>
+Software Testing: Developing effective testing strategies to ensure software quality.<br>
 
 ## Professional Experience
 Fulbright Visiting Professor: In late 2013, I had the privilege of being a Fulbright Visiting Professor at Columbia University, New York.
