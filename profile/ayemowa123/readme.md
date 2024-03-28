@@ -5,7 +5,7 @@
 1. **GitHub Profile**: Ayemowa has a GitHub profile where they have recently joined. While they don't have any public repositories yet, it's possible that they are actively working on projects or contributing to others¹.
 
 2. **Academic Publications**:
-    - In a publication titled "Friendship Prediction in Social Networks Using Developed Extreme Learning Machine With Kernel Reduction and Probabilistic Calculation," Ayemowa is listed as the first author. The paper was presented at the **Fifth International Conference on Soft Computing and Data Mining (SCDM 2022)**².
+    - In a publication titled "Window-Based Congestion Control, Recommender System using Generative AI, Deep Learning Cross Domain Recommender System" Ayemowa is listed as the first author. The paper was presented at the **Fifth International Conference on Soft Computing and Data Mining (SCDM 2022)**².
     - Ayemowa has also contributed to publications indexed in **Scopus**².
 
 3. **Other Contributions**:
