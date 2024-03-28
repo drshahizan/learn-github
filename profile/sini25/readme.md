@@ -5,6 +5,22 @@
 
 # [DIVYASINI A.KONASEGAR](https://github.com/sini25) 👨‍💻
 
+
+## About Me 🚀
+Certainly! Here's a brief profile of **Mohd Shahizan Othman**:
+
+- **Name**: Divyaisni A.Konasegar
+- **Title**: Student
+- **Department**: Faculty of Computing, Universiti Teknologi Malaysia
+- **Research Interests**:
+    - Information Retrieval and Extraction
+    - Data Mining
+    - Machine Learning
+    - Social and E-Learning
+    - Business Intelligence
+
+
+
 | Name           | Age | Gender | Occupation       | City            |
 |----------------|-----|--------|------------------|-----------------|
 | Ahmad bin Ali  | 35  | Male   | Engineer         | Kuala Lumpur    |
