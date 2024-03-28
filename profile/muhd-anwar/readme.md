@@ -26,10 +26,8 @@
 
 ## Skills 🛠️
 
-- Programming languages: Python, JavaScript, PHP, C, Rust (Learning)
-- Web frameworks: React, Astro, Frappe
-- Blockchain platforms: Bitcoin
-- Cloud services: Oracle Cloud
+- Programming languages: C++, C#, HTML, PHP
+- Development: Unity
 - Other tools: Git, Docker, LXD
 
 ## Projects <img src="https://github.com/drshahizan/BDM/assets/51344005/9bfd8fba-9b7b-4f06-8b4e-0a44313e5baa" width="30" />
