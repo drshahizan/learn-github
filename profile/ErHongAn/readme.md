@@ -5,6 +5,18 @@
 ## About Me 🚀
 <div align="center"><img src="https://github.com/drshahizan/BDM/assets/51344005/ffaa458f-d247-48f9-86f6-c4f88ebefaa5" width="600" /></div>
 
+# Er Hong An's Profile
+
+- **Name**: *Er Hong An*
+- **Location**: *Kulai, Johore, Malaysia*
+- **Occupation**: *Software Engineer*
+- **Interests**:
+  - *Coding*
+  - *Reading*
+  - *Hiking*
+  - *Cooking*
+
+Feel free to add more details or customize your profile as needed! 😊
 Hi, I'm Bakunga Bronson, a passionate software engineer from Uganda. I love learning about new technologies and creating innovative solutions for real-world problems. I have experience in software development, system administration, Enterprise Resource Planning Systems (ERPs), and blockchain. Currently pursuing a Masters in Computer Science at Universiti Teknologi Malaysia. In my free time, I enjoy writing articles on my blog, sharing my knowledge with others, and also exploring and contributing to open-source projects.
 
 ## Skills 🛠️
