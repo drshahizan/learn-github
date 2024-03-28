@@ -44,15 +44,14 @@ Replace `your-linkedin-URL` and `your-twitter-URL` with your actual profile link
 Feel free to customize your profile further by adding information about your projects, skills, and contributions. Good luck, **ZHAN Jingchun**! 🚀🌟
 
 ---
-*References*:
-1. [Elevate Your GitHub Profile with a Stunning README](https://medium.com/@shekhartarare/elevate-your-github-profile-with-a-stunning-readme-3a2d1f95dc7e)
-2. [How to display readme.md file on profile in Github?](https://stackoverflow.com/questions/62916354/how-to-display-readme-md-file-on-profile-in-github)
-3. [How to Create a Github Profile README Using Markdown](https://careerkarma.com/blog/github-profile-readme/)
+Certainly! Here's a concise summary of the instructions for creating an impressive GitHub profile README for **ZHAN Jingchun** using Markdown:
 
-Source: Conversation with Bing, 3/28/2024
-(1) Elevate Your GitHub Profile with a Stunning README - Medium. https://medium.com/@shekhartarare/elevate-your-github-profile-with-a-stunning-readme-3a2d1f95dc7e.
-(2) markdown - How to display readme.md file on profile in Github? - Stack .... https://stackoverflow.com/questions/62916354/how-to-display-readme-md-file-on-profile-in-github.
-(3) How to Create a Github Profile README Using Markdown. https://careerkarma.com/blog/github-profile-readme/.
-(4) undefined. https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif.
-(5) undefined. https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white.
-(6) undefined. https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white.
+1. **Create a New Repository**: Start by creating a new public repository with your GitHub username as the repository name. Make sure to check the "Add a README file" option to create a `README.md` file.
+
+2. **Eye-Catching Header**: Add an eye-catching header section to your profile. You can include an animated GIF or image that represents your personality or skills.
+
+3. **Social Network Badges**: Use Shields.io to generate customized badges for LinkedIn, Twitter, and other social networks. These badges will link to your profiles.
+
+Remember to customize your profile further by adding information about your projects, skills, and contributions. Good luck with your GitHub profile, **ZHAN Jingchun**! 🚀🌟
+
+---
