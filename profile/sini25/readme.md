@@ -1,7 +1,8 @@
 
 
 <div align="center"><img src="divya.jpeg" width="300" /></div>
-<h1 align="center">DIVYASINI A.KONASEGAR</h1>
+<h1 align="center">DIVYASINI A.KONASEGAR (https://github.com/sini25)</h1>
+
 
 
 | Name           | Age | Gender | Occupation       | City            |
