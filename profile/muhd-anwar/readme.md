@@ -1,6 +1,7 @@
 
 <div align="center"><img src="PhotoStudent.jpg" width="300" /></div>
-<h1 align="center">Muhammad Anwar Ahmad 👨‍💻</h1>
+
+# [Muhammad Anwar Ahmad](https://github.com/muhd-anwar) 👨‍💻
 
 ## About Me 🚀
 
