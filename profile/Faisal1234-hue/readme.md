@@ -2,7 +2,7 @@
 
 
 <div align="center"><img src="IMG_20240111_0001.jpg" /></div>
-<h1 align="center">Bakunga Bronson 👨‍💻</h1>
+<h1 align="center">FAISAL BIN AL ABID  👨‍💻</h1>
 
 ## About Me 🚀
 <div align="center"><img src="https://github.com/drshahizan/BDM/assets/51344005/ffaa458f-d247-48f9-86f6-c4f88ebefaa5" width="600" /></div>
