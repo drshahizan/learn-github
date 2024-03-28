@@ -25,3 +25,13 @@ journey
       Go downstairs: 5: Me
       Sit down: 5: Me
 ```
+
+
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
