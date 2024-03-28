@@ -1,5 +1,5 @@
 
-<div align="center"><img src="h[ttps://github.com/drshahizan/BDM/assets/51344005/25f3fada-2bf5-4711-a387-862d114cd389](https://github.com/drshahizan/learn-github/blob/main/profile/hzwaniharis/hazwani.jpg)" width="300" /></div>
+<div align="center"><img src="hazwani.jpg" width="300" /></div>
 <h1 align="center">Hazwani Haris 👨‍💻</h1>
 
 ## About Me 🚀
