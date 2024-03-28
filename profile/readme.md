@@ -12,12 +12,12 @@
 | i   | BAKUNGA BRONSON                         | BakungaBronson    | [:octocat:](https://github.com/BakungaBronson)   | <a href="https://www.linkedin.com/in/bronson-bakunga-682a581ba"><img src="../images/linkedin.png" width="24px" height="24px"></a> |<a href="BakungaBronson"><img src="../images/portfolio.png" width="24px" height="24px"></a>|
 | ii   | HAZEM TAHER OMRAN FENNEER               | HazemFenneer   | [:octocat:](https://github.com/HazemFenneer)     | <a href="https://www.linkedin.com/in/hazem-fenneer-7aa8b3219"><img src="../images/linkedin.png" width="24px" height="24px"></a>|<a href="hazemfenneer"><img src="../images/portfolio.png" width="24px" height="24px"></a>                |
 | 1   | Abraham Olanrewaju Lawrence          | | | | |
-| 2   | Adeyemo Sarafa Olasunkanmi           | | | |                                                                                               |
-| 3   | Afrizal Nehemia Toscany              |          |                                          |                                                                                                |                                                                                               |
-| 4   | Aleena Javed                         |          |                                          |                                                                                                |                                                                                               |
-| 5   | Amar Aminu Umar                      |          |                                          |                                                                                                |                                                                                               |
-| 6   | Bu Xu                                |          |                                          |                                                                                                |                                                                                               |
-| 7   | Chong Ke Ting                        |          |                                          |                                                                                                |                                                                                               |
+| 2   | Adeyemo Sarafa Olasunkanmi           | | | | |
+| 3   | Afrizal Nehemia Toscany              | | | | |
+| 4   | Aleena Javed                         | | | | |
+| 5   | Amar Aminu Umar                      | | | | |
+| 6   | Bu Xu                                | | | | |
+| 7   | Chong Ke Ting                        | | | | |
 | 8   | Cui Cui                              |          |                                          |                                                                                                |                                                                                               |
 | 9   | Divyasini A. Konasegar               |          |                                          |                                                                                                |                                                                                               |
 | 10  | Er Hong An                           |          |                                          |                                                                                                |                                                                                               |
@@ -65,6 +65,3 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
-
-
