@@ -1,4 +1,4 @@
-#Malaysian People
+Malaysian People
 | Name          | Age | Gender | Occupation      | Ethnicity  | City         |
 |---------------|-----|--------|-----------------|------------|--------------|
 | Amirah Lee    | 28  | Female | Software Engineer | Malay      | Kuala Lumpur |
