@@ -116,3 +116,6 @@ Citations:
 [3] https://www.cmu.edu/dietrich/statistics-datascience/research/index.html
 [4] https://www.cs.washington.edu/research/bigdata
 [5] https://www.springernature.com/gp/researchers/the-source/blog/blogposts-communicating-research/data-science-and-engineering-challenges-and-opportunities/24602518
+
+# Materials 
+https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_research.md
