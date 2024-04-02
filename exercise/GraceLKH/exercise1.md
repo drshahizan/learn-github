@@ -1,4 +1,4 @@
-Hello, I'm Grace, a newbie in ***Python***.
+Hello, I'm Grace, a newbie in ***Python***. I'm using https://stackedit.io/app# to execute below functions.
 
 The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
 
