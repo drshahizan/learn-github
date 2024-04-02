@@ -120,3 +120,8 @@ Citations:
 
 # Materials 
 https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_research.md
+https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md
+
+Portrait a detailed depiction of a Malaysian dancer performing a traditional dance, adorned in elaborate costume and accessories, capturing the grace and beauty of the performance.
+
+
