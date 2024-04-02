@@ -28,6 +28,7 @@ https://chat.openai.com/
 These articles cover a range of topics in Data Science, from the impact of data quality on machine learning models to ethical considerations in AI and Data Science.
 
 # Microsoft CoPilot
+https://www.bing.com/search?q=recent%20data%20science%20book%20titles&qs=ds&form=CONVAJ
 
 | **Article Title** | **Source** |
 |-------------------|------------|
