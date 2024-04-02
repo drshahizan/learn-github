@@ -1,5 +1,6 @@
 #ChatGPT
 
+
 | Title                                                     | Publication           | Date       |
 |-----------------------------------------------------------|-----------------------|------------|
 | "The Future of Data Science"                              | Harvard Business Review | March 15, 2024 |
