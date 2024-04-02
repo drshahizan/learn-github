@@ -1,4 +1,4 @@
-Get from ChatGPT
+# ChatGPT
 
 Certainly! Here's a description of data science in Markdown format:
 
