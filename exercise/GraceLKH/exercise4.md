@@ -1,4 +1,5 @@
-# ChatGPT
+# ChatGPT 
+https://chat.openai.com/
 
 Since I can't provide real-time data, I can't generate a table of recent articles. However, you can find recent articles related to data science by visiting reputable websites and platforms such as:
 
@@ -14,6 +15,7 @@ By exploring these platforms, you can find recent articles and stay updated on t
 
 
 # ChatGPT
+https://chat.openai.com/
 
 | Title                                                     | Publication      | Date       |
 |-----------------------------------------------------------|------------------|------------|
@@ -83,6 +85,8 @@ Source: Conversation with Bing, 02/04/2024
 (19) undefined. https://ml.azure.com.
 
 # Gemini
+https://gemini.google.com/u/1/app
+
 1. **Leveraging the Power of Big Data: Unveiling New Opportunities in 2024** (Focuses on current applications)
 2. **The Evolving Landscape of Data Science: Emerging Trends and Techniques** (Highlights the dynamic nature of the field)
 3. **Beyond Algorithms: The Critical Role of Domain Expertise in Data Science Projects** (Emphasizes the importance of specific knowledge)
@@ -90,6 +94,7 @@ Source: Conversation with Bing, 02/04/2024
 5. **Mitigating Bias in AI: A Data-Centric Approach to Fairness and Transparency** (Focuses on a current ethical concern)
 
 # Perplexity
+https://www.perplexity.ai/
 
 Research in Data Science encompasses a wide range of evolving topics and challenges that drive advancements in the field. Some key areas of interest include:
 
