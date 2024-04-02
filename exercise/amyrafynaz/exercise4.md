@@ -1,4 +1,4 @@
-#ChatGPT
+# ChatGPT
 
 | Title                                                                                                    | Publication      | Date       |
 |----------------------------------------------------------------------------------------------------------|------------------|------------|
@@ -9,7 +9,7 @@
 | "A Comprehensive Survey of Anomaly Detection Techniques in Time-Series Data"                               | Journal of Big Data | January 2024 |
 
 
-#Gemini
+# Gemini
 
 
 1. Advanced Analytics with Spark (2023) by Sandy Rybka: This recently published text explores Apache Spark, a powerful framework for distributed large-scale data processing. It caters to data scientists seeking to tackle complex big data problems efficiently.
