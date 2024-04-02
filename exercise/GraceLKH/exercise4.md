@@ -1,4 +1,4 @@
-Get from ChatGPT
+# ChatGPT
 
 Since I can't provide real-time data, I can't generate a table of recent articles. However, you can find recent articles related to data science by visiting reputable websites and platforms such as:
 
@@ -81,3 +81,10 @@ Source: Conversation with Bing, 02/04/2024
 (17) Understanding Data Science Job Titles - AIgents. https://aigents.co/data-science-blog/career-blog/understanding-data-science-job-titles.
 (18) Top 10 Data Science Roles to Look Out for in 2024 - Turing. https://www.turing.com/kb/data-science-job-roles.
 (19) undefined. https://ml.azure.com.
+
+# Gemini
+1. **Leveraging the Power of Big Data: Unveiling New Opportunities in 2024** (Focuses on current applications)
+2. **The Evolving Landscape of Data Science: Emerging Trends and Techniques** (Highlights the dynamic nature of the field)
+3. **Beyond Algorithms: The Critical Role of Domain Expertise in Data Science Projects** (Emphasizes the importance of specific knowledge)
+4. **Democratizing Data Science: Accessible Tools and Strategies for All Skill Levels** (Highlights inclusivity and wider applicability)
+5. **Mitigating Bias in AI: A Data-Centric Approach to Fairness and Transparency** (Focuses on a current ethical concern)
