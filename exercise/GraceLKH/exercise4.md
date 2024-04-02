@@ -124,4 +124,5 @@ https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawi
 
 Portrait a detailed depiction of a Malaysian dancer performing a traditional dance, adorned in elaborate costume and accessories, capturing the grace and beauty of the performance.
 
+![image](https://github.com/drshahizan/learn-github/assets/165741197/10b39dff-323e-46bc-936c-2059010dcf43)
 
