@@ -1,1 +1,1 @@
-
+I'm a Lecturer at  [Universiti Teknologi Malaysia (UTM)](https://www.utm.my/)  **passionate** *about* ~~education~~ and fostering a love for software development. I'm constantly seeking opportunities to learn and contribute to the open-source community. Here's what I'm up to on GitHub:
