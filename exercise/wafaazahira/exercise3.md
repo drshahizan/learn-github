@@ -28,3 +28,25 @@ These projects can help you build a strong portfolio and gain practical experien
 
 Source: Conversation with Bing, 02/04/2024
 (1) en.wikipedia.org. https://en.wikipedia.org/wiki/Data_science.
+
+# Gemini
+
+I can definitely suggest some data science projects for university students! Here are five ideas with varying difficulty levels:
+
+**Beginner:**
+
+1.  **Movie Recommendation System:** This classic project allows you to explore data about movies (like ratings, genres, directors) and build a model to recommend movies to users based on their preferences. You can find public datasets of movies online and use libraries like Pandas and scikit-learn in Python.
+
+2.  **Social Media Sentiment Analysis:**  Analyze social media data (like tweets) to understand public opinion on a particular topic. You can build a model to classify tweets as positive, negative, or neutral. This project involves data cleaning, text processing techniques from Natural Language Processing (NLP), and basic machine learning algorithms.
+
+**Intermediate:**
+
+3.  **Fake News Detection:**  This is a hot topic with real-world applications. You can build a model to classify news articles as real or fake based on features like writing style, source credibility, and content analysis. This project involves advanced NLP techniques and deep learning models.
+
+4.  **Image Classification:**  Train a model to classify images into different categories (e.g., cats vs. dogs, different types of clothing). You can use public datasets of images like MNIST and explore convolutional neural networks (CNNs) for image recognition. 
+
+**Advanced:**
+
+5.  **Time Series Forecasting:**  This project involves analyzing data that changes over time (e.g., stock prices, weather patterns). You can build a model to predict future values in the time series. This project  requires a good understanding of time series analysis techniques like ARIMA models or recurrent neural networks (RNNs) like LSTMs.
+
+These are just a few ideas to get you started. Remember to choose a project that aligns with your interests and skill level. There are many resources available online to help you with each project, including tutorials, datasets, and code examples.
