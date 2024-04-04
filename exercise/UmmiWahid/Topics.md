@@ -44,8 +44,29 @@ The quantitative methodology is because a lot of research uses qualitative metho
 1. Bank Negara Malaysia (BNM)'s Financial Stability and Payment Systems Report.
 The data have several components, including the GDP, cash in circulation, checks, and electronic payments, which are included in the statistics. Internet banking, mobile banking, rapid transfer, and electronic money (e-money) are all examples of e-payment tools. 
 
-# OBjective:
+## Objective:
 1. What is the performance of cashless payment in Malaysia?
 2. What is the relationship between the cashless economy and economic growth in Malaysia?
 3. Which one dominates between cashless payment and cash in circulation in Malaysia?
+
+
+
+
+
+# 3. Analyze the impact of the gold price on the commodities factor.
+
+## What: 
+
+
+## Why:
+
+
+## How:
+
+
+## Data:
+
+
+## Objective:
+
 
