@@ -23,7 +23,7 @@ Artificial neural networks (ANN) and multiple linear regression are two examples
 # 2. Cashless Payment Adoption in Malaysia:  A Quantitative Approach
 
 ## What: 
-The problem statement highlights how countries compete to demonstrate technological advancement as an indicator of development, particularly focusing on how technology raises living standards and improves countries' economies. Therefore, compared to certain other nations, Malaysia is said to have a somewhat low adoption rate for cashless payment methods. In Malaysia, cash is still used for a big percentage of transactions even though there are a lot of credit and debit cards in use. Furthermore, it has been observed that Malaysia's e-wallet adoption rate is still low, which has been identified as a barrier to the country's goal of becoming a cashless society.
+This topics focus on how countries compete to demonstrate technological advancement as an indicator of development, particularly focusing on how technology raises living standards and improves countries' economies. Therefore, compared to certain other nations, Malaysia is said to have a somewhat low adoption rate for cashless payment methods. In Malaysia, cash is still used for a big percentage of transactions even though there are a lot of credit and debit cards in use. Furthermore, it has been observed that Malaysia's e-wallet adoption rate is still low, which has been identified as a barrier to the country's goal of becoming a cashless society.
 
 ## Why: 
 
