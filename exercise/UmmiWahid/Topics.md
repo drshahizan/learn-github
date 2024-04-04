@@ -36,7 +36,7 @@ The problem statement highlights how countries compete to demonstrate technologi
 4. Regulatory Environment: The rate at which cashless payment methods are adopted in Malaysia may be impacted by the necessity of strengthening national laws and policies to support electronic commerce and guarantee the security of cashless transactions.
 
 ## How:
-The quantitative methodology provides an organized and methodical way to research Malaysia's adoption of cashless payment systems and offers insightful information about the variables affecting this phenomenon.
+The quantitative methodology is because a lot of research uses qualitative methods to analyze the adoption of cashless payment. This approach also helps to provide an organized and methodical way to research Malaysia's adoption of cashless payment systems.
 
 ## Data:
 1. Bank Negara Malaysia (BNM)'s Financial Stability and Payment Systems Report.
