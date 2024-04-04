@@ -4,7 +4,7 @@
 This topic focuses on estimating how Malaysia's economy would be affected by FDI inflows by sector by forecasting future GDP movements and analyzing the relationship between various FDI industries and Malaysia's GDP. 
 
 ## Why:
-The researchers chose to focus on Foreign Direct Investment (FDI) as a component in this research because FDI is a crucial factor in a country's economic growth. It has been recognized as a significant source of external finance for both developing and developed countries. FDI is known to promote economic growth by enhancing domestic capital formation, facilitating the transfer of new technology, and providing long-term economic stability. Additionally, FDI has been found to have a positive impact on Gross Domestic Product (GDP) in various countries, making it an important variable to study in the context of economic forecasting and analysis.
+The reason to focus on Foreign Direct Investment (FDI) as a component in this research is because FDI is a strong crucial factor in a country's economic growth based on the previous articles. It has been recognized as a significant source of external finance for both developing and developed countries. FDI is known to promote economic growth by enhancing domestic capital formation, facilitating the transfer of new technology, and providing long-term economic stability. Additionally, FDI has been found to have a positive impact on Gross Domestic Product (GDP) in various countries, making it an important variable to study in the context of economic forecasting and analysis.
 
 ## How:
 Artificial neural networks (ANN) and multiple linear regression are two examples of statistical models using machine learning that will be used in this research.
