@@ -27,6 +27,11 @@ In the developer roadmap, learners are typically introduced to Git and GitHub ea
 
 As learners progress in their developer roadmap, they may dive deeper into more advanced Git and GitHub features, such as using pull requests for code reviews, integrating Git with continuous integration/continuous deployment (CI/CD) pipelines, and automating workflows using GitHub Actions.
 
+<p align="center">
+<img src="https://github.com/drshahizan/learn-github/blob/main/images/github%20pic.gif"  height="600" />
+</p>
+
+
 ## Developer Roadmaps
 [Roadmap.sh](https://roadmap.sh/) is a website that provides roadmaps for learning various topics in technology, such as programming languages, web development, data science, and more. The roadmaps are essentially step-by-step guides that outline the skills, tools, and concepts that someone should learn to become proficient in a particular area.
 
