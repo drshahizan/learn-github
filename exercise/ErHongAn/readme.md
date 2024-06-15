@@ -1,3 +1,0 @@
-# HelloWord
-# HelloWord
-# Hello word
