@@ -9,7 +9,7 @@
 
 # Learn Github 🚀
 
-adham is here
+adham is here together with alif
 Welcome to Github class! We are thrilled to embark on this exciting learning journey together. 
 
 <p align="center">
