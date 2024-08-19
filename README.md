@@ -5,7 +5,15 @@
 <a href="https://github.com/drshahizan/learn-github/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/learn-github?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Flearn-github&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-Don't forget to hit the :star: if you like this repo.
+🌟 Hit star button to save this repo in your profile
+
+# Learn Github 🚀
+
+Welcome to Github class! We are thrilled to embark on this exciting learning journey together. 
+
+<p align="center">
+<img src="images/git.gif"  height="700" />
+</p>
 
 # Github Education
 GitHub Education is a program designed to support students and educators by providing them with free access to various tools and resources to learn, teach, and collaborate on coding and technology projects. The program offers a range of benefits, including free access to GitHub Enterprise, GitHub Pro, and a host of developer tools, as well as access to various courses, webinars, and learning resources. GitHub Education aims to foster a community of learners and educators by connecting students and teachers worldwide to create innovative projects and push the boundaries of technology. [**[More info...]**](./materials/education)
@@ -20,8 +28,9 @@ In the developer roadmap, learners are typically introduced to Git and GitHub ea
 As learners progress in their developer roadmap, they may dive deeper into more advanced Git and GitHub features, such as using pull requests for code reviews, integrating Git with continuous integration/continuous deployment (CI/CD) pipelines, and automating workflows using GitHub Actions.
 
 <p align="center">
-<img src="images/Github-EN.jpg"  height="400" />
+<img src="https://github.com/drshahizan/learn-github/blob/main/images/github%20pic.gif"  height="600" />
 </p>
+
 
 ## Developer Roadmaps
 [Roadmap.sh](https://roadmap.sh/) is a website that provides roadmaps for learning various topics in technology, such as programming languages, web development, data science, and more. The roadmaps are essentially step-by-step guides that outline the skills, tools, and concepts that someone should learn to become proficient in a particular area.
@@ -84,21 +93,18 @@ GitHub profiles are a great way for developers to showcase their skills and proj
 
 | <img alt="activity status" align="right" height="24" src="images/kotak.svg" /> 😎 My students |
 |:---|
-| 1. [Qaisara](https://github.com/qaisarrra) <br> 2. [Low Junyi](https://github.com/LowJunyi2001) <br> 3. [Ahmad Aiman Hafizi bin Muhammad](https://github.com/AimanHafizi619) <br> 4. [KONG JIA ROU](https://github.com/jrkong2001utm) <br> 5. [Hong Pei Geok](https://github.com/peiyu00) <br> 6. [El Insyiraah](https://github.com/elleamyr) <br> 7. [SEPRIYANDI BIN AGUSR](https://github.com/sepz36) <br> 8. [Charlene A](https://github.com/Chikoness) <br> 9. [Neo Zheng Weng](https://github.com/zw-weng) <br> 10. [Wan Nur Sofea](https://github.com/wannursofea)<br> 11. [Camily Tang](https://github.com/camilytang)<br> 12. [Ng Shu Yu](https://github.com/ShuYu03) |
+| 1. [Big Data Management](https://github.com/drshahizan/BDM/blob/main/student.md) <br> 2. [High Performance Data Processing](https://github.com/drshahizan/HPDP/blob/main/student.md) <br> 3. [Web Programming](https://github.com/drshahizan/learn-php/blob/main/materials/others/student-info.md) <br> 4. [Software Engineering - section 01](https://github.com/drshahizan/software-engineering/blob/main/materials/student-01.md) <br> 5. [Software Engineering - section 02](https://github.com/drshahizan/software-engineering/blob/main/materials/student-02.md) <br> 6. [Qaisara](https://github.com/qaisarrra) <br> 7. [Low Junyi](https://github.com/LowJunyi2001) <br> 8. [Ahmad Aiman Hafizi bin Muhammad](https://github.com/AimanHafizi619) <br> 9. [KONG JIA ROU](https://github.com/jrkong2001utm) <br> 10. [Hong Pei Geok](https://github.com/peiyu00) <br> 11. [El Insyiraah](https://github.com/elleamyr) <br> 12. [SEPRIYANDI BIN AGUSR](https://github.com/sepz36) <br> 13. [Charlene A](https://github.com/Chikoness) <br> 14. [Neo Zheng Weng](https://github.com/zw-weng) <br> 15. [Wan Nur Sofea](https://github.com/wannursofea)<br> 16. [Camily Tang](https://github.com/camilytang)<br> 17. [Ng Shu Yu](https://github.com/ShuYu03) <br> 16. [Camily Tang](https://github.com/camilytang)<br> 17. [Ng Shu Yu](https://github.com/ShuYu03) <br> 18. [Yovi Pratama](https://github.com/yovipratama) |
 
 | <img alt="activity status" align="right" height="24" src="images/kotak.svg" /> 🗣 Others |
 |:---|
 | 1. [How to Create an Impressive GitHub Profile](https://medium.com/@catherineisonline/how-to-create-an-impressive-github-profile-c1a3610b0770)<br>2. [Ekaterine (Catherine) Mitagvaria](https://github.com/catherineisonline)<br>3. [How to create a GitHub Profile README: Michelle Mannering](https://dev.to/github/how-to-create-a-github-profile-readme-jha)<br>4. [How To Create A GitHub Profile README: Monica Powell](https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj)<br>5. [katiehuangx](https://github.com/katiehuangx)|
 
-<details>
-  <summary id="tools"> <b>Tools</b></summary>
+### Tools
 
 1. [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 2. [GPRM](https://gprm.itsvg.in/)
 3. [Profilinator](https://profilinator.rishav.dev/)
 4. [Arturs Smirnovs](https://arturssmirnovs.github.io/github-profile-readme-generator/)
-
-</details>
 
 
 ## Github Pages

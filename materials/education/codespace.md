@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/learn-github/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/learn-github?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Flearn-github&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-Don't forget to hit the :star: if you like this repo.
+🌟 Hit star button to save this repo in your profile
 
 # Github Education: Codespaces
 
@@ -16,9 +16,17 @@ Before the launch of GitHub Codespaces, developers typically had to set up their
 
 GitHub Codespaces aimed to simplify this process and provide developers with a consistent and reproducible development environment that could be accessed from anywhere with an internet connection. By moving the development environment to the cloud, developers could save time on initial setup, easily switch between projects, and collaborate more seamlessly with others.
 
+<p align="center">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Dx9tPPRf--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/xm8bkn7j9qp9jhj2vqsu.png"  height="400" />
+</p>
+
 The history of GitHub Codespaces can be traced back to Visual Studio Codespaces, which was initially introduced by Microsoft as Visual Studio Online in 2019. Visual Studio Codespaces provided a similar cloud-based development environment but was primarily focused on Visual Studio IDE users.
 
 GitHub, being a subsidiary of Microsoft, leveraged the technology behind Visual Studio Codespaces and integrated it into their platform to create GitHub Codespaces. This integration brought the benefits of cloud-based development environments to the GitHub ecosystem, allowing developers to work on their GitHub repositories directly from the browser or their preferred IDE, including Visual Studio Code.
+
+<p align="center">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--1OETLAua--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/f4npb6tqeve28klcos69.png"  height="400" />
+</p>
 
 GitHub Codespaces has continued to evolve since its launch, with regular updates and enhancements to improve the developer experience. It has gained popularity among developers who prefer the convenience and flexibility of cloud-based development environments, enabling them to work on their projects from various devices without the need for complex setup processes.
 
@@ -42,10 +50,10 @@ GitHub Codespaces provides a customizable development environment that can be ta
 
 These are some of the key specifications of the development environment provided by GitHub Codespaces. It offers a powerful and flexible setup that empowers developers to efficiently work on their projects in a cloud-based environment.
 
-## What is a codespace?
-A codespace is a development environment that's hosted in the cloud. You can customize your project for GitHub Codespaces by committing configuration files to your repository (often known as Configuration-as-Code), which creates a repeatable codespace configuration for all users of your project.
+## What is a Codespaces?
+A codespaces is a development environment that's hosted in the cloud. You can customize your project for GitHub Codespaces by committing configuration files to your repository (often known as Configuration-as-Code), which creates a repeatable codespace configuration for all users of your project.
 
-Each codespace you create is hosted by GitHub in a Docker container, running on a virtual machine. You can choose from a selection of virtual machine types, from 2 cores, 8 GB RAM, and 32 GB storage, up to 32 cores, 64 GB RAM, and 128 GB storage.
+Each codespaces you create is hosted by GitHub in a Docker container, running on a virtual machine. You can choose from a selection of virtual machine types, from 2 cores, 8 GB RAM, and 32 GB storage, up to 32 cores, 64 GB RAM, and 128 GB storage.
 
 By default, codespaces are created from an Ubuntu Linux image that includes a selection of popular languages and tools, but you can use an image based on a Linux distribution of your choice and configure it for your particular requirements. Regardless of your local operating system, your codespace will run in a Linux environment. Windows and MacOS are not supported operating systems for the remote container.
 
@@ -63,6 +71,31 @@ You can connect to your codespaces from your browser, from Visual Studio Code, f
 |:---|
 | 1. [What is Codespaces?](https://youtu.be/sYJ3CHtT6WM)<br>2. [Github gave me a BEAST for coding 🤯 NO MORE VS Code](https://youtu.be/vPigsZ-zk1g)<br>3. [How to use GitHub Codespaces for Free (VSCode in the cloud!)](https://youtu.be/YFdh32ShBeI)<br>4. [Github Codespace crash course](https://youtu.be/D_5T6KMTRb8)<br>5. [How to connect Github Codespaces and Mongodb Atlas](https://youtu.be/X88dsegH0-Y)|
 
+## Using GitHub Codespaces
+
+1. **Create a Codespace**:
+   - Navigate to a GitHub repository that you want to work on.
+   - Click the **Code** button and then select **Open with Codespaces**.
+   - Choose **New codespace** to create a new environment.
+
+2. **Run the Application**:
+   - Once the codespace is ready, it will open in the browser version of Visual Studio Code.
+   - Use the terminal within the codespace to enter commands like `npm run dev` to start your application.
+
+3. **View Your Running Application**:
+   - GitHub Codespaces will automatically forward the ports.
+   - Click **Open in Browser** to view your running application in a new tab.
+
+4. **Edit and Commit Changes**:
+   - Make changes to your code directly within the codespace editor.
+   - Use the Source Control feature in VS Code to commit and push your changes to the repository.
+
+5. **Personalize Your Setup**:
+   - Install extensions and personalize the codespace environment to suit your development needs.
+
+For a detailed walkthrough, you can check out the [Quickstart for GitHub Codespaces](https://docs.github.com/en/codespaces/getting-started/quickstart) or explore more in-depth documentation on [GitHub's official site](https://github.blog/2023-02-22-a-beginners-guide-to-learning-to-code-with-github-codespaces/). Remember, you can also change the default editor and customize your codespace to match your preferences.
+
+If you're a beginner and want to learn coding with GitHub Codespaces, there's a [beginner's guide](https://docs.github.com/en/codespaces) that might be very helpful. It provides a step-by-step process to help you get started with coding in a codespace environment. Happy coding!
 
 ## GitHub Codespaces in Visual Studio Code
 To run GitHub Codespaces in Visual Studio Code, you can follow these steps:

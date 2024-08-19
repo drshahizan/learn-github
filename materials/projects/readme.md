@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/learn-github/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/learn-github?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Flearn-github&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-Don't forget to hit the :star: if you like this repo.
+🌟 Hit star button to save this repo in your profile
 
 # Github Projects
 GitHub is a web-based platform that is widely used for version control and collaborative software development. GitHub projects refer to the various software projects that are hosted on the platform.
@@ -24,11 +24,23 @@ GitHub Projects offer several different tools to help developers manage their wo
 ### 1. Tables
 Tables are a way of organizing data in a tabular format within GitHub projects. Tables can be used to track tasks, issues, bugs, or any other type of information that needs to be organized in a grid. Tables can be customized with columns and labels to suit the needs of the project. They are particularly useful for tracking tasks that are not yet assigned to a particular team member, as they allow anyone to pick up a task and work on it.
 
+<p align="center">
+  <img src="https://docs.github.com/assets/cb-102381/mw-1440/images/help/projects-v2/example-table.webp"  height="400" />
+</p>
+
 ### 2. Boards
 Boards are a Kanban-style project management tool that allow developers to visualize the progress of tasks as they move through different stages of completion. Boards are customizable, so developers can create columns to represent different stages of the development process, such as "To Do," "In Progress," and "Done." Each task or issue can be represented by a card that is moved between columns as work progresses. Boards can be used by individuals or teams to keep track of their work and ensure that nothing falls through the cracks.
 
+<p align="center">
+  <img src="https://docs.github.com/assets/cb-167219/mw-1440/images/help/projects-v2/example-board.webp"  height="400" />
+</p>
+
 ### 3. Roadmaps
 Roadmaps are a way of visualizing the long-term goals and milestones for a project. GitHub Projects offer a built-in roadmap feature that allows developers to create and manage high-level plans for their projects. Roadmaps can be used to track progress towards major milestones, identify dependencies between different tasks, and communicate project timelines to stakeholders. Roadmaps can be updated as needed to reflect changes in the project plan or to adjust timelines based on feedback from stakeholders.
+
+<p align="center">
+  <img src="https://docs.github.com/assets/cb-97546/mw-1440/images/help/projects-v2/example-roadmap.webp"  height="400" />
+</p>
 
 Overall, tables, boards, and roadmaps are powerful tools that help developers stay organized and on track as they work on software projects. They allow developers to visualize the progress of work, manage complex projects, and communicate plans and progress to stakeholders.
 

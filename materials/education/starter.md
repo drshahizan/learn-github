@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/learn-github/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/learn-github?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Flearn-github&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-Don't forget to hit the :star: if you like this repo.
+🌟 Hit star button to save this repo in your profile
 
 # GitHub Student Developer Pack
 The GitHub Student Developer Pack is a program offered by GitHub Education that provides students with free access to a range of developer tools and services to help them develop their skills and build their portfolios. The pack includes access to over 100 tools, including cloud hosting services, developer tools, design tools, and various learning resources.

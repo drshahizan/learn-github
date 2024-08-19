@@ -1,1 +1,0 @@
-#[psda Cource](image.md)

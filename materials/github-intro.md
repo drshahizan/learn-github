@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/learn-github/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/learn-github?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Flearn-github&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-Don't forget to hit the :star: if you like this repo.
+🌟 Hit star button to save this repo in your profile
 
 # GitHub
 GitHub is a web-based platform that provides hosting for software development and version control using Git. It is a popular platform for collaboration and sharing of code among developers. GitHub was launched in 2008 and was later acquired by Microsoft in 2018.
