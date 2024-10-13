@@ -19,3 +19,29 @@ The file explorer is accessible using the button in left corner of the navigatio
 Data science is all about extracting insights from data using various tools, techniques, and algorithms. 📊🔍 It’s like being a detective, but instead of clues, you’ve got heaps of data. It combines statistics, computer science, and domain knowledge to analyze and interpret complex data sets. 🧑‍💻 Imagine diving into oceans of data to find patterns, predict outcomes, and help make data-driven decisions. In a way, data scientists are the modern-day alchemists—turning raw data into gold. 🔬💡
 
 What part of data science piques your curiosity the most?
+
+Here’s a neat table to further break down the different aspects of data science:
+
+Aspect	Description	Emoji
+Data Collection	Gathering data from various sources such as surveys, sensors, and databases.	📦
+Data Cleaning	Removing inconsistencies and inaccuracies in data to ensure quality.	🧼
+Data Exploration	Analyzing data patterns and trends to extract insights.	🔍
+Data Modeling	Using algorithms and statistical methods to build predictive models.	📈
+Data Visualization	Creating graphical representations of data to make it understandable.	📊
+Deployment & Monitoring	Implementing models into production systems and continuously monitoring their performance.	🚀
+That paints a clearer picture! Want to dive deeper into any specific aspect?
+
+
+You
+add related table
+Copilot
+Here’s a neat table to further break down the different aspects of data science:
+
+Aspect	Description	Emoji
+Data Collection	Gathering data from various sources such as surveys, sensors, and databases.	📦
+Data Cleaning	Removing inconsistencies and inaccuracies in data to ensure quality.	🧼
+Data Exploration	Analyzing data patterns and trends to extract insights.	🔍
+Data Modeling	Using algorithms and statistical methods to build predictive models.	📈
+Data Visualization	Creating graphical representations of data to make it understandable.	📊
+Deployment & Monitoring	Implementing models into production systems and continuously monitoring their performance.	🚀
+That paints a clearer picture! Want to dive deeper into any specific aspect?
