@@ -36,7 +36,7 @@ Alice->John: Yes... John, how are you?
 
 ## Demonstration of AI (using a description of Data Science)
 
-> The Ai used is microsoft copilot.
+> The AI used is microsoft copilot.
 
 Sure! Here’s a brief description of data science:
 
