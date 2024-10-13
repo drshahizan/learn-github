@@ -3,6 +3,22 @@
 
 Hi! I'm Rizki Syaputra, Currently as **A Master Student at University Technology** in Malaysia. 
 
+Data Science is an interdisciplinary field that uses scientific methods, algorithms, and systems to extract knowledge and insights from structured and unstructured data. 📊💡
+
+Data Collection: Gathering data from various sources, both internal and external. 📚
+
+Data Cleaning: Ensuring data quality by handling missing values, outliers, and inconsistencies. 🧹
+
+Data Analysis: Applying statistical and computational techniques to analyze data patterns and trends. 🔍
+
+Data Visualization: Presenting data in visual formats like charts and graphs to communicate findings effectively. 📈
+
+Machine Learning: Using algorithms to build models that can predict future trends based on past data. 🤖
+
+Data Science plays a critical role in decision-making processes, transforming raw data into valuable insights. 🌟
+
+Feel a little more knowledgeable about it now?
+
 
 ## KaTeX
 
