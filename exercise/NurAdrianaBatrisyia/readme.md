@@ -69,7 +69,7 @@ C --> D
 
 **Data Science** is an interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data. It combines various techniques from statistics, computer science, and domain expertise to analyze and interpret complex data.
 
-Here are some key terms in **bold** with suitable emojis:
+Here are some key terms on **Data Science**:
 
 - **Data** 📊: Raw facts and figures that are collected for analysis.
 - **Statistics** 📈: The study of data collection, analysis, interpretation, presentation, and organization.
@@ -80,4 +80,18 @@ Here are some key terms in **bold** with suitable emojis:
 - **Algorithm** 🧩: A set of rules or steps used to solve a problem or perform a task.
 - **Artificial Intelligence (AI)** 🧠: The simulation of human intelligence in machines that are programmed to think and learn.
 - **Predictive Analytics** 🔮: Techniques that use historical data to predict future outcomes.
+
+| **Skills**                     | **Software**                  |
+|--------------------------------|-------------------------------|
+| **Programming**                | Python, R                     |
+| **Statistics & Mathematics**   | MATLAB, SAS                   |
+| **Machine Learning**           | Scikit-learn, TensorFlow      |
+| **Data Wrangling**             | Pandas, SQL                   |
+| **Data Visualization**         | Tableau, Power BI, Matplotlib |
+| **Big Data Technologies**      | Hadoop, Spark                 |
+| **Data Mining**                | Weka, RapidMiner              |
+| **Database Management**        | MySQL, PostgreSQL             |
+| **Cloud Computing**            | AWS, Google Cloud Platform    |
+| **Communication & Presentation** | Microsoft Excel, PowerPoint  |
+
 
