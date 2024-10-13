@@ -14,6 +14,7 @@ $$
 $$
 
 > You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
+
 Data Science 📊
 Data Science is an interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data. It combines aspects of statistics, computer science, and domain expertise to analyze and interpret complex datasets.
 
@@ -44,4 +45,8 @@ Frameworks: TensorFlow, Scikit-learn, PyTorch
 
 Visualization Tools: Tableau, Power BI, Matplotlib
 
-Data science is a dynamic and evolving field, continuously expanding as new techniques and technologies emerge. Curious to dive deeper into any specific area?
+Data science is a dynamic and evolving field, continuously expanding as new techniques and technologies emerge. Interested in delving deeper into any specific area?
+
+
+
+
