@@ -66,3 +66,18 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
+
+**Data Science** is an interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data. It combines various techniques from statistics, computer science, and domain expertise to analyze and interpret complex data.
+
+Here are some key terms in **bold** with suitable emojis:
+
+- **Data** 📊: Raw facts and figures that are collected for analysis.
+- **Statistics** 📈: The study of data collection, analysis, interpretation, presentation, and organization.
+- **Machine Learning** 🤖: A subset of artificial intelligence that involves training algorithms to make predictions or decisions based on data.
+- **Big Data** 🗄️: Extremely large datasets that may be analyzed computationally to reveal patterns, trends, and associations.
+- **Data Mining** ⛏️: The process of discovering patterns and knowledge from large amounts of data.
+- **Data Visualization** 📉: The graphical representation of data to help understand trends, outliers, and patterns.
+- **Algorithm** 🧩: A set of rules or steps used to solve a problem or perform a task.
+- **Artificial Intelligence (AI)** 🧠: The simulation of human intelligence in machines that are programmed to think and learn.
+- **Predictive Analytics** 🔮: Techniques that use historical data to predict future outcomes.
+
