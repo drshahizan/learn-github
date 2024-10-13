@@ -31,6 +31,12 @@ Alice->John: Yes... John, how are you?
 
 And this will produce a flow chart:
 
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
 ```
 
 **Data Science** is an interdisciplinary field that uses **scientific methods**, **processes**, **algorithms**, and **systems** to extract **knowledge** and **insights** from **structured** and **unstructured data**. 📊🔍
