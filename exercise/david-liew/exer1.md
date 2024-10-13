@@ -1,1 +1,3 @@
 My name is **Liew Yng Jeng**. I'm studying for a **Master of Data Science**.
+
+Good morning. My name is **Liew Yng Jeng**, but people call me **David**. I live in **Kluang**, Johor, Malaysia. I have four siblings, and I am the second oldest. I want to share my hobbies, which are reading books related to software and playing video games. I graduated with a **Bachelor of Computer Science (Software Engineering) with Honours** and currently studying for a **Master of Data Science** at UTM. I am proficient in four languages, which are **Malay, English, Mandarin, and Cantonese**. I am a patient, persistent, and hardworking person. Thank you.
