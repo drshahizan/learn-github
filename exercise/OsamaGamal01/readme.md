@@ -40,3 +40,16 @@ All your files and folders are presented as a tree in the file explorer. You can
 **7. Communication**: The insights are communicated to stakeholders in a clear and actionable manner. 🗣️
 
 Data science leverages tools and techniques from **statistics**, **computer science**, and **domain expertise** to help organizations make data-driven decisions.
+
+
+
+| **Stage**             | **Description**                                                                           | **Emoji** |
+|-----------------------|-------------------------------------------------------------------------------------------|-----------|
+| **Data Collection**   | Initial step where raw data is gathered from various sources.                             | 📊        |
+| **Data Cleaning**     | Data is processed to remove inaccuracies and inconsistencies, making it analysis-ready.    | 🧼        |
+| **Data Analysis**     | Advanced statistical techniques and algorithms uncover patterns and insights.              | 📈        |
+| **Data Visualization**| Findings are presented in a visual format such as graphs and charts.                      | 📉        |
+| **Machine Learning**  | Algorithms learn from the data to make predictions or decisions without explicit programming. | 🤖    |
+| **Data Interpretation**| Results are interpreted to inform decision-making and strategic planning.               | 🎯        |
+| **Communication**     | Insights are communicated to stakeholders in a clear and actionable manner.               | 🗣️        |
+
