@@ -28,3 +28,12 @@ Finance: Detecting fraud and managing risk.
 Marketing: Personalizing customer experiences.
 
 Data Science is revolutionizing industries by enabling data-driven decisions and unlocking new opportunities. 🌟
+### **Core Elements** | **Applications**
+---|---
+**Data Collection** 📉 | **Business Analytics**: Enhancing decision-making processes
+**Data Cleaning** 🧹 | **Healthcare**: Predicting disease outbreaks and patient outcomes
+**Data Analysis** 📈 | **Finance**: Detecting fraud and managing risk
+**Data Visualization** 📊 | **Marketing**: Personalizing customer experiences
+**Machine Learning** 🤖 | **Retail**: Optimizing inventory and supply chain
+**Data Engineering** 🏗️ | **Social Media**: Analyzing user behavior for better engagement
+
