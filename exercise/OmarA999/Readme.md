@@ -2,4 +2,4 @@
 ## Hello World
 ### Hello World
 
-My name is Omar Ali.
+My -name- is **Omar** Ali.
