@@ -40,6 +40,21 @@ Advanced Computer Systems and Architecture encompass the design, implementation,
 - Processes data closer to the source of data generation to reduce latency and bandwidth usage.
 - Essential for IoT (Internet of Things) applications.
 
+
+
+# Memory Hierarchy 🗄️
+
+| **Level**          | **Type**           | **Characteristics**                                                                 | **Speed**       | **Capacity**       |
+|--------------------|--------------------|------------------------------------------------------------------------------------|-----------------|--------------------|
+| **Level 1 (L1)**   | Cache Memory       | Small, very fast memory located close to the CPU.                                  | Very High       | Very Low           |
+| **Level 2 (L2)**   | Cache Memory       | Larger than L1, still fast, but slightly slower.                                   | High            | Low                |
+| **Level 3 (L3)**   | Cache Memory       | Shared among cores, larger and slower than L2.                                     | Moderate        | Moderate           |
+| **Main Memory**    | RAM                | Volatile memory used for active data and instructions.                             | Moderate        | Moderate to High   |
+| **Secondary Storage** | SSDs/HDDs       | Non-volatile storage for long-term data retention.                                 | Low             | Very High          |
+| **Tertiary Storage**  | Optical Discs/Tapes | Used for backup and archival storage, very large capacity but slow access.         | Very Low        | Very High          |
+
+
+
 ## Conclusion
 Advanced Computer Systems and Architecture are critical for the development of high-performance computing solutions. They enable the efficient processing of large-scale data and complex computations, driving innovation in various fields such as artificial intelligence, scientific research, and more.
 
