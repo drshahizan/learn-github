@@ -12,3 +12,27 @@ abc
 | John Doe | 123 Maple Street | 50000000|
 | Jane Smith | 456 Oak Avenue, Riverdale |1000|
 
+// 交互式粒子动画
+class Particle {
+  constructor(canvas) {
+    this.canvas = canvas;
+    this.ctx = canvas.getContext('2d');
+    this.particles = [];
+    this.init();
+  }
+
+  init() {
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+    // 创建粒子逻辑...
+  }
+
+  draw() {
+    this.ctx.clearRect(0, 0, this.canvas.width, this.canvas.height);
+    this.particles.forEach(particle => {
+      particle.update();
+      particle.draw();
+    });
+    requestAnimationFrame(() => this.draw());
+  }
+}
