@@ -7,8 +7,8 @@ abc
 
 
 
-| Name  | Address |
-|-------|---------|
-| John Doe | 123 Maple Street, Springfield |
-| Jane Smith | 456 Oak Avenue, Riverdale |
+| Name  | Address | Salary |
+|-------|---------|---|
+| John Doe | 123 Maple Street, Springfield | 5000|
+| Jane Smith | 456 Oak Avenue, Riverdale |1000|
 
