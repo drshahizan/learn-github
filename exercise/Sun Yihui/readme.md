@@ -31,7 +31,6 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=JasonSun00&style=flat-square&color=blue)
 
 ---
-#Hello World
-##Hello World1
+
 > *“Data is the new oil, but only if refined.”*
 
