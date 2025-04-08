@@ -2,6 +2,8 @@
 ## Hello world
 ### Hello 
 
+
+
 | Name     |     Address      |   Salary |
 |----------|:----------------:|---------:|
 | John Doe |   123 Main St    |   $50,000 |
@@ -15,6 +17,3 @@ The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ i
 $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
 $$
-
-## UML
-
