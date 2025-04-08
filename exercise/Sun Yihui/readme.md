@@ -31,6 +31,12 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=JasonSun00&style=flat-square&color=blue)
 
 ---
+|     Name     | Salary (CNY/month) |              Address              |
+|:------------:|:------------------:|:---------------------------------:|
+|   Zhang Wei   |       8,000        | Xingfu Road, Chaoyang District, Beijing |
+|     Li Na     |      12,500        | Yangguang Street, Pudong New Area, Shanghai |
+|   Wang Lei    |       9,300        | Changxing Road, Tianhe District, Guangzhou |
+|    Chen Hui   |      10,000        | Keji Avenue, Nanshan District, Shenzhen |
 
 > *“Data is the new oil, but only if refined.”*
 
