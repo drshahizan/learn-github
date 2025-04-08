@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Jason Sun
 
 🎓 I'm a Bachelor of Finance from Shenzhen University, currently pursuing my Master's degree in Data Science at Universiti Teknologi Malaysia.  
-💡 My passion lies in data analysis within the world of DeFi and blockchain technology.
+💡 My passion lies in data analysis within DeFi and blockchain technology.
 
 ---
 
