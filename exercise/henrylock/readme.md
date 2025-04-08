@@ -3,7 +3,7 @@
 ### Hello world
 #### Hello world
 abc
-~~hello world
+~hello world~
 
 | Name           | Address        |  Salary  |
 |----------------|:----------------:|--------------:|
