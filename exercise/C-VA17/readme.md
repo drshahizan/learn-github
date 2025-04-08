@@ -3,7 +3,7 @@
 ### Hello World
 #### Hello World
 | Name      | Address     | Salary |
-|-----------|-------------|--------:
-|Siva         |     123        |8000
-|     Rajan      |     234        |9000
+|-----------|:-------------:|-------------:
+|Siva         |     Jalan Abdul      |8000
+|     Rajan      |     Kempas 6       |9000
 |           |             |
