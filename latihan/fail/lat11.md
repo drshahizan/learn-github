@@ -97,7 +97,7 @@ Contoh kandungan `readme.md`:
 
 - Nama: Nama Peserta
 - GitHub ID: nama-pengguna
-- Institusi: Universiti Teknologi Malaysia
+- Institusi: Universiti Kebangsaan Malaysia
 - Minat: Pembangunan web, aplikasi mobil dan dokumentasi projek
 
 ## Catatan Latihan
