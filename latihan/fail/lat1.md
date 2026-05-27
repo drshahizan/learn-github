@@ -1,12 +1,12 @@
+<p align="center">
+<img src="../imej/lat1.png"  height="700" />
+</p>
+
 # Latihan 1: Cipta Akaun GitHub
 
 ## Objektif Latihan
 
 Peserta dapat mencipta akaun GitHub baharu menggunakan emel aktif dan memastikan akaun tersebut boleh digunakan untuk aktiviti bengkel seterusnya.
-
-<p align="center">
-<img src="../imej/lat1.png"  height="700" />
-</p>
 
 ## Langkah 1: Buka Laman GitHub
 
