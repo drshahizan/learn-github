@@ -1,5 +1,9 @@
 # Latihan 1: Cipta Akaun GitHub
 
+<p align="center">
+<img src="images/git.gif"  height="700" />
+</p>
+
 ## Objektif Latihan
 
 Peserta dapat mencipta akaun GitHub baharu menggunakan emel aktif dan memastikan akaun tersebut boleh digunakan untuk aktiviti bengkel seterusnya.
