@@ -33,7 +33,7 @@ Pada akhir bengkel, peserta dijangka mempunyai:
 
 | No. | Latihan | Fokus Utama |
 |---:|---|---|
-| 1 | [Cipta Akaun GitHub](/fail/lat1.md) | Daftar akaun, sahkan emel dan simpan pautan profil. |
+| 1 | [Cipta Akaun GitHub](fail/lat1.md) | Daftar akaun, sahkan emel dan simpan pautan profil. |
 | 2 | [Follow Profil GitHub Dr Shahizan](#latihan-2-follow-profil-github-dr-shahizan) | Follow profil rujukan dan fahami kebaikan fungsi Follow. |
 | 3 | [Profil GitHub](#latihan-3-profil-github) | Kemas kini gambar, nama, bio, pautan dan paparan profil. |
 
