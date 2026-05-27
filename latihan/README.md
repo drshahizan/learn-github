@@ -48,11 +48,11 @@ Pada akhir bengkel, peserta dijangka mempunyai:
 
 | No. | Latihan | Fokus Utama |
 |---:|---|---|
-| 4 | [Hasilkan Repositori Projek Pertama](#latihan-4-hasilkan-repositori-projek-pertama) | Cipta repositori, aktifkan README dan tambah maklumat awal. |
-| 5 | [Repositori Mad_club](#latihan-5-repositori-mad_club) | Tulis README projek lengkap untuk Mad_club. |
-| 6 | [Penggunaan Markdown Dalam Fail README](#latihan-6-penggunaan-markdown-dalam-fail-readme) | Tajuk, senarai, pautan, imej, jadual dan kod ringkas. |
-| 7 | [Muat Naik Fail Projek](#latihan-7-muat-naik-fail-projek) | Tambah fail melalui GitHub web, susun folder dan commit. |
-| 8 | [Imej Dalam README](#latihan-8-imej-dalam-readme) | Muat naik tangkapan skrin, paparkan imej dan tambah pautan demo. |
+| 4 | [Hasilkan Repositori Projek Pertama](fail/lat3.md) | Cipta repositori, aktifkan README dan tambah maklumat awal. |
+| 5 | [Repositori Mad_club](fail/lat3.md) | Tulis README projek lengkap untuk Mad_club. |
+| 6 | [Penggunaan Markdown Dalam Fail README](fail/lat3.md) | Tajuk, senarai, pautan, imej, jadual dan kod ringkas. |
+| 7 | [Muat Naik Fail Projek](fail/lat3.md) | Tambah fail melalui GitHub web, susun folder dan commit. |
+| 8 | [Imej Dalam README](fail/lat3.md) | Muat naik tangkapan skrin, paparkan imej dan tambah pautan demo. |
 
 ### Bahagian C: Tugasan, Kolaborasi dan Projects
 
