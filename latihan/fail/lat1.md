@@ -1,7 +1,7 @@
 # Latihan 1: Cipta Akaun GitHub
 
 <p align="center">
-<img src="/imej/lat1.png"  height="700" />
+<img src="./imej/lat1.png"  height="700" />
 </p>
 
 ## Objektif Latihan
