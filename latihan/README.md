@@ -114,18 +114,6 @@ Pada akhir bengkel, peserta dijangka mempunyai:
 | 34 | [Senarai Semak Akhir Sebelum Dikongsi](#latihan-34-senarai-semak-akhir-sebelum-dikongsi) | Semak README, visibility, imej, pautan dan keselamatan. |
 | 35 | [Pembentangan Ringkas Portfolio GitHub](#latihan-35-pembentangan-ringkas-portfolio-github) | Bentang profil, repositori pilihan dan hasil projek. |
 
-## Nota Keselamatan
-
-Jangan muat naik perkara berikut ke dalam repositori:
-
-- Kata laluan.
-- Token.
-- Kunci API.
-- Fail konfigurasi sulit.
-- Nombor kad pengenalan.
-- Data peribadi.
-- Tugasan sensitif yang belum dibenarkan untuk dikongsi.
-
 ## Rujukan
 
 - [GitHub Docs](https://docs.github.com/)
