@@ -69,45 +69,5 @@ Pada akhir mini projek, setiap kumpulan dijangka mempunyai:
 |---:|---|---|
 | 7 | [Kemas Kini README Projek](fail/mp7.md) | Lengkapkan README utama dengan nama projek, ahli, peranan, pautan fail dan status. |
 
-## Cadangan Pembahagian Masa 1 Jam
 
-| Masa | Aktiviti |
-|---|---|
-| 8 minit | Cipta repositori projek kumpulan dan tambah collaborator. |
-| 10 minit | Cipta Issues dan GitHub Projects Board. |
-| 15 minit | Setiap ahli tambah fail sendiri dan commit perubahan. |
-| 15 minit | Pull Request, review dan merge perubahan. |
-| 12 minit | Kemas kini README projek dan semak hasil kumpulan. |
-
-## Ringkasan Aliran Mini Projek
-
-```text
-Cipta repositori
-→ Tambah collaborator
-→ Cipta Issues
-→ Susun Projects Board
-→ Ahli tambah fail sendiri
-→ Pull Request dan review
-→ Kemas kini README projek
-```
-
-## Semakan Akhir Kumpulan
-
-Sebelum mini projek dibentangkan, pastikan:
-
-1. Semua ahli menjadi collaborator.
-2. Semua ahli mempunyai satu Issue.
-3. Issues dimasukkan dalam GitHub Projects Board.
-4. Setiap ahli mempunyai satu fail Markdown dalam folder `ahli`.
-5. Sekurang-kurangnya satu Pull Request telah digunakan.
-6. README projek mempunyai maklumat lengkap.
-7. Tiada kata laluan, token, kunci API atau data sensitif dalam repositori.
-
-## Rujukan
-
-- [GitHub Docs](https://docs.github.com/)
-- [GitHub Skills](https://skills.github.com/)
-- [GitHub Desktop Documentation](https://docs.github.com/en/desktop)
-- [GitHub Education](https://education.github.com/)
-- [Markdown Guide](https://www.markdownguide.org/)
 
