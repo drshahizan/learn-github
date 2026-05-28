@@ -61,7 +61,6 @@ Pada akhir bengkel, peserta dijangka mempunyai:
 | 9 | [Pemasangan, Log Masuk dan Tetapkan GitHub Desktop](fail/lat9.md) | Muat turun GitHub Desktop, log masuk akaun GitHub dan semak akaun aktif. |
 | 10 | [Clone Repositori Ke Komputer](fail/lat10.md) | Clone repositori latihan ke komputer dan semak fail projek secara lokal. |
 | 11 | [Edit README, Commit dan Push](fail/lat11.md) | Edit fail README, commit perubahan dan push ke GitHub. |
-| 12 | [Pull, Branch dan Pull Request](fail/lat12.md) | Pull perubahan terkini, cipta branch, publish branch dan buka Pull Request. |
 
 ---
 ### Bahagian C: Tugasan, Kolaborasi dan Projects
