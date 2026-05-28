@@ -11,6 +11,10 @@ Mini projek ini disediakan untuk peserta **Bengkel Asas GitHub** sebagai latihan
 
 Mini projek ini sesuai dilaksanakan dalam masa ringkas, sekitar 1 jam, dengan satu kumpulan terdiri daripada 4 orang ahli. Setiap kumpulan perlu menghasilkan satu repositori projek yang menunjukkan bukti kerja berpasukan.
 
+<p align="center">
+<img src="imej/mini_projek.png"  height="700" />
+</p>
+
 ## Objektif Mini Projek
 
 Selepas melengkapkan mini projek, peserta dapat:
