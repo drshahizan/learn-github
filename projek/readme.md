@@ -69,5 +69,9 @@ Pada akhir mini projek, setiap kumpulan dijangka mempunyai:
 |---:|---|---|
 | 7 | [Kemas Kini README Projek](fail/mp7.md) | Lengkapkan README utama dengan nama projek, ahli, peranan, pautan fail dan status. |
 
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
 
