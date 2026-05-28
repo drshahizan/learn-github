@@ -54,7 +54,7 @@ Pada akhir bengkel, peserta dijangka mempunyai:
 | 7 | [Muat Naik Fail Projek](fail/lat7.md) | Tambah fail melalui GitHub web, susun folder dan commit. |
 | 8 | [Imej Dalam README](fail/lat8.md) | Muat naik tangkapan skrin, paparkan imej dan tambah pautan demo. |
 
-## Bahagian C: GitHub Desktop
+### Bahagian C: GitHub Desktop
 
 | No. | Latihan | Fokus Utama |
 |---:|---|---|
@@ -63,6 +63,7 @@ Pada akhir bengkel, peserta dijangka mempunyai:
 | 11 | [Edit README, Commit dan Push](fail/lat11.md) | Edit fail README, commit perubahan dan push ke GitHub. |
 | 12 | [Pull, Branch dan Pull Request](fail/lat12.md) | Pull perubahan terkini, cipta branch, publish branch dan buka Pull Request. |
 
+---
 ### Bahagian C: Tugasan, Kolaborasi dan Projects
 
 | No. | Latihan | Fokus Utama |
