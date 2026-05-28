@@ -9,6 +9,10 @@
 
 Modul latihan ini disediakan untuk peserta **Bengkel Asas GitHub**. Fokus latihan ialah penggunaan GitHub secara praktikal melalui pelayar web, GitHub Desktop, Visual Studio Code dan Google Colab. Latihan ini menekankan pembinaan profil profesional, repositori projek, dokumentasi README, pengurusan tugasan, portfolio digital, keselamatan dan etika akademik.
 
+<p align="center">
+<img src="imej/latihan.png"  height="700" />
+</p>
+
 ## Objektif Latihan
 
 Selepas melengkapkan latihan, peserta dapat:
