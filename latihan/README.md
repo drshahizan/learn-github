@@ -66,62 +66,6 @@ Pada akhir bengkel, peserta dijangka mempunyai:
 | 10 | [Clone Repositori Ke Komputer](fail/lat10.md) | Clone repositori latihan ke komputer dan semak fail projek secara lokal. |
 | 11 | [Edit README, Commit dan Push](fail/lat11.md) | Edit fail README, commit perubahan dan push ke GitHub. |
 
----
-### Bahagian C: Tugasan, Kolaborasi dan Projects
-
-| No. | Latihan | Fokus Utama |
-|---:|---|---|
-| 9 | [Gunakan Issues Untuk Tugasan](#latihan-9-gunakan-issues-untuk-tugasan) | Cipta Issue, tambah penerangan, label dan tugasan. |
-| 10 | [Susun Tugasan Menggunakan GitHub Projects](#latihan-10-susun-tugasan-menggunakan-github-projects) | Bina papan Kanban dan susun status kerja. |
-| 11 | [Kolaborasi Projek Berkumpulan](#latihan-11-kolaborasi-projek-berkumpulan) | Tambah collaborator, komen dan fahami Pull Request. |
-| 12 | [Repositori Public vs Private](#latihan-12-repositori-public-vs-private) | Pilih visibility mengikut jenis projek dan sensitiviti data. |
-| 13 | [Semakan Keselamatan Repositori](#latihan-13-semakan-keselamatan-repositori) | Semak kata laluan, token, kunci API dan data peribadi. |
-
-### Bahagian D: GitHub Pages, Portfolio dan GitHub Desktop
-
-| No. | Latihan | Fokus Utama |
-|---:|---|---|
-| 14 | [Terbitkan Laman Ringkas Dengan GitHub Pages](#latihan-14-terbitkan-laman-ringkas-dengan-github-pages) | Aktifkan Pages dan dapatkan pautan demo. |
-| 15 | [Pin Repositori Pada Profil](#latihan-15-pin-repositori-pada-profil) | Pilih repositori terbaik untuk dipaparkan pada profil. |
-| 16 | [Bina Portfolio Digital Mini](#latihan-16-bina-portfolio-digital-mini) | Gabungkan profil, README, imej dan pautan demo. |
-| 17 | [Pengenalan GitHub Desktop](#latihan-17-pengenalan-github-desktop) | Fahami fungsi GitHub Desktop untuk kerja lokal. |
-| 18 | [Pasang dan Log Masuk GitHub Desktop](#latihan-18-pasang-dan-log-masuk-github-desktop) | Pasang aplikasi dan sambungkan akaun GitHub. |
-| 19 | [Clone Repositori Ke Komputer](#latihan-19-clone-repositori-ke-komputer) | Salin repositori dari GitHub ke komputer. |
-| 20 | [Buat Perubahan Fail Secara Lokal](#latihan-20-buat-perubahan-fail-secara-lokal) | Edit fail lokal dan lihat perubahan dalam GitHub Desktop. |
-| 21 | [Commit dan Push Menggunakan GitHub Desktop](#latihan-21-commit-dan-push-menggunakan-github-desktop) | Commit perubahan dan hantar ke GitHub. |
-| 22 | [Pull Perubahan Terkini](#latihan-22-pull-perubahan-terkini) | Ambil perubahan terbaru daripada GitHub. |
-| 23 | [Branch dan Pull Request Secara Visual](#latihan-23-branch-dan-pull-request-secara-visual) | Cipta branch, publish dan buka Pull Request. |
-
-### Bahagian E: GitHub Dengan Visual Studio Code dan Google Colab
-
-| No. | Latihan | Fokus Utama |
-|---:|---|---|
-| 24 | [Pengenalan GitHub Dalam Visual Studio Code](#latihan-24-pengenalan-github-dalam-visual-studio-code) | Fahami VS Code sebagai editor projek. |
-| 25 | [Hubungkan VS Code Dengan Akaun GitHub](#latihan-25-hubungkan-vs-code-dengan-akaun-github) | Log masuk GitHub melalui VS Code. |
-| 26 | [Buka Repositori Dalam VS Code](#latihan-26-buka-repositori-dalam-vs-code) | Buka folder repositori dan edit fail projek. |
-| 27 | [Commit dan Sync Melalui VS Code](#latihan-27-commit-dan-sync-melalui-vs-code) | Commit dan sync perubahan melalui Source Control. |
-| 28 | [Pengenalan GitHub Dalam Google Colab](#latihan-28-pengenalan-github-dalam-google-colab) | Fahami notebook, fail `.ipynb` dan kegunaan GitHub. |
-| 29 | [Buka Notebook GitHub Dalam Google Colab](#latihan-29-buka-notebook-github-dalam-google-colab) | Buka notebook daripada repositori GitHub. |
-| 30 | [Simpan Notebook Google Colab Ke GitHub](#latihan-30-simpan-notebook-google-colab-ke-github) | Simpan fail `.ipynb` ke repositori GitHub. |
-| 31 | [Dokumentasi Projek Notebook](#latihan-31-dokumentasi-projek-notebook) | Tulis README untuk projek notebook data atau AI. |
-
-### Bahagian F: Tools Sokongan, Etika dan Penutup
-
-| No. | Latihan | Fokus Utama |
-|---:|---|---|
-| 32 | [Pengenalan GitHub Copilot Secara Bertanggungjawab](#latihan-32-pengenalan-github-copilot-secara-bertanggungjawab) | Gunakan AI sebagai pembantu, bukan pengganti kefahaman. |
-| 33 | [Etika Akademik dan Hak Cipta](#latihan-33-etika-akademik-dan-hak-cipta) | Beri kredit, fahami lesen dan elakkan plagiat. |
-| 34 | [Senarai Semak Akhir Sebelum Dikongsi](#latihan-34-senarai-semak-akhir-sebelum-dikongsi) | Semak README, visibility, imej, pautan dan keselamatan. |
-| 35 | [Pembentangan Ringkas Portfolio GitHub](#latihan-35-pembentangan-ringkas-portfolio-github) | Bentang profil, repositori pilihan dan hasil projek. |
-
-## Rujukan
-
-- [GitHub Docs](https://docs.github.com/)
-- [GitHub Skills](https://skills.github.com/)
-- [GitHub Desktop Documentation](https://docs.github.com/en/desktop)
-- [GitHub Education](https://education.github.com/)
-- [Markdown Guide](https://www.markdownguide.org/)
-
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
 
