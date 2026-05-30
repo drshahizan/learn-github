@@ -22,17 +22,6 @@ Selepas melengkapkan latihan tambahan ini, peserta dapat:
 5. Menambah pautan hasil latihan ke dalam README projek.
 6. Menghasilkan bahan portfolio digital yang lebih lengkap.
 
-## Hasil Akhir Peserta
-
-Pada akhir latihan tambahan, peserta dijangka mempunyai:
-
-- Satu laman `github.io` atau pautan GitHub Pages.
-- README yang telah ditambah baik menggunakan semakan kendiri dan bantuan Copilot.
-- VS Code yang telah dihubungkan dengan akaun GitHub.
-- Satu fail latihan yang dikemas kini melalui VS Code.
-- Satu notebook Google Colab yang boleh dikongsi melalui pautan.
-- README projek yang mengandungi pautan laman, pautan Colab atau bahan sokongan lain.
-
 ## Jadual Kandungan Latihan Tambahan
 
 | No. | Latihan | Fokus Utama |
@@ -42,62 +31,7 @@ Pada akhir latihan tambahan, peserta dijangka mempunyai:
 | 3 | [Hubungkan VS Code Dengan GitHub](fail/tambahan3.md) | Log masuk GitHub, clone repositori, edit fail, commit dan push melalui VS Code. |
 | 4 | [Google Colab dan GitHub](fail/tambahan4.md) | Buka notebook daripada GitHub, simpan salinan, jalankan kod dan tambah pautan dalam README. |
 
-## Cadangan Pembahagian Masa
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
 
-| Masa | Aktiviti |
-|---|---|
-| 20 minit | Latihan 1: Bina dan terbitkan laman `github.io`. |
-| 15 minit | Latihan 2: Gunakan GitHub Copilot dalam GitHub web. |
-| 20 minit | Latihan 3: Hubungkan VS Code dengan GitHub. |
-| 20 minit | Latihan 4: Gunakan Google Colab bersama GitHub. |
-| 10 minit | Semakan akhir pautan, README dan hasil latihan. |
-
-## Ringkasan Aliran Latihan
-
-```text
-GitHub Pages
-→ GitHub Copilot Web
-→ VS Code dan GitHub
-→ Google Colab dan GitHub
-→ README projek dikemas kini
-→ Pautan hasil latihan dikongsi
-```
-
-## Perincian Ringkas Latihan
-
-### Latihan Tambahan 1: Bina dan Terbitkan Laman github.io
-
-Peserta membina laman ringkas menggunakan GitHub Pages. Latihan ini menggunakan konsep laman `github.io` sebagai portfolio digital, laman profil atau halaman demo projek.
-
-### Latihan Tambahan 2: GitHub Copilot Dalam GitHub Web
-
-Peserta menggunakan GitHub Copilot Chat melalui GitHub web untuk bertanya soalan berkaitan README, Issues dan kod ringkas. Peserta perlu menyemak semua cadangan sebelum digunakan.
-
-### Latihan Tambahan 3: Hubungkan VS Code Dengan GitHub
-
-Peserta log masuk akaun GitHub dalam VS Code, clone repositori latihan, menambah fail latihan, membuat commit dan push perubahan ke GitHub.
-
-### Latihan Tambahan 4: Google Colab dan GitHub
-
-Peserta membuka Google Colab, mengakses notebook daripada GitHub, menyimpan salinan ke Google Drive, menjalankan kod ringkas dan memasukkan pautan notebook ke dalam README.
-
-## Semakan Akhir Peserta
-
-Sebelum latihan tambahan dianggap selesai, pastikan:
-
-1. Pautan laman `github.io` boleh dibuka.
-2. README projek mempunyai maklumat yang jelas dan kemas.
-3. Cadangan Copilot telah disemak dan disunting semula.
-4. VS Code telah berjaya disambungkan dengan akaun GitHub.
-5. Perubahan melalui VS Code telah berjaya di-push ke GitHub.
-6. Pautan notebook Google Colab boleh dibuka.
-7. Tiada kata laluan, token, kunci API atau data peribadi dimasukkan ke dalam repositori.
-
-## Rujukan
-
-- [GitHub Docs](https://docs.github.com/)
-- [GitHub Pages Documentation](https://docs.github.com/en/pages)
-- [GitHub Copilot Documentation](https://docs.github.com/en/copilot)
-- [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
-- [Google Colab](https://colab.research.google.com/)
-- [Markdown Guide](https://www.markdownguide.org/)
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
