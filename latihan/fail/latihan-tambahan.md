@@ -22,17 +22,6 @@ Selepas melengkapkan latihan tambahan ini, peserta dapat:
 5. Menambah pautan hasil latihan ke dalam README projek.
 6. Menghasilkan bahan portfolio digital yang lebih lengkap.
 
-## Hasil Akhir Peserta
-
-Pada akhir latihan tambahan, peserta dijangka mempunyai:
-
-- Satu laman `github.io` atau pautan GitHub Pages.
-- README yang telah ditambah baik menggunakan semakan kendiri dan bantuan Copilot.
-- VS Code yang telah dihubungkan dengan akaun GitHub.
-- Satu fail latihan yang dikemas kini melalui VS Code.
-- Satu notebook Google Colab yang boleh dikongsi melalui pautan.
-- README projek yang mengandungi pautan laman, pautan Colab atau bahan sokongan lain.
-
 ## Jadual Kandungan Latihan Tambahan
 
 | No. | Latihan | Fokus Utama |
