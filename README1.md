@@ -40,9 +40,9 @@ Pada akhir bengkel, peserta dijangka mempunyai:
 |---:|---|---|
 | 1 | Slaid Pembentangan | [Bengkel Asas GitHub](pautan-slaid) |
 | 2 | Modul Peserta | [Modul Bengkel Asas GitHub](pautan-modul) |
-| 3 | Latihan Asas | [Latihan Bengkel Asas GitHub](latihan.md) |
+| 3 | Latihan Asas | [Latihan Bengkel Asas GitHub](https://github.com/drshahizan/learn-github/blob/main/latihan/) |
 | 4 | Mini Projek | [Mini Projek GitHub](mini-projek.md) |
-| 5 | Latihan Tambahan | [GitHub Pages, Copilot, VS Code dan Google Colab](latihan-tambahan.md) |
+| 5 | Latihan Tambahan | [GitHub Pages, Copilot, VS Code dan Google Colab](https://github.com/drshahizan/learn-github/blob/main/latihan/fail/latihan-tambahan.md) |
 
 ## Mini Projek Berkumpulan
 
