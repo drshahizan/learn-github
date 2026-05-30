@@ -9,7 +9,7 @@
 <img src="../imej/lat_1.png"  height="700" />
 </p>
 
-# Latihan Tambahan 1: Bina dan Terbitkan Laman github.io
+# Latihan Tambahan 1: Github Pages
 
 ## Contoh Rujukan
 
