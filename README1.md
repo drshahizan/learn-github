@@ -48,20 +48,6 @@ Pada akhir bengkel, peserta dijangka mempunyai:
 | 4 | Mini Projek | [Mini Projek GitHub](https://github.com/drshahizan/learn-github/blob/main/projek/readme.md) |
 | 5 | Latihan Tambahan | [GitHub Pages, Copilot, VS Code dan Google Colab](https://github.com/drshahizan/learn-github/blob/main/latihan/fail/latihan-tambahan.md) |
 
-## Mini Projek Berkumpulan
-
-Mini projek memberi peluang kepada peserta untuk mengaplikasikan GitHub dalam satu pasukan yang terdiri daripada 4 orang ahli.
-
-| No. | Latihan | Fokus Utama |
-|---:|---|---|
-| 1 | [Cipta Repositori Projek Kumpulan](fail/mp1.md) | Ketua kumpulan mencipta repositori projek. |
-| 2 | [Tambah Ahli Sebagai Collaborator](fail/mp2.md) | Jemput ahli kumpulan menyertai repositori. |
-| 3 | [Cipta Issues Untuk Agihan Tugasan](fail/mp3.md) | Agihkan tugasan kepada setiap ahli. |
-| 4 | [Cipta GitHub Projects Board](fail/mp4.md) | Susun tugasan mengikut status kerja. |
-| 5 | [Setiap Ahli Edit Fail Sendiri](fail/mp5.md) | Rekod sumbangan setiap ahli. |
-| 6 | [Pull Request dan Semakan Pasukan](fail/mp6.md) | Semak dan gabungkan perubahan. |
-| 7 | [Kemas Kini README Projek](fail/mp7.md) | Lengkapkan dokumentasi akhir projek. |
-
 ## Perisian dan Platform Berkaitan
 
 | Platform | Kegunaan |
