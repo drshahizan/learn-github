@@ -89,14 +89,6 @@ https://desktop.github.com/
 4. Pastikan folder kerja telah dipilih.
 5. Jika semua perkara selesai, peserta boleh meneruskan Latihan 10.
 
-## Kebaikan Menetapkan GitHub Desktop Dengan Betul
-
-1. Memudahkan kerja dengan repositori secara lokal.
-2. Mengurangkan kebergantungan kepada arahan terminal.
-3. Membantu peserta melihat perubahan fail dengan lebih jelas.
-4. Memudahkan proses commit dan push.
-5. Menyediakan aliran kerja yang lebih sesuai untuk beginner.
-
 ## Masalah Biasa dan Cara Mengatasi
 
 | Masalah | Cadangan Penyelesaian |
@@ -106,14 +98,6 @@ https://desktop.github.com/
 | Tidak boleh log masuk | Semak nama pengguna, emel, kata laluan dan pengesahan dua faktor jika diaktifkan. |
 | Akaun salah digunakan | Log keluar daripada GitHub Desktop dan log masuk semula menggunakan akaun bengkel. |
 | Emel commit tidak sepadan | Buka tetapan GitHub Desktop dan kemas kini nama serta emel commit. |
-
-## Nota Keselamatan
-
-1. Muat turun GitHub Desktop hanya daripada laman rasmi.
-2. Jangan kongsi kata laluan GitHub semasa proses log masuk.
-3. Jika menggunakan komputer awam atau komputer makmal, log keluar daripada GitHub Desktop selepas bengkel.
-4. Jangan simpan fail projek yang mengandungi kata laluan, token atau kunci API.
-5. Pastikan folder kerja berada di lokasi yang selamat dan mudah dicari.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
