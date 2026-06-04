@@ -19,26 +19,9 @@ Mini projek ini sesuai dilaksanakan dalam masa ringkas, sekitar 1 jam, dengan sa
 
 Selepas melengkapkan mini projek, peserta dapat:
 
-1. Mencipta repositori projek kumpulan.
-2. Menambah ahli kumpulan sebagai collaborator.
-3. Mengagihkan tugasan menggunakan Issues.
-4. Menyusun status tugasan menggunakan GitHub Projects Board.
-5. Menambah fail sumbangan individu dalam repositori kumpulan.
-6. Menggunakan Pull Request untuk semakan pasukan.
-7. Mengemas kini README projek kumpulan secara profesional.
-8. Menunjukkan bukti kolaborasi melalui commit, Issues, Projects dan Pull Request.
-
-## Hasil Akhir Kumpulan
-
-Pada akhir mini projek, setiap kumpulan dijangka mempunyai:
-
-- Satu repositori projek kumpulan.
-- 4 orang ahli sebagai collaborator.
-- Sekurang-kurangnya 4 Issues untuk agihan tugasan.
-- Satu GitHub Projects Board dengan status tugasan.
-- Satu fail Markdown untuk setiap ahli kumpulan.
-- Sekurang-kurangnya satu Pull Request dan aktiviti review.
-- README projek yang lengkap dan boleh dibentangkan.
+1. Membina repositori projek kumpulan dengan ahli, fail sumbangan individu dan README yang dikemas kini secara profesional.
+2. Mengurus pembahagian tugasan menggunakan Issues dan GitHub Projects Board.
+3. Menunjukkan bukti kolaborasi pasukan melalui commit, Issues, Projects dan Pull Request.
 
 ## Jadual Kandungan Mini Projek
 
