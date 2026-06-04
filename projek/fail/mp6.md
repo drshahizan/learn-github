@@ -155,28 +155,6 @@ Sila betulkan ejaan GitHub ID sebelum merge.
 4. Semak semua tugasan ahli lain.
 5. Pastikan status board mencerminkan kerja sebenar kumpulan.
 
-## Hasil Latihan
-
-Pada akhir latihan ini, kumpulan mempunyai:
-
-1. Sekurang-kurangnya satu Pull Request.
-2. Semakan ringkas daripada ahli kumpulan.
-3. Komen review pada Pull Request.
-4. Perubahan yang telah digabungkan ke branch utama.
-5. Issue berkaitan telah ditutup atau dikemas kini.
-6. Tugasan dalam Projects Board telah digerakkan ke `Done`.
-
-## Kriteria Siap
-
-Latihan ini dianggap selesai apabila:
-
-1. Pull Request berjaya dibuka.
-2. Ahli lain telah menyemak perubahan.
-3. Komen semakan telah diberikan.
-4. Pull Request telah di-merge jika perubahan sesuai.
-5. Issue berkaitan telah ditutup atau dikemas kini.
-6. Kad tugasan berada dalam lajur `Done`.
-
 ## Masalah Biasa dan Cara Mengatasi
 
 | Masalah | Cadangan Penyelesaian |
