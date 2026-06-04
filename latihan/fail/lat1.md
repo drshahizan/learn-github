@@ -114,18 +114,6 @@ Pada akhir latihan ini, peserta perlu mempunyai:
 4. Pautan profil GitHub.
 5. Keupayaan untuk log masuk ke GitHub semula.
 
-## Semakan Latihan
-
-Tandakan jika selesai:
-
-1. Saya berjaya membuka laman GitHub.
-2. Saya berjaya mencipta akaun GitHub.
-3. Saya telah memilih nama pengguna yang sesuai.
-4. Saya telah mengesahkan emel.
-5. Saya boleh log masuk ke akaun GitHub.
-6. Saya boleh membuka halaman profil GitHub.
-7. Saya telah menyalin pautan profil GitHub.
-
 ## Masalah Biasa dan Cara Mengatasi
 
 | Masalah | Cadangan Penyelesaian |
