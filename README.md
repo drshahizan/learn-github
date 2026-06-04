@@ -12,11 +12,10 @@
 </p>
 
 <p align="center">
-  <a href="#synopsis">Synopsis</a> &nbsp;&middot;&nbsp;
-  <a href="#event-details">Event Details</a> &nbsp;&middot;&nbsp;
-  <a href="#key-topics">Key Topics</a> &nbsp;&middot;&nbsp;
-  <a href="#materials">Materials</a> &nbsp;&middot;&nbsp;
-  <a href="#ai-tools">AI Tools</a>
+  Bahasa:
+  <a href=""><b>Melayu</b></a> &nbsp;&middot;&nbsp;
+  <a href="README2a.md">English</a> &nbsp;&middot;&nbsp;
+
 </p>
 
 ## Pengenalan
