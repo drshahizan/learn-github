@@ -50,7 +50,7 @@ Selepas melengkapkan mini projek, peserta dapat:
 
 | No. | Latihan | Fokus Utama |
 |---:|---|---|
-| 7 | [Kemas Kini README Projek](fail/mp7.md) | Lengkapkan README utama dengan nama projek, ahli, peranan, pautan fail dan status. |
+| 7 | [Kemas kini README Projek](fail/mp7.md) | Lengkapkan README utama dengan nama projek, ahli, peranan, pautan fail dan status. |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
