@@ -11,7 +11,7 @@
 <img src="/images/github%20ftsm.jpeg"  height="400" />
 </p>
 
-## Pengenalan Platform, Portfolio Digital dan Kolaborasi Projek
+## Pengenalan
 
 Bengkel ini memperkenalkan GitHub sebagai platform untuk menyimpan bahan projek, menghasilkan dokumentasi, membina portfolio digital dan mengurus kolaborasi pasukan.
 
@@ -33,10 +33,8 @@ Pada akhir bengkel, peserta dijangka mempunyai:
 - Profil GitHub yang lebih profesional.
 - Sekurang-kurangnya satu repositori projek.
 - README projek yang kemas dan lengkap.
-- Tangkapan skrin atau pautan demo projek.
 - Pengalaman menggunakan GitHub Desktop.
 - Pengalaman berkolaborasi dalam repositori kumpulan.
-- Pautan profil atau repositori yang boleh dikongsi sebagai portfolio digital.
 
 ## Bahan Bengkel
 
