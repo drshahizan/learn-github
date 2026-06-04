@@ -7,6 +7,10 @@
 
 # Bengkel Asas GitHub
 
+<p align="left">
+<img src="/images/Github_poster.jpeg"  height="400" />
+</p>
+
 ## Pengenalan Platform, Portfolio Digital dan Kolaborasi Projek
 
 Bengkel ini memperkenalkan GitHub sebagai platform untuk menyimpan bahan projek, menghasilkan dokumentasi, membina portfolio digital dan mengurus kolaborasi pasukan.
