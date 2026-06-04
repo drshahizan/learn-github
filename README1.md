@@ -8,7 +8,7 @@
 # Bengkel Asas GitHub
 
 <p align="left">
-<img src="/images/Github_poster.jpeg"  height="400" />
+<img src="/images/github%20ftsm.jpeg"  height="400" />
 </p>
 
 ## Pengenalan Platform, Portfolio Digital dan Kolaborasi Projek
