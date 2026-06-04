@@ -25,7 +25,7 @@ Selepas mengikuti bengkel ini, peserta dapat:
 2. Menghasilkan dokumentasi projek menggunakan README, Markdown, imej dan pautan demo.
 3. Menggunakan GitHub untuk kolaborasi pasukan melalui Issues, Projects dan Pull Request.
 
-## Hasil Akhir Peserta
+## Hasil Akhir Bengkel
 
 Pada akhir bengkel, peserta dijangka mempunyai:
 
