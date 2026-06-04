@@ -170,14 +170,6 @@ Tambah format Markdown dalam README
 4. Klik `Commit changes`.
 5. Buka semula halaman utama repositori untuk melihat paparan akhir.
 
-## Kebaikan Menggunakan Markdown Dalam README
-
-1. Dokumentasi lebih tersusun.
-2. Pembaca lebih mudah memahami projek.
-3. Repositori kelihatan lebih profesional.
-4. Peserta belajar format dokumentasi teknikal yang biasa digunakan.
-5. Fasilitator lebih mudah membuat semakan.
-
 ## Masalah Biasa dan Cara Mengatasi
 
 | Masalah | Cadangan Penyelesaian |
@@ -188,14 +180,6 @@ Tambah format Markdown dalam README
 | Imej tidak muncul | Semak nama fail, lokasi folder dan format `![teks](lokasi-imej)`. |
 | Jadual tidak kemas | Pastikan baris pemisah `|---|---|` wujud dan bilangan kolum sepadan. |
 | Blok kod tidak tertutup | Pastikan tiga backtick pembuka dan penutup ditulis dengan betul. |
-
-## Nota Keselamatan
-
-1. Jangan masukkan kata laluan, token atau kunci API dalam contoh kod.
-2. Jangan masukkan data peribadi dalam jadual README.
-3. Gunakan imej yang sesuai dan tidak melanggar hak cipta.
-4. Jika menggunakan imej daripada sumber luar, pastikan sumber tersebut dibenarkan.
-5. Semak semua pautan sebelum berkongsi repositori kepada orang lain.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
