@@ -50,7 +50,7 @@ At the end of the workshop, participants are expected to have:
 | 1 | Presentation Slides | [Basic GitHub Workshop](pautan-slaid) |
 | 2 | Participant Module | [Basic GitHub Workshop Module](pautan-modul) |
 | 3 | Basic Exercises | [Basic GitHub Workshop Exercises](https://github.com/drshahizan/learn-github/blob/main/latihan/READMEa.md) |
-| 4 | Mini Project | [GitHub Mini Project](https://github.com/drshahizan/learn-github/blob/main/projek/readme.md) |
+| 4 | Mini Project | [GitHub Mini Project](https://github.com/drshahizan/learn-github/blob/main/projek/readmea.md) |
 | 5 | Additional Exercises | [GitHub Pages, Copilot, VS Code and Google Colab](https://github.com/drshahizan/learn-github/blob/main/latihan/fail/latihan-tambahana.md) |
 
 ## For Participants
