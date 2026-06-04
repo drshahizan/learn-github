@@ -7,8 +7,16 @@
 
 # Bengkel Asas GitHub
 
-<p align="left">
+<p align="center">
 <img src="/images/github%20ftsm.jpeg"  height="400" />
+</p>
+
+<p align="center">
+  <a href="#synopsis">Synopsis</a> &nbsp;&middot;&nbsp;
+  <a href="#event-details">Event Details</a> &nbsp;&middot;&nbsp;
+  <a href="#key-topics">Key Topics</a> &nbsp;&middot;&nbsp;
+  <a href="#materials">Materials</a> &nbsp;&middot;&nbsp;
+  <a href="#ai-tools">AI Tools</a>
 </p>
 
 ## Pengenalan
