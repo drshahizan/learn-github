@@ -154,20 +154,6 @@ Tambah pautan Google Colab dalam README
 5. Semak semula README selepas commit.
 6. Pastikan pautan Google Colab boleh dibuka.
 
-## Ringkasan Aliran Kerja
-
-| Langkah | Tindakan |
-|---|---|
-| 1 | Buka Google Colab. |
-| 2 | Pilih tab GitHub. |
-| 3 | Cari repositori latihan. |
-| 4 | Buka notebook daripada GitHub. |
-| 5 | Simpan salinan notebook ke Google Drive. |
-| 6 | Jalankan kod ringkas. |
-| 7 | Salin pautan notebook. |
-| 8 | Tambah pautan dalam README. |
-| 9 | Commit perubahan di GitHub. |
-
 ## Masalah Biasa dan Cara Mengatasi
 
 | Masalah | Tindakan |
