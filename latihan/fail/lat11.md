@@ -177,14 +177,6 @@ Tambah readme latihan GitHub Desktop
 7. Semak sama ada kandungan yang ditambah telah dipaparkan.
 8. Jika perubahan tidak muncul, refresh halaman atau semak semula sama ada proses push telah berjaya.
 
-## Kebaikan Commit dan Push
-
-1. Commit merekod sejarah perubahan projek.
-2. Mesej commit membantu peserta memahami perubahan yang telah dibuat.
-3. Push menghantar perubahan lokal ke GitHub.
-4. Fail dalam komputer dan GitHub web dapat diselaraskan.
-5. Peserta mula membina aliran kerja sebenar menggunakan GitHub Desktop.
-
 ## Masalah Biasa dan Cara Mengatasi
 
 | Masalah | Cadangan Penyelesaian |
@@ -196,13 +188,6 @@ Tambah readme latihan GitHub Desktop
 | Fail berada di folder yang salah | Pastikan fail berada dalam `latihan/id/githubid-anda/readme.md`. |
 | Fail lain turut berubah | Semak perubahan dan jangan commit fail yang tidak berkaitan dengan latihan. |
 
-## Nota Keselamatan
-
-1. Jangan masukkan kata laluan, token atau kunci API dalam `readme.md`.
-2. Jangan commit fail sulit atau data peribadi.
-3. Semak perubahan sebelum klik commit.
-4. Gunakan mesej commit yang sopan, jelas dan profesional.
-5. Jika menggunakan komputer awam atau makmal, pastikan log keluar selepas selesai.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
