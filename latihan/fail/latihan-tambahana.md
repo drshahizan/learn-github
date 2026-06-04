@@ -30,10 +30,10 @@ After completing these additional exercises, participants will be able to:
 
 | No. | Exercise | Main Focus |
 |---:|---|---|
-| 1. | [Build and Publish a github.io Website](tambahan1.md) | Create a portfolio website using GitHub Pages and a `github.io` link. |
-| 2. | [GitHub Copilot in GitHub Web](tambahan2.md) | Use Copilot Chat to review README files, suggest Issues and perform simple code reviews. |
-| 3. | [Connect VS Code with GitHub](tambahan3.md) | Sign in to GitHub, clone a repository, edit files, commit and push through VS Code. |
-| 4. | [Google Colab and GitHub](tambahan4.md) | Open a notebook from GitHub, save a copy, run code and add the link in README. |
+| 1. | [Build and Publish a github.io Website](tambahan1a.md) | Create a portfolio website using GitHub Pages and a `github.io` link. |
+| 2. | [GitHub Copilot in GitHub Web](tambahan2a.md) | Use Copilot Chat to review README files, suggest Issues and perform simple code reviews. |
+| 3. | [Connect VS Code with GitHub](tambahan3a.md) | Sign in to GitHub, clone a repository, edit files, commit and push through VS Code. |
+| 4. | [Google Colab and GitHub](tambahan4a.md) | Open a notebook from GitHub, save a copy, run code and add the link in README. |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
