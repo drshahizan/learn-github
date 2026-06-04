@@ -131,14 +131,6 @@ https://github.com/drshahizan/learn-github.git
 | Proses clone terlalu lama | Semak sambungan internet dan cuba semula. |
 | Repositori tidak muncul dalam akaun sendiri | Gunakan tab `URL` kerana repositori berada di akaun `drshahizan`. |
 
-## Nota Keselamatan
-
-1. Clone repositori awam tidak memberi akses kepada akaun GitHub peserta.
-2. Jangan masukkan kata laluan atau token dalam fail lokal.
-3. Jika menggunakan komputer awam atau komputer makmal, padam folder latihan selepas bengkel jika perlu.
-4. Pastikan peserta hanya clone repositori daripada pautan yang dipercayai.
-5. Semak semula lokasi folder kerja supaya fail projek tidak hilang selepas bengkel.
-
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
 
