@@ -146,26 +146,6 @@ Tambah profil ahli kumpulan
 4. Minta ahli lain menyemak fail yang telah ditambah.
 5. Tunggu maklum balas daripada ahli kumpulan.
 
-## Hasil Latihan
-
-Pada akhir latihan ini, kumpulan mempunyai:
-
-1. Folder `ahli` dalam repositori projek kumpulan.
-2. Satu fail Markdown untuk setiap ahli kumpulan.
-3. Maklumat nama, GitHub ID, peranan dan tugasan setiap ahli.
-4. Commit individu daripada setiap ahli.
-5. Tugasan ahli telah bergerak ke status `Review`.
-
-## Kriteria Siap
-
-Latihan ini dianggap selesai apabila:
-
-1. Setiap ahli mempunyai satu fail dalam folder `ahli`.
-2. Setiap fail mengandungi maklumat ahli yang lengkap.
-3. Setiap ahli telah membuat commit sendiri.
-4. Fail ahli boleh dibuka melalui GitHub web.
-5. Kad tugasan ahli telah digerakkan ke `Review`.
-
 ## Masalah Biasa dan Cara Mengatasi
 
 | Masalah | Cadangan Penyelesaian |
