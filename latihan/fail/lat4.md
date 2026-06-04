@@ -200,14 +200,6 @@ https://github.com/nama-pengguna/nama-repositori
 | Tersalah ejaan dalam README | Klik ikon pensel, baiki teks dan commit perubahan baharu. |
 | README profil tidak muncul pada profil | Pastikan nama repositori sama dengan nama pengguna GitHub dan repositori ialah public. |
 
-## Nota Keselamatan
-
-1. Jangan masukkan kata laluan, token, kunci API atau data peribadi dalam `README.md`.
-2. Elakkan meletakkan alamat rumah penuh, nombor kad pengenalan atau nombor telefon peribadi.
-3. Jika menggunakan contoh orang lain, ubah kandungan supaya benar-benar menggambarkan diri sendiri.
-4. Beri kredit jika menggunakan imej, ikon atau bahan yang bukan milik sendiri.
-5. Pastikan kandungan sesuai untuk dilihat oleh pensyarah, rakan, komuniti dan majikan.
-
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
 
