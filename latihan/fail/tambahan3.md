@@ -146,18 +146,6 @@ Tambah profil latihan GitHub ID
 5. Pastikan maklumat yang anda tambah dipaparkan dengan betul.
 6. Salin pautan fail tersebut jika diminta oleh fasilitator.
 
-## Ringkasan Aliran Kerja
-
-| Langkah | Tindakan |
-|---|---|
-| 1 | Log masuk GitHub dalam VS Code. |
-| 2 | Clone repositori latihan ke komputer. |
-| 3 | Tambah folder dan fail latihan. |
-| 4 | Semak perubahan dalam Source Control. |
-| 5 | Commit perubahan. |
-| 6 | Push perubahan ke GitHub. |
-| 7 | Semak hasil di GitHub web. |
-
 ## Masalah Biasa dan Cara Mengatasi
 
 | Masalah | Tindakan |
