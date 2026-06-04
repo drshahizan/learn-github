@@ -169,17 +169,6 @@ Add README improvements using Copilot suggestions
 5. Click **Commit changes**.
 6. Check the README display again after the commit.
 
-## Responsible Practices
-
-| Item | Recommended Practice |
-|---|---|
-| Copilot answers | Review them before use. |
-| README content | Make sure the project information is true. |
-| Code | Understand the code before saving it in the repository. |
-| Issues | Choose issues that match the project scope. |
-| Academic ethics | State AI usage if it is used in an assignment. |
-| Sensitive data | Do not enter passwords, tokens, API keys or personal data. |
-
 ## Common Problems and How to Solve Them
 
 | Problem | Action |
