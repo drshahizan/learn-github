@@ -29,28 +29,28 @@ After completing the mini project, participants will be able to:
 
 | No. | Exercise | Main Focus |
 |---:|---|---|
-| 1 | [Create a Group Project Repository](fail/mp1.md) | The group leader creates the project repository, enables README and shares the link. |
-| 2 | [Add Members as Collaborators](fail/mp2.md) | The leader invites 3 group members and all members accept the invitation. |
+| 1 | [Create a Group Project Repository](fail/mp1a.md) | The group leader creates the project repository, enables README and shares the link. |
+| 2 | [Add Members as Collaborators](fail/mp2a.md) | The leader invites 3 group members and all members accept the invitation. |
 
 ### Part B: Task Distribution and Project Management
 
 | No. | Exercise | Main Focus |
 |---:|---|---|
-| 3 | [Create Issues for Task Distribution](fail/mp3.md) | Create at least 4 Issues, with one task for each member. |
-| 4 | [Create a GitHub Projects Board](fail/mp4.md) | Arrange Issues in a board with To Do, In Progress, Review and Done columns. |
+| 3 | [Create Issues for Task Distribution](fail/mp3a.md) | Create at least 4 Issues, with one task for each member. |
+| 4 | [Create a GitHub Projects Board](fail/mp4a.md) | Arrange Issues in a board with To Do, In Progress, Review and Done columns. |
 
 ### Part C: Member Contributions and Team Review
 
 | No. | Exercise | Main Focus |
 |---:|---|---|
-| 5 | [Each Member Edits Their Own File](fail/mp5.md) | Each member adds their own Markdown file in the `ahli` folder and commits the changes. |
-| 6 | [Pull Request and Team Review](fail/mp6.md) | Open a Pull Request, have another member review it, merge the changes and close the Issue. |
+| 5 | [Each Member Edits Their Own File](fail/mp5a.md) | Each member adds their own Markdown file in the `ahli` folder and commits the changes. |
+| 6 | [Pull Request and Team Review](fail/mp6a.md) | Open a Pull Request, have another member review it, merge the changes and close the Issue. |
 
 ### Part D: Final Project Documentation
 
 | No. | Exercise | Main Focus |
 |---:|---|---|
-| 7 | [Update the Project README](fail/mp7.md) | Complete the main README with the project name, members, roles, file links and status. |
+| 7 | [Update the Project README](fail/mp7a.md) | Complete the main README with the project name, members, roles, file links and status. |
 
 ## Contribution 🛠️
 <p align="left">
