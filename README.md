@@ -23,7 +23,7 @@
 
 Bengkel ini memperkenalkan GitHub sebagai platform untuk menyimpan bahan projek, menghasilkan dokumentasi, membina portfolio digital dan mengurus kolaborasi pasukan.
 
-Fokus bengkel ialah penggunaan GitHub secara praktikal melalui antaramuka web dan aplikasi sokongan. Peserta tidak perlu mempunyai pengalaman menggunakan arahan Git melalui command-line.
+Fokus bengkel ialah penggunaan GitHub secara praktikal melalui antaramuka web, GitHub Desktop, Visual Studio Code dan aplikasi sokongan lain. Peserta tidak perlu mempunyai pengalaman menggunakan arahan Git melalui command-line.
 
 ## Objektif Bengkel
 
@@ -53,6 +53,30 @@ Pada akhir bengkel, peserta dijangka mempunyai:
 | 3 | Latihan Asas | [Latihan Bengkel Asas GitHub](https://github.com/drshahizan/learn-github/blob/main/latihan/) |
 | 4 | Mini Projek | [Mini Projek GitHub](https://github.com/drshahizan/learn-github/blob/main/projek/readme.md) |
 | 5 | Latihan Tambahan | [GitHub Pages, Copilot, VS Code dan Google Colab](https://github.com/drshahizan/learn-github/blob/main/latihan/fail/latihan-tambahan.md) |
+
+## Untuk Peserta
+
+Sebelum bengkel:
+
+- Sediakan emel aktif.
+- Pastikan boleh log masuk ke akaun emel.
+- Bawa komputer riba jika ada.
+- Pastikan komputer boleh mengakses GitHub melalui pelayar web.
+
+Semasa bengkel:
+
+- Ikut latihan mengikut turutan.
+- Simpan pautan profil GitHub.
+- Simpan pautan repositori projek.
+- Gunakan nama fail dan folder yang kemas.
+- Tanya fasilitator jika ada masalah teknikal.
+
+Selepas bengkel:
+
+- Kemas kini profil GitHub.
+- Kemas kini README projek.
+- Semak semula pautan projek dan demo.
+- Kongsi pautan profil atau repositori sebagai portfolio digital.
 
 ## Perisian dan Platform Berkaitan
 
