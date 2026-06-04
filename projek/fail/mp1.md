@@ -129,25 +129,6 @@ https://github.com/nama-pengguna/nama-repositori
 4. Simpan pautan ini kerana ia akan digunakan dalam latihan tambah collaborator.
 5. Pastikan semua ahli kumpulan boleh membuka pautan tersebut.
 
-## Hasil Latihan
-
-Pada akhir latihan ini, kumpulan mempunyai:
-
-1. Satu repositori projek kumpulan.
-2. Nama repositori yang sesuai.
-3. Description repositori yang jelas.
-4. Fail `README.md` yang telah diaktifkan.
-5. Pautan repositori untuk dikongsi kepada ahli kumpulan dan fasilitator.
-
-## Kriteria Siap
-
-Latihan ini dianggap selesai apabila:
-
-1. Repositori projek kumpulan berjaya dicipta.
-2. Repositori boleh dibuka melalui pautan GitHub.
-3. Fail `README.md` wujud.
-4. Ketua kumpulan boleh melihat tab `Settings`.
-5. Pautan repositori telah dikongsi kepada semua ahli kumpulan.
 
 ## Masalah Biasa dan Cara Mengatasi
 
