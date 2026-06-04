@@ -17,26 +17,9 @@ Modul latihan ini disediakan untuk peserta **Bengkel Asas GitHub**. Fokus latiha
 
 Selepas melengkapkan latihan, peserta dapat:
 
-1. Mencipta dan mengemas kini akaun GitHub.
-2. Membina profil GitHub yang sesuai untuk portfolio digital.
-3. Menghasilkan repositori projek pertama.
-4. Menulis README yang lengkap dan kemas.
-5. Menggunakan Markdown asas dalam fail README.
-6. Memuat naik fail projek, imej dan pautan demo.
-7. Mengurus tugasan menggunakan Issues dan GitHub Projects.
-8. Menghubungkan GitHub dengan GitHub Desktop, Visual Studio Code dan Google Colab.
-9. Mengamalkan keselamatan asas, etika akademik dan hak cipta.
-
-## Hasil Akhir Peserta
-
-Pada akhir bengkel, peserta dijangka mempunyai:
-
-- Akaun GitHub yang aktif.
-- Profil GitHub yang lebih profesional.
-- Sekurang-kurangnya satu repositori projek.
-- README projek yang mempunyai tajuk, ringkasan, ciri utama, teknologi, ahli kumpulan dan status projek.
-- Tangkapan skrin atau pautan demo jika ada.
-- Pautan profil atau repositori yang boleh dikongsi kepada fasilitator.
+- Membina profil GitHub yang profesional sebagai portfolio digital.
+- Menghasilkan repositori projek yang tersusun dengan dokumentasi README yang lengkap menggunakan Markdown asas.
+- Mengurus dan menerbitkan bahan projek melalui GitHub web, GitHub Desktop serta amalan keselamatan dan etika akademik yang sesuai.
 
 ## Jadual Kandungan Latihan
 
