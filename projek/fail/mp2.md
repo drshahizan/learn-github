@@ -115,26 +115,6 @@ ahli-ketiga
 4. Jika ada ahli belum menerima jemputan, minta ahli tersebut semak notifikasi atau emel GitHub.
 5. Pastikan semua ahli selesai sebelum bergerak ke latihan Issues dan Projects.
 
-## Hasil Latihan
-
-Pada akhir latihan ini, kumpulan mempunyai:
-
-1. Tiga ahli kumpulan telah dijemput sebagai collaborator.
-2. Semua ahli telah menerima jemputan.
-3. Semua ahli boleh membuka repositori projek kumpulan.
-4. Semua ahli boleh meneruskan latihan Issues, Projects dan kolaborasi.
-5. Ketua kumpulan mempunyai senarai GitHub ID ahli yang lengkap.
-
-## Kriteria Siap
-
-Latihan ini dianggap selesai apabila:
-
-1. Ketua kumpulan boleh membuka senarai collaborator.
-2. Tiga ahli kumpulan tersenarai sebagai collaborator.
-3. Semua ahli berjaya menerima jemputan.
-4. Semua ahli boleh membuka repositori projek kumpulan.
-5. Semua ahli bersedia untuk menerima tugasan melalui Issues.
-
 ## Masalah Biasa dan Cara Mengatasi
 
 | Masalah | Cadangan Penyelesaian |
