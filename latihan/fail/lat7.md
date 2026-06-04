@@ -139,14 +139,6 @@ Contoh menambah imej dalam README:
 ![Paparan utama Mad_club](images/paparan-utama.png)
 ```
 
-## Kebaikan Muat Naik Fail Projek
-
-1. Repositori menjadi lebih lengkap.
-2. Fail lebih tersusun.
-3. Dokumentasi projek lebih mudah disokong dengan fail sebenar.
-4. Fasilitator lebih mudah membuat semakan.
-5. Peserta melatih amalan commit yang baik.
-
 ## Masalah Biasa dan Cara Mengatasi
 
 | Masalah | Cadangan Penyelesaian |
@@ -156,14 +148,6 @@ Contoh menambah imej dalam README:
 | Fail berada di lokasi yang salah | Susun semula fail atau muat naik semula dalam folder yang betul. |
 | Imej tidak muncul dalam README | Semak nama folder, nama fail dan format Markdown imej. |
 | Mesej commit terlalu umum | Gunakan mesej yang menerangkan perubahan, contohnya `Tambah fail HTML awal`. |
-
-## Nota Keselamatan
-
-1. Jangan muat naik kata laluan, token, kunci API atau fail konfigurasi sulit.
-2. Jangan muat naik data peribadi, data pelanggan atau maklumat ahli kelab tanpa kebenaran.
-3. Semak fail sebelum commit.
-4. Elakkan memuat naik fail yang terlalu besar tanpa keperluan.
-5. Pastikan fail yang dikongsi sesuai untuk dilihat oleh pensyarah, rakan dan pihak luar.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
