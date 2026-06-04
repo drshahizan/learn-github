@@ -190,28 +190,6 @@ Tambah ahli kumpulan dan status projek
 4. Klik pautan fail ahli untuk memastikan pautan berfungsi.
 5. Tunjukkan paparan akhir kepada fasilitator jika diminta.
 
-## Hasil Latihan
-
-Pada akhir latihan ini, kumpulan mempunyai:
-
-1. README projek kumpulan yang lengkap.
-2. Nama projek dan ringkasan projek.
-3. Jadual ahli kumpulan dan peranan.
-4. Pautan kepada fail setiap ahli.
-5. Ringkasan kolaborasi kumpulan.
-6. Status projek yang jelas.
-
-## Kriteria Siap
-
-Latihan ini dianggap selesai apabila:
-
-1. README utama telah dikemas kini.
-2. Jadual ahli kumpulan lengkap.
-3. Pautan fail ahli berfungsi.
-4. Ringkasan kolaborasi ditulis.
-5. Status projek dinyatakan.
-6. Perubahan README telah di-commit.
-
 ## Masalah Biasa dan Cara Mengatasi
 
 | Masalah | Cadangan Penyelesaian |
