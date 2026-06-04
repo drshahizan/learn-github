@@ -122,14 +122,6 @@ Profil yang baik memudahkan peserta memaparkan repositori terbaik sebagai bukti 
 | Bio terlalu panjang | Pendekkan kepada satu atau dua baris yang paling penting. |
 | Profil masih nampak kosong | Tambah bio, gambar, lokasi, pautan dan pin repositori terbaik selepas latihan repositori. |
 
-## Nota Keselamatan
-
-1. Jangan masukkan maklumat peribadi yang sensitif.
-2. Elakkan meletakkan alamat rumah penuh, nombor kad pengenalan atau nombor telefon peribadi.
-3. Gunakan gambar yang sesuai untuk konteks pembelajaran dan profesional.
-4. Pastikan pautan luar yang dimasukkan adalah pautan yang benar-benar milik peserta.
-5. Jika menggunakan komputer awam atau komputer makmal, pastikan log keluar selepas selesai.
-
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
 
