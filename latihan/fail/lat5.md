@@ -235,13 +235,6 @@ Tambah README projek Mad_club
 | Senarai tidak kemas | Gunakan `-` pada setiap item senarai. |
 | Terlupa commit | Scroll ke bawah dan klik `Commit changes` selepas mengedit. |
 
-## Nota Keselamatan
-
-1. Jangan masukkan nombor kad pengenalan, nombor telefon peribadi atau alamat rumah dalam README.
-2. Jangan masukkan kata laluan, token atau kunci API.
-3. Jika projek menggunakan data sebenar ahli kelab, pastikan data tersebut tidak didedahkan tanpa kebenaran.
-4. Gunakan nama ahli kumpulan yang dibenarkan untuk dipaparkan.
-5. Pastikan kandungan README sesuai untuk dibaca oleh pensyarah, rakan dan pihak luar.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
