@@ -169,17 +169,6 @@ Tambah penambahbaikan README menggunakan cadangan Copilot
 5. Klik **Commit changes**.
 6. Semak semula paparan README selepas commit.
 
-## Amalan Bertanggungjawab
-
-| Perkara | Amalan Yang Disarankan |
-|---|---|
-| Jawapan Copilot | Semak dahulu sebelum digunakan. |
-| Kandungan README | Pastikan maklumat projek adalah benar. |
-| Kod | Fahami kod sebelum disimpan dalam repositori. |
-| Isu | Pilih isu yang sesuai dengan skop projek. |
-| Etika akademik | Nyatakan penggunaan AI jika digunakan dalam tugasan. |
-| Data sensitif | Jangan masukkan kata laluan, token, API key atau data peribadi. |
-
 ## Masalah Biasa dan Cara Mengatasi
 
 | Masalah | Tindakan |
