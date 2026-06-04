@@ -14,7 +14,7 @@
 <p align="center">
   Language:
   <a href="README.md">Malay</a> &nbsp;&middot;&nbsp;
-  <a href=""><b>English</b></a> &nbsp;&middot;&nbsp;
+  <b>English</b> &nbsp;&middot;&nbsp;
 
 </p>
 
