@@ -144,26 +144,6 @@ question
 4. Pastikan tiada tugasan yang bertindih secara tidak perlu.
 5. Jika ada kesilapan, buka Issue tersebut dan kemas kini maklumatnya.
 
-## Hasil Latihan
-
-Pada akhir latihan ini, kumpulan mempunyai:
-
-1. Sekurang-kurangnya 4 Issues dalam repositori projek kumpulan.
-2. Satu Issue untuk setiap ahli kumpulan.
-3. Tajuk Issue yang jelas.
-4. Penerangan tugasan yang boleh difahami.
-5. Tugasan yang telah di-assign kepada ahli berkaitan.
-
-## Kriteria Siap
-
-Latihan ini dianggap selesai apabila:
-
-1. Semua ahli kumpulan mempunyai tugasan melalui Issues.
-2. Setiap Issue mempunyai tajuk dan penerangan.
-3. Setiap Issue telah di-assign kepada ahli yang betul.
-4. Senarai Issues boleh dilihat oleh semua collaborator.
-5. Kumpulan bersedia untuk menyusun tugasan dalam GitHub Projects.
-
 ## Masalah Biasa dan Cara Mengatasi
 
 | Masalah | Cadangan Penyelesaian |
