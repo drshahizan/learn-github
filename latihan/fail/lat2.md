@@ -97,18 +97,6 @@ Pada akhir latihan ini, peserta perlu mempunyai:
 4. Boleh menyatakan sekurang-kurangnya tiga kebaikan follow profil GitHub.
 5. Mempunyai idea awal tentang cara profil dan repositori boleh dijadikan bahan pembelajaran.
 
-## Semakan Latihan
-
-Tandakan jika selesai:
-
-1. Saya telah log masuk ke akaun GitHub sendiri.
-2. Saya berjaya membuka profil `https://github.com/drshahizan`.
-3. Saya telah klik butang `Follow`.
-4. Saya telah menyemak status following.
-5. Saya telah membuka sekurang-kurangnya satu repositori rujukan.
-6. Saya telah membaca README dalam repositori tersebut.
-7. Saya faham kebaikan follow profil GitHub.
-
 ## Masalah Biasa dan Cara Mengatasi
 
 | Masalah | Cadangan Penyelesaian |
@@ -118,13 +106,6 @@ Tandakan jika selesai:
 | Butang Follow tidak berubah | Refresh halaman dan semak semula status. |
 | Tidak nampak senarai following | Buka profil sendiri dan cari bahagian following. |
 | Repositori terlalu banyak | Pilih satu repositori sahaja untuk diteroka dahulu. |
-
-## Nota Keselamatan
-
-1. Follow profil tidak memberi akses kepada akaun peserta.
-2. Follow tidak berkongsi kata laluan atau maklumat peribadi.
-3. Peserta masih perlu berhati-hati apabila membuka pautan luar dalam mana-mana repositori.
-4. Jangan salin kandungan repositori orang lain tanpa memahami, memberi kredit dan mematuhi lesen yang berkaitan.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
