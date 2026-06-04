@@ -14,7 +14,7 @@
 <p align="center">
   Bahasa:
   <a href=""><b>Melayu</b></a> &nbsp;&middot;&nbsp;
-  <a href="README2a.md">English</a> &nbsp;&middot;&nbsp;
+  <a href="README1.md">English</a> &nbsp;&middot;&nbsp;
 
 </p>
 
