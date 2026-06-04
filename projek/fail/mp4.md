@@ -119,26 +119,6 @@ Done
 4. Pastikan sekurang-kurangnya satu tugasan telah digerakkan mengikut status kerja.
 5. Kongsi paparan board kepada fasilitator jika diminta.
 
-## Hasil Latihan
-
-Pada akhir latihan ini, kumpulan mempunyai:
-
-1. Satu GitHub Projects Board.
-2. Empat lajur utama iaitu `To Do`, `In Progress`, `Review` dan `Done`.
-3. Issues kumpulan dimasukkan ke dalam board.
-4. Setiap ahli mempunyai tugasan dalam board.
-5. Status tugasan boleh dipantau secara visual.
-
-## Kriteria Siap
-
-Latihan ini dianggap selesai apabila:
-
-1. Project board berjaya dicipta.
-2. Semua Issues kumpulan telah dimasukkan ke board.
-3. Lajur tugasan telah disediakan.
-4. Tugasan setiap ahli boleh dilihat pada board.
-5. Sekurang-kurangnya satu tugasan telah digerakkan ke status yang sesuai.
-
 ## Masalah Biasa dan Cara Mengatasi
 
 | Masalah | Cadangan Penyelesaian |
