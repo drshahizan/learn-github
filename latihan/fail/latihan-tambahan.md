@@ -8,7 +8,7 @@
 # Latihan Tambahan Bengkel Asas GitHub
 
 <p align="center">
-<img src="../imej/lat_1.png"  height="700" />
+<img src="../imej/tambahan.png"  height="700" />
 </p>
 
 Latihan tambahan ini disediakan untuk peserta **Bengkel Asas GitHub** yang ingin mengembangkan penggunaan GitHub kepada portfolio web, bantuan AI, editor kod dan notebook awan. Fokus utama latihan ialah menghasilkan bahan yang boleh dikongsi, disemak dan digunakan semula dalam portfolio digital peserta.
