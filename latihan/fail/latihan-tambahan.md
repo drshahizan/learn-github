@@ -26,10 +26,10 @@ Selepas melengkapkan latihan tambahan ini, peserta dapat:
 
 | No. | Latihan | Fokus Utama |
 |---:|---|---|
-| 1 | [Bina dan Terbitkan Laman github.io](fail/tambahan1.md) | Cipta laman portfolio menggunakan GitHub Pages dan pautan `github.io`. |
-| 2 | [GitHub Copilot Dalam GitHub Web](fail/tambahan2.md) | Gunakan Copilot Chat untuk semakan README, cadangan Issues dan semakan kod ringkas. |
-| 3 | [Hubungkan VS Code Dengan GitHub](fail/tambahan3.md) | Log masuk GitHub, clone repositori, edit fail, commit dan push melalui VS Code. |
-| 4 | [Google Colab dan GitHub](fail/tambahan4.md) | Buka notebook daripada GitHub, simpan salinan, jalankan kod dan tambah pautan dalam README. |
+| 1. | [Bina dan Terbitkan Laman github.io](fail/tambahan1.md) | Cipta laman portfolio menggunakan GitHub Pages dan pautan `github.io`. |
+| 2. | [GitHub Copilot Dalam GitHub Web](fail/tambahan2.md) | Gunakan Copilot Chat untuk semakan README, cadangan Issues dan semakan kod ringkas. |
+| 3. | [Hubungkan VS Code Dengan GitHub](fail/tambahan3.md) | Log masuk GitHub, clone repositori, edit fail, commit dan push melalui VS Code. |
+| 4. | [Google Colab dan GitHub](fail/tambahan4.md) | Buka notebook daripada GitHub, simpan salinan, jalankan kod dan tambah pautan dalam README. |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
