@@ -183,14 +183,6 @@ Tambah imej dan pautan demo dalam README
 5. Pastikan pautan demo berfungsi.
 6. Jika ada masalah, edit README dan commit perubahan baharu.
 
-## Kebaikan Menambah Imej Dalam README
-
-1. Projek lebih mudah difahami.
-2. README lebih menarik.
-3. Fasilitator boleh melihat output projek dengan cepat.
-4. Repositori lebih kuat sebagai portfolio digital.
-5. Peserta lebih mudah membentangkan projek.
-
 ## Masalah Biasa dan Cara Mengatasi
 
 | Masalah | Cadangan Penyelesaian |
@@ -200,14 +192,6 @@ Tambah imej dan pautan demo dalam README
 | Huruf besar dan kecil tidak sepadan | Pastikan ejaan dalam README sama dengan nama fail sebenar. |
 | Imej terlalu besar | Kecilkan saiz imej sebelum muat naik. |
 | Pautan demo tidak berfungsi | Buka pautan dalam tab baharu dan semak semula alamat URL. |
-
-## Nota Keselamatan
-
-1. Jangan muat naik tangkapan skrin yang mengandungi kata laluan, token, kunci API atau data sulit.
-2. Elakkan memaparkan maklumat peribadi seperti nombor telefon, alamat rumah atau nombor kad pengenalan.
-3. Semak imej sebelum dimuat naik.
-4. Gunakan imej milik sendiri atau imej yang dibenarkan.
-5. Jika imej menunjukkan maklumat ahli kumpulan, pastikan semua ahli bersetuju untuk dipaparkan.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
