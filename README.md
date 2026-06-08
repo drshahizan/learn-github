@@ -65,7 +65,7 @@ Pada akhir bengkel, peserta dijangka mempunyai:
 
 ## Untuk Peserta
 
-Sebelum bengkel:
+[Sebelum bengkel]():
 
 - Sediakan emel aktif.
 - Pastikan boleh log masuk ke akaun emel.
