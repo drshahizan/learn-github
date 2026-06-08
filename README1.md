@@ -47,7 +47,7 @@ At the end of the workshop, participants are expected to have:
 
 | No. | Material | Content |
 |---:|---|---|
-| 1 | Presentation Slides | [Basic GitHub Workshop](pautan-slaid) |
+| 1 | Presentation Slides | [Basic GitHub Workshop](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQA1-AjXEPoYQ6i--Rwy0WF-AXTARdMm-gR4-yHxDWi_Siw?e=2i49wb) |
 | 2 | Participant Module | [Basic GitHub Workshop Module](pautan-modul) |
 | 3 | Basic Exercises | [Basic GitHub Workshop Exercises](https://github.com/drshahizan/learn-github/blob/main/latihan/READMEa.md) |
 | 4 | Mini Project | [GitHub Mini Project](https://github.com/drshahizan/learn-github/blob/main/projek/README1.md) |
