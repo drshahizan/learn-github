@@ -65,7 +65,7 @@ At the end of the workshop, participants are expected to have:
 
 ## For Participants
 
-Before the workshop:
+[Before the workshop](https://github.com/drshahizan/learn-github/blob/main/materials/before.md):
 
 - Prepare an active email address.
 - Make sure you can sign in to your email account.
