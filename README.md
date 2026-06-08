@@ -58,7 +58,9 @@ Pada akhir bengkel, peserta dijangka mempunyai:
 | No. | Bahan | 
 |---:|---|
 | 1| [UTMSmart]()|
-|2 |[https://drshahizan.github.io/](https://drshahizan.github.io/)|
+| 2|[https://drshahizan.github.io/](https://drshahizan.github.io/)|
+| 3|[https://github.com/drshahizan/drshahizan.github.io](https://github.com/drshahizan/drshahizan.github.io)|
+
 
 ## Untuk Peserta
 
