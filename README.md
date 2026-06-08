@@ -53,6 +53,13 @@ Pada akhir bengkel, peserta dijangka mempunyai:
 | 4 | Mini Projek | [Mini Projek GitHub](https://github.com/drshahizan/learn-github/blob/main/projek/readme.md) |
 | 5 | Latihan Tambahan | [GitHub Pages, Copilot, VS Code dan Google Colab](https://github.com/drshahizan/learn-github/blob/main/latihan/fail/latihan-tambahan.md) |
 
+## Kajian Kes
+
+| No. | Bahan | 
+|---:|---|
+| 1| [UTMSmart]()|
+|2 |[https://drshahizan.github.io/](https://drshahizan.github.io/)|
+
 ## Untuk Peserta
 
 Sebelum bengkel:
