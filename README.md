@@ -46,7 +46,7 @@ Pada akhir bengkel, peserta dijangka mempunyai:
 ## Bahan Bengkel
 
 | No. | Bahan | Kandungan |
-|---:|---|---|
+|----:|-------|-----------|
 | 1 | Slaid Pembentangan | [Bengkel Asas GitHub](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQDSgK_40yzxRpsgdPOoq7sLASVFFIAg1ef0WoNJsgFLAMo?e=0iHxza) |
 | 2 | Modul Peserta | [Modul Bengkel Asas GitHub](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQCgH34J3ObjRKPYlUcGIB-lAUavfkXvoTnDYvXqLyEJzuM?e=K9VokD) |
 | 3 | Latihan Asas | [Latihan Bengkel Asas GitHub](https://github.com/drshahizan/learn-github/blob/main/latihan/) |
