@@ -53,6 +53,16 @@ At the end of the workshop, participants are expected to have:
 | 4 | Mini Project | [GitHub Mini Project](https://github.com/drshahizan/learn-github/blob/main/projek/README1.md) |
 | 5 | Additional Exercises | [GitHub Pages, Copilot, VS Code and Google Colab](https://github.com/drshahizan/learn-github/blob/main/latihan/fail/latihan-tambahana.md) |
 
+## Case Studies
+
+| No. | Resource |
+|----:|----------|
+| 1 | [UTMSmart — Case Study Report](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQBvzZdm_98HQYYh0O8vAgaCAXqoioriSiVN6rfIbHFsltw?e=ZsgEkf) |
+| 2 | [Personal Website — drshahizan.github.io](https://drshahizan.github.io/) |
+| 3 | [GitHub Repository — drshahizan.github.io](https://github.com/drshahizan/drshahizan.github.io) |
+| 4 | [Mobile Application Programming](https://github.com/drshahizan/mobile_apps) |
+| 5 | [Software Engineering](https://github.com/drshahizan/software-engineering) |
+
 ## For Participants
 
 Before the workshop:
