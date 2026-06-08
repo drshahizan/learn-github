@@ -55,12 +55,13 @@ Pada akhir bengkel, peserta dijangka mempunyai:
 
 ## Kajian Kes
 
-| No. | Bahan | 
-|---:|---|
-| 1| [UTMSmart]()|
-| 2|[https://drshahizan.github.io/](https://drshahizan.github.io/)|
-| 3|[https://github.com/drshahizan/drshahizan.github.io](https://github.com/drshahizan/drshahizan.github.io)|
-
+| No. | Bahan |
+|----:|-------|
+| 1 | [UTMSmart — Laporan Kajian Kes](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQBvzZdm_98HQYYh0O8vAgaCAXqoioriSiVN6rfIbHFsltw?e=ZsgEkf) |
+| 2 | [Laman Web Peribadi — drshahizan.github.io](https://drshahizan.github.io/) |
+| 3 | [Repository GitHub — drshahizan.github.io](https://github.com/drshahizan/drshahizan.github.io) |
+| 4 | [Mobile Application Programming](https://github.com/drshahizan/mobile_apps) |
+| 5 | [Software Engineering](https://github.com/drshahizan/software-engineering) |
 
 ## Untuk Peserta
 
