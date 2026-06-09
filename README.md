@@ -62,6 +62,7 @@ Pada akhir bengkel, peserta dijangka mempunyai:
 | 3 | [Repository GitHub — drshahizan.github.io](https://github.com/drshahizan/drshahizan.github.io) |
 | 4 | [Mobile Application Programming](https://github.com/drshahizan/mobile_apps) |
 | 5 | [Software Engineering](https://github.com/drshahizan/software-engineering) |
+| 6| [Awesome Artificial General Intelligence](https://github.com/freeman42x/awesome-artificial-general-intelligence)|
 
 ## Untuk Peserta
 
