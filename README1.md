@@ -62,6 +62,8 @@ At the end of the workshop, participants are expected to have:
 | 3 | [GitHub Repository — drshahizan.github.io](https://github.com/drshahizan/drshahizan.github.io) |
 | 4 | [Mobile Application Programming](https://github.com/drshahizan/mobile_apps) |
 | 5 | [Software Engineering](https://github.com/drshahizan/software-engineering) |
+| 6 | [RICE: Refining Instance Masks in Cluttered Environments with Graph Neural Networks](https://github.com/chrisdxie/rice)|
+| 7 | [Awesome Artificial General Intelligence](https://github.com/freeman42x/awesome-artificial-general-intelligence)|
 
 ## For Participants
 
