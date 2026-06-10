@@ -10,3 +10,16 @@ Hi my name is **Harith** 😛😛😛😛😛😛😛. I study in *UKM*
 |amir|beban|tak buat| kerja|
 
 [Amir hensem](https://www.youtube.com/)
+
+
+
+```mermaid
+graph TD;
+    A-->B;
+    E-->C;
+    B-->D;
+    C-->D;
+    A-->F;
+    E-->B;
+    B-->C;
+    C-->E;
