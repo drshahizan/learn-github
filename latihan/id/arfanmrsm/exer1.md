@@ -9,4 +9,4 @@ My name is **Muhammad Arfan** 🤩. I'm at *UKM*. <!-- bolds it-->
 |--|--|--|
 |1|Slaid Pembentangan|Abc|
 
-[FTSM]{https://ftsm.ukm.my/v6/}
+[FTSM]https://ftsm.ukm.my/v6/
