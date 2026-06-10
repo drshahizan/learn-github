@@ -15,3 +15,12 @@ My name is **Hadhirah** 😻. I'm at *UKM*.
 flowchart TD
     id1["HAII I'M HADHIRAH ZAFREEN"]
 ```
+
+```mermaid
+flowchart TD
+    A([Hadhirah Zafreen]) --> B[Software Engineering Student]
+    B --> C[Learn GitHub]
+    C --> D[Create Projects]
+    D --> E[Improve Skills]
+    E --> F([Success])
+```
