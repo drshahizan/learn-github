@@ -4,7 +4,7 @@ My Name is **Ain**. I'm at *UKM*.
 |----|--|-------|
 |BAA|MKM|WKWKWKW|
 
-[FTSM]https://ftsm.ukm.my/v6/
+[FTSM](https://ftsm.ukm.my/v6/)
 
 # 🌸 Hello world! I'm Ain Farisya.
 
