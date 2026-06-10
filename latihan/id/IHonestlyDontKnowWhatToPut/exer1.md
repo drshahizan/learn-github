@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Comic+Sans+MS&weight=600&size=22&pause=1000&color=D4BBEE&center=true&vCenter=true&width=500&lines=Coding+in+Java+💻;Designing+in+Figma+🎨;Writing+Fiction+✨;Leading+Marketing+🚀" alt="Typing Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHB1aGpxZWN6aXpoZ2pzeDlyOWZ2eXBteWVyeDAzc2I5YXJ6enp0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L8K62iTDkzrx6/giphy.gif" width="120" align="right" alt="Typing Cat">
+  
+  # 🌸 Hello world! I'm Ain Farisya.
+  
+  <img src="https://readme-typing-svg.demolab.com/?font=Comic+Sans+MS&weight=600&size=22&pause=1000&color=D4BBEE&center=true&vCenter=true&width=600&lines=Coding+in+Java+💻;Designing+in+Figma+🎨;Writing+Fiction+✨;Leading+Marketing+🚀" alt="Typing Animation" />
 </div>
-My Name is **Ain**. I'm at *UKM*.
 
-|Column 1|Column 2|Column 3|
-|----|--|-------|
-|BAA|MKM|WKWKWKW|
+
 
 [FTSM](https://ftsm.ukm.my/v6/)
 
