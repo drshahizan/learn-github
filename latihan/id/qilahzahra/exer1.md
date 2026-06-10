@@ -11,8 +11,6 @@ My name is **Aqilah** 🥰. I'm at *UKM*.
 
 [FTSM](https://ftsm.ukm.my/v6/)
 
-# Contoh Fail Markdown dengan Mermaid
-
 ## Diagram Aliran Sistem Pendaftaran Pelajar
 
 ```mermaid
