@@ -11,13 +11,14 @@ My name is **Shahir**💻. I'm at *UKM*.
 
 [FTSM](https://ftsm.ukm.my/v6/)
 
+```mermaid
 gantt
-    title Pecahan Masa & Fokus Aku
-    dateFormat  X
-    axisFormat %s
-    section Masa Produktif
-    Tulis Kod Padu          :active, 0, 80
-    Selesai Bug             :active, 0, 50
-    section Masa Santai
-    Minum Kopi              :crit, 0, 100
-    Scroll GitHub           : 0, 40
+title Pecahan Masa & Fokus Aku
+dateFormat  X
+axisFormat %s
+section Masa Produktif
+Tulis Kod Padu          :active, 0, 80
+Selesai Bug             :active, 0, 50
+section Masa Santai
+Minum Kopi              :crit, 0, 100
+Scroll GitHub           : 0, 40
