@@ -11,6 +11,7 @@ My Name is **⋆.˚ ᡣ𐭩 .𖥔˚Zarifah⋆.˚ ᡣ𐭩 .𖥔˚**. I'm at *UKM*
 
 **🏛️University:**[FTSM](https://ftsm.ukm.my/v6/)
 
+```mermaid
 mindmap
   root((mindmap))
     Origins
@@ -22,11 +23,9 @@ mindmap
       On effectiveness<br/>and features
       On Automatic creation
         Uses
-            Creative techniques
-            Strategic planning
-            Argument mapping
+          Creative techniques
+          Strategic planning
+          Argument mapping
     Tools
       Pen and paper
       Mermaid
-
-
