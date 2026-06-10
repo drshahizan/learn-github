@@ -11,6 +11,7 @@ My name is **Muhammad Arfan** 🤩. I'm at *UKM*. <!-- bolds it-->
 
 [FTSM](https://ftsm.ukm.my/v6/)
 
+```mermaid
 graph TD
     A[Start: Make Tea] --> B[Boil Water]
     B --> C{Got a teabag?}
@@ -23,3 +24,4 @@ graph TD
     H --> I[Add milk/sugar if desired]
     I --> J[Enjoy your tea!]
     J --> K[End]
+```
