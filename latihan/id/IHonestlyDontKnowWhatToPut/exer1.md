@@ -1,5 +1,8 @@
 My Name is **Ain**. I'm at *UKM*.
 
+|Column 1|Column 2|Column 3|
+|----|--|-------|
+|BAA|MKM|WKWKWKW|
 
 # 🌸 Hello world! I'm Ain Farisya.
 
