@@ -11,16 +11,10 @@ My name is ˚˖𓍢ִ໋❀ **Qurratu Ain** ˚˖𓍢ִ໋❀. I'm at *UKM*
 
 [FTSM](https://ftsm.ukm.my/v6/)
 
----
-config:
-  pie:
-    textPosition: 0.5
-  themeVariables:
-    pieOuterStrokeWidth: "5px"
----
+%%{init: {'theme': 'base', 'themeVariables': { 'pieOuterStrokeWidth': '5px'}}}%%
 pie showData
-    what i loves
-    "food" : 42.96
-    "sleep" : 50.05
-    "music" : 10.01
-    "study" :  5
+    title 🌸 WHAT I LOVE 🌸
+    "Sleep 💤" : 50.00
+    "Food 🍲" : 35.00
+    "Music 🎵" : 10.00
+    "Study 📚" : 5.00
