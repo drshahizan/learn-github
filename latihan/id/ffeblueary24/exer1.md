@@ -10,7 +10,8 @@ My name is Afrina 🥺. I'm at *UKM*
 |1|Slaid Pembentangan|Abc
 
 [FTSM](https://ftsm.ukm.my/v6/)
-sequenceDiagram
+
+
     participant Alice@{ "type" : "database" }
     participant Bob
     Alice->>Bob: DB query
