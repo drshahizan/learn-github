@@ -32,7 +32,7 @@
 
 ### ✨ My GitHub Journey
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=d87093&text_color=ff69b4&icon_color=ff1493" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IHonestlyDontKnowWhatToPut&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=d87093&text_color=ff69b4&icon_color=ff1493" alt="GitHub Stats" />
 </div>
 
 <br>
