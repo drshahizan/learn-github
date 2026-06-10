@@ -10,6 +10,7 @@ My name is **Khyra**. I'm at *UKM* 👻.
 
 [FTSM](https://ftsm.ukm.my/v6/)
 
+```mermaid
 flowchart LR
-    id["This ❤ Unicode"]
-
+    id["This ❤️ Unicode"]
+```
