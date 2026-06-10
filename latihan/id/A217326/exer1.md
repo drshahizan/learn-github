@@ -14,7 +14,7 @@ My name is ˚˖𓍢ִ໋❀ **Qurratu Ain** ˚˖𓍢ִ໋❀. I'm at *UKM*
 ```mermaid
 %%{init: {'themeVariables': { 'pieOuterStrokeWidth': '5px'}}}%%
 pie showData
-    title 🌸 WHAT I LOVE 🌸
+    title 🌸 WHAT I LOVES 🌸
     "Sleep" : 50.05
     "Food" : 42.96
     "Music" : 10.01
