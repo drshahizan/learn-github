@@ -1,4 +1,4 @@
-# Hellow World
+# Hello World
 ## Hello World
 ### Hello World
 
@@ -10,6 +10,8 @@ My name is **Khyra**. I'm at *UKM* 👻.
 
 [FTSM](https://ftsm.ukm.my/v6/)
 
+
+below is the flowchart mermaid based on MD file:
 ```mermaid
 ---
 config:
