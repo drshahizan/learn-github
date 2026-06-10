@@ -10,4 +10,4 @@ My name is **Nurhan** 🥶. I'm at *UKM*.
 |---|---|---|
 | 1 | Slaid Pembentenngan | ABC |
 
-[UKM][https://www.ukm.my/portalukm/ms/selamat-datang/]
+{UKM}[https://www.ukm.my/portalukm/ms/selamat-datang/]
