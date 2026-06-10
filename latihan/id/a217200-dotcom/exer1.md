@@ -11,6 +11,7 @@ My Name is **⋆.˚ ᡣ𐭩 .𖥔˚Zarifah⋆.˚ ᡣ𐭩 .𖥔˚**. I'm at *UKM*
 
 **🏛️University:**[FTSM](https://ftsm.ukm.my/v6/)
 
+Berikut flowchart Mermaid berdasarkan fail MD tersebut: 
 ```mermaid
 %%{init: {
   'theme': 'base',
