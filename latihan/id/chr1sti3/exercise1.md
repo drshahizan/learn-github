@@ -9,4 +9,4 @@
  | --- | --- | --- | 
  | 1 | Slaid Pembentangan | ABC
 
-[FTSM https://ftsm.ukm.my/v6/]
+[FTSM] (https://ftsm.ukm.my/v6/)
