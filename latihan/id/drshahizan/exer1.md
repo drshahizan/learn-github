@@ -11,12 +11,26 @@ My name is **Shahizan** 🥳. I'm at *UKM*.
 
 [FTSM](https://ftsm.ukm.my/v6/)
 
-erDiagram
-          CUSTOMER }|..|{ DELIVERY-ADDRESS : has
-          CUSTOMER ||--o{ ORDER : places
-          CUSTOMER ||--o{ INVOICE : "liable for"
-          DELIVERY-ADDRESS ||--o{ ORDER : receives
-          INVOICE ||--|{ ORDER : covers
-          ORDER ||--|{ ORDER-ITEM : includes
-          PRODUCT-CATEGORY ||--|{ PRODUCT : contains
-          PRODUCT ||--o{ ORDER-ITEM : "ordered in"
+sequenceDiagram
+    autonumber
+    actor Alice
+    participant Bob
+    create participant John
+    
+    Alice->>Bob: Hello Bob, how are you?
+    activate Bob
+    Bob-->>Alice: Great!
+    deactivate Bob
+    
+    Note over Alice,Bob: This is a note over both parties.
+    
+    Alice->>John: Hello John!
+    loop Every minute
+        John->>John: Self-check
+    end
+    
+    alt is happy
+        Bob->>Alice: Smiles
+    else is sad
+        Bob->>Alice: Frowns
+    end
