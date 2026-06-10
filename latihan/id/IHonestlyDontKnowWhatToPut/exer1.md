@@ -2,7 +2,7 @@
 
 ![Pusheen](https://media.giphy.com/media/LUIvcbR6yomaQ/giphy.gif)
 
-# 🌸 Hi there! I'm Ain Farisya.
+# 🌸 Hi there! I'm Ain Farisya 🌸
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Quicksand&weight=600&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&width=600&lines=Software%20Engineering%20Undergrad%20💻;Digital%20Creator%20%26%20Designer%20🎨;AIESEC%20Marketing%20Lead%20🚀;Fiction%20Writer%20✨)](https://git.io/typing-svg)
 
