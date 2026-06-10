@@ -6,6 +6,42 @@ My Name is **Ain**. I'm at *UKM*.
 
 [FTSM](https://ftsm.ukm.my/v6/)
 
+
+```mermaid
+graph TD
+    Me((🌸 Ain Farisya)) --> Code{💻 Code}
+    Me --> Design{🎨 Design}
+    Me --> Lead{🚀 Lead}
+    Me --> Chill{🌙 Chill}
+
+    Code --> J[Java]
+    Code --> W[Web Dev]
+    
+    Design --> F[Figma & Canva]
+    Design --> I[Illustrator]
+    
+    Lead --> A[AIESEC Marketing]
+    
+    Chill --> Story[Fiction Writing]
+    Chill --> Color[Color Analysis]
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 🌸 Hello world! I'm Ain Farisya.
 
 > **Software Engineering Undergrad @ UKM 💻 | Digital Creator 🎨 | Marketing Lead 🚀**
