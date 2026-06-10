@@ -32,3 +32,12 @@
 [My faculty: FTSM](https://www.ukm.my/ftsm/)
 
 🚀 Passionate about building practical software solutions and continuously improving my engineering skills.
+
+```mermaid
+flowchart TD
+    A[Requirements] --> B[Design]
+    B --> C[Implementation]
+    C --> D[Testing]
+    D --> E[Deployment]
+    E --> F[Maintenance]
+```
