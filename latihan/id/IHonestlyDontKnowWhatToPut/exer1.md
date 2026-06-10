@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Comic+Sans+MS&weight=600&size=22&pause=1000&color=D4BBEE&center=true&vCenter=true&width=500&lines=Coding+in+Java+💻;Designing+in+Figma+🎨;Writing+Fiction+✨;Leading+Marketing+🚀" alt="Typing Animation" />
+</div>
 My Name is **Ain**. I'm at *UKM*.
 
 |Column 1|Column 2|Column 3|
