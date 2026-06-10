@@ -11,24 +11,9 @@ my name is **Farzana**😇 . I'm at *UKM*.
 [FTSM](https://ftsm.ukm.my/v6/)
 
 ```mermaid
-flowchart LR
-    A([A: Mula Sistem])
-    B[B: Terima Input Pengguna]
-    C[C: Pengesahan Data]
-    D{D: Data Lengkap?}
-    E[E: Papar Ralat & Minta Input Semula]
-    F[F: Proses dan Simpan Data]
-
-    G[Analisis Data]
-    H[Menjana Laporan]
-    I[Semakan Pengguna]
-    J{Lulus?}
-    K[Kemas Kini Rekod]
-    L([Tamat])
-
-    A --> B --> C --> D
-    D -->|Tidak| E --> B
-    D -->|Ya| F --> G --> H --> I --> J
-    J -->|Ya| K --> L
-    J -->|Tidak| G
+flowchart TD
+    A[Start] --> B[Process]
+    B --> C{Decision?}
+    C -->|Yes| D[Action]
+    C -->|No| E[End]
 ```
