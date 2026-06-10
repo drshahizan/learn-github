@@ -11,6 +11,7 @@ My name is **Hui Qi**. I'm at *UKM*.
 
 [Random Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
+```mermaid
 gantt
     title A Gantt Diagram
     dateFormat YYYY-MM-DD
@@ -20,5 +21,4 @@ gantt
     section Another
         Task in Another :2014-01-12, 12d
         another task    :24d
-
-
+```
