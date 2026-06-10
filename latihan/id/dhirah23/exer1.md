@@ -11,5 +11,7 @@ My name is **Hadhirah** 😻. I'm at *UKM*.
 
 [FTSM](https://link.com)
 
+```mermaid
 flowchart TD
-    id1[/This is the text in the box/]
+    id1["This is the text in the box"]
+```

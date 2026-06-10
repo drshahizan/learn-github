@@ -8,24 +8,26 @@ My Name is **Ain**. I'm at *UKM*.
 
 
 ```mermaid
-graph TD
-    Me((🌸 Ain Farisya)) --> Code{💻 Code}
-    Me --> Design{🎨 Design}
-    Me --> Lead{🚀 Lead}
-    Me --> Chill{🌙 Chill}
-
-    Code --> J[Java]
-    Code --> W[Web Dev]
-    
-    Design --> F[Figma & Canva]
-    Design --> I[Illustrator]
-    
-    Lead --> A[AIESEC Marketing]
-    
-    Chill --> Story[Fiction Writing]
-    Chill --> Color[Color Analysis]
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#FFD1DC', 'edgeLabelBackground':'#ffffff', 'tertiaryColor': '#fff', 'fontFamily': 'quicksand'}}}%%
+mindmap
+  root((Ain Farisya))
+    ::icon(fa fa-heart)
+    Code
+      ::icon(fa fa-code)
+      Java
+      Web Dev
+    Design
+      ::icon(fa fa-paint-brush)
+      Figma & Canva
+      Illustrator
+    Leadership
+      ::icon(fa fa-rocket)
+      AIESEC Marketing Lead
+    Chill Vibe
+      ::icon(fa fa-moon)
+      Fiction Writing
+      Personal Color Analysis
 ```
-
 
 
 
