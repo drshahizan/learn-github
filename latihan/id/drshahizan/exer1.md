@@ -11,26 +11,34 @@ My name is **Shahizan** 🥳. I'm at *UKM*.
 
 [FTSM](https://ftsm.ukm.my/v6/)
 
-sequenceDiagram
-    autonumber
-    actor Alice
-    participant Bob
-    create participant John
-    
-    Alice->>Bob: Hello Bob, how are you?
-    activate Bob
-    Bob-->>Alice: Great!
-    deactivate Bob
-    
-    Note over Alice,Bob: This is a note over both parties.
-    
-    Alice->>John: Hello John!
-    loop Every minute
-        John->>John: Self-check
-    end
-    
-    alt is happy
-        Bob->>Alice: Smiles
-    else is sad
-        Bob->>Alice: Frowns
-    end
+Berikut flowchart Mermaid berdasarkan fail MD tersebut: 
+
+```mermaid
+flowchart TD
+    A[Start: PhD Computer Science Journey at UTM] --> B[Literature Review]
+    B --> C[Late-Night Research Session]
+    C --> D[Coding and Experimentation]
+    D --> E{Does the code / model work?}
+
+    E -- No --> D
+    E -- Yes --> F[Data Collection and Analysis]
+
+    F --> G[Meeting with Supervisor]
+    G --> H{Need revision?}
+
+    H -- Yes --> B
+    H -- No --> I[Proposal Defence / Viva Preparation]
+
+    I --> J[International Conference Presentation]
+    J --> K[Journal Submission]
+    K --> L[Reviewer Comments]
+
+    L --> M{Decision?}
+    M -- Major Revision --> N[Revise Manuscript]
+    N --> K
+    M -- Accepted --> O[Journal Acceptance]
+
+    O --> P[Graduation Day]
+    P --> Q[End: Worth Every Sacrifice]
+```
+

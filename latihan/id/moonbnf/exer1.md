@@ -14,6 +14,7 @@ config:
   layout: elk
 ---
 
+```mermaid
 flowchart TD
     classDef teal stroke:#2dd4bf,fill:#f0fdfa
     classDef red stroke:#f87171,fill:#fef2f2

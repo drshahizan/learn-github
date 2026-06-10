@@ -11,9 +11,14 @@ My name is Afrina 🥺. I'm at *UKM*
 
 [FTSM](https://ftsm.ukm.my/v6/)
 
+# My Diagram
 
-    participant Alice@{ "type" : "database" }
-    participant Bob
-    Alice->>Bob: DB query
-    Bob->>Alice: DB result
+```mermaid
+sequenceDiagram
+    actor Afrina
+    actor Asahi
+    Afrina->>Asahi: Hi Asahi
+    Asahi->>Afrina: Hi Afrina
+```
+
 

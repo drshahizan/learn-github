@@ -12,13 +12,11 @@ My name is **Shahir**💻. I'm at *UKM*.
 [FTSM](https://ftsm.ukm.my/v6/)
 
 ```mermaid
-gantt
-title Pecahan Masa & Fokus Aku
-dateFormat  X
-axisFormat %s
-section Masa Produktif
-Tulis Kod Padu          :active, 0, 80
-Selesai Bug             :active, 0, 50
-section Masa Santai
-Minum Kopi              :crit, 0, 100
-Scroll GitHub           : 0, 40
+flowchart TD
+    A[Mula Hari] --> B(Tulis Kod Padu)
+    B --> C{Ada Bug?}
+    C -- Ya --> D[Selesai Bug]
+    C -- Tidak --> E[Minum Kopi]
+    D --> B
+    E --> F[Scroll GitHub]
+    F --> G[Tamat]

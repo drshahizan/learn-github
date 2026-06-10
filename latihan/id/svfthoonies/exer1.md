@@ -11,8 +11,12 @@ My name is **Fatin Nabila ☺️**. I'm at *UKM*.
 
 [FTSM](https://ftsm.ukm.my/v6)
 
+# Sequence Diagram
+
+```mermaid
 sequenceDiagram
     participant Alice
     participant Bob
     Bob->>Alice: Hi Alice
     Alice->>Bob: Hi Bob
+```
