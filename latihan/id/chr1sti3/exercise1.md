@@ -11,6 +11,7 @@
 
 [FTSM](https://ftsm.ukm.my/v6/)
 
+\\\ mermaid
 timeline
     title Academic & Technical Journey
     2025 : Enrolled at UKM in Computer Science / IT
@@ -20,3 +21,4 @@ timeline
     2027 - 2028 : Advanced Systems, Networking (Cisco IOS) & DBMS
                 : Target: Maintaining 3.80+ Cumulative GPA 🎯
     2029 : Graduation & Transition to Enterprise Software Engineering
+\\\
