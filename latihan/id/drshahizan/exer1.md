@@ -11,17 +11,26 @@ My name is **Shahizan** 🥳. I'm at *UKM*.
 
 [FTSM](https://ftsm.ukm.my/v6/)
 
-flowchart LR
-    id1[Rectangle]
-    id2(Round Edges)
-    id3([Stadium Shape])
-    id4[[Subroutine]]
-    id5[(Cylinder/Database)]
-    id6((Circle))
-    id7>Asymmetric flag]
-    id8{Rhombus/Decision}
-    id9{{Hexagon}}
-    id10[\Parallelogram\]
-    id11[\Parallelogram Alt/\]
-    id12[/Trapezoid/]
-    id13[\Trapezoid Alt/\]
+sequenceDiagram
+    autonumber
+    actor Alice
+    participant Bob
+    create participant John
+    
+    Alice->>Bob: Hello Bob, how are you?
+    activate Bob
+    Bob-->>Alice: Great!
+    deactivate Bob
+    
+    Note over Alice,Bob: This is a note over both parties.
+    
+    Alice->>John: Hello John!
+    loop Every minute
+        John->>John: Self-check
+    end
+    
+    alt is happy
+        Bob->>Alice: Smiles
+    else is sad
+        Bob->>Alice: Frowns
+    end
