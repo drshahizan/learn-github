@@ -10,6 +10,7 @@ My name is **ZOU SHUHENG😀**. I am in *UKM*.
 | 1 |aaaaa|zsh |
 
 [FTSM](https://ftsm.ukm.my/v6/)
+```mermaid
 flowchart TD
     A[Christmas] -->|Get money| B(Go shopping)
     B --> C{Let me think}
