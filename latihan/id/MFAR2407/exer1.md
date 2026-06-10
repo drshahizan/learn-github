@@ -12,6 +12,7 @@ My name is **Farhan** 😻. I'm at *UKM*.
 [FTSM](https://link.com)
 
 
-flowchart LR
+```mermaid
+graph LR
     id1([HII IM Farhan])
 
