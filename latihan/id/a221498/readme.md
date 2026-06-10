@@ -11,6 +11,15 @@ My name is **Khyra**. I'm at *UKM* 👻.
 [FTSM](https://ftsm.ukm.my/v6/)
 
 ```mermaid
+---
+config:
+  htmlLabels: false
+---
 flowchart LR
-    id["This ❤️ Unicode"]
+    markdown["`This **is** _Markdown_`"]
+    newLines["`Line1
+    Line 2
+    Line 3`"]
+    markdown --> newLines
+
 ```
