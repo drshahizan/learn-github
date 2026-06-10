@@ -18,7 +18,7 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    A([Hadhirah Zafreen]) --> B[Software Engineering Student]
+    A([Hadhirah Zafreen]) --> B[Computer Science Student]
     B --> C[Learn GitHub]
     C --> D[Create Projects]
     D --> E[Improve Skills]
