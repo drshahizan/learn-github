@@ -11,12 +11,17 @@ My name is **Shahizan** 🥳. I'm at *UKM*.
 
 [FTSM](https://ftsm.ukm.my/v6/)
 
-erDiagram
-          CUSTOMER }|..|{ DELIVERY-ADDRESS : has
-          CUSTOMER ||--o{ ORDER : places
-          CUSTOMER ||--o{ INVOICE : "liable for"
-          DELIVERY-ADDRESS ||--o{ ORDER : receives
-          INVOICE ||--|{ ORDER : covers
-          ORDER ||--|{ ORDER-ITEM : includes
-          PRODUCT-CATEGORY ||--|{ PRODUCT : contains
-          PRODUCT ||--o{ ORDER-ITEM : "ordered in"
+flowchart LR
+    id1[Rectangle]
+    id2(Round Edges)
+    id3([Stadium Shape])
+    id4[[Subroutine]]
+    id5[(Cylinder/Database)]
+    id6((Circle))
+    id7>Asymmetric flag]
+    id8{Rhombus/Decision}
+    id9{{Hexagon}}
+    id10[\Parallelogram\]
+    id11[\Parallelogram Alt/\]
+    id12[/Trapezoid/]
+    id13[\Trapezoid Alt/\]
