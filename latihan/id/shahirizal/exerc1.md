@@ -12,7 +12,7 @@ My name is **Shahir**💻. I'm at *UKM*.
 [FTSM](https://ftsm.ukm.my/v6/)
 
 ```mermaid
-gantt
+flowchart td
 title Pecahan Masa & Fokus Aku
 dateFormat  X
 axisFormat %s
