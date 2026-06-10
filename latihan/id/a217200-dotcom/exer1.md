@@ -12,6 +12,17 @@ My Name is **⋆.˚ ᡣ𐭩 .𖥔˚Zarifah⋆.˚ ᡣ𐭩 .𖥔˚**. I'm at *UKM*
 **🏛️University:**[FTSM](https://ftsm.ukm.my/v6/)
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#f4e3db',
+    'primaryTextColor': '#5c4d45',
+    'lineColor': '#dcd0c9',
+    'nodeBorder': '#eedcd2',
+    'mainBkg': '#f7f1ed',
+    'textColor': '#6e5d53'
+  }
+}}%%
 mindmap
   root((mindmap))
     Origins
