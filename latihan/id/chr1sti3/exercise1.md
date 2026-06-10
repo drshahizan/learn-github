@@ -12,13 +12,22 @@
 [FTSM](https://ftsm.ukm.my/v6/)
 
 ```mermaid
-timeline
-    title Academic & Technical Journey
-    2025 : Enrolled at UKM in Computer Science / IT
-         : Scored 3.73 GPA in Semester 1 🚀
-    2026 : Deepening System Modeling & Software Architecture expertise
-         : Building Core Portfolios (Buyzaar, UKMFood, Book Worm)
-    2027 - 2028 : Advanced Systems, Networking (Cisco IOS) & DBMS
-                : Target: Maintaining 3.80+ Cumulative GPA 🎯
-    2029 : Graduation & Transition to Enterprise Software Engineering
+mindmap
+  root((Christie Anne))
+    Software Development
+      Java
+      C++
+      OOP Principles
+    System Architecture
+      UML Diagrams
+      Data Flow Diagrams
+      Entity Relationships
+    Low Level Systems
+      MIPS Assembly
+      Register Management
+      QtSpim
+    Infrastructure
+      Cisco IOS
+      Networking Models
+      DBMS
 ```
