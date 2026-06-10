@@ -9,5 +9,5 @@ My name is **ZOU SHUHENG😀**. I am in *UKM*.
 |----------|----------|----------|
 | 1 |aaaaa|zsh |
 
-[FTSM][https://ftsm.ukm.my/v6/]
+[FTSM](https://ftsm.ukm.my/v6/)
 
