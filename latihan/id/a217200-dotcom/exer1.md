@@ -12,24 +12,6 @@ My Name is **⋆.˚ ᡣ𐭩 .𖥔˚Zarifah⋆.˚ ᡣ𐭩 .𖥔˚**. I'm at *UKM*
 **🏛️University:**[FTSM](https://ftsm.ukm.my/v6/)
 
 Berikut flowchart Mermaid berdasarkan fail MD tersebut: 
-<div align="center">
-
-# ─── ☕ ───
-# *about me.*
-
-</div>
-
-> "balancing structural logic with curated design."
-
-* 💻 **the path:** information technology student at FTSM UKM `[A217200]`
-* ☕ **the vibe:** dark terminal themes, aesthetic documentation, and endless lattes
-* 🧠 **the focus:** object-oriented architecture, network layers, and system observability
-
----
-
-### 🪐 `my mapping style`
-*how I break down concepts, structures, and tools in my IT journey:*
-
 ```mermaid
 %%{init: {
   'theme': 'base',
@@ -43,19 +25,26 @@ Berikut flowchart Mermaid berdasarkan fail MD tersebut:
   }
 }}%%
 mindmap
-  root((mindmap))
-    Origins
-      Long history
-      ::icon(fa fa-book)
-      Popularisation
-        British popular psychology author Tony Buzan
-    Research
-      On effectiveness<br/>and features
-      On Automatic creation
-        Uses
-          Creative techniques
-          Strategic planning
-          Argument mapping
-    Tools
-      Pen and paper
-      Mermaid
+  root((Zarifah))
+    Education
+      UKM FTSM
+      ::icon(fa fa-graduation-cap)
+      Matric A217200
+      Information Technology
+    Tech Stack
+      ::icon(fa fa-code)
+      Java OOP
+      Python
+      Linux Ubuntu
+    Projects
+      ::icon(fa fa-laptop-code)
+      Intern Path App
+      Relaxlah Kit BMC
+      Team UKM Posters
+    Specialties
+      Cloud Observability
+        OpenTelemetry
+        OpenObserve
+      Networking
+        TCP IP Protocols
+        OSI Layers
