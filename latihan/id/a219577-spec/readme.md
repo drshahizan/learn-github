@@ -9,3 +9,11 @@ my name is **Farzana**😇 . I'm at *UKM*.
 |1 |Slide Pembentangan| ABC |
 
 [FTSM](https://ftsm.ukm.my/v6/)
+
+ ```mermaid
+flowchart TD
+    A[Start] --> B[Process]
+    B --> C{Decision?}
+    C -->|Yes| D[Action]
+    C -->|No| E[End]
+```
