@@ -5,7 +5,7 @@
 
 ## 👋 About Me
 
-🎓 Software Engineering Undergraduate at FTSM, Universiti Kebangsaan Malaysia (UKM)
+🎓 My name is LI HUILIANG 😋. Software Engineering Undergraduate at FTSM, Universiti Kebangsaan Malaysia (UKM)
 
 💻 Interested in:
 
