@@ -11,10 +11,11 @@ My name is ˚˖𓍢ִ໋❀ **Qurratu Ain** ˚˖𓍢ִ໋❀. I'm at *UKM*
 
 [FTSM](https://ftsm.ukm.my/v6/)
 
-%%{init: {'theme': 'base', 'themeVariables': { 'pieOuterStrokeWidth': '5px'}}}%%
+```mermaid
+%%{init: {'themeVariables': { 'pieOuterStrokeWidth': '5px'}}}%%
 pie showData
     title 🌸 WHAT I LOVE 🌸
-    "Sleep 💤" : 50.00
-    "Food 🍲" : 35.00
-    "Music 🎵" : 10.00
-    "Study 📚" : 5.00
+    "Sleep" : 50.05
+    "Food" : 42.96
+    "Music" : 10.01
+    "Study" : 5
