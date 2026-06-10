@@ -13,4 +13,5 @@ My name is **Farhan** 😻. I'm at *UKM*.
 
 
 flowchart LR
-    id["MUHAMMAD FARHAN BIN ABDUL RAZAK"]
+    id1([HII IM Farhan])
+
