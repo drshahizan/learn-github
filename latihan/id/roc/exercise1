@@ -8,17 +8,3 @@ Column 1 |	Column 2 |	Column 3
 1	Slaid | Pembentangan | Abc
 FTSM
 
-# File System Structure
-
-```mermaid
-flowchart TD
-    A[User Application] --> B[Operating System]
-    B --> C[File System]
-    C --> D[Directory]
-    D --> E[File 1]
-    D --> F[File 2]
-    D --> G[File 3]
-
-    C --> H[Storage Device]
-    H --> I[Hard Disk / SSD]
-```
