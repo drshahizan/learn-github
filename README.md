@@ -5,119 +5,138 @@
 <a href="https://github.com/drshahizan/learn-github/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/learn-github?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Flearn-github&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Bengkel Asas GitHub
+# Learn Github 🚀
+
+Welcome to Github class! We are thrilled to embark on this exciting learning journey together. 
 
 <p align="center">
-<img src="/images/github%20ftsm.jpeg"  height="400" />
+<img src="images/git.gif"  height="700" />
 </p>
+
+# Github Education
+GitHub Education is a program designed to support students and educators by providing them with free access to various tools and resources to learn, teach, and collaborate on coding and technology projects. The program offers a range of benefits, including free access to GitHub Enterprise, GitHub Pro, and a host of developer tools, as well as access to various courses, webinars, and learning resources. GitHub Education aims to foster a community of learners and educators by connecting students and teachers worldwide to create innovative projects and push the boundaries of technology. [**[More info...]**](./materials/education)
+
+## [Case study](./materials/case_study.md)
+
+## Git and GitHub
+Git and GitHub are an essential part of the developer roadmap, particularly for those interested in software development or web development. Git is a version control system that allows developers to track changes in their codebase over time, collaborate with others, and revert changes if necessary. GitHub, on the other hand, is a web-based hosting service that uses Git for version control.
+
+In the developer roadmap, learners are typically introduced to Git and GitHub early on as a foundational skill. They are taught how to set up a Git repository, make commits, and push changes to a remote repository on GitHub. They may also learn about basic Git commands like branching, merging, and rebasing.
+
+As learners progress in their developer roadmap, they may dive deeper into more advanced Git and GitHub features, such as using pull requests for code reviews, integrating Git with continuous integration/continuous deployment (CI/CD) pipelines, and automating workflows using GitHub Actions.
 
 <p align="center">
-  Bahasa:
-  &nbsp;&middot;&nbsp;<b>Melayu</b></a> &nbsp;&middot;&nbsp;
-  <a href="README1.md">English</a> &nbsp;&middot;&nbsp;
-
+<img src="https://github.com/drshahizan/learn-github/blob/main/images/github%20pic.gif"  height="600" />
 </p>
 
-## Pengenalan
 
-Bengkel ini memperkenalkan GitHub sebagai platform untuk menyimpan bahan projek, menghasilkan dokumentasi, membina portfolio digital dan mengurus kolaborasi pasukan.
+## Developer Roadmaps
+[Roadmap.sh](https://roadmap.sh/) is a website that provides roadmaps for learning various topics in technology, such as programming languages, web development, data science, and more. The roadmaps are essentially step-by-step guides that outline the skills, tools, and concepts that someone should learn to become proficient in a particular area.
 
-Fokus bengkel ialah penggunaan GitHub secara praktikal melalui antaramuka web, GitHub Desktop, Visual Studio Code dan aplikasi sokongan lain. Peserta tidak perlu mempunyai pengalaman menggunakan arahan Git melalui command-line.
+The website was created to help people who are just starting out in technology or who are looking to switch careers within the industry. The roadmaps are designed to be flexible and customizable, so users can choose their own learning paths and set their own goals.
 
-## Objektif Bengkel
+In addition to the roadmaps, the website also includes resources such as books, online courses, and tools to help learners on their journey. The community aspect of the website allows users to connect with others who are also learning and share tips and resources.
+- [Frontend Developer](https://roadmap.sh/frontend)
+- [Backend Developer](https://roadmap.sh/backend)
+- [Flutter Developer](https://roadmap.sh/flutter)
 
-Selepas mengikuti bengkel ini, peserta dapat:
+## :large_orange_diamond: [Git](/materials/git-intro.md)
+Git is a distributed version control system designed to track changes in software code over time. It was created in 2005 by Linus Torvalds, the same person who created the Linux operating system. Git is open-source software, meaning that it is free to use and modify, and it is widely used in software development teams.
 
-1. Membina profil GitHub dan repositori projek yang sesuai untuk portfolio digital.
-2. Menghasilkan dokumentasi projek menggunakan README, Markdown, imej dan pautan demo.
-3. Menggunakan GitHub untuk kolaborasi pasukan melalui Issues, Projects dan Pull Request.
+With Git, developers can work collaboratively on the same codebase, making changes and merging them together seamlessly. Each developer has their own copy of the code repository, which they can modify and then share with others. Git also provides tools for branching and merging code, allowing developers to work on different features or bug fixes without interfering with each other's work.
 
-## Hasil Akhir Bengkel
+One of the main benefits of using Git is its ability to track changes and roll back to previous versions if needed. This is particularly useful when bugs are introduced or when a new feature causes unintended consequences. Git also allows developers to review and comment on each other's code changes, making it easier to catch errors and maintain quality control.
 
-Pada akhir bengkel, peserta dijangka mempunyai:
+Git can be used with a command-line interface, or with a variety of graphical user interfaces (GUIs) that provide a more user-friendly experience. Some popular Git GUIs include GitHub Desktop, Sourcetree, and GitKraken.
 
-- Akaun GitHub yang aktif.
-- Profil GitHub yang lebih profesional.
-- Sekurang-kurangnya satu repositori projek.
-- README projek yang kemas dan lengkap.
-- Pengalaman menggunakan GitHub Desktop.
-- Pengalaman berkolaborasi dalam repositori kumpulan.
+Overall, Git is a powerful tool for software developers that facilitates collaboration, version control, and quality control. [**[More info...]**](/materials/git-intro.md)
 
-## Bahan Bengkel
+## :octocat: [GitHub](/materials/github-intro.md)
+GitHub is a web-based platform for software development that uses Git for version control. It allows developers to collaborate on projects, share code, and manage their software development workflows.
 
-| No. | Bahan | Kandungan |
-|----:|-------|-----------|
-| 1 | Slaid Pembentangan | [Bengkel Asas GitHub](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQDSgK_40yzxRpsgdPOoq7sLASVFFIAg1ef0WoNJsgFLAMo?e=0iHxza) |
-| 2 | Modul Peserta | [Modul Bengkel Asas GitHub](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQCgH34J3ObjRKPYlUcGIB-lAUavfkXvoTnDYvXqLyEJzuM?e=K9VokD) |
-| 3 | Latihan Asas | [Latihan Bengkel Asas GitHub](https://github.com/drshahizan/learn-github/blob/main/latihan/) |
-| 4 | Mini Projek | [Mini Projek GitHub](https://github.com/drshahizan/learn-github/blob/main/projek/readme.md) |
-| 5 | Latihan Tambahan | [GitHub Pages, Copilot, VS Code dan Google Colab](https://github.com/drshahizan/learn-github/blob/main/latihan/fail/latihan-tambahan.md) |
+<p align="center">
+<img src="https://github.com/drshahizan/learn-github/blob/main/images/github.png"  height="400" />
+</p>
 
-## Kajian Kes
+GitHub provides a range of features that make it easy for developers to work together on projects. Some of the key features of GitHub include:
 
-| No. | Bahan |
-|----:|-------|
-| 1 | [UTMSmart — Laporan Kajian Kes](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/IQBvzZdm_98HQYYh0O8vAgaCAXqoioriSiVN6rfIbHFsltw?e=ZsgEkf) |
-| 2 | [Laman Web Peribadi — drshahizan.github.io](https://drshahizan.github.io/) |
-| 3 | [Repository GitHub — drshahizan.github.io](https://github.com/drshahizan/drshahizan.github.io) |
-| 4 | [Mobile Application Programming](https://github.com/drshahizan/mobile_apps) |
-| 5 | [Software Engineering](https://github.com/drshahizan/software-engineering) |
-| 6 | [RICE: Refining Instance Masks in Cluttered Environments with Graph Neural Networks](https://github.com/chrisdxie/rice)|
-| 7 | [Awesome Artificial General Intelligence](https://github.com/freeman42x/awesome-artificial-general-intelligence)|
+1. **Repositories**: GitHub provides a hosting service for Git repositories, making it easy to manage and share code with others. Repositories can be public or private, and can be accessed by anyone with the appropriate permissions.
 
-## Untuk Peserta
+2. **Pull requests**: GitHub's pull request feature allows developers to review and discuss code changes before they are merged into the main codebase. This can help ensure that code changes are of high quality and don't introduce bugs or conflicts.
 
-[Sebelum bengkel](https://github.com/drshahizan/learn-github/blob/main/materials/sebelum.md):
+3. **Issues**: GitHub's issue tracking system allows developers to create and track bugs, feature requests, and other issues related to a project. Issues can be assigned to specific developers, labeled, and prioritized to help manage the development process.
 
-- Sediakan emel aktif.
-- Pastikan boleh log masuk ke akaun emel.
-- Bawa komputer riba jika ada.
-- Pastikan komputer boleh mengakses GitHub melalui pelayar web.
+4. **Collaboration**: GitHub provides a range of tools to help developers collaborate on projects, including commenting on code, reviewing pull requests, and collaborating on code changes using branches and forks.
 
-Semasa bengkel:
+5. **Integrations**: GitHub integrates with a range of other software development tools and services, such as CI/CD pipelines, code analysis tools, and project management tools.
 
-- Ikut latihan mengikut turutan.
-- Simpan pautan profil GitHub.
-- Simpan pautan repositori projek.
-- Gunakan nama fail dan folder yang kemas.
-- Tanya fasilitator jika ada masalah teknikal.
+GitHub is used by millions of developers and organizations around the world for software development. It is particularly popular among open source software projects, which use GitHub to collaborate on code and manage contributions from a community of developers.
 
-Selepas bengkel:
+- [Stuck on Git: Git basic for beginners explained with post it notes](https://www.linkedin.com/posts/brookejamieson_git-learntocode-techbasics-activity-7029577352955219968-i4X1/)
 
-- Kemas kini profil GitHub.
-- Kemas kini README projek.
-- Semak semula pautan projek dan demo.
-- Kongsi pautan profil atau repositori sebagai portfolio digital.
+[**[More info...]**](/materials/github-intro.md)
 
-## Perisian dan Platform Berkaitan
+## Github Profile 👋
+A GitHub profile is a public facing page that displays a user's activity on the platform. It includes information such as the user's username, profile picture, bio, location, and links to their website or social media profiles.
 
-| Platform | Kegunaan |
-|---|---|
-| [GitHub](https://github.com/) | Platform utama untuk repositori dan kolaborasi projek. |
-| [GitHub Desktop](https://desktop.github.com/) | Aplikasi visual untuk clone, commit, push dan pull. |
-| [Visual Studio Code](https://code.visualstudio.com/) | Editor kod untuk membuka dan mengemas kini fail projek. |
-| [Google Colab](https://colab.research.google.com/) | Notebook awan untuk latihan Python, data dan AI. |
-| [GitHub Copilot](https://github.com/copilot) | Pembantu AI untuk soalan, dokumentasi dan semakan kod. |
-| [GitHub Pages](https://pages.github.com/) | Penerbitan laman portfolio atau demo projek. |
+The main focus of a GitHub profile is the user's repositories. Repositories are collections of files that contain a project or a portion of a project. On a GitHub profile, users can showcase their repositories, which can be sorted by type (public or private), language, and date. Each repository includes information such as the name, description, number of stars (a measure of popularity), and the number of forks (when someone makes a copy of the repository to make their own changes).
 
-## Rujukan
+GitHub profiles also include information on a user's contributions to open source projects. GitHub tracks contributions such as pull requests (code changes that are proposed for review and merging into a project), issues (problem reports or feature requests), and comments.
 
-- [GitHub Docs](https://docs.github.com/)
-- [GitHub Skills](https://skills.github.com/)
-- [GitHub Education](https://education.github.com/)
-- [GitHub Desktop Documentation](https://docs.github.com/en/desktop)
-- [GitHub Pages Documentation](https://docs.github.com/en/pages)
-- [Markdown Guide](https://www.markdownguide.org/)
+Another important aspect of a GitHub profile is the user's activity feed. This shows a chronological list of the user's recent activity on the platform, such as repositories they have starred or issues they have commented on.
 
-### Connect With Me
+GitHub profiles are a great way for developers to showcase their skills and projects to potential employers or collaborators. By maintaining an active and well-curated profile, developers can establish themselves as experts in their field and attract new opportunities.
 
-<p align="left">
-    <a href="https://github.com/drshahizan" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@drshahizan-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/drshahizan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-drshahizan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drshahizan/"></a>
-    <a href="mailto:shahizan@utm.my" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-shahizan@utm.my-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shahizan@utm.my.com"></a>
-    <a href="https://www.researchgate.net/profile/Mohd-Othman-28" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
-    <a href="https://orcid.org/0000-0003-4261-1873" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a> 
- <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan" target="_blank"><img alt="A" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic"></a>
- 
+### Sample
+
+| <img alt="activity status" align="right" height="24" src="images/kotak.svg" /> 😎 My students |
+|:---|
+| 1. [Big Data Management](https://github.com/drshahizan/BDM/blob/main/student.md) <br> 2. [High Performance Data Processing](https://github.com/drshahizan/HPDP/blob/main/student.md) <br> 3. [Web Programming](https://github.com/drshahizan/learn-php/blob/main/materials/others/student-info.md) <br> 4. [Software Engineering - section 01](https://github.com/drshahizan/software-engineering/blob/main/materials/student-01.md) <br> 5. [Software Engineering - section 02](https://github.com/drshahizan/software-engineering/blob/main/materials/student-02.md) <br> 6. [Qaisara](https://github.com/qaisarrra) <br> 7. [Low Junyi](https://github.com/LowJunyi2001) <br> 8. [Ahmad Aiman Hafizi bin Muhammad](https://github.com/AimanHafizi619) <br> 9. [KONG JIA ROU](https://github.com/jrkong2001utm) <br> 10. [Hong Pei Geok](https://github.com/peiyu00) <br> 11. [El Insyiraah](https://github.com/elleamyr) <br> 12. [SEPRIYANDI BIN AGUSR](https://github.com/sepz36) <br> 13. [Charlene A](https://github.com/Chikoness) <br> 14. [Neo Zheng Weng](https://github.com/zw-weng) <br> 15. [Wan Nur Sofea](https://github.com/wannursofea)<br> 16. [Camily Tang](https://github.com/camilytang)<br> 17. [Ng Shu Yu](https://github.com/ShuYu03) <br> 16. [Camily Tang](https://github.com/camilytang)<br> 17. [Ng Shu Yu](https://github.com/ShuYu03) <br> 18. [Yovi Pratama](https://github.com/yovipratama) |
+
+| <img alt="activity status" align="right" height="24" src="images/kotak.svg" /> 🗣 Others |
+|:---|
+| 1. [How to Create an Impressive GitHub Profile](https://medium.com/@catherineisonline/how-to-create-an-impressive-github-profile-c1a3610b0770)<br>2. [Ekaterine (Catherine) Mitagvaria](https://github.com/catherineisonline)<br>3. [How to create a GitHub Profile README: Michelle Mannering](https://dev.to/github/how-to-create-a-github-profile-readme-jha)<br>4. [How To Create A GitHub Profile README: Monica Powell](https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj)<br>5. [katiehuangx](https://github.com/katiehuangx)|
+
+### Tools
+
+1. [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+2. [GPRM](https://gprm.itsvg.in/)
+3. [Profilinator](https://profilinator.rishav.dev/)
+4. [Arturs Smirnovs](https://arturssmirnovs.github.io/github-profile-readme-generator/)
+
+
+## Github Pages
+GitHub Pages is a web hosting service provided by GitHub that allows users to create and host static websites directly from their GitHub repositories. With GitHub Pages, users can publish websites for personal or project use, including blogs, portfolios, and documentation. Users can choose to host their site on a custom domain or a GitHub-provided subdomain, and can create and edit their site using a variety of tools and languages, including HTML, CSS, and JavaScript. GitHub Pages is a powerful and easy-to-use tool for creating and hosting websites, and is a popular choice for developers, designers, and individuals looking to build an online presence.
+
+- [Learn GitHub Pages](./materials/pages.md)
+- [GitHub Pages](https://pages.github.com/)
+- [Youtube - Getting Started with GitHub Pages](https://youtu.be/QyFcl_Fba-k)
+- [Youtube - Github Pages: Web Hosting Gratis dengan GitHub Pages](https://youtu.be/rgDDWhQe-ow)
+- [GitHub Pages examples](https://github.com/collections/github-pages-examples)
+
+## Github Projects
+GitHub is a web-based platform that is widely used for version control and collaborative software development. GitHub projects refer to the various software projects that are hosted on the platform.
+
+When a project is hosted on GitHub, developers can create and manage the project's code, track its changes over time, and collaborate with other developers on the project. Each project has its own repository, which is a central location where all the project's files and code are stored. [**[More info...]**](./materials/projects)
+
+## Github Codespaces
+GitHub Codespaces is a cloud-based development environment that allows developers to create, customize, and use a fully-functional development environment in the cloud. With Codespaces, developers can quickly and easily set up a development environment for their projects, without the need to install software on their local machines. They can access their codespaces from anywhere, collaborate with their team members in real-time, and deploy their applications to production. Codespaces support a wide range of programming languages and tools, including PHP, and provide a powerful and flexible platform for building, testing, and deploying web applications. [**[More info...]**](./materials/education/codespace.md)
+
+## Tools and useful links
+Various tools and useful links for developers, particularly those using Git and GitHub. Some of the tools mentioned include StackEdit and Dillinger for editing and formatting Markdown documents, GitHub Skills for learning and improving Git and GitHub skills, and Awesome README Tools for creating more engaging and informative README files for projects. There are also links to various resources for tracking project statistics, including Todoist Stats in Readme, Github Readme Stats, and Github Contributor Stats. Additionally, there are tools for creating visitor badges, profile activity generators, and more. Overall, these tools and resources can help developers to be more productive and make their projects more accessible and engaging for users.
+[**[More info...]**](./materials/tools.md)
+
+## Articles 📖
+This is a list of various articles related to Git and GitHub, particularly for beginners who want to learn more about these tools and how to use them effectively. Some of the articles provide introductions to Git and GitHub, such as the "Intro to Git and GitHub for Beginners" tutorial on Coursera and Microsoft Learning's "Github" course. Other articles focus on more specific aspects of using GitHub, such as creating a GitHub Profile README, adding dynamic stats to a README, or creating interactive READMEs. Additionally, some articles explore more advanced topics like self-updating READMEs using webhooks and Netlify functions. Overall, these articles offer a range of useful insights and tips for developers looking to improve their Git and GitHub skills and create more engaging and informative GitHub profiles. [**[More info...]**](./materials/article.md)
+
+## Tutorials 🎥
+Various tutorial videos related to Git and GitHub. These tutorials are aimed at beginners who are new to using these tools and want to learn the basics. Some of the videos provide introductions to Git and GitHub, such as "What is GitHub?" and "How to Use GitHub." Others focus on specific aspects of using GitHub, such as creating a GitHub portfolio or profile README. Additionally, some videos explore more advanced topics like advanced Git techniques and shortcuts. Overall, these tutorial videos offer a range of useful insights and tips for developers looking to improve their Git and GitHub skills and create more engaging and informative GitHub profiles. [**[More info...]**](./materials/tutorial.md)
+
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/learn-github/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-</p>
+
