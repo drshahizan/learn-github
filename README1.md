@@ -13,7 +13,7 @@
 
 <p align="center">
   Language:
-  &nbsp;&middot;&nbsp;<a href="README.md">Malay</a> &nbsp;&middot;&nbsp;
+  &nbsp;&middot;&nbsp;<a href="README0.md">Malay</a> &nbsp;&middot;&nbsp;
   <b>English</b> &nbsp;&middot;&nbsp;
 
 </p>
